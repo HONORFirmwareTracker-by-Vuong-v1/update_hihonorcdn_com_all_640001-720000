@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1189486592</cowsize>
+<payloadOffset>884</payloadOffset>
+<fileHash>9KMdG+gVwZZa16DUeofq66tOn0Dw8lfUwuCCmiQmFDg=</fileHash>
+<fileSize>398162012</fileSize>
+<metadataHash>L/f8wMjtGlpJjFou8gafEQnQuC27ktuu8e5k3ed2HJw=</metadataHash>
+<metadataSize>12438</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_cust_RBN-N03_telcel_mx.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_cust_RBN-N03_telcel_mx.zip</spath>
+<dpath>update_cust_RBN-N03_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>453E141EF40038B4671FB811DBF587058DFFDE0EBB34D8A8B66B3DB8F370C5C6</sha256>
+<size>398169293</size>
+</file>
+</files>
+</root>

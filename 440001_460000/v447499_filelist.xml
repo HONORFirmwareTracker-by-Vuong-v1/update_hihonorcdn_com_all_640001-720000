@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>imagestyle</pluginName>
+	<versionCode>90100027</versionCode>
+	<packageType>full</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>a8b2ec31d45026454e535358d2e67610566b169a0bb3070e2f8d3473a4561a94</sha256>
+			<size>2727718</size>
+		</file>
+	</files>
+</root>

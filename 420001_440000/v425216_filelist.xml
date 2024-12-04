@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>616833024</cowsize>
+<payloadOffset>743</payloadOffset>
+<fileHash>65gM12js8dfLpI+1XsjivokZuDH2XqOcdI1+C34zmRI=</fileHash>
+<fileSize>204433518</fileSize>
+<metadataHash>2l/oPAoe1X9xv6S14ZbKUvOStjl+A+e0Vh8f/Uaw1Ps=</metadataHash>
+<metadataSize>16008</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_HEY-W09_all_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_HEY-W09_all_cn.zip</spath>
+<dpath>update_full_cust_HEY-W09_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>A8B62AAF4E5A995F2A19876BD256E844C35FAC8442D2D018F8CC948439222717</sha256>
+<size>204440664</size>
+</file>
+</files>
+</root>

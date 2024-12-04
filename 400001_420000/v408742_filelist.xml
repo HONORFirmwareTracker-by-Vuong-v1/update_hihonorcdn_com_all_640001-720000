@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1189486592</cowsize>
+<payloadOffset>743</payloadOffset>
+<fileHash>wtMAhq+MRJ/abCzMZBe4DF9KW99DEpO/5f4drLRY8u4=</fileHash>
+<fileSize>486258680</fileSize>
+<metadataHash>L8Spa6Ds/DZskudLVecwBZfdPzMUHZNZA1GV4IXvmKY=</metadataHash>
+<metadataSize>31437</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_CRT-L03_telcel_mx.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_CRT-L03_telcel_mx.zip</spath>
+<dpath>update_full_cust_CRT-L03_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>F164B21A0342733F29F694DEF20E5AE351E1F3E0AF09FF923A6E97057624E894</sha256>
+<size>486265811</size>
+</file>
+</files>
+</root>

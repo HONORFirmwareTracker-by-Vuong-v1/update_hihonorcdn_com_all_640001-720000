@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>616591360</cowsize>
+<payloadOffset>858</payloadOffset>
+<fileHash>SfV8ylr6qzsKS53lRKaGW4oqlcs6As2yCn0YpZDwoG0=</fileHash>
+<fileSize>161661</fileSize>
+<metadataHash>AAhsM0bKlI7tKS4qBMKmrp57DJE+rI32bx5EIMkiw60=</metadataHash>
+<metadataSize>22860</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_cust_NTX-AN10_all_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_cust_NTX-AN10_all_cn.zip</spath>
+<dpath>update_cust_NTX-AN10_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>B0B63F4B6DBB133C229C0786342253B519657E6B3A8107B4A008076F85FA5C93</sha256>
+<size>168916</size>
+</file>
+</files>
+</root>

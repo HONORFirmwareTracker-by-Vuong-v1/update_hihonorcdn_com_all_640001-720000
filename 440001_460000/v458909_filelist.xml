@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>923</payloadOffset>
+<fileHash>q72rr1Tf+HJzwOwa0QMiwqyRPkOTbSS59xj02aiSct4=</fileHash>
+<fileSize>2261095</fileSize>
+<metadataHash>Nxv3bfcFo3OpxblRHG7aame+LyQQbaQRSBg82862W8A=</metadataHash>
+<metadataSize>761</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_GFY-L32P_def_spcseas.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_GFY-L32P_def_spcseas.zip</spath>
+<dpath>update_cust_GFY-L32P_def_spcseas.zip</dpath>
+<operation>c</operation>
+<sha256>91E5A72E05306916504A021196D5793670A9759EB18D7D61A82A294687BA43F5</sha256>
+<size>2268407</size>
+</file>
+</files>
+</root>

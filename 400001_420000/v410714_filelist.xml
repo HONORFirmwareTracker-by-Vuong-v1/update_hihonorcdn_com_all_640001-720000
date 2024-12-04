@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>932</payloadOffset>
+<fileHash>Xgx8AAaD/50WwbI27MMOxQGthK118mVmJcdveNlFXWY=</fileHash>
+<fileSize>48258467</fileSize>
+<metadataHash>wdXZemzB5ekA6/sdwLKNxRRgZZTCOlhLtGnwQ7xM1Qk=</metadataHash>
+<metadataSize>11659</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_VNE-L43CM_iusacell_mx_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_VNE-L43CM_iusacell_mx_R1.zip</spath>
+<dpath>update_preload_VNE-L43CM_iusacell_mx_R1.zip</dpath>
+<operation>c</operation>
+<sha256>2CD6BE1B0D6163C3092D9BC0C9EFAB1474BFBCD4A8AF2FD45EECBA926BC0955F</sha256>
+<size>48265811</size>
+</file>
+</files>
+</root>

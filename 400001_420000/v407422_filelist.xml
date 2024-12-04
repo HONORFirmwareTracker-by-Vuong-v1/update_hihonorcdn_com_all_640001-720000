@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44167168</cowsize>
+<payloadOffset>896</payloadOffset>
+<fileHash>MpIseFyQZSyS//2d70Ic9mxoT0I8AgCUkhlWSU5t650=</fileHash>
+<fileSize>3902</fileSize>
+<metadataHash>TPN9TrbH+UQcYD8kqrqAvAUCXguYBDTTnQEY0m9YtpI=</metadataHash>
+<metadataSize>706</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_FNE-N29_def_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_FNE-N29_def_meafnaf.zip</spath>
+<dpath>update_cust_FNE-N29_def_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>4F9BFCAFC93183C7B6599F3E06143FC64A5CFE666D747AAACFEF7B52AFF1DD82</sha256>
+<size>11184</size>
+</file>
+</files>
+</root>

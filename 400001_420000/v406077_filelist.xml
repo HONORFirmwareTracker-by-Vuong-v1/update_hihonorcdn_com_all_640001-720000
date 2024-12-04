@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>642088960</cowsize>
+<payloadOffset>847</payloadOffset>
+<fileHash>5UHJ0unjRm65zNUNjnoxqvmU8rmoQbWTry8azublJQs=</fileHash>
+<fileSize>9718</fileSize>
+<metadataHash>qVtXvuSL4O/ZMdnpbxIcs/YfaW8iGKHOvP91RV+L6qQ=</metadataHash>
+<metadataSize>4326</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="preload" package="update_preload_CRT-L03_claro_la_R1.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBP version="NA"/>
+<files>
+<file>
+<spath>update_preload_CRT-L03_claro_la_R1.zip</spath>
+<dpath>update_preload_CRT-L03_claro_la_R1.zip</dpath>
+<operation>c</operation>
+<sha256>F0EE14CCE432D0CF5F8708E7C5ADD87968616B8C8DD39479E1231E065253B3AB</sha256>
+<size>16969</size>
+</file>
+</files>
+</root>

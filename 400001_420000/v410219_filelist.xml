@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>781</payloadOffset>
+<fileHash>H0EEFUDHo+e337h+FGcNMUqixIpJJlz/ewCoyLCiN/8=</fileHash>
+<fileSize>1310350</fileSize>
+<metadataHash>3jYnR6noxTD3Ne4gHWt/XheFBSxkZ6ZCbGCVKYvevUo=</metadataHash>
+<metadataSize>1077</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_FNE-N29_def_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_FNE-N29_def_la.zip</spath>
+<dpath>update_full_cust_FNE-N29_def_la.zip</dpath>
+<operation>c</operation>
+<sha256>F144ED89568B78B40818A904551FA0449E7FC170B6D60584CE4987A8AA546A8B</sha256>
+<size>1317522</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新外屏桌面支持更多三方应用和系统功能，提升系统稳定性，推荐您进行更新。</feature>
+</features>
+<features module="【应用】">
+<feature>外屏桌面新增支持番茄畅听、抖音极速版、七猫免费小说、夸克、豆瓣等三方应用。</feature>
+</features>
+<features module="【系统】">
+<feature>外屏桌面新增支持短信功能。
+提升系统稳定性，让您的手机运行更稳定。</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, with this recommended update, you can use more third-party apps and system functions on the exterior screen. This release also improves the system stability.</feature>
+</features>
+<features module="Application">
+<feature>Fanqiechangting, TikTok Lite, Qimao, Quark, Douban and other third-party apps can now be used on the exterior screen.</feature>
+</features>
+<features module="System">
+<feature>You can use Messages app on the exterior screen.
+Improves the system stability to make your device run more stably.</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. Check out more information on product features in the Tips app.
+3. If you encounter any problem during use, please get support by going to My HONOR or visiting our website: https://www.honor.com/cn/contact-us.</feature>
+</features>
+</language>
+
+<language name="bo-cn" code="1105">
+<features module="" type="header">
+<feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཕྱི་ཡོལ་ཅོག་ངོས་ཀྱིས་དེ་ལས་མང་བའི་ཕྱོགས་གསུམ་པའི་ཉེར་སྤྱོད་དང་རྒྱུད་ཁོངས་རྩོལ་ནུས་ལ་རྒྱབ་སྐྱོར་བྱས་ཡོད། རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་ཡོད། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱའི་འོས་སྦྱོར་བྱེད།</feature>
+</features>
+<features module="【ཉེར་སྤྱོད།】">
+<feature>ཕྱི་ཡོལ་ཅོག་ངོས་སུ་ཀྲོ་མ་ཀྲུ་ཉན་ཐོས་དང་ཁྱུག་དབྱིངས་མགྱོགས་མྱུར་པར་གཞི། ཞི་ལ་བདུན་གྱི་རིན་མེད་བརྩམས་སྒྲུང་། ཁཱ་ཁེ། ཏུའུ་པན་སོགས་ཀྱི་ཕྱོགས་གསུམ་པའི་ཉེར་སྤྱོད་ལ་རྒྱབ་སྐྱོར་བྱེད་པ་གསར་སྣོན་བྱས་ཡོད།</feature>
+</features>
+<features module="【རྒྱུད་ཁོངས།】">
+<feature>ཕྱི་ཡོལ་ཅོག་ངོས་སུ་འཕྲིན་ཐུང་རྩོལ་ནུས་ལ་རྒྱབ་སྐྱོར་བྱེད་པ་གསར་སྣོན་བྱས་ཡོད།
+རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་སྟེ། ཁྱེད་ཀྱི་ལག་ཁྱེར་ཁ་པར་གྱི་འཁོར་སྐྱོད་སྔར་ལས་བརྟན་འཇགས་སུ་གཏོང་དགོས།</feature>
+</features>
+<features module="གསར་སྒྱུར་གྱི་དོ་སྣང་དོན་ཚན།" type="end">
+<feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གྱི་གཞི་གྲངས་གསུབ་མི་སྲིད། ཡིན་ནའང་ཁྱེད་ཀྱིས་གསར་སྒྱུར་མ་བྱས་གོང་གཞི་གྲངས་གྲབས་ཉར་ཡག་པོ་བྱས་ན་ལེགས།
+2. ངོ་མཚར་བའི་རྩོལ་ནུས་དེ་ལས་མང་བའི་ངོ་སྤྲོད་ཁ་པར་རྩེ་བའི་ལག་རྩལ་གྱི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་རོགས།
+3. གལ་ཏེ་ཁྱེད་ཀྱིས་བཀོལ་བའི་བརྒྱུད་རིམ་ཁྲོད་གནད་དོན་གང་རུང་ལ་འཕྲད་ཚེ། ངའི་རུང་ཡོའོ་ཡི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་པའམ། ཡང་ན་རུང་ཡོའོ་གཞུང་ཕྱོགས་ཞབས་ཞུའི་དྲ་ཚིགས་ https://www.honor.com/cn/contact-us ལ་ལྟ་སྤྱོད་བྱས་ཏེ་རྒྱབ་སྐྱོར་ཐོབ་ཐབས་བྱེད་རོགས།</feature>
+</features>
+</language>
+
+<language name="ug-cn" code="1152">
+<features module="" type="header">
+<feature>‏ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا سىرتقى ئېكران ئۈستەليۈزى تېخىمۇ كۆپ ئۈچىنچى تەرەپ ئەپلىرىنى قوللايدىغان بولدى ۋە سىستېما ئىقتىدارى يېڭىلاندى، سىستېمىنىڭ مۇقىملىقى يۇقىرى كۆتۈرۈلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+</features>
+<features module="‏«ئەپ»">
+<feature>‏سىرتقى ئېكران ئۈستەليۈزىگە فەنچىيې چاڭتىڭ (番茄畅听)، دوۋيىن تېز ھالەت (抖音极速版)، چىماۋ ھەقسىز ھېكايىلىرى (七猫免费小说)، كۇاكې (夸克)، دوۋبەن (豆瓣) قاتارلىق ئۈچىنچى تەرەپ ئەپلىرى يېڭىدىن قوشۇلدى.</feature>
+</features>
+<features module="‏«سىستېما»">
+<feature>‏سىرتقى ئېكران ئۈستەليۈزى ئۇچۇر ئىقتىدارىنى قوللايدىغان بولدى.
+سىستېمىنىڭ مۇقىملىقى يۇقىرى كۆتۈرۈلۈپ، يانفونىڭىزنىڭ ئىجرا بولۇشى تېخىمۇ مۇقىملاشتۇرۇلدى.</feature>
+</features>
+<features module="‏يېڭىلاشتا دىققەت قىلىدىغان ئىشلار:" type="end">
+<feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتلىرىڭىزنى ئۆچۈرمەيدۇ، ئەمما يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتىڭىزنى زاپاسلىۋېلىشىڭىزنى تەۋسىيە قىلىمىز.
+2. كۆپرەك قالتىس ئىقتىدارلار بىلەن تونۇشۇش ئۈچۈن «ئىشلىتىش كۆرسەتمىسى» ئەپىنى زىيارەت قىلىڭ.
+3. ئىشلىتىش جەريانىدا مەسىلىگە يولۇقسىڭىز، «روڭياۋىم» ئەپىنى زىيارەت قىلىڭ ياكى روڭياۋ ئورگان تەرەپ مۇلازىمەت تور بېكىتى https://www.honor.com/cn/contact-us نى زىيارەت قىلىپ ياردەم سوراڭ.</feature>
+</features>
+</language>
+
+<language name="zh-hk" code="3076">
+<features module="" type="header">
+<feature>親愛的用戶，本次更新外屏幕的主屏幕，支援更多第三方應用程式和系統功能，提升系統穩定性，建議您更新。</feature>
+</features>
+<features module="【應用程式】">
+<feature>外屏幕的主屏幕新增支援番茄暢聽、抖音極速版、七貓免費小說、誇克、豆瓣等第三方應用程式。</feature>
+</features>
+<features module="【系統】">
+<feature>外屏幕主屏幕新增支援短訊功能。
+提升系統穩定性，讓您的手機運行更穩定。</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份。
+2. 如需了解更多精彩功能的介紹，請瀏覽「玩機技巧」應用程式。
+3. 如果您在使用過程中遇到任何問題，請瀏覽「我的榮耀」應用程式，或瀏覽榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援。</feature>
+</features>
+</language>
+
+<language name="zh-tw" code="1028">
+<features module="" type="header">
+<feature>親愛的使用者，本次更新外螢幕桌面支援更多第三方應用程式和系統功能，提升系統穩定性，建議您進行更新。</feature>
+</features>
+<features module="【應用程式】">
+<feature>外螢幕桌面新增支援番茄暢聽、抖音極速版、七貓免費小說、夸克、豆瓣等第三方應用程式。</feature>
+</features>
+<features module="【系統】">
+<feature>外螢幕桌面新增支援簡訊功能。
+提升系統穩定性，讓您的手機執行更穩定。</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份。
+2. 如需更多精彩功能介紹，請查看「玩機技巧」應用程式。
+3. 若您在使用過程中遇到任何問題，請查看「我的榮耀」應用程式，或造訪榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援。</feature>
+</features>
+</language>
+
+</root>

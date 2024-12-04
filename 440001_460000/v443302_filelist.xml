@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1915613184</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>wMr0OIIc6RrMwxZbDwX/0TN6r1sBEE0YCCB0vC8IsSI=</fileHash>
+<fileSize>109239730</fileSize>
+<metadataHash>pW3IlBfO72u6arJizH0V9wgUXaD7q7U7RTYyu2pQzgY=</metadataHash>
+<metadataSize>34625</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_GFY-L03_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_GFY-L03_claro_la.zip</spath>
+<dpath>update_cust_GFY-L03_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>98897DB333F9BF9BA9E5FA8F392811742B00306CB6D276F31D92662401510DA4</sha256>
+<size>109247063</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642080768</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>YrZ0Fun02XVenXDxaFu5rwwz5UNwvImLg9IgQB7hWxo=</fileHash>
+<fileSize>7702</fileSize>
+<metadataHash>zFOubPI6UnI8cz6VxFf8Qi/Y9+4YlIrdNv7gtZnITSQ=</metadataHash>
+<metadataSize>4427</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_HEY2-N09_opr_eea_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_HEY2-N09_opr_eea_R1.zip</spath>
+<dpath>update_preload_HEY2-N09_opr_eea_R1.zip</dpath>
+<operation>c</operation>
+<sha256>57EE7C2D1CDD9EE7708CB6663CFC2C055F09C8B8B075AC690070CF4085A4A962</sha256>
+<size>15005</size>
+</file>
+</files>
+</root>

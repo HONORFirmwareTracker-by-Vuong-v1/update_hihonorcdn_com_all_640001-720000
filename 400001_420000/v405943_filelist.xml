@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1214750720</cowsize>
+<payloadOffset>743</payloadOffset>
+<fileHash>d+m0KS5mXZpiUWoUSArAyVGAbDpZ3pkia3YFM9NCLMM=</fileHash>
+<fileSize>482944324</fileSize>
+<metadataHash>LOxXo9ixuZ0x+Zn/wT28MyXB42MGhKWBD1lSBb2sxME=</metadataHash>
+<metadataSize>32079</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="preload" package="update_full_preload_CRT-L31_def_eea_R2.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBP version="NA"/>
+<files>
+<file>
+<spath>update_full_preload_CRT-L31_def_eea_R2.zip</spath>
+<dpath>update_full_preload_CRT-L31_def_eea_R2.zip</dpath>
+<operation>c</operation>
+<sha256>7EC057AD9970577DB2F7C774BC9195A06C06F7C65CD16EBF404D0140DEFD9E6D</sha256>
+<size>482951479</size>
+</file>
+</files>
+</root>

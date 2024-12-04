@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>923</payloadOffset>
+<fileHash>rfCrQSIivsa26+Qev8dm7aPby6DSpA230Ty/mmsxPqM=</fileHash>
+<fileSize>2261052</fileSize>
+<metadataHash>DsyUq7ZNhOEPf7+UeFOlEAz7Qa3E8oiAJrcDMXKB/ug=</metadataHash>
+<metadataSize>761</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_WDY-L42_def_spcseas.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_WDY-L42_def_spcseas.zip</spath>
+<dpath>update_cust_WDY-L42_def_spcseas.zip</dpath>
+<operation>c</operation>
+<sha256>BDD93EF73E7206373095F35050B21B1D65AC03A82AB7F5235BBE8F6215A9696A</sha256>
+<size>2268365</size>
+</file>
+</files>
+</root>

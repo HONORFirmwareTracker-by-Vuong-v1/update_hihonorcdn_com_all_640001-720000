@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>2</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1593712640</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>JuCIgtaGJzc8qst5Gz+kb4K4tE6DWcVdtJ+KViJ8A00=</fileHash>
+<fileSize>685218116</fileSize>
+<metadataHash>mCaJn3LdWPXlnE9mgPUYWNwwVXtSCYxElWrPKR5TeV0=</metadataHash>
+<metadataSize>42205</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_ROD-W19_all_cn_R11.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_ROD-W19_all_cn_R11.zip</spath>
+<dpath>update_full_preload_ROD-W19_all_cn_R11.zip</dpath>
+<operation>c</operation>
+<sha256>A5E281ED6026C6A6FF3EE3F2DE91E7ED79FDEDD215828B08A6A0E5D586255060</sha256>
+<size>685225322</size>
+</file>
+</files>
+</root>

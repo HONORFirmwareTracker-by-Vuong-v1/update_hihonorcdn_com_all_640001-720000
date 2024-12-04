@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>616833024</cowsize>
+<payloadOffset>743</payloadOffset>
+<fileHash>fEBLceATFkyy52yPiW+sCEz9Ti5cXefLDFGfVp/JKYY=</fileHash>
+<fileSize>268018832</fileSize>
+<metadataHash>SKBDFB3GKu1I9qygYQt6K2ScRAPJXNMWtHTAjnkBwQA=</metadataHash>
+<metadataSize>16089</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_VNE-L43CM_iusacell_mx.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_VNE-L43CM_iusacell_mx.zip</spath>
+<dpath>update_full_cust_VNE-L43CM_iusacell_mx.zip</dpath>
+<operation>c</operation>
+<sha256>D00D24D98BA516BB6B16C3677C039DDFB2B9CBFA6F54FF8C2F3D8DC3F42F6CE6</sha256>
+<size>268025966</size>
+</file>
+</files>
+</root>

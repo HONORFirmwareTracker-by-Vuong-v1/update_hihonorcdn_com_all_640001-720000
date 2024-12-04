@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>616833024</cowsize>
+<payloadOffset>743</payloadOffset>
+<fileHash>qvf/1U+XGrdgSz6eS4MPMLHp7Y0OURjMgalUTBD1egg=</fileHash>
+<fileSize>267976402</fileSize>
+<metadataHash>7n9PJNpvtIEnrH0RduzLRO6Td9QEZv61WGaQlm3S97U=</metadataHash>
+<metadataSize>16090</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_CRT-L33_iusacell_mx.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_CRT-L33_iusacell_mx.zip</spath>
+<dpath>update_full_cust_CRT-L33_iusacell_mx.zip</dpath>
+<operation>c</operation>
+<sha256>C3E4A3C87B5A9CE207FAD8453FD590F4CEF7AD73F6EB0AAF3687E102BE99CE90</sha256>
+<size>267983531</size>
+</file>
+</files>
+</root>

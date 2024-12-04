@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1189486592</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>MtBMPDEOtGXJ1o44T16/UexXr2urCWs3N2+Lnmid1Uo=</fileHash>
+<fileSize>574878387</fileSize>
+<metadataHash>egZ0cfudqxTbH4x0IRrJ5+IiZzAC1JIpstUK2XetDFc=</metadataHash>
+<metadataSize>31554</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_ALI-N23_iusacell_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_ALI-N23_iusacell_mx.zip</spath>
+<dpath>update_full_cust_ALI-N23_iusacell_mx.zip</dpath>
+<operation>c</operation>
+<sha256>676981E340B7620FCE8F7AB93C09F032E50A9628D6E0194CC911A3DA7C942112</sha256>
+<size>574885582</size>
+</file>
+</files>
+</root>

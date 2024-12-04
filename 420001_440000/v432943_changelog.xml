@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新新增风险应用提示开关，优化状态栏字体图标显示，提升通话功能和横屏场景悬浮球使用体验，屏幕录制支持三档分辨率可调节，新增系统声音录制开关，优化收藏空间动效流畅性，提升系统安全，推荐您进行更新。</feature>
+</features>
+<features module="【状态栏】">
+<feature>优化状态栏字体图标显示，增大字体字号，加粗图标样式，提高信息识别度。</feature>
+</features>
+<features module="【系统管家】">
+<feature>新增风险应用提示开关，若系统存在风险应用，关闭开关后应用不再显示风险角标。设置路径：系统管家>病毒查杀>风险提示。
+(注：若无风险应用，病毒查杀中会显示“安全，请放心使用”，不显示风险提示开关)</feature>
+</features>
+<features module="【通话】">
+<feature>优化通话记录合并功能，通过提示窗设置按联系人合并通话记录，让通话记录界面更简洁。
+优化通话录音功能，包括增加录制结束后的通知开关、录音保存记录扩容，让录音更便捷高效。</feature>
+</features>
+<features module="【智慧多窗】">
+<feature>优化横屏场景悬浮球使用体验，悬浮球停留位置避开前置摄像头区域，界面显示更美观。</feature>
+</features>
+<features module="【系统应用】">
+<feature>新增录屏场景录制系统声音开关，视频或语音通话时，支持录制系统声音，录屏更完整。设置路径：设置>辅助功能>屏幕录制>录制系统声音。
+新增录屏分辨率自定义功能，支持三挡可调节（480P/720P/1080P），随心选择对应的分辨率进行屏幕录制，录屏更清晰，设置路径：设置>辅助功能>屏幕录制>清晰度选择。</feature>
+</features>
+<features module="【收藏空间】">
+<feature>优化收藏空间动效流畅性。</feature>
+</features>
+<features module="【安全】">
+<feature>新增设备传感器权限管控功能，您可自行选择是否允许应用获取设备传感器权限，有效管控“摇一摇”广告跳转，设置路径：设置>应用>权限管理>权限>获取设备动作与方向。
+新增 USB 连接用户身份认证功能，在选择“传输照片”或“传输文件”时，需要进行身份认证，让您的数据传输更安全。
+合入安卓2024年9月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2024/9</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this update introduces a switch for security warnings. This release also optimizes the display effect of text on the status bar and enhances the call functionality and the user experience of assistive ball in landscape mode. In this update, you can record system sound and select from three resolution levels for screen recordings. Additionally, the smoothness of motion effect in Favorites Space is optimized. The system security are improved</feature>
+</features>
+<features module="Status bar">
+<feature>Information recognition is enhanced by increasing the text size and bolding the icons.</feature>
+</features>
+<features module="System Manager">
+<feature>Risk reminders can be enabled or disabled as desired. If there are risky apps, you can hide risk badges by turning off the switch. Try it out by going to System Manager > Virus scan > Risk reminders. (Note: If no risky apps are detected, "Your device is secure" will appear when you go to Virus scan, and there is no switch for Risk reminders)</feature>
+</features>
+<features module="Call">
+<feature>You can merge call logs by contacts via prompt window, making the call log interface simpler.
+Enhances the call recording function by incorporating a notification switch after the recording ends and expanding the capacity for recording records, making recording more convenient and efficient.</feature>
+</features>
+<features module="Multi-Window">
+<feature>Optimizes the user experience of assistive ball in landscape mode, ensuring the assistive ball stays away from the front camera, thereby offering a simpler interface.</feature>
+</features>
+<features module="System Apps">
+<feature>You can record system sound during video or voice calls as desired. Try it out by going to: Settings > Accessibility features > Screen recording > Record from system sound.
+You can select from 480P/720P/1080P for video quality in screen recordings. Try it out by going to: Settings > Accessibility features > Screen recording > Video quality.</feature>
+</features>
+<features module="Favorites Space">
+<feature>Optimizes the smoothness of the motion effect in Favorites Space.</feature>
+</features>
+<features module="Security">
+<feature>You have the option to allow apps to use device’s sensors, enabling the control of "shake-to-open" ads. Try it out by going to: Settings > Apps > Permission manager > Permissions > Device movement and orientation. 
+User authentication is required when using USB connection. A verification or security prompt appears when you select Transfer photos or Transfer files, ensuring safer data transfer.
+Android security patch (Sept 2024) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2024/9</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. Check out more information on product features in the Tips app.
+3. If you encounter any problem during use, please get support by going to My HONOR or visiting our website: https://www.honor.com/cn/contact-us.</feature>
+</features>
+</language>
+
+</root>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新新增AI消除、视频通话美颜和风险应用提示开关，提升横屏场景悬浮球使用体验，优化状态栏和收藏空间动效流畅性，提升系统稳定性和系统安全，推荐您进行更新。</feature>
+</features>
+<features module="【图库】">
+<feature>新增AI消除功能，智能消除照片中的路人、杂物等，一键拯救废片，体验路径：图库>图片>编辑>AI 消除。</feature>
+</features>
+<features module="【状态栏】">
+<feature>优化状态栏字体图标显示，增大字体字号，加粗图标样式，提高信息识别度。</feature>
+</features>
+<features module="【灵动胶囊】">
+<feature>新增视频通话美颜开关，设置路径：设置>通知和状态栏>灵动胶囊>视频美颜。
+微信视频通话场景下，新增灵动胶囊形态的视频美颜调级，设置路径：设置>辅助功能>音视频通话增强>视频通话美颜。</feature>
+</features>
+<features module="【系统管家】">
+<feature>新增风险应用提示开关，针对已被系统管控的风险应用，关闭开关后应用不再显示风险角标，桌面图标显示更简洁，设置路径：系统管家>病毒查杀>风险提示。</feature>
+</features>
+<features module="【智慧多窗】">
+<feature>优化横屏场景悬浮球使用体验，悬浮球停留位置避开前置摄像头区域，界面显示更美观。</feature>
+</features>
+<features module="【收藏空间】">
+<feature>优化收藏空间动效流畅性。</feature>
+</features>
+<features module="【系统】">
+<feature>提升系统稳定性，让您的平板运行更稳定。</feature>
+</features>
+<features module="【安全】">
+<feature>合入安卓2024年9月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2024/9
+新增 USB 连接用户身份认证功能，在选择“传输照片”或“传输文件”时，需要进行身份认证，让您的数据传输更安全。</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this update introduces AI Eraser, along with toggles for Beauty in video calls and for security warnings. This release also enhances the user experience of assistive ball in landscape mode. The smoothness of motion effect in status bar and Favorites Space is optimized. Additionally, this update improves the system stability and security. It is recommended to update.</feature>
+</features>
+<features module="Gallery">
+<feature>AI Eraser is integrated to intelligently remove the passers-by and other unwanted elements from images effortlessly with a single tap. You can experience it by going to: Gallery > Select a photo > Edit > AI Eraser.</feature>
+</features>
+<features module="Status bar">
+<feature>Information recognition is enhanced by increasing the text size and bolding the icons.</feature>
+</features>
+<features module="Magic Capsule">
+<feature>You can turn on or turn off Beauty during video calls. Try it out by going to: Settings > Notifications and status bar > Magic Capsule > Beauty.
+You can turn on or off Beauty for video calls. Try it out by going to: Settings > Accessibility features > Call enhancement > Video Call Beauty.</feature>
+</features>
+<features module="System Manager">
+<feature>A switch for security warnings is incorporated. For apps already under system control, the risk badge will no longer be displayed after the switch is turned off, making the home screen icons appear more streamlined. Try it out by going to: System Manager > Virus scan > Risk reminders.</feature>
+</features>
+<features module="Multi-Window">
+<feature>Optimizes the user experience of assistive ball in landscape mode, ensuring the assistive ball stays away from the front camera, thereby offering a simpler interface.</feature>
+</features>
+<features module="Favorites Space">
+<feature>Optimizes the smoothness of the motion effect in Favorites Space.</feature>
+</features>
+<features module="System">
+<feature>This update improves the system stability to make your device run more stably.</feature>
+</features>
+<features module="Security">
+<feature>Android security patch (Sept 2024) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2024/9
+User authentication is required when using USB connection. A verification or security prompt appears when you select Transfer photos or Transfer files, ensuring safer data transfer.</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. Check out more information on product features in the Tips app.
+3. If you encounter any problem during use, please get support by going to My HONOR or visiting our website: https://www.honor.com/cn/contact-us.</feature>
+</features>
+</language>
+
+</root>

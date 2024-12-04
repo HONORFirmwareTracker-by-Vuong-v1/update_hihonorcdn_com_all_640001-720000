@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新优化部分场景荣耀笔记和荣耀文档使用体验，优化音频播放、相机拍摄效果以及功耗体验，提升系统稳定性，合入安全补丁，推荐您进行更新。</feature>
+</features>
+<features module="【荣耀笔记】">
+<feature>优化部分场景荣耀笔记使用体验。</feature>
+</features>
+<features module="【荣耀文档】">
+<feature>优化部分场景荣耀文档使用体验。</feature>
+</features>
+<features module="【相机】">
+<feature>优化部分场景相机拍摄效果。</feature>
+</features>
+<features module="【音频】">
+<feature>优化音频播放体验。</feature>
+</features>
+<features module="【续航】">
+<feature>优化部分场景功耗体验。</feature>
+</features>
+<features module="【系统】">
+<feature>提升系统稳定性，让您的平板运行更稳定。</feature>
+</features>
+<features module="【安全】">
+<feature>合入安卓2024年8月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2024/8</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this recommended update optimizes the user experience of HONOR Notes and HONOR Docs in some scenarios. This release also introduces improvements in audio playback, shooting effect and power consumption. Additionally, this update enhances the system stability, and incorporates a security patch.</feature>
+</features>
+<features module="HONOR Notes">
+<feature>Optimizes the user experience of HONOR Notes in some scenarios.</feature>
+</features>
+<features module="HONOR Docs">
+<feature>Optimizes the user experience of HONOR Docs in some scenarios.</feature>
+</features>
+<features module="Camera">
+<feature>Optimizes the shooting effect in some scenarios.</feature>
+</features>
+<features module="Audio">
+<feature>Optimizes the audio playback.</feature>
+</features>
+<features module="Battery life">
+<feature>The power consumption is reduced in some scenarios.</feature>
+</features>
+<features module="System">
+<feature>Improves the system stability to make your device run more stably.</feature>
+</features>
+<features module="Security">
+<feature>Android security patch (Aug 2024) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2024/8</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. Check out more information on product features in the Tips app.
+3. If you encounter any problem during use, please get support by going to My HONOR or visiting our website: https://www.honor.com/cn/contact-us.</feature>
+</features>
+</language>
+
+<language name="bo-cn" code="1105">
+<features module="" type="header">
+<feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་བཟོ་ལྗོངས་ཁག་ཅིག་གི་རུང་ཡོའོ་ཟིན་བྲིས་དང་རུང་ཡོའོ་ཡིག་ཚགས་བེད་སྤྱོད་ཉམས་ལེན་ལེགས་སྒྱུར་བྱས་ཤིང་། སྒྲ་ཟློས་གཏོང་བ་དང་པར་ཆས་ཀྱི་བརྙན་ལེན་ཁྱད་ནུས། དེ་བཞིན་ནུས་གྲོན་ཉམས་ལེན་ལེགས་སྒྱུར་བྱས་པ་དང་། རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་ནས། བདེ་འཇགས་ལྷན་པ་རུ་འདུས་གྲུབ་བྱས་ཡོད། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུར་འོས་སྦྱོར་བྱེད།</feature>
+</features>
+<features module="[རུང་ཡོའོ་ཟིན་བྲིས།]">
+<feature>བཟོ་ལྗོངས་ཁག་ཅིག་གི་རུང་ཡོའོ་ཟིན་བྲིས་བཀོལ་སྤྱོད་ཀྱི་ཉམས་ལེན་ལེགས་སྒྱུར་བྱེད།</feature>
+</features>
+<features module="[རུང་ཡོའོ་ཡིག་ཚགས།]">
+<feature>བཟོ་ལྗོངས་ཁག་ཅིག་གི་རུང་ཡོའོ་ཡིག་ཚགས་བཀོལ་བའི་ཉམས་ལེན་ལེགས་སྒྱུར་བྱེད།</feature>
+</features>
+<features module="[པར་ཆས།]">
+<feature>བཟོ་ལྗོངས་ཁག་ཅིག་གི་པར་ཆས་ཀྱི་བརྙན་ལེན་ཁྱད་ནུས་ལེགས་སྒྱུར་བྱེད།</feature>
+</features>
+<features module="[སྒྲ་ཟློས།]">
+<feature>སྒྲ་ཟློས་གཏོང་བའི་ཉམས་ལེན་ལེགས་སྒྱུར་བྱེད།</feature>
+</features>
+<features module="[གློག་འདང་།]">
+<feature>བཟོ་ལྗོངས་ཁག་ཅིག་གི་རྩོལ་ནུས་ཉམས་ལེན་ལེགས་སྒྱུར་བྱེད།</feature>
+</features>
+<features module="[རྒྱུད་ཁོངས།]">
+<feature>རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་སྟེ། ཁྱེད་ཀྱི་ངོས་སྙོམས་གློག་ཀླད་ཀྱི་འཁོར་སྐྱོད་དེ་བས་བརྟན་འཇགས་བྱེད།</feature>
+</features>
+<features module="[བདེ་འཇགས།]">
+<feature>ཨན་སྒྲོའི་2024ལོའི་ཟླ་8པའི་བདེ་འཇགས་ལྷན་པ་འདྲེས་འཇུག་བྱས་ཏེ། རྒྱུད་ཁོངས་ཀྱི་བདེ་འཇགས་རང་བཞིན་སྟོབས་སྒྱུར་བྱེད། རུང་ཡོའོ་མཉེན་ཆས་ཀྱི་བདེ་འཇགས་གསར་སྒྱུར་ནང་དོན་སྐོར་གྱི་ཆ་འཕྲིན་རུང་ཡོའོ་གཞུང་ཕྱོགས་དྲ་ཚིགས https://www.honor.com/cn/support/bulletin/2024/8 ལ་ལྟ་སྤྱོད་བྱེད་རོགས།</feature>
+</features>
+<features module="གསར་སྒྱུར་གྱི་ཉམས་འཇོག་དོན་ཚན།" type="end">
+<feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གྱི་གཞི་གྲངས་སུབ་པ་མི་སྲིད་མོད། འོན་ཀྱང་ཁྱེད་ཀྱིས་གསར་སྒྱུར་མ་བྱས་གོང་གཞི་གྲངས་གྲབས་ཉར་ཡག་པོ་བྱས་ན་ལེགས།
+2.དེ་ལས་མང་བའི་ངོ་མཚར་བའི་རྩོལ་ནུས་ངོ་སྤྲོད་ཁ་པར་རྩེ་བའི་ལག་རྩལ་གྱི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་རོགས།
+3. གལ་ཏེ་ཁྱེད་ཀྱིས་བཀོལ་བའི་བརྒྱུད་རིམ་ཁྲོད་གནད་དོན་གང་རུང་ལ་འཕྲད་ཚེ། ངའི་རུང་ཡོའོ་ཡི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་པའམ། ཡང་ན་རུང་ཡོའོ་གཞུང་ཕྱོགས་ཞབས་ཞུའི་དྲ་ཚིགས་ https://www.honor.com/cn/contact-us ལ་ལྟ་སྤྱོད་བྱས་ཏེ་རྒྱབ་སྐྱོར་ཐོབ་ཐབས་བྱེད་རོགས།</feature>
+</features>
+</language>
+
+<language name="ug-cn" code="1152">
+<features module="" type="header">
+<feature>‏ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا بىر قىسىم كۆرۈنۈشلەردىكى روڭياۋ خاتىرە ۋە روڭياۋ پۈتۈكى ئىشلىتىش تەسىراتى، ئاۋاز قويۇش ۋە كامېرانىڭ سۈرەتكە ئېلىش ئۈنۈمى ھەمدە سەرپىيات تەسىراتى ئەلالاشتۇرۇلۇپ، سىستېمىنىڭ مۇقىملىقى ئۆستۈرۈلدى، بىخەتەرلىك يامىقى قوشۇلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+</features>
+<features module="‏«روڭياۋ خاتىرە»">
+<feature>‏بىر قىسىم كۆرۈنۈشلەردىكى روڭياۋ خاتىرە ئىشلىتىش تەسىراتى ئەلالاشتۇرۇلدى.</feature>
+</features>
+<features module="‏«روڭياۋ پۈتۈكى»">
+<feature>‏بىر قىسىم كۆرۈنۈشلەردىكى روڭياۋ پۈتۈكى ئىشلىتىش تەسىراتى ئەلالاشتۇرۇلدى.</feature>
+</features>
+<features module="‏«كامېرا»">
+<feature>‏‏كامېرانىڭ بىر قىسىم كۆرۈنۈشلەردىكى سۈرەتكە ئېلىش ئۈنۈمى ئەلالاشتۇرۇلدى.</feature>
+</features>
+<features module="‏«ئاۋاز»">
+<feature>‏ئاۋاز قويۇش تەسىراتى ئەلالاشتۇرۇلدى.</feature>
+</features>
+<features module="‏«توك ساقلاش»">
+<feature>‏بىر قىسىم كۆرۈنۈشلەردىكى سەرپىيات تەسىراتى ئەلالاشتۇرۇلدى.</feature>
+</features>
+<features module="‏«سىستېما»">
+<feature>‏سىستېمىنىڭ مۇقىملىقى ئۆستۈرۈلۈپ، تاختا كومپيۇتېرىڭىزنىڭ ئىجرا قىلىنىشى تېخىمۇ مۇقىملاشتۇرۇلدى.</feature>
+</features>
+<features module="‏«بىخەتەرلىك»">
+<feature>‏ئاندرويدنىڭ 2024-يىل 8-ئايلىق بىخەتەرلىك يامىقى قوشۇلغان بولۇپ، سىستېما بىخەتەرلىكى كۈچەيتىلدى. روڭياۋ يۇمشاق دېتالىنىڭ بىخەتەرلىك يېڭىلاش مەزمۇنىغا ئالاقىدار ئۇچۇرلار ئۈچۈن روڭياۋ ئورگان تەرەپ تور بېكىتىنى زىيارەت قىلىڭ https://www.honor.com/cn/support/bulletin/2024/8</feature>
+</features>
+<features module="‏يېڭىلاشتا دىققەت قىلىدىغان ئىشلار:" type="end">
+<feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتلىرىڭىزنى ئۆچۈرمەيدۇ، ئەمما يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتىڭىزنى زاپاسلىۋېلىشىڭىزنى تەۋسىيە قىلىمىز.
+2. كۆپرەك قالتىس ئىقتىدارلار بىلەن تونۇشۇش ئۈچۈن «ئىشلىتىش كۆرسەتمىسى» ئەپىنى زىيارەت قىلىڭ.
+3. ئىشلىتىش جەريانىدا مەسىلىگە يولۇقسىڭىز، «روڭياۋىم» ئەپىنى زىيارەت قىلىڭ ياكى روڭياۋ ئورگان تەرەپ مۇلازىمەت تور بېكىتى https://www.honor.com/cn/contact-us نى زىيارەت قىلىپ ياردەم سوراڭ.</feature>
+</features>
+</language>
+
+<language name="zh-hk" code="3076">
+<features module="" type="header">
+<feature>親愛的用戶，本次更新優化部分場景的榮耀記事和榮耀文件使用體驗，優化音訊播放、相機拍攝效果以及功耗體驗，提升系統穩定性，整合安全性修補程式，建議您更新。</feature>
+</features>
+<features module="【榮耀記事】">
+<feature>優化部分場景的榮耀記事使用體驗。</feature>
+</features>
+<features module="【榮耀文件】">
+<feature>優化部分場景的榮耀文件使用體驗。</feature>
+</features>
+<features module="【相機】">
+<feature>優化部分場景的相機拍攝效果。</feature>
+</features>
+<features module="【音訊】">
+<feature>優化了音訊播放體驗。</feature>
+</features>
+<features module="【續航】">
+<feature>優化部分場景功耗體驗。</feature>
+</features>
+<features module="【系統】">
+<feature>提升系統穩定性，讓您的平板電腦運行更穩定。</feature>
+</features>
+<features module="【安全】">
+<feature>整合 Android 2024年8月的安全性修補程式，增強系統安全性。如需有關榮耀軟件安全更新內容的資訊，請瀏覽榮耀官方網站 https://www.honor.com/cn/support/bulletin/2024/8</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份。
+2. 如需了解更多精彩功能的介紹，請瀏覽「玩機技巧」應用程式。
+3. 如果您在使用過程中遇到任何問題，請瀏覽「我的榮耀」應用程式，或瀏覽榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援。</feature>
+</features>
+</language>
+
+<language name="zh-tw" code="1028">
+<features module="" type="header">
+<feature>親愛的使用者，本次更新最佳化在部分場景下的榮耀筆記和榮耀文件使用體驗，最佳化音訊播放、相機拍攝效果以及電力消耗體驗，提升系統穩定性，並整合安全性修補程式，建議您進行更新。</feature>
+</features>
+<features module="【榮耀筆記】">
+<feature>最佳化在部分場景下的榮耀筆記使用體驗。</feature>
+</features>
+<features module="【榮耀文件】">
+<feature>最佳化在部分場景下的榮耀文件使用體驗。</feature>
+</features>
+<features module="【相機】">
+<feature>最佳化在部分場景下的相機拍攝效果。</feature>
+</features>
+<features module="【音訊】">
+<feature>最佳化音訊播放體驗。</feature>
+</features>
+<features module="【續航】">
+<feature>最佳化在部分場景下的電力消耗體驗。</feature>
+</features>
+<features module="【系統】">
+<feature>提升系統穩定性，讓您的平板電腦執行更加穩定。</feature>
+</features>
+<features module="【安全】">
+<feature>整合 Android 2024 年 8 月的安全性修補程式，增強系統安全性。如需有關榮耀軟體安全更新內容的資訊，請造訪榮耀官方網站 https://www.honor.com/cn/support/bulletin/2024/8</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份。
+2. 如需更多精彩功能介紹，請查看「玩機技巧」應用程式。
+3. 若您在使用過程中遇到任何問題，請查看「我的榮耀」應用程式，或造訪榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援。</feature>
+</features>
+</language>
+
+</root>

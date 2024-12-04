@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>758</payloadOffset>
+<fileHash>//eiCwKHUIq3MupvhE7/cuXuuPeTukbNVdpqkurU1+Y=</fileHash>
+<fileSize>7374</fileSize>
+<metadataHash>ettKZ+4efk5aWKMBabUSfyQzskT1KCpv0zIVNpj6fmk=</metadataHash>
+<metadataSize>1060</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_CLK-N31_def_spcseas.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_CLK-N31_def_spcseas.zip</spath>
+<dpath>update_full_cust_CLK-N31_def_spcseas.zip</dpath>
+<operation>c</operation>
+<sha256>6511FC2F3BA78A6E463CE33DAA12EEC815D9573E7B540B1B866B5514F3A319BC</sha256>
+<size>14524</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1214750720</cowsize>
+<payloadOffset>743</payloadOffset>
+<fileHash>w6srBPYGRwMEFMIkl242PbAmcOWfZASRceZzkiHx4js=</fileHash>
+<fileSize>245066371</fileSize>
+<metadataHash>S/l3DeYg3fwwXrKTq9pvfobmyZ6cPLRdgnmFaXBHj+A=</metadataHash>
+<metadataSize>31381</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="preload" package="update_full_preload_RKY-L33_iusacell_mx_R2.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBP version="NA"/>
+<files>
+<file>
+<spath>update_full_preload_RKY-L33_iusacell_mx_R2.zip</spath>
+<dpath>update_full_preload_RKY-L33_iusacell_mx_R2.zip</dpath>
+<operation>c</operation>
+<sha256>DBF32291C9B3D0E575C4DD3C648A09CABD181640B48C383F515D0A02F9FE7444</sha256>
+<size>245073522</size>
+</file>
+</files>
+</root>

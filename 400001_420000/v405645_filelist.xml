@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>915</payloadOffset>
+<fileHash>3JsddH29IOs07ZwV5NPKHTUxSdEcVRoJZY5/JrXDO2E=</fileHash>
+<fileSize>130518</fileSize>
+<metadataHash>AUAgFaIVe8uWUnvLpVDGbNiyJFbHaU+bQRl+zWsawp8=</metadataHash>
+<metadataSize>842</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_CLK-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_CLK-AN00_all_cn.zip</spath>
+<dpath>update_cust_CLK-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>C662169DBB3E933AAAF85F2B5D5AACCABE07B0EF32637E141730E68BBDB6DFB5</sha256>
+<size>137827</size>
+</file>
+</files>
+</root>

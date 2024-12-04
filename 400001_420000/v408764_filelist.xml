@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1189486592</cowsize>
+<payloadOffset>743</payloadOffset>
+<fileHash>KE4rKydpblNp4b/M1i6SwdsFIf9oPPWP7VoJEshOm/0=</fileHash>
+<fileSize>481838475</fileSize>
+<metadataHash>prJDVDFMDNpYWj6rDfhOdJALdwVADu1cnLl3uv50IAU=</metadataHash>
+<metadataSize>31430</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_RKY-L03_telcel_mx.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_RKY-L03_telcel_mx.zip</spath>
+<dpath>update_full_cust_RKY-L03_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>47B714D5D72EFE2D3F4770981FCE96A354BDC2A15095FFC1E5E484A8080866ED</sha256>
+<size>481845608</size>
+</file>
+</files>
+</root>

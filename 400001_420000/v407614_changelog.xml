@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新为您带来更多新功能和体验提升，主要包括提升桌面、图库和相机可玩性，提升智慧服务能力，持续优化性能等基础体验，优化折叠屏多场景使用体验，提高隐私安全，升级信任环能力，合入安全补丁，增强系统安全性，推荐您进行更新。</feature>
+</features>
+<features module="【桌面】">
+<feature>新增折叠屏展开态桌面留白排布功能，支持添加文字小组件，自定义文案、颜色等。
+新增折叠屏展开态全局底部应用栏（dock栏），沉浸式切换应用，为您提供更高效的桌面交互。</feature>
+</features>
+<features module="【相机】">
+<feature>新增流光快门功能，支持对流动光源轨迹的抓拍，体验路径：“相机>更多>流光快门”。</feature>
+</features>
+<features module="【图库】">
+<feature>新增AI消除功能，智能消除照片中的路人、杂物等，一键拯救废片，体验路径：图库>照片>编辑>AI消除。
+新增相机水印可编辑功能，可自行添加和还原水印，体验路径：图库>水印照片>编辑>水印图标。
+折叠屏展开态图库支持目录形式的索引分栏展示，提高信息传达和操作效率。</feature>
+</features>
+<features module="【智慧】">
+<feature>新增智慧识物-购物功能。
+新增分屏保存功能，分屏状态下点击分屏线中间按钮，可将分屏组合以图标形式保存在桌面，后续通过点击该图标即可快捷打开此分屏组合。</feature>
+</features>
+<features module="【通知栏】">
+<feature>优化通知栏显示样式，智能调节通知栏大小。</feature>
+</features>
+<features module="【应用】">
+<feature>折叠屏展开态通过系统UI自适应引擎，联合生态应用优化部分三方应用的大屏适配体验。</feature>
+</features>
+<features module="【系统】">
+<feature>分屏场景下，支持按应用进行选择截屏。</feature>
+</features>
+<features module="【性能】">
+<feature>优化折叠屏展开切屏动效、悬浮窗动效、桌面侧滑退出与上划退出动效、控制中心微动效等流畅动效体验。</feature>
+</features>
+<features module="【安全】">
+<feature>折叠屏展开态，进入双桌面，平行空间，安全防护更进一步。在平行空间中绑定SIM卡，可进行通话隔离、信息隔离，隔离后通话、信息在主空间不可见，打造全新商务级安全体验。
+合入安卓2024年8月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2024/8</feature>
+</features>
+<features module="【信任环】">
+<feature>信任环能力升级，可以将另一部手机投屏到折叠屏，同时操控两部手机，支持在悬浮窗、分屏、全屏切换使用，支持跨设备文件拖拽等，畅享大屏体验。</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this recommended update introduces new features and enhancements to some apps, including home screen, Gallery, and Camera. This release also enhances AI services, continuously improves the performance and other fundamental services, optimizes multi-scenario user experience for foldable screens, improves privacy security, and upgrades Magic Ring, incorporated security patches to enhance the system security.</feature>
+</features>
+<features module="Home screen">
+<feature>Minimalist layout is available in the unfolded state. Text widget can be added with customizable text and color.
+The dock is accessible in the unfolded state, which facilitates immersive switching between apps, enabling more efficient operations.</feature>
+</features>
+<features module="Camera">
+<feature>The new Light painting function is able to capture the trajectory of moving light source. You can experience it by going to: Camera > More > LIGHT PAINTING.</feature>
+</features>
+<features module="Gallery">
+<feature>AI Eraser is integrated to intelligently remove the passers-by and other unwanted elements from images effortlessly with a single tap. You can experience it by going to: Gallery > Select a photo > Edit > AI Eraser.
+Watermarks can now be added and removed as desired. You can experience it by going to: Gallery > Watermarked photos > Edit > Watermarks.
+The catalog-style index is displayed in columns in the unfolded state for enhancing information delivery and operating efficiency.</feature>
+</features>
+<features module="AI">
+<feature>You can be redirected to the shopping page after AI object recognition.
+App combinations in split-screen mode can now be saved. In split-screen mode, tap the button in the middle of the divider to save the combination as an icon on the home screen. Tap the icon enables quick access to the combination.</feature>
+</features>
+<features module="Notification panel">
+<feature>The display effect of notification panel is optimized that the size can be intelligently adjusted.</feature>
+</features>
+<features module="Application">
+<feature>The unfolded state collaborates with ecological apps via system UI adaptive engine to enhance Vision compatibility experience for some third-party apps.</feature>
+</features>
+<features module="System">
+<feature>Screenshots of individual applications can be taken in split-screen mode.</feature>
+</features>
+<features module="Performance">
+<feature>The transition motion effect when unfolding the screen is optimized, as well as the motion effect of floating window and subtle animation effects of Control Center. The motion effect for swiping towards sides and swiping up to exit an app also becomes smoother.</feature>
+</features>
+<features module="Security">
+<feature>Parallel Space enables dual home screen in unfolded state, enhancing security. Bind SIM card in Parallel Space to isolate calls and messages, which are invisible in MainSpace after isolation, bringing new business-grade security experience.
+Android security patch (Aug 2024) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2024/8</feature>
+</features>
+<features module="MagicRing">
+<feature>MagicRing is upgraded to bring you Vision experience, allowing for projecting phones to foldable screens. You can simultaneously control both devices, switching between floating window, split-screen, and full-screen modes. You can also drag and drop files across devices.</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not erase your personal data, but a backup beforehand is still recommended.
+2. Check out more information on product features in the Tips app.
+3. If you encounter any problem during use, you can get our support by going to My HONOR or visiting our website at https://www.honor.com/cn/contact-us.</feature>
+</features>
+</language>
+
+</root>

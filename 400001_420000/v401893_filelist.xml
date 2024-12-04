@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>44179456</cowsize>
+<payloadOffset>702</payloadOffset>
+<fileHash>PjC6VCxuaX0azUTjeu5hRdL9wyfiWEwOE4skbtzlBKE=</fileHash>
+<fileSize>7462</fileSize>
+<metadataHash>YGNVTRziqegvrPoV1uRhFR1/sdeul9wNhf6PrVedM/o=</metadataHash>
+<metadataSize>1060</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_RBN-N31_def_eea.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_RBN-N31_def_eea.zip</spath>
+<dpath>update_full_cust_RBN-N31_def_eea.zip</dpath>
+<operation>c</operation>
+<sha256>738686D4FBB6175CA51E1362AF67C787C9189F1C73CB99E0BF70AF5359240BED</sha256>
+<size>14551</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>596082688</cowsize>
+<payloadOffset>931</payloadOffset>
+<fileHash>a4MTEXJ9i9/xpj9+GgULImG/ysDhqno5idIhFQd3XmM=</fileHash>
+<fileSize>76591427</fileSize>
+<metadataHash>f68PJVuWp9WnkgdJUZ0OEYI+0u0buAi8YdmP+aIBn2o=</metadataHash>
+<metadataSize>6572</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_CLK-L32_opr_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_CLK-L32_opr_meafnaf.zip</spath>
+<dpath>update_cust_CLK-L32_opr_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>CD6A1EEE52AE02E3D27BB244528EAF640F9F9F0A319FAA163A0178529B2D1A1D</sha256>
+<size>76598751</size>
+</file>
+</files>
+</root>

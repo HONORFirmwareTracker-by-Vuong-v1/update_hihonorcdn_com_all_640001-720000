@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>782</payloadOffset>
+<fileHash>UqPNhpGs6nKf18fw39iBSc8ZqbM+Qb7vm6bAj9a5jQU=</fileHash>
+<fileSize>2263873</fileSize>
+<metadataHash>3xGztbQ3FmcOqEDnIndxIaqrSM6riKrfjM2BcOm0Ou8=</metadataHash>
+<metadataSize>1094</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_RBN-N31_def_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_RBN-N31_def_meafnaf.zip</spath>
+<dpath>update_full_cust_RBN-N31_def_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>52D68D5AEFCC71859CEE63E798CED3292D69F4B13A1BC859776CD3FC6D8C6BAE</sha256>
+<size>2271049</size>
+</file>
+</files>
+</root>

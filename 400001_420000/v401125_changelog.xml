@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新灵动胶囊支持美团、美团外卖和百度骑行导航显示，新增分屏保存功能、自定义唤醒词、防跟踪、智慧识物和购物功能，优化通知栏显示效果，提升系统稳定性，合入安全补丁，推荐您进行更新。</feature>
+</features>
+<features module="【灵动胶囊】">
+<feature>支持美团、美团外卖和百度骑行导航显示（注：美团App需升级至12.21.405及以上版本、美团外卖App需升级至8.28.3及以上版本、百度地图App需升级至20.2.0.1390及以上版本）。</feature>
+</features>
+<features module="【YOYO助理】">
+<feature>语音唤醒新增自定义唤醒词功能，满足您对唤醒词的多样需求，体验路径：“设置->智慧助手->YOYO助理->语音唤醒->唤醒词->自定义唤醒词”。</feature>
+</features>
+<features module="【智慧多窗】">
+<feature>新增分屏保存功能，分屏状态下点击分屏线中间按钮，可将分屏组合以图标形式保存在桌面，后续通过点击该图标即可快捷打开此分屏组合。</feature>
+</features>
+<features module="【平行空间】">
+<feature>新增防跟踪功能，体验路径：平行空间>设置>位置和广告>选择位置跟踪管理或广告跟踪管理。</feature>
+</features>
+<features module="【智慧视觉】">
+<feature>新增智慧识物和智慧购物功能。</feature>
+</features>
+<features module="【通知栏】">
+<feature>优化通知栏布局显示，界面呈现更加简洁美观。</feature>
+</features>
+<features module="【系统】">
+<feature>提升系统稳定性，让您的手机运行更稳定。</feature>
+</features>
+<features module="【安全】">
+<feature>合入安卓2024年7月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2024/7</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this recommended update brings new functions and enhancements for a smoother experience. Magic Capsule now displays Meituan, Meituan Delivery and Baidu Map for cycling. App combinations in split-screen mode can be saved, and wakeup phrase can be customized. This update also includes new anti-tracking function, as well as AI object recognition and AI shopping functions. Additionally, this release optimizes the display effect of notification panel, improves the system stability, and incorporates a security patch.</feature>
+</features>
+<features module="Magic Capsule">
+<feature>Meituan, Meituan Delivery and Baidu Map for cycling navigation can display on Magic Capsule (Note: Meituan needs to be upgraded to 12.21.405 or above, Meituan Delivery to 8.28.3 or above, Baidu Maps to 20.2.0.1390 or above).</feature>
+</features>
+<features module="YOYO Assistant">
+<feature>Wakeup phrase can now be customized for Voice wakeup to meet individual needs. Experience it by going to: Settings > Assistant > YOYO Assistant > Voice Wakeup > Wakeup phrase > Custom wakeup phrase.</feature>
+</features>
+<features module="Multi-Window">
+<feature>App combinations in split-screen mode can now be saved. In split-screen mode, tap the button in the middle of the divider to save the combination as an icon on the home screen. Tap the icon enables quick access to the combination.</feature>
+</features>
+<features module="Parallel Space">
+<feature>Anti-tracking function is incorporated. Experience it by going to: Parallel Space > Settings > Location and advertising > Select Location preferences or Ad preferences.</feature>
+</features>
+<features module="AI Lens">
+<feature>AI object recognition and AI shopping functions are introduced.</feature>
+</features>
+<features module="Notification panel">
+<feature>The layout of notification panel is optimized, making the interface more streamlined and visually appealing.</feature>
+</features>
+<features module="System">
+<feature>The system stability is improved to make your device run more stably.</feature>
+</features>
+<features module="Security">
+<feature>Android Security Patch (July 2024) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2024/7</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not erase your personal data, but a backup beforehand is still recommended. 
+2. Check out more information on product features in the Tips app. 
+3. If you encounter any problem during use, please get support by going to My HONOR or visiting our website: https://www.honor.com/cn/contact-us.</feature>
+</features>
+</language>
+
+<language name="bo-cn" code="1105">
+<features module="" type="header">
+<feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིས་གསར་སྒྱུར་དུ་འགུལ་རྣམ་སྦྱིན་ཐུམ་གྱིས་མའེ་ཐོན་དང་མའེ་ཐོན་ཟས་སྐྱེལ། པའེ་ཏུའུ་བཞོན་རྒྱུའི་ཕྱོགས་སྟོན་མངོན་སྟོན་ལ་རྒྱབ་སྐྱོར་བྱེད། ཡོལ་བགོ་ཉར་ཚགས་རྩོལ་ནུས་དང་གཉིད་སློང་མིང་བརྡ་རང་སྒྲིག རྗེས་སྙེག་འགོག་པ། རིག་ལྡན་དངོས་གཟུགས་ངོས་འཛིན། ཟོག་ཉོ་བཅས་ཀྱི་རྩོལ་ནུས་གསར་སྣོན་བྱས་ཡོད། བརྡ་ཐོའི་ཚན་བྱང་གི་མངོན་སྟོན་ཁྱད་ནུས་ལེགས་སྒྱུར་བྱས་ཡོད། རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་ཡོད། བདེ་འཇགས་ལྷན་པ་འདུས་གྲུབ་བྱས་ཡོད། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུའི་འོས་སྦྱོར་བྱེད།</feature>
+</features>
+<features module="【འགུལ་རྣམ་སྦྱིན་ཐུམ།】">
+<feature>མའེ་ཐོན་དང་མའེ་ཐོན་ཟས་སྐྱེལ། པའེ་ཏུའུ་བཞོན་རྒྱུའི་ཕྱོགས་སྟོན་མངོན་སྟོན་ལ་རྒྱབ་སྐྱོར་བྱེད། (མཆན། མའེ་ཐོན་ App ནི་ 12.21.405 དང་དེའི་ཡན་གྱི་པར་གཞི་ལ་གསར་སྒྱུར་བྱེད་དགོས། མའེ་ཐོན་ཟས་སྐྱེལ་ App ནི་ 8.28.3 དང་དེའི་ཡན་གྱི་པར་གཞི་ལ་གསར་སྒྱུར་བྱེད་དགོས། པའེ་ཏུའུ་ས་ཁྲ་ App ནི་ 20.2.0.1390 དང་དེའི་ཡན་གྱི་པར་གཞི་ལ་གསར་སྒྱུར་བྱེད་དགོས།)</feature>
+</features>
+<features module="【YOYO ལག་རོགས།】">
+<feature>སྐད་གདངས་གཉིད་སློང་དུ་གཉིད་སློང་མིང་བརྡ་རང་སྒྲིག་རྩོལ་ནུས་གསར་སྣོན་བྱས་ཡོད། ཁྱེད་ཀྱི་གཉིད་སློང་བྱེད་ཚིག་གི་དགོས་མཁོ་སྣ་མང་སྐོང་ཆོག ཉམས་ལེན་བརྒྱུད་ལམ་ནི། སྒྲིག་འགོད་ནས་རིག་ལྡན་ལག་རོགས། དེ་ནས་ YOYO ལག་རོགས། དེ་ནས་སྐད་གདངས་གཉིད་སློང་། དེ་ནས་གཉིད་སློང་བྱེད་ཚིག དེ་ནས་གཉིད་སློང་མིང་བརྡ་རང་སྒྲིག</feature>
+</features>
+<features module="【རིག་ལྡན་སྒྲོམ་མང་།】">
+<feature>ཡོལ་བགོ་ཉར་ཚགས་རྩོལ་ནུས་གསར་སྣོན་བྱས་ཡོད། ཡོལ་བགོའི་རྣམ་པའི་འོག་ཏུ་ཡོལ་བགོའི་ཐིག་གི་བར་གྱི་མཐེབ་ལ་བརྡབས་ན། ཡོལ་བགོའི་ཚོགས་སྒྲིག་རིས་རྟགས་རྣམ་པས་ཅོག་ངོས་སུ་ཉར་ཚགས་བྱ་ཆོག རྗེས་སུ་རིས་རྟགས་འདི་རྡེབ་པ་བརྒྱུད་ནས་མགྱོགས་མྱུར་གྱིས་ཡོལ་བགོ་ཚོགས་སྒྲིག་འདི་ཁ་ཕྱེ་ཆོག</feature>
+</features>
+<features module="【སྙོམས་འགྲོའི་བར་སྟོང་།】">
+<feature>རྗེས་སྙེག་འགོག་པའི་རྩོལ་ནུས་གསར་སྣོན་བྱས་ཡོད། ཉམས་ལེན་བརྒྱུད་ལམ། སྙོམས་འགྲོའི་བར་སྟོང་ནས་སྒྲིག་འགོད། དེ་ནས་གནས་ཡུལ་དང་བརྡ་ཁྱབ། དེ་ནས་གནས་ཡུལ་རྗེས་འདེད་དོ་དམ་ཡང་ན་བརྡ་ཁྱབ་རྗེས་འདེད་དོ་དམ་འདེམས་པ།</feature>
+</features>
+<features module="【རིག་ལྡན་མཐོང་ཚོར།】">
+<feature>རིག་ལྡན་དངོས་གཟུགས་ངོས་འཛིན་དང་རིག་ལྡན་ཟོག་ཉོའི་རྩོལ་ནུས་གསར་སྣོན་བྱས་ཡོད།</feature>
+</features>
+<features module="【བརྡ་ཐོའི་ཚན་བྱང་།】">
+<feature>བརྡ་ཐོའི་ཚན་བྱང་གི་བཀོད་སྒྲིག་མངོན་སྟོན་ལེགས་སྒྱུར་བྱས་ཡོད། མཚམས་ངོས་འགྲེམ་སྟོན་དེ་བས་སྟབས་བདེ་དང་མཛེས་པོ་ཡིན།</feature>
+</features>
+<features module="【རྒྱུད་ཁོངས】">
+<feature>རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་སྟེ། ཁྱེད་ཀྱི་ལག་ཁྱེར་ཁ་པར་འཁོར་སྐྱོད་བྱས་པ་སྔར་བས་བརྟན་འཇགས་བྱེད།</feature>
+</features>
+<features module="【བདེ་འཇགས།】">
+<feature>ཨན་སྒྲོའི་ 2024 ལོའི་ཟླ་ 7 པའི་བདེ་འཇགས་ལྷན་པ་བསྡེབས་ཏེ། རྒྱུད་ཁོངས་ཀྱི་བདེ་འཇགས་རང་བཞིན་ཇེ་བཟང་དུ་གཏོང་བ། རུང་ཡོའོ་མཉེན་ཆས་ཀྱི་བདེ་འཇགས་གསར་སྒྱུར་ནང་དོན་སྐོར་གྱི་ཆ་འཕྲིན་ལ། རུང་ཡོའོ་གཞུང་ཕྱོགས་དྲ་ཚིགས་ https://www.honor.com/cn/support/bulletin/2024/7 ལ་ལྟ་སྤྱོད་བྱེད་རོགས།</feature>
+</features>
+<features module="གསར་སྒྱུར་གྱི་དོ་སྣང་དོན་ཚན།" type="end">
+<feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གྱི་གཞི་གྲངས་གསུབ་མི་སྲིད། ཡིན་ནའང་ཁྱེད་ཀྱིས་གསར་སྒྱུར་མ་བྱས་གོང་གཞི་གྲངས་གྲབས་ཉར་ཡག་པོ་བྱས་ན་ལེགས།
+2. ངོ་མཚར་བའི་རྩོལ་ནུས་དེ་ལས་མང་བའི་ངོ་སྤྲོད་ཁ་པར་རྩེ་བའི་ལག་རྩལ་གྱི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་རོགས།
+3. གལ་ཏེ་ཁྱེད་ཀྱིས་བཀོལ་བའི་བརྒྱུད་རིམ་ཁྲོད་གནད་དོན་གང་རུང་ལ་འཕྲད་ཚེ། ངའི་རུང་ཡོའོ་ཡི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་པའམ། ཡང་ན་རུང་ཡོའོ་གཞུང་ཕྱོགས་ཞབས་ཞུའི་དྲ་ཚིགས་ https://www.honor.com/cn/contact-us ལ་ལྟ་སྤྱོད་བྱས་ཏེ་རྒྱབ་སྐྱོར་ཐོབ་ཐབས་བྱེད་རོགས།</feature>
+</features>
+</language>
+
+<language name="ug-cn" code="1152">
+<features module="" type="header">
+<feature>ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا چاققان لەيلىگۈچ مېيتۈەن، مېيتۈەن تاماق بۇيرۇتمىسى ۋە بەيدۇ ۋېلىسىپىت مىنگەندە يول باشلاش يېڭىلاندى، ئېكران بۆلۈشنى ساقلاش ئىقتىدارى، ئويغىتىش سۆزىنى ئۆزلەشتۈرۈش، ئىزلاشتىن ساقلىنىش، ئاڭلىق نەرسە تونۇش ۋە مال سېتىۋېلىش ئىقتىدارى يېڭىدىن قوشۇلدى، ئۇقتۇرۇش بالدىقىنىڭ كۆرسىتىش ئۈنۈمى ئەلالاشتۇرۇلدى، سىستېمىنىڭ مۇقىملىقى ئۆستۈرۈلۈپ، بىخەتەرلىك يامىقى قوشۇلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+</features>
+<features module="«چاققان لەيلىگۈچ»">
+<feature>مېيتۈەن، مېيتۈەن تاماق بۇيرۇتمىسى ۋە بەيدۇ ۋېلىسىپىت مىنگەندە يول باشلاشنى قوللايدىغان بولدى (دىققەت: مېيتۈەن ئەپىنىڭ نەشرىنى 12.21.405 ۋە ئۇنىڭدىن يۇقىرىغا ئۆستۈرۈش كېرەك، مىيتۈەن تاماق بۇيرۇتمىسى ئەپىنىڭ نەشرىنى 8.28.3 ۋە ئۇنىڭدىن يۇقىرىغا ئۆستۈرۈش كېرەك، بەيدۇ خەرىتىسى ئەپىنىڭ نەشرىنى 20.2.0.1390 ۋە ئۇنىڭدىن يۇقىرىغا ئۆستۈرۈش كېرەك).</feature>
+</features>
+<features module="«‏YOYO‏ ياردەمچىسى»">
+<feature>ئاۋازلىق ئويغىتىشقا ئويغىتىش سۆزىنى ئۆزلەشتۈرۈش ئىقتىدارى يېڭىدىن قوشۇلدى، ئۇ ئويغىتىش سۆزىنى كۆپ خىللاشتۇرۇش ئېھتىياجىڭىزنى قاندۇرىدۇ، سىناش يولى: «تەڭشەك > ئاڭلىق ياردەمچى > ‏YOYO‏ ياردەمچىسى > ئاۋازلىق ئويغىتىش > ئويغىتىش سۆزى > ئويغىتىش سۆزىنى ئۆزلەشتۈرۈش».</feature>
+</features>
+<features module="«كۆپ كۆزنەك»">
+<feature>ئېكران بۆلۈشنى ساقلاش ئىقتىدارى يېڭىدىن قوشۇلدى، ئېكران بۆلۈش ھالىتىدە ئېكران بۆلۈش سىزىقىنىڭ ئوتتۇرىدىكى كۇنۇپكىنى چەكسىڭىز، ئېكران بۆلۈش بىرىكمىسى سىنبەلگە شەكلىدە ئۈستەليۈزىگە ساقلىنىدۇ، كېيىن بۇ سىنبەلگىنى چېكىش ئارقىلىق بۇ ئېكران بۆلۈش بىرىكمىسىنى تېزلىكتە ئاچسىڭىز بولىدۇ.</feature>
+</features>
+<features module="«پاراللېل بوشلۇق»">
+<feature>ئىزلاشتىن ساقلىنىش ئىقتىدارى يېڭىدىن قوشۇلدى، سىناش يولى: پاراللېل بوشلۇق > تەڭشەك > ئورۇن ۋە ئېلان > ئورۇن ئىزلاشنى باشقۇرۇش ياكى ئېلان ئىزلاشنى باشقۇرۇشنى تاللاڭ.</feature>
+</features>
+<features module="«ئاڭلىق نەزەر»">
+<feature>ئاڭلىق نەرسە تونۇش ۋە ئاڭلىق مال سېتىۋېلىش ئىقتىدارى يېڭىدىن قوشۇلدى.</feature>
+</features>
+<features module="«ئۇقتۇرۇش بالدىقى»">
+<feature>ئۇقتۇرۇش بالدىقىنىڭ ئورۇنلاشتۇرۇلۇشى ئەلالاشتۇرۇلدى، ئارايۈز تېخىمۇ رەتلىك ۋە چىرايلىق كۆرۈنىدىغان بولدى.</feature>
+</features>
+<features module="«سىستېما»">
+<feature>سىستېمىنىڭ مۇقىملىقى ئۆستۈرۈلۈپ، يانفونىڭىزنىڭ ئىجرا قىلىنىشى تېخىمۇ مۇقىملاشتۇرۇلدى.</feature>
+</features>
+<features module="«بىخەتەرلىك»">
+<feature>ئاندرويدنىڭ 2024-يىل 7-ئايلىق بىخەتەرلىك يامىقى قوشۇلغان بولۇپ، سىستېما بىخەتەرلىكى كۈچەيتىلدى. روڭياۋ يۇمشاق دېتالىنىڭ بىخەتەرلىك يېڭىلاش مەزمۇنىغا ئالاقىدار ئۇچۇرلار ئۈچۈن روڭياۋ ئورگان تەرەپ تور بېكىتىنى زىيارەت قىلىڭ https://www.honor.com/cn/support/bulletin/2024/7</feature>
+</features>
+<features module="يېڭىلاشتا دىققەت قىلىدىغان ئىشلار:" type="end">
+<feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتلىرىڭىزنى ئۆچۈرمەيدۇ، ئەمما يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتىڭىزنى زاپاسلىۋېلىشىڭىزنى تەۋسىيە قىلىمىز.
+2. كۆپرەك قالتىس ئىقتىدارلار بىلەن تونۇشۇش ئۈچۈن «ئىشلىتىش كۆرسەتمىسى» ئەپىنى زىيارەت قىلىڭ.
+3. ئىشلىتىش جەريانىدا مەسىلىگە يولۇقسىڭىز، «روڭياۋىم» ئەپىنى زىيارەت قىلىڭ ياكى روڭياۋ ئورگان تەرەپ مۇلازىمەت تور بېكىتى https://www.honor.com/cn/contact-us نى زىيارەت قىلىپ ياردەم سوراڭ.</feature>
+</features>
+</language>
+
+<language name="zh-hk" code="3076">
+<features module="" type="header">
+<feature>親愛的用戶，本次更新靈動膠囊支援美團、美團外賣和百度騎行導航顯示，新增分割屏幕儲存功能、自訂的喚醒關鍵字、防追蹤、智能識物和購物功能，優化通知欄顯示效果，提升系統穩定性，整合安全性修補程式，建議您更新。</feature>
+</features>
+<features module="【靈動膠囊】">
+<feature>支援美團、美團外賣和百度騎行導航顯示（注意：美團 App 需升級至 12.21.405 及以上版本、美團外賣 App 需升級至 8.28.3 及以上版本、百度地圖 App 需升級至 20.2.0.1390 及以上版本）。</feature>
+</features>
+<features module="【YOYO 助理】">
+<feature>語音喚醒新增了自訂的喚醒關鍵字功能，滿足您對喚醒關鍵詞的多樣需求，體驗路徑：「設定 > 智能助手 > YOYO 助理 > 語音喚醒 > 喚醒關鍵詞 > 自訂的喚醒關鍵字」。</feature>
+</features>
+<features module="【智能多窗】">
+<feature>新增分割屏幕儲存功能。在分割屏幕狀態下輕觸分割屏幕線中間按鈕，可將分割屏幕組合以圖標形式儲存在主屏幕，之後可透過輕觸該圖標即可快速開啟此分割屏幕組合。</feature>
+</features>
+<features module="【平行空間】">
+<feature>新增防追蹤功能，體驗路徑：平行空間 > 設定 > 位置和廣告 > 選擇位置追蹤管理或廣告追蹤管理。</feature>
+</features>
+<features module="【智能視覺】">
+<feature>新增智能識物和智能購物功能。</feature>
+</features>
+<features module="【通知欄】">
+<feature>優化了通知欄佈局顯示，介面呈現更加簡潔美觀。</feature>
+</features>
+<features module="【系統】">
+<feature>提升系統穩定性，讓您的手機運行更穩定。</feature>
+</features>
+<features module="【安全】">
+<feature>整合 Android 2024年7月的安全性修補程式，增強系統安全性。如需有關榮耀軟件安全更新內容的資訊，請瀏覽榮耀官方網站 https://www.honor.com/cn/support/bulletin/2024/7</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份。
+2. 如需了解更多精彩功能的介紹，請瀏覽「玩機技巧」應用程式。
+3. 如果您在使用過程中遇到任何問題，請瀏覽「我的榮耀」應用程式，或瀏覽榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援。</feature>
+</features>
+</language>
+
+<language name="zh-tw" code="1028">
+<features module="" type="header">
+<feature>親愛的使用者，本次更新靈動膠囊支援美團、美團外賣和百度騎行導航顯示，新增螢幕分割儲存功能、自訂喚醒詞、防追蹤、智慧識物和購物功能，最佳化通知列顯示效果，提升系統穩定性，整合安全性修補程式，建議您進行更新。</feature>
+</features>
+<features module="【靈動膠囊】">
+<feature>支援美團、美團外賣和百度騎行導航顯示（註：美團 App 需要升級至 12.21.405 及以上版本、美團外賣 App 需要升級至 8.28.3 及以上版本、百度地圖 App 需要升級至 20.2.0.1390 及以上版本）。</feature>
+</features>
+<features module="【YOYO 助理】">
+<feature>語音喚醒新增自訂喚醒詞功能，滿足您對喚醒詞的多元需求，體驗路徑：「設定 > 智慧助手 > YOYO 助理 > 語音喚醒 > 喚醒詞 > 自訂喚醒詞」。</feature>
+</features>
+<features module="【智慧多窗】">
+<feature>新增螢幕分割儲存功能，螢幕分割狀態下輕觸螢幕分割線中間按鈕，可將螢幕分割組合，以圖示形式儲存在桌面，後續透過輕觸該圖示即可快捷開啟此螢幕分割組合。</feature>
+</features>
+<features module="【平行空間】">
+<feature>新增防追蹤功能，體驗路徑：平行空間 > 設定 > 位置和廣告 > 選取位置追蹤管理或廣告追蹤管理。</feature>
+</features>
+<features module="【智慧視覺】">
+<feature>新增智慧識物和智慧購物功能。</feature>
+</features>
+<features module="【通知列】">
+<feature>最佳化通知列版面配置顯示，介面呈現更加簡潔美觀。</feature>
+</features>
+<features module="【系統】">
+<feature>提升系統穩定性，讓您的手機執行更穩定。</feature>
+</features>
+<features module="【安全】">
+<feature>整合 Android 2024 年 7 月的安全性修補程式，增強系統安全性。如需有關榮耀軟體安全更新內容的資訊，請造訪榮耀官方網站 https://www.honor.com/cn/support/bulletin/2024/7</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份。
+2. 如需更多精彩功能介紹，請查看「玩機技巧」應用程式。
+3. 若您在使用過程中遇到任何問題，請查看「我的榮耀」應用程式，或造訪榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援。</feature>
+</features>
+</language>
+
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>642088960</cowsize>
+<payloadOffset>843</payloadOffset>
+<fileHash>v0HUIErm4Dd48tZ7aAA29JJr/0Wzq06prqyO6j58ARQ=</fileHash>
+<fileSize>9622</fileSize>
+<metadataHash>Uw67auY/tqw4gQ2VB1cyGlbkM6OhBLCzyJ6l5L8282c=</metadataHash>
+<metadataSize>4326</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="preload" package="update_preload_CRT-L03_telcel_mx_R1.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBP version="NA"/>
+<files>
+<file>
+<spath>update_preload_CRT-L03_telcel_mx_R1.zip</spath>
+<dpath>update_preload_CRT-L03_telcel_mx_R1.zip</dpath>
+<operation>c</operation>
+<sha256>4EF893A04A80FEA8063305C5092C49AEAE7D35BF1BA12F41EDC5F1C489906AA6</sha256>
+<size>16864</size>
+</file>
+</files>
+</root>

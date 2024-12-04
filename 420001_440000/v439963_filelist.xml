@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1076244480</cowsize>
+<payloadOffset>932</payloadOffset>
+<fileHash>NjeckUqrQMzgVPrTykXSJ6GgTp7NOEDjJpB0d/1GrZk=</fileHash>
+<fileSize>69346723</fileSize>
+<metadataHash>ksdAOFmm/VS44sEJJ5KaCIuFHT5WA+WkIlkBuazJzSM=</metadataHash>
+<metadataSize>20951</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ELI-N09_telcel_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ELI-N09_telcel_mx.zip</spath>
+<dpath>update_cust_ELI-N09_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>244174D440F9D0678DA531E29D1C2638C09A134442626FFB52F876FBD0F7632B</sha256>
+<size>69354049</size>
+</file>
+</files>
+</root>

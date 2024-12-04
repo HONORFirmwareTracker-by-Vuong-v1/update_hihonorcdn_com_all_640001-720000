@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>642097152</cowsize>
+<payloadOffset>711</payloadOffset>
+<fileHash>vhqtkIzGxIU2bCmv39g6wF7BAMX5CFMWlbvZ1T1safo=</fileHash>
+<fileSize>36076</fileSize>
+<metadataHash>4tLFFEjqpAW0LOtAj9iQRLljei3Brd8P5Ae7VMfb4Go=</metadataHash>
+<metadataSize>15882</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="preload" package="update_full_preload_VNE-L41CM_opr_eea_R1.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBP version="NA"/>
+<files>
+<file>
+<spath>update_full_preload_VNE-L41CM_opr_eea_R1.zip</spath>
+<dpath>update_full_preload_VNE-L41CM_opr_eea_R1.zip</dpath>
+<operation>c</operation>
+<sha256>DF6AFF5452658C02FB9EA08FD2242AB95417ADD07567F1ED9B9624D90051EBD0</sha256>
+<size>43194</size>
+</file>
+</files>
+</root>

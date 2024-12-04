@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新新增视频通话美颜和风险应用提示开关，优化状态栏字体图标显示，提升通话功能和横屏场景悬浮球使用体验，屏幕录制支持三档分辨率可调节，新增系统声音录制开关，优化收藏空间动效流畅性，提升系统稳定性和系统安全，推荐您进行更新。</feature>
+</features>
+<features module="【状态栏】">
+<feature>优化状态栏字体图标显示，增大字体字号，加粗图标样式，提高信息识别度。</feature>
+</features>
+<features module="【灵动胶囊】">
+<feature>新增视频通话美颜开关，设置路径：设置&gt;通知和状态栏&gt;灵动胶囊&gt;视频美颜。
+微信视频通话场景下，新增灵动胶囊形态的视频美颜调级，设置路径：设置&gt;辅助功能&gt;音视频通话增强&gt;视频通话美颜。</feature>
+</features>
+<features module="【系统管家】">
+<feature>新增风险应用提示开关，针对已被系统管控的风险应用，关闭开关后应用不再显示风险角标，桌面图标显示更简洁。设置路径：系统管家&gt;病毒查杀&gt;风险提示。</feature>
+</features>
+<features module="【通话】">
+<feature>优化通话记录合并功能，通过提示窗设置按联系人合并通话记录，让通话记录界面更简洁。
+优化通话录音功能，包括增加录制结束后的通知开关、录音保存记录扩容，让录音更便捷高效。</feature>
+</features>
+<features module="【智慧多窗】">
+<feature>优化横屏场景悬浮球使用体验，悬浮球停留位置避开前置摄像头区域，界面显示更美观。</feature>
+</features>
+<features module="【系统应用】">
+<feature>新增录屏场景录制系统声音开关，视频或语音通话时，支持录制系统声音，录屏更完整。设置路径：设置&gt;辅助功能&gt;屏幕录制&gt;录制系统声音。
+新增录屏分辨率自定义功能，支持三挡可调节（480P/720P/1080P），随心选择对应的分辨率进行屏幕录制，录屏更清晰，设置路径：设置&gt;辅助功能&gt;屏幕录制&gt;清晰度选择。</feature>
+</features>
+<features module="【收藏空间】">
+<feature>优化收藏空间动效流畅性。</feature>
+</features>
+<features module="【系统】">
+<feature>提升系统稳定性，让您的手机运行更稳定。</feature>
+</features>
+<features module="【安全】">
+<feature>新增设备传感器权限管控功能，您可自行选择是否允许应用获取设备传感器权限，有效管控“摇一摇”广告跳转，设置路径：设置&gt;应用&gt;权限管理&gt;权限&gt;获取设备动作与方向。
+新增 USB 连接用户身份认证功能，在选择“传输照片”或“传输文件”时，需要进行身份认证，让您的数据传输更安全。
+合入安卓2024年9月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2024/9</feature>
+</features>
+
+<features module="丝滑流畅">
+<feature>【流畅动效】采用了全新基于人因的动效设计，更自然舒适。应用启动/退出动画可打断动效，更连贯丝滑。</feature>
+</features><features module="玩转桌面">
+<feature>【桌面快捷服务】长按应用图标拖拽展开快捷功能，应用高频服务一键直达。</feature>
+<feature>【全新文件夹】全新设计，提供了更多文件夹尺寸，桌面个性化定制更灵活。可通过长按文件夹，拖拽边框，自由调节。</feature>
+<feature>【魔法锁屏】全新海报级魔法锁屏，您可以随心选择模板，玩转个性锁屏。</feature>
+<feature>【卡片堆叠】桌面卡片呈现更丰富，支持同尺寸卡片堆叠，上下滑动可切换卡片，节省更多桌面空间。</feature>
+<feature>【服务胶囊】YOYO建议卡片可切换为胶囊状态，让桌面更通透。体验路径：长按YOYO建议卡片-&gt;编辑默认样式-&gt;天气时钟+服务胶囊。</feature>
+<feature>【桌面图标】支持桌面图标大小调节，满足用户对图标大小的不同显示需求，体验路径：“设置-&gt;桌面和个性化-&gt;桌面设置-&gt;图标大小”。</feature>
+<feature>【分屏】新增一步手势分屏功能，应用全屏下拖动底部至左上角，点击其他支持分屏应用，即可实现应用分屏。</feature>
+<feature>【悬浮窗】迷你窗支持移动和悬停到手机桌面任意位置。</feature>
+</features><features module="智慧高效">
+<feature>【灵动胶囊】以“胶囊”形态显示进行中的任务，便于查看实时状态、执行快捷操作或快速进入应用，高效服务、准确触达。</feature>
+<feature>【荣耀任意门】全新荣耀任意门，长按文字、图片左右拖拽触发任意门，快捷分享至应用或服务，打车导航、观影购物、搜索分享、打印收藏等服务一步直达，化繁为简、省时省心。</feature>
+<feature>【收藏空间】全局收藏全新升级，万物皆可收藏，将图文、网页、视频、文件等素材快速收藏并显示到收藏空间，轻松收藏素材。点击展开收藏空间，长按单个或多个选中的内容，可拖出至其他应用使用。还可同步至信任环中其他设备，跨设备共享收藏的内容。</feature>
+<feature>【个人事务助手】从日程工具到个人事务助手，日程全收纳。散落的日程自动解析帮您录入，“我的一天”全天事务清晰呈现，为您提供高效的个人事务管理服务。</feature>
+<feature>【信任环】MagicRing技术持续突破，秒级组网，支持多业务并发，更多设备和服务加入信任环，以人为中心，应用跨端接续，服务高效流转。</feature>
+<feature>【YOYO助理】 语音助手成长为YOYO助理，为您提供更贴心的智慧服务，欢迎体验。</feature>
+</features><features module="安全守护">
+<feature>【平行空间】将您的照片、视频、应用隐藏到平行空间，与主空间隔离，更好的保护您的个人隐私。双空间同时运行，移入移出更方便。体验路径：设置-&gt;安全-&gt;平行空间。开启后可通过桌面双指外划快速进入平行空间。</feature>
+<feature>【屏幕共享保护】屏幕共享时，对方无法看到您的通知和消息。当系统检测到存在诈骗风险时，会主动示警并保护您的关键信息不泄露，如个人账号、密码、短信验证码等，保护您的财产安全。</feature>
+</features><features module="便捷好用">
+<feature>【流量校准】支持流量校准功能。体验路径：设置-&gt;移动网络-&gt;流量管理。</feature>
+<feature>【显示】优化部分视频通话场景的美颜效果。</feature>
+<feature>【相机】后置相机支持慢动作拍摄。</feature>
+<feature>【输入法】系统安全键盘支持数字9键输入。</feature>
+</features><features module="媒体创作">
+<feature>【精彩回忆】精彩时刻升级为精彩回忆，优化回忆封面，根据视频内容，为您的回忆视频智能生成适合的背景音乐。</feature>
+<feature>【相机模式布局自定义】支持相机模式的自定义布局，长按并拖动图标可将常用模式移动到浅层级功能区，操作更快捷。</feature>
+</features><features module="持久续航">
+<feature>【超级省电】新增超级省电模式，可以大幅提升手机续航。体验路径：设置-&gt;电池-&gt;超级省电模式。</feature>
+</features><features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持。</feature>
+</features></language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this update introduces Beauty in video calls and a switch for security warnings. This release also optimizes the display effect of text on the status bar and enhances the call functionality and the user experience of assistive ball in landscape mode. In this update, you can record system sound and select from three resolution levels for screen recordings. Additionally, the smoothness of motion effect in Favorites Space is optimized. The system stability and security are improved</feature>
+</features>
+<features module="Status bar">
+<feature>Information recognition is enhanced by increasing the text size and bolding the icons.</feature>
+</features>
+<features module="Magic Capsule">
+<feature>You can turn on or turn off Beauty during video calls. Try it out by going to: Settings &gt; Notifications and status bar &gt; Magic Capsule &gt; Beauty.
+You can turn on or off Beauty for video calls. Try it out by going to: Settings &gt; Accessibility features &gt; Call enhancement &gt; Video Call Beauty.</feature>
+</features>
+<features module="System Manager">
+<feature>A switch for security warnings is incorporated. For apps already under system control, the risk badge will no longer be displayed after the switch is turned off, making the home screen icons appear more streamlined. Try it out by going to: System Manager &gt; Virus scan &gt; Risk reminders</feature>
+</features>
+<features module="Call">
+<feature>You can merge call logs by contacts via prompt window, making the call log interface simpler.
+Enhances the call recording function by incorporating a notification switch after the recording ends and expanding the capacity for recording records, making recording more convenient and efficient.</feature>
+</features>
+<features module="Multi-Window">
+<feature>Optimizes the user experience of assistive ball in landscape mode, ensuring the assistive ball stays away from the front camera, thereby offering a simpler interface.</feature>
+</features>
+<features module="System Apps">
+<feature>You can record system sound during video or voice calls as desired. Try it out by going to: Settings &gt; Accessibility features &gt; Screen recording &gt; Record from system sound.
+You can select from 480P/720P/1080P for video quality in screen recordings. Try it out by going to: Settings &gt; Accessibility features &gt; Screen recording &gt; Video quality.</feature>
+</features>
+<features module="Favorites Space">
+<feature>Optimizes the smoothness of the motion effect in Favorites Space.</feature>
+</features>
+<features module="System">
+<feature>Improves the system stability to make your device run more stably.</feature>
+</features>
+<features module="Security">
+<feature>You have the option to allow apps to use device’s sensors, enabling the control of "shake-to-open" ads. Try it out by going to: Settings &gt; Apps &gt; Permission manager &gt; Permissions &gt; Device movement and orientation. 
+User authentication is required when using USB connection. A verification or security prompt appears when you select Transfer photos or Transfer files, ensuring safer data transfer.
+Android security patch (Sept 2024) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2024/9</feature>
+</features>
+
+<features module="Smooth and seamless">
+<feature>【Smooth animations】A brand-new, human-centered motion design is incorporated for a more natural and comfortable experience. Start/exit animation can interrupt the motion effect in apps. The process is more coherent and smoother.</feature>
+</features><features module="Explore the home screen">
+<feature>【Card stack】More cards are presented on home screen. This update supports the stacking of cards of the same size, saving more space on home screen. You can swipe up and down to switch cards.</feature>
+<feature>【Service capsule】YOYO Suggestions card can be switched to a capsule state to make the home screen more transparent. You can experience it by going to : Press and hold YOYO Suggestions card -&gt; Edit default style -&gt; Weather + Service capsule.</feature>
+<feature>【THome screen icons】he size of Home screen icons can be adjusted to meet the users' different needs. You can experience it by going to: Settings -&gt; Home screen and style -&gt; Home screen settings -&gt; Icon size.</feature>
+</features><features module="Explore the Home Screen">
+<feature>【Magic Wallpaper】With brand-new poster-level Magic Wallpaper, you can choose the template as you like and have fun with your personalized lock screen.</feature>
+</features><features module="Explore the home Screen">
+<feature>【App Extender】 You can now enable App Extender with a single gesture. Drag the bottom to the upper right corner, and then tap the other app supporting App Extender to display apps in dual windows.</feature>
+<feature>【Floating window】 Mini window can be moved and hovered to any position on the home screen.</feature>
+</features><features module="Smart and Efficient">
+<feature>【Magic Capsule】The Magic Capsule is displayed in the form of a "capsule", and presents ongoing tasks, making it easy to view real-time status, perform quick operations, or quickly enter applications. This function provides you with accurate and efficient services.</feature>
+<feature>【Magic Portal】This update has provided brand-new HONOR Magic Portal. You can tap and hold text or images and drag them left or right to invoke Magic Portal and quickly share it to apps or services. You can have direct access to services including ride hailing and navigation, watching movie and shopping, searching and sharing, printing and collection. Magic Portal makes things easier and save much time for you.</feature>
+<feature>【Favorites Space】Global Favorites has been newly upgraded, and everything can be collected. Images, texts, web pages, videos, files and other materials can be quickly collected and displayed in the Favorites Space, making it easy to collect materials. Tap to expand Favorites Space, touch and hold the selected one or multiple items, then you can drag them out to other apps. You can also synchronize them to MagicRing devices to share collected content across devices.</feature>
+<feature>【Personal Assistant】The schedule tool has been upgraded to Personal Assistant to include all the schedules. This function can automatically analyze scattered schedules and record them. All-day affairs will clearly display in “My Daily schedule”, providing you with efficient personal affairs management.</feature>
+<feature>【MagicRing】MagicRing technology continues to make breakthroughs, with second-level networking, supporting multi-service concurrency. More devices and services join MagicRing. MagicRing is people-centered, where applications are connected across devices, and services are efficiently transferred.</feature>
+<feature>【YOYO Assistant】AI Voice is enhanced to YOYO Assistant to provide you with better intelligent services.</feature>
+</features><features module="Security Guard">
+<feature>【Parallel Space】Your photos, videos, and apps can be hidden into Parallel Space that is isolated from the Main Space to better protect your personal privacy. Run two spaces at the same time, making moving in and out more convenient. You can experience it by going to: Settings -&gt; Security -&gt; Parallel Space. After enabling Parallel Space, you can quickly enter Parallel Space by swiping outward with two fingers on home screen.</feature>
+<feature>【Screen sharing protection】When you are sharing screen, the other party cannot see your notifications and messages. When the system detects the risk of fraud, it will proactively alert you and protect your key information from leakage, such as personal account, password, SMS verification code, etc., to protect your property security.</feature>
+</features><features module="Convenient and easy to use">
+<feature>【Data calibration】This update supports data calibration feature. You can experience it by going to: Settings -&gt; Mobile network -&gt; Data usage.</feature>
+<feature>【Display】 The beauty effect is optimized in some video calls.</feature>
+<feature>【Camera】 Rear camera supports slow-mo shooting.</feature>
+<feature>【Keyboard】 Secure keyboard supports PinyinT9 input.</feature>
+</features><features module="Media Creation">
+<feature>【Memories Highlights】Highlights is upgraded to Memories Highlights. This update has optimized the Memories album cover and can intelligently generate suitable background music for your Memory videos based on the video content.</feature>
+<feature>【Custom Camera Layout】This update supports custom layout for camera mode. You can tap and hold icons to move frequently used modes to the shallow functional area for easier operation.</feature>
+</features><features module="Long-lasting battery life">
+<feature>【Ultra Power Saving】Ultra Power Saving mode is added to largely improve battery life. You can experience it by going to: Settings -&gt; Battery &gt; Ultra Power Saving mode.</feature>
+</features><features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. Check out more information on product features in the Tips app.
+3. If you encounter any problem during use, please get support by going to My HONOR or visiting our website: https://www.honor.com/cn/contact-us.</feature>
+</features></language>
+
+</root>

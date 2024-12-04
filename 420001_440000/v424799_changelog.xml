@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新新增视频通话美颜和风险应用提示开关，提升通话功能、部分游戏场景性能和横屏场景悬浮球使用体验，屏幕录制支持三档分辨率可调节，新增系统声音录制开关，优化状态栏和收藏空间动效流畅性，修复部分场景异常耗电问题，提升系统稳定性和系统安全，推荐您进行更新。</feature>
+</features>
+<features module="【状态栏】">
+<feature>优化状态栏字体图标显示，增大字体字号，加粗图标样式，提高信息识别度。</feature>
+</features>
+<features module="【灵动胶囊】">
+<feature>新增视频通话美颜开关，设置路径：设置>通知和状态栏>灵动胶囊>视频美颜。
+微信视频通话场景下，新增灵动胶囊形态的视频美颜调级，设置路径：设置>辅助功能>音视频通话增强>视频通话美颜。</feature>
+</features>
+<features module="【系统管家】">
+<feature>新增风险应用提示开关，针对已被系统管控的风险应用，关闭开关后应用不再显示风险角标，桌面图标显示更简洁。设置路径：系统管家>病毒查杀>风险提示。</feature>
+</features>
+<features module="【通话】">
+<feature>优化通话记录合并功能，通过提示窗设置按联系人合并通话记录，让通话记录界面更简洁。
+优化通话录音功能，包括增加录制结束后的通知开关、录音保存记录扩容，让录音更便捷高效。</feature>
+</features>
+<features module="【智慧多窗】">
+<feature>优化横屏场景悬浮球使用体验，悬浮球停留位置避开前置摄像头区域，界面显示更美观。</feature>
+</features>
+<features module="【系统应用】">
+<feature>新增录屏场景录制系统声音开关，视频或语音通话时，支持录制系统声音，录屏更完整。设置路径：设置>辅助功能>屏幕录制>录制系统声音。
+新增录屏分辨率自定义功能，支持三挡可调节（480P/720P/1080P），随心选择对应的分辨率进行屏幕录制，录屏更清晰，设置路径：设置>辅助功能>屏幕录制>清晰度选择。</feature>
+</features>
+<features module="【收藏空间】">
+<feature>优化收藏空间动效流畅性。</feature>
+</features>
+<features module="【游戏】">
+<feature>提升部分游戏场景的性能体验。</feature>
+</features>
+<features module="【功耗】">
+<feature>修复部分场景异常耗电问题。</feature>
+</features>
+<features module="【系统】">
+<feature>提升系统稳定性，让您的手机运行更稳定。</feature>
+</features>
+<features module="【安全】">
+<feature>新增设备传感器权限管控功能，您可自行选择是否允许应用获取设备传感器权限，有效管控“摇一摇”广告跳转，设置路径：设置>应用>权限管理>权限>获取设备动作与方向。
+合入安卓2024年9月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2024/9
+新增 USB 连接用户身份认证功能，在选择“传输照片”或“传输文件 / Android Auto”时，需要进行身份认证，让您的数据传输更安全。</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this update introduces toggles for Beauty in video calls and for security warnings. This update allows you to record system sound and select from three resolution levels for screen recordings. This release also enhances calling and gaming performance, as well as the assistive ball’s usability in landscape mode. The smoothness of motion effect in status bar and Favorites Space is optimized. Additionally, this update fixes the issue of abnormal power consumption in some scenarios, and improves the system stability and security. It is recommended to update.</feature>
+</features>
+<features module="Status bar">
+<feature>Enhances information recognition by increasing the text size and bolding the icons.</feature>
+</features>
+<features module="Magic Capsule">
+<feature>Beauty can be enabled or disabled for video calls as needed. Try it out by going to: Settings > Notifications and status bar > Magic Capsule > Beauty.
+Beauty effect can be adjusted via Magic Capsule during WeChat video calls. Try it out by going to: Settings > Accessibility features > Call enhancement > Video Call Beauty.</feature>
+</features>
+<features module="System Manager">
+<feature>A toggle for security warnings is added. For apps already under system control, the risk badge will disappear after the switch is turned off, making the home screen more streamlined. Try it out by going to: System Manager > Virus scan > Risk reminders.</feature>
+</features>
+<features module="Call">
+<feature>Call logs can be merged by contacts via prompt window, simplifying the call log interface.
+Enhances the call recording function by incorporating a notification switch after the recording ends and expanding the capacity for recording records, making recording more convenient and efficient.</feature>
+</features>
+<features module="Multi-Window">
+<feature>Optimizes the user experience of assistive ball in landscape mode, ensuring the assistive ball stays away from the front camera, thereby offering a simpler interface.</feature>
+</features>
+<features module="System Apps">
+<feature>System sound can be recorded during video or voice calls as desired. Try it out by going to: Settings > Accessibility features > Screen recording > Record from system sound.
+Three resolution levels (480P/720P/1080P) are available for video quality in screen recordings. Try it out by going to: Settings > Accessibility features > Screen recording > Video quality.</feature>
+</features>
+<features module="Favorites Space">
+<feature>Optimizes the smoothness of the motion effect in Favorites Space.</feature>
+</features>
+<features module="Games">
+<feature>Improves the performance in some game scenarios.</feature>
+</features>
+<features module="Power consumption">
+<feature>Fixes the issue of abnormal power consumption in some scenarios.</feature>
+</features>
+<features module="System">
+<feature>Improves the system stability to make your device run more stably.</feature>
+</features>
+<features module="Security">
+<feature>You have the option to allow apps to use device’s sensors, enabling the control of “shake-to-open” ads. Try it out by going to: Settings > Apps > Permission manager > Permissions > Device movement and orientation.
+Android security patch (Sept 2024) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2024/9
+User authentication is required when using USB connection. A verification prompt appears when you select Transfer photos or Transfer files / Android Auto, ensuring safer data transfer.</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. Check out more information on product features in the Tips app.
+3. If you encounter any problem during use, please get support by going to My HONOR or visiting our website: https://www.honor.com/cn/contact-us.</feature>
+</features>
+</language>
+
+<language name="bo-cn" code="1105">
+<features module="" type="header">
+<feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་དུ་བརྙན་འཕྲིན་ཁ་པར་གཏོང་ལེན་གྱི་མཛེས་བཟོ་དང་ཉེན་ཁ་ཅན་གྱི་ཉེར་སྤྱོད་དྲན་སྐུལ་བསད་སྤར་གསར་སྣོན་བྱས་ཡོད། ཁ་པར་གཏོང་ལེན་རྩོལ་ནུས་དང་རོལ་རྩེད་བཟོ་ལྗོངས་ཁག་ཅིག་གི་གཤིས་ནུས། འཕྲེད་བརྙན་བཟོ་ལྗོངས་སུ་གཡེང་ཟླུམ་བེད་སྤྱོད་པའི་ཉམས་ལེན་མཐོར་འདེགས་བཏང་ཡོད། བརྙན་ཡོལ་ཐོག་བརྙན་འབེབས་བྱེད་པ་ལ་རིམ་པ་གསུམ་གྱི་དབྱེ་འབྱེད་ཚད་སྙོམ་སྒྲིག་བྱེད་པར་རྒྱབ་སྐྱོར་བྱེད། རྒྱུད་ཁོངས་ཀྱི་སྒྲ་ཕབ་བཟོའི་བསད་སྤར་གསར་སྣོན་བྱས་ཡོད། རྣམ་པའི་ཚན་བྱང་དང་བསྡུ་ཉར་བར་སྟོང་གི་འགུལ་ཁྱད་གྱི་ཐོགས་ཐུག་མེད་པའི་རང་བཞིན་ལེགས་སྒྱུར་བྱས་ཡོད། བཟོ་ལྗོངས་ཁག་ཅིག་གི་གློག་ཟད་རྒྱུན་ལྡན་མིན་པའི་གནད་དོན་ཉམས་གསོ་བྱས་ཡོད། རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་དང་རྒྱུད་ཁོངས་ཀྱི་བདེ་འཇགས་མཐོར་འདེགས་བཏང་ཡོད། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུའི་འོས་སྦྱོར་བྱེད།</feature>
+</features>
+<features module="【རྣམ་པའི་ཚན་བྱང་།】">
+<feature>རྣམ་པའི་ཚན་བྱང་གི་ཡིག་གཟུགས་མངོན་སྟོན་ལེགས་སྒྱུར་བྱས་ཡོད། ཡིག་གཟུགས་ཡིག་ཨང་ཇེ་ཆེར་བཏང་བ་དང་རིས་རྟགས་ཕྱི་ཚུལ་སྦོམ་བཟོ་བྱས་ནས། ཆ་འཕྲིན་ངོས་འཛིན་ཚད་མཐོར་འདེགས་བཏང་ཡོད།</feature>
+</features>
+<features module="【འགུལ་རྣམ་སྦྱིན་ཐུམ།】">
+<feature>བརྙན་འཕྲིན་ཁ་པར་གཏོང་ལེན་གྱི་མཛེས་བཟོའི་བསད་སྤར་གསར་སྣོན་བྱས་ཡོད། སྒྲིག་འགོད་བརྒྱུད་ལམ། སྒྲིག་འགོད་ནས་བརྡ་ཐོ་དང་རྣམ་པའི་ཚན་བྱང་། དེ་ནས་འགུལ་རྣམ་སྦྱིན་ཐུམ། དེ་ནས་བརྙན་ཟློས་མཛེས་བཟོ།
+སྐད་འཕྲིན་བརྙན་འཕྲིན་ཁ་པར་གཏོང་ལེན་གྱི་བཟོ་ལྗོངས་འོག འགུལ་རྣམ་སྦྱིན་ཐུམ་རྣམ་པའི་བརྙན་ཟློས་མཛེས་བཟོའི་སྙོམ་སྒྲིག་གསར་སྣོན་བྱས་ཡོད། སྒྲིག་འགོད་བརྒྱུད་ལམ། སྒྲིག་འགོད་ནས་རམ་འདེགས་ཀྱི་རྩོལ་ནུས། དེ་ནས་སྒྲ་ཟློས་དང་བརྙན་འཕྲིན་ཁ་པར་གཏོང་ལེན་སྟོབས་སྒྱུར་ངོས། དེ་ནས་བརྙན་འཕྲིན་ཁ་པར་གཏོང་ལེན་གྱི་མཛེས་བཟོ།</feature>
+</features>
+<features module="【རྒྱུད་ཁོངས་བདག་གཉེར་བ།】">
+<feature>ཉེན་ཁ་ཅན་གྱི་ཉེར་སྤྱོད་དྲན་སྐུལ་བསད་སྤར་གསར་སྣོན་བྱས་ཡོད། རྒྱུད་ཁོངས་ཀྱིས་བདག་དམ་བྱས་པའི་ཉེན་ཁ་ཅན་གྱི་ཉེར་སྤྱོད་ལ་དམིགས་ནས། བསད་སྤར་ཁ་བརྒྱབ་རྗེས་ཉེར་སྤྱོད་ལ་ཉེན་ཁའི་རྟགས་རིས་མི་མངོན། ཅོག་ངོས་རིས་རྟགས་དེ་བས་སྟབས་བདེ་ཡིན། སྒྲིག་འགོད་བརྒྱུད་ལམ། རྒྱུད་ཁོངས་བདག་གཉེར་བ་ནས་ནད་དུག་བཤེར་སེལ། དེ་ནས་ཉེན་ཁའི་དྲན་སྐུལ།</feature>
+</features>
+<features module="【ཁ་པར་གཏོང་ལེན།】">
+<feature>ཁ་པར་ཟིན་ཐོའི་ཟླ་སྒྲིལ་རྩོལ་ནུས་ལེགས་སྒྱུར་བྱས་ཡོད། དྲན་སྐུལ་སྒྲོམ་བརྒྱུད་ནས་འབྲེལ་གཏུག་མི་སྣ་ལྟར་ཁ་པར་ཟིན་ཐོ་ཟླ་སྒྲིལ་གཏོང་བ་སྒྲིག་འགོད་བྱས་ནས། ཁ་པར་ཟིན་ཐོའི་མཚམས་ངོས་དེ་བས་སྟབས་བདེ་བྱེད།
+ཁ་པར་གཏོང་ལེན་སྒྲ་ཕབ་རྩོལ་ནུས་ལེགས་སྒྱུར་བྱས་ཡོད་དེ། ཕབ་བཟོ་མཇུག་སྒྲིལ་རྗེས་ཀྱི་བརྡ་ཐོའི་བསད་སྤར་དང་སྒྲ་ཕབ་ཉར་ཚགས་ཟིན་ཐོའི་ཤོང་སྣོན་ཚུད་ཡོད། སྒྲ་ཕབ་དེ་བས་སྟབས་བདེ་དང་ནུས་ཕྱོད་མཐོ་བར་བྱེད།</feature>
+</features>
+<features module="【རིག་ལྡན་སྒྲོམ་མང་།】">
+<feature>འཕྲེད་བརྙན་བཟོ་ལྗོངས་སུ་གཡེང་ཟླུམ་གྱི་བེད་སྤྱོད་ཉམས་ལེན་ལེགས་སྒྱུར་བྱས་ཡོད། གཡེང་ཟླུམ་སྡོད་པའི་གནས་ཡུལ་སྔོན་སྒྲིག་བརྙན་མིག་གི་ཁྱབ་ཁོངས་ལས་གཡོལ། མཚམས་ངོས་མངོན་སྟོན་དེ་བས་མཛེས་པ་ཡིན།</feature>
+</features>
+<features module="【རྒྱུད་ཁོངས་ཉེར་སྤྱོད།】">
+<feature>ཡོལ་ཕབ་བཟོ་ལྗོངས་སུ་རྒྱུད་ཁོངས་ཀྱི་སྒྲ་ཕབ་བཟོ་བྱེད་པའི་བསད་སྤར་གསར་སྣོན་བྱས་ཡོད། བརྙན་ཟློས་སམ་སྐད་གདངས་ཀྱི་ཁ་པར་གཏོང་ལེན་བྱེད་སྐབས། རྒྱུད་ཁོངས་ཀྱི་སྒྲ་ཕབ་བཟོ་བྱེད་པར་རྒྱབ་སྐྱོར་བྱེད། ཡོལ་ཕབ་དེ་བས་ཆ་ཚང་ཡིན། སྒྲིག་འགོད་བརྒྱུད་ལམ། སྒྲིག་འགོད་ནས་རམ་འདེགས་རྩོལ་ནུས། དེ་ནས་བརྙན་ཡོལ་ཐོག་བརྙན་འབེབས་བྱེད། དེ་ནས་རྒྱུད་ཁོངས་ཀྱི་སྒྲ་ཕབ་བཟོ་བྱེད་པ།
+ཡོལ་ཕབ་དབྱེ་འབྱེད་ཚད་རང་སྒྲིག་གི་རྩོལ་ནུས་གསར་སྣོན་བྱས་ཡོད། རིམ་པ་གསུམ་སྙོམ་སྒྲིག་བྱ་ཆོག (480P/720P/1080P) གང་འདོད་ཀྱིས་ལྟོས་ཟླའི་དབྱེ་འབྱེད་ཚད་བདམས་ནས་བརྙན་ཡོལ་ཐོག་བརྙན་འབེབས་བྱེད། ཡོལ་ཕབ་དེ་བས་གསལ། སྒྲིག་འགོད་བརྒྱུད་ལམ། སྒྲིག་འགོད་ནས་རམ་འདེགས་ཀྱི་རྩོལ་ནུས། དེ་ནས་བརྙན་ཡོལ་ཐོག་བརྙན་འབེབས་བྱེད། དེ་ནས་གསལ་ཚད་འདེམས་པ།</feature>
+</features>
+<features module="【བསྡུ་ཉར་བར་སྟོང་།】">
+<feature>བསྡུ་ཉར་བར་སྟོང་གི་འགུལ་ཁྱད་ཀྱི་ཐོགས་ཐུག་མེད་པའི་རང་བཞིན་ལེགས་སྒྱུར་བྱས་ཡོད།</feature>
+</features>
+<features module="【རོལ་རྩེད།】">
+<feature>རོལ་རྩེད་བཟོ་ལྗོངས་ཁག་ཅིག་གི་གཤིས་ནུས་ཀྱི་ཉམས་ལེན་མཐོར་འདེགས་བྱས་ཡོད།</feature>
+</features>
+<features module="【ནུས་རྩོལ།】">
+<feature>བཟོ་ལྗོངས་ཁག་ཅིག་གི་གློག་ཟད་རྒྱུན་ལྡན་མིན་པའི་གནད་དོན་ཉམས་གསོ་བྱས་ཡོད།</feature>
+</features>
+<features module="【རྒྱུད་ཁོངས།】">
+<feature>རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་སྟེ། ཁྱེད་ཀྱི་ལག་ཁྱེར་ཁ་པར་གྱི་འཁོར་སྐྱོད་སྔར་ལས་བརྟན་པོ་ཡོང་བར་བྱེད།</feature>
+</features>
+<features module="【བདེ་འཇགས།】">
+<feature>སྒྲིག་ཆས་ཚོར་ཆས་ཀྱི་དབང་ཚད་བདག་དམ་རྩོལ་ནུས་གསར་སྣོན་བྱས་ཡོད། ཁྱེད་ཀྱིས་རང་མོས་སྒོས་ཉེར་སྤྱོད་ཀྱིས་སྒྲིག་ཆས་ཚོར་ཆས་ཀྱི་དབང་ཚད་ཐོབ་ཐབས་བྱེད་ཆོག་མིན་འདེམས་ཆོག གཡུག་གཡུག་གི་བརྡ་ཁྱབ་མཆོངས་པ་ནུས་ལྡན་གྱིས་ཚོད་འཛིན་ཐུབ། སྒྲིག་འགོད་བརྒྱུད་ལམ། སྒྲིག་འགོད་ནས་ཉེར་སྤྱོད། དབང་ཚད་དོ་དམ། དེ་ནས་དབང་ཚད། དེ་ནས་སྒྲིག་ཆས་འགུལ་སྟངས་དང་ཁ་ཕྱོགས་ཐོབ་ཐབས་བྱེད་པ།
+ཨན་སྒྲོའི་ 2024 ལོའི་ཟླ་ 9 པའི་བདེ་འཇགས་ལྷན་པ་འདྲེས་འཇུག་བྱས་ཡོད། རྒྱུད་ཁོངས་ཀྱི་བདེ་འཇགས་རང་བཞིན་སྟོབས་སྒྱུར་བྱེད། རུང་ཡོའོ་མཉེན་ཆས་ཀྱི་བདེ་འཇགས་གསར་སྒྱུར་ནང་དོན་སྐོར་གྱི་ཆ་འཕྲིན་ལ། རུང་ཡོའོ་གཞུང་ཕྱོགས་དྲ་ཚིགས་ https://www.honor.com/cn/support/bulletin/2024/9 ལ་ལྟ་སྤྱོད་བྱེད་རོགས།
+USB འབྲེལ་མཐུད་བྱེད་སྐབས་སྤྱོད་མཁན་ཀྱི་ཐོབ་ཐང་ར་སྤྲོད་རྩོལ་ནུས་གསར་སྣོན་བྱས་ཡོད། འདྲ་པར་བརྒྱུད་གཏོང་ཡང་ན་ཡིག་ཆ་བརྒྱུད་གཏོང་ / Android Auto འདེམས་སྐབས། ཐོབ་ཐང་ར་སྤྲོད་བྱེད་དགོས། ཁྱེད་ཀྱི་གཞི་གྲངས་བརྒྱུད་གཏོང་དེ་བས་བདེ་འཇགས་ཡིན་པར་བྱེད།</feature>
+</features>
+<features module="གསར་སྒྱུར་གྱི་དོ་སྣང་དོན་ཚན།" type="end">
+<feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གཞི་གྲངས་གསུབ་མི་སྲིད། འོན་ཀྱང་ཁྱེད་ཀྱིས་སྔར་བཞིན་གསར་སྒྱུར་བྱེད་སྔོན་གཞི་གྲངས་གྲབས་ཉར་ལེགས་པོ་བྱས་ན་ལེགས།
+2. ངོ་མཚར་བའི་རྩོལ་ནུས་དེ་ལས་མང་བའི་ངོ་སྤྲོད་ཁ་པར་རྩེ་བའི་ལག་རྩལ་གྱི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་རོགས།
+3. གལ་ཏེ་ཁྱེད་ཀྱིས་བཀོལ་བའི་བརྒྱུད་རིམ་ཁྲོད་གནད་དོན་གང་རུང་ལ་འཕྲད་ཚེ། ངའི་རུང་ཡོའོ་ཡི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་པའམ། ཡང་ན་རུང་ཡོའོ་གཞུང་ཕྱོགས་ཞབས་ཞུའི་དྲ་ཚིགས་ https://www.honor.com/cn/contact-us ལ་ལྟ་སྤྱོད་བྱས་ཏེ་རྒྱབ་སྐྱོར་ཐོབ་ཐབས་བྱེད་རོགས།</feature>
+</features>
+</language>
+
+<language name="ug-cn" code="1152">
+<features module="" type="header">
+<feature>ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا سىنلىق سۆزلىشىشتە گۈزەللەشتۈرۈش ۋە خەۋپلىك ئەپ ئەسكەرتىشى ئۈزچاتى يېڭىدىن قوشۇلدى، سۆزلىشىش ئىقتىدارى يۇقىرى كۆتۈرۈلدى، بىر قىسىم ئويۇن كۆرۈنۈشلىرىنىڭ ئىقتىدارى ۋە تۈزبوي كۆرۈنۈشىدىكى لەيلىمە شارچىنى ئىشلىتىش تەسىراتى يۇقىرى كۆتۈرۈلدى، ئېكران خاتىرىلەش ئۈچ دەرىجىلىك ئېنىقلىقنى تەڭشەشنى قوللايدىغان بولدى، سىستېما ئاۋازىنى ئۈنگە ئېلىش ئىقتىدارى قوشۇلدى، ھالەت بالدىقى ۋە يىغىش بوشلۇقى ھەرىكەت ئۈنۈمىنىڭ راۋانلىقى ئەلالاشتۇرۇلدى، بىر قىسىم كۆرۈنۈشلەردىكى بىنورمال توك خوراش مەسىلىسى ئوڭشالدى، سىستېما مۇقىملىقى ۋە سىستېما بىخەتەرلىكى يۇقىرى كۆتۈرۈلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+</features>
+<features module="«ھالەت بالدىقى»">
+<feature>ھالەت بالدىقىدىكى خەت سىنبەلگىسىنى كۆرسىتىش، خەت نۇسخىسىنى چوڭايتىش، توملىتىش سىنبەلگىسى ئۇسلۇبى ئەلالاشتۇرۇلۇپ، ئۇچۇر تونۇش نىسبىتى ئۆستۈرۈلدى.</feature>
+</features>
+<features module="«چاققان لەيلىگۈچ»">
+<feature>سىنلىق سۆزلىشىشتە گۈزەللەشتۈرۈش ئۈزچاتى يېڭىدىن قوشۇلدى، تەڭشەش يولى: تەڭشەك > ئۇقتۇرۇش ۋە ھالەت بالدىقى > چاققان لەيلىگۈچ > سىن گۈزەللەشتۈرۈش.
+ۋېيشىندا سىنلىق سۆزلىشىش كۆرۈنۈشىدە، چاققان لەيلىگۈچ شەكلىدىكى سىن گۈزەللەشتۈرۈش دەرىجىسىنى تەڭشەش ئىقتىدارى قوشۇلدى، تەڭشەش يولى: تەڭشەك > ياردەمچى ئىقتىدار > ئۈن-سىنلىق سۆزلىشىشنى كۈچەيتىش بېتى > سىنلىق سۆزلىشىشتە گۈزەللەشتۈرۈش.</feature>
+</features>
+<features module="«سىستېما باشقۇرغۇچ»">
+<feature>خەۋپلىك ئەپنى ئەسكەرتىش ئۈزچاتى يېڭىدىن قوشۇلدى، ئۈزچاتنى ئەتكەندىن كېيىن سىستېما تىزگىنلىگەن خەۋپلىك ئەپلەرنىڭ خەۋپ تامغىسى قايتا كۆرۈنمەيدۇ، ئۈستەليۈزى سىنبەلگىسى تېخىمۇ رەتلىك كۆرۈنىدىغان بولدى. تەڭشەش يولى: سىستېما باشقۇرغۇچ > ۋىرۇس تازىلاش > خەۋپ ئەسكەرتمىسى.</feature>
+</features>
+<features module="«سۆزلىشىش»">
+<feature>سۆزلىشىش خاتىرىسىنى بىرلەشتۈرۈش ئىقتىدارى ئەلالاشتۇرۇلدى، ئەسكەرتىش كۆزنىكى ئارقىلىق ئالاقىداشلارنى تەڭشەپ سۆزلىشىش خاتىرىسىنى بىرلەشتۈرۈشكە بولىدۇ، بۇ ئارقىلىق سۆزلىشىش خاتىرىسى كۆزنىكى تېخىمۇ رەتلىك كۆرۈنىدىغان بولدى.
+سۆزلىشىشنى ئۈنگە ئېلىش ئىقتىدارى ئەلالاشتۇرۇلدى، خاتىرىلەش ئاخىرلاشقاندىكى ئۇقتۇرۇش ئۈزچاتى ۋە ئۈنگە ئېلىشنى ساقلاشنى كېڭەيتىش ئىقتىدارى يېڭىدىن قوشۇلدى، ئۈنگە ئېلىش تېخىمۇ ئۈنۈملۈك بولىدىغان بولدى.</feature>
+</features>
+<features module="«كۆپ كۆزنەك»">
+<feature>تۈزبوي كۆرۈنۈشىدە لەيلىمە شارچىنى ئىشلىتىش تەسىراتى ئەلالاشتۇرۇلدى، لەيلىمە شارچىنىڭ توختاش ئورنى ئالدى كامېرا رايونىدىن ساقلىنىدىغان بولدى، ئارايۈز تېخىمۇ كۆركەم بولدى.</feature>
+</features>
+<features module="«سىستېما ئەپلىرى»">
+<feature>ئېكران خاتىرىلەش كۆرۈنۈشىدە سىستېما ئاۋازىنى ئۈنگە ئېلىش ئۈزچاتى يېڭىدىن قوشۇلدى، سىنلىق ياكى ئاۋازلىق سۆزلەشكەندە سىستېما ئاۋازىنى ئۈنگە ئېلىشنى قوللايدىغان بولدى، ئېكران خاتىرىلەش تېخىمۇ مۇكەممەل بولىدىغان بولدى. تەڭشەش يولى: تەڭشەك > ياردەمچى ئىقتىدار > ئېكران خاتىرىلەش > سىستېما ئاۋازىنى ئۈنگە ئېلىش.
+ئېكران خاتىرىلەش ئېنىقلىقىنى ئىختىيارىي بەلگىلەش ئىقتىدارى قوشۇلدى، ئۈچ دەرىجە (480P/720P/1080P) بويىچە تەڭشەشكە بولىدۇ، خالىغان ئېنىقلىق بويىچە ئېكران خاتىرىلەشكە بولىدۇ، ئېكران خاتىرىلەش تېخىمۇ ئېنىق بولىدىغان بولدى، تەڭشەش يولى: تەڭشەك > ياردەمچى ئىقتىدار > ئېكران خاتىرىلەش > ئېنىقلىق تاللاش.</feature>
+</features>
+<features module="«يىغىش بوشلۇقى»">
+<feature>يىغىش بوشلۇقى ھەرىكەت ئۈنۈمىنىڭ راۋانلىقى ئەلالاشتۇرۇلدى.</feature>
+</features>
+<features module="«ئويۇن»">
+<feature>بىر قىسىم ئويۇن كۆرۈنۈشلىرىنىڭ ئىقتىدار تەسىراتى ياخشىلاندى.</feature>
+</features>
+<features module="«توك سەرپىياتى»">
+<feature>بىر قىسىم كۆرۈنۈشلەردىكى بىنورمال توك خوراش مەسىلىسى ئوڭشالدى.</feature>
+</features>
+<features module="«سىستېما»">
+<feature>سىستېمىنىڭ مۇقىملىقى ئۆستۈرۈلۈپ، يانفونىڭىزنىڭ ئىجرا قىلىنىشى تېخىمۇ مۇقىملاشتۇرۇلدى.</feature>
+</features>
+<features module="«بىخەتەرلىك»">
+<feature>سىستېما سەزگۈچ ئىجازىتىنى كونترول قىلىش ئىقتىدارى يېڭىدىن قوشۇلدى، ئەپنىڭ ئۈسكۈنە سەزگۈچ ئىجازىتىگە ئېرىشىش-ئېرىشمەسلىكىنى ئ‍ۆزىڭىز تاللىسىڭىز بولىدىغان بولۇپ، «چايقاش» ئېلان سەكرەتمىلىرى ئۈنۈملۈك تىزگىنلەندى، تەڭشەش يولى: تەڭشەك > ئەپ > ئىجازەت باشقۇرۇش > ئىجازەت > ئۈسكۈنە ھەرىكىتى ۋە يۆنىلىشىگە ئېرىشىش.
+ئاندرويدنىڭ 2024-يىلى 9-ئايلىق بىخەتەرلىك يامىقى قوشۇلۇپ، سىستېما بىخەتەرلىكى كۈچەيتىلدى. روڭياۋ يۇمشاق دېتال بىخەتەرلىك يېڭىلانمىسىنىڭ مەزمۇنىغا ئائىت ئۇچۇرلارنى روڭياۋ ئورگان تەرەپ تور بېكىتى https://www.honor.com/cn/support/bulletin/2024/9 نى زىيارەت قىلىپ كۆرۈڭ.
+USB ئۇلىغاندا ئىشلەتكۈچى سالاھىيىتىنى دەلىللەش ئىقتىدارى قوشۇلدى، «رەسىم يوللاش» ياكى «ھۆججەت يوللاش/Android Auto» نى تاللىغان ۋاقىتتا سالاھىيەت دەلىللەش تەلەپ قىلىنىدىغان بولۇپ، مەلۇمات يوللاش تېخىمۇ بىخەتەر بولدى.</feature>
+</features>
+<features module="‏يېڭىلاشتا دىققەت قىلىدىغان ئىشلار:" type="end">
+<feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتلىرىڭىزنى ئۆچۈرمەيدۇ، ئەمما يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتىڭىزنى زاپاسلىۋېلىشىڭىزنى تەۋسىيە قىلىمىز.
+2. كۆپرەك قالتىس ئىقتىدارلار بىلەن تونۇشۇش ئۈچۈن «ئىشلىتىش كۆرسەتمىسى» ئەپىنى زىيارەت قىلىڭ.
+3. ئىشلىتىش جەريانىدا مەسىلىگە يولۇقسىڭىز، «روڭياۋىم» ئەپىنى زىيارەت قىلىڭ ياكى روڭياۋ ئورگان تەرەپ مۇلازىمەت تور بېكىتى https://www.honor.com/cn/contact-us نى زىيارەت قىلىپ ياردەم سوراڭ.</feature>
+</features>
+</language>
+
+<language name="zh-hk" code="3076">
+<features module="" type="header">
+<feature>親愛的用戶，本次更新新增了視像通話美顏和風險應用程式提示開關，提升了通話功能、部分遊戲場景性能和橫向屏幕場景浮動球使用體驗，屏幕錄影支援三檔可調節解析度，新增了系統聲音錄製開關，優化了狀態欄和最愛空間動畫效果流暢性，修復了部分場景異常耗電問題，提升了系統穩定性和系統安全，建議您更新。</feature>
+</features>
+<features module="【狀態欄】">
+<feature>優化狀態欄字體圖標顯示，增大字體大小，加粗圖標樣式，提高資訊識別度。</feature>
+</features>
+<features module="【靈動膠囊】">
+<feature>新增視像通話美顏開關，設定路徑：設定 > 通知和狀態欄 > 靈動膠囊 > 影片美顏。
+在 WeChat 視像通話場景下，新增靈動膠囊形態的影片美顏調整，設定路徑：設定 > 輔助功能 > 語音和視像通話增強 > 視像通話美顏。</feature>
+</features>
+<features module="【系統總管】">
+<feature>新增風險應用程式提示開關，針對已被系統管控的風險應用程式。關閉開關後，應用程式不再顯示風險徽章圖標，主屏幕圖標顯示更簡潔。設定路徑：系統總管 > 病毒掃描 > 風險提示。</feature>
+</features>
+<features module="【通話】">
+<feature>優化通話記錄合併功能，透過提示視窗設定，按聯絡人合併通話記錄，讓通話記錄介面更簡潔。
+優化通話錄音功能，包括增加錄製結束後的通知開關和錄音儲存記錄容量擴充，讓錄音更方便、有效率。</feature>
+</features>
+<features module="【智能多窗】">
+<feature>優化橫向屏幕場景浮動球使用體驗，浮動球停留位置避開前置鏡頭區域，介面顯示更美觀。</feature>
+</features>
+<features module="【系統應用程式】">
+<feature>新增錄屏場景錄製系統聲音開關，視像或語音通話時，支援錄製系統聲音，使錄屏更完整。設定路徑：設定 > 輔助功能 > 屏幕錄影 > 錄製系統聲音。
+新增了錄屏解析度自訂功能，支援三擋可調節（480P/720P/1080P），隨心選擇對應的解析度進行屏幕錄影，使錄屏更清晰，設定路徑：設定 > 輔助功能 > 屏幕錄影 > 清晰度選擇。</feature>
+</features>
+<features module="【最愛空間】">
+<feature>優化最愛空間動畫效果流暢性。</feature>
+</features>
+<features module="【遊戲】">
+<feature>提升部分遊戲場景的性能體驗。</feature>
+</features>
+<features module="【功耗】">
+<feature>修復部分場景異常耗電的問題。</feature>
+</features>
+<features module="【系統】">
+<feature>提升系統穩定性，讓您的手機運行更穩定。</feature>
+</features>
+<features module="【安全】">
+<feature>新增裝置感應器權限管控功能，您可自行選擇是否允許應用程式取得裝置感應器權限，有效管控「搖一搖」廣告重新導向，設定路徑：設定 > 應用程式 > 權限管理 > 權限 > 取得裝置動作與方向。
+整合 Android 2024 年 9 月安全性修補程式，增強系統安全性。如需了解有關榮耀軟件安全更新內容的資訊，請瀏覽榮耀官方網站 https://www.honor.com/cn/support/bulletin/2024/9
+新增 USB 連接用戶身份驗證功能，在選擇「傳輸相片」或「傳輸檔案 / Android Auto」時，需要進行身份驗證，讓您的數據傳輸更安全。</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份。
+2. 如需了解更多精彩功能的介紹，請瀏覽「玩機技巧」應用程式。
+3. 如果您在使用過程中遇到任何問題，請瀏覽「我的榮耀」應用程式，或瀏覽榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援。</feature>
+</features>
+</language>
+
+<language name="zh-tw" code="1028">
+<features module="" type="header">
+<feature>親愛的使用者，此更新新增視訊通話美顏與風險應用程式提示開關，提升通話功能、在部分遊戲場景下的效能和在橫向場景下的懸浮球使用體驗，螢幕錄影支援三檔解析度可調整，新增系統聲音錄製開關，最佳化狀態列與我的最愛空間動畫流暢性，修復在部分場景下的異常耗電問題，提升系統穩定性與系統安全，建議您進行更新。</feature>
+</features>
+<features module="【狀態列】">
+<feature>最佳化狀態列字體和圖示顯示，增大字體大小，加粗圖示樣式，並提高資訊辨識度。</feature>
+</features>
+<features module="【靈動膠囊】">
+<feature>新增視訊通話美顏開關，設定路徑：設定 > 通知和狀態列 > 靈動膠囊 > 視訊美顏。
+WeChat 視訊通話場景下，新增靈動膠囊形態的視訊美顏調整等級，設定路徑：設定 > 無障礙功能 > 語音和視訊通話增強頁面 > 視訊通話美顏。</feature>
+</features>
+<features module="【系統管理員】">
+<feature>新增風險應用程式提示開關，針對系統已管控的風險應用程式，關閉開關後，應用程式將不再顯示風險徽章圖示，桌面圖示顯示更簡潔。設定路徑：系統管理員 > 病毒掃描 > 風險提示。</feature>
+</features>
+<features module="【通話】">
+<feature>最佳化通話記錄合併功能，透過提示視窗設定依聯絡人合併通話記錄，讓通話記錄畫面更簡潔。
+最佳化通話錄音功能，包括增加錄音結束後的通知開關、錄音儲存記錄擴充容量，讓錄音更便捷高效。</feature>
+</features>
+<features module="【智慧多窗】">
+<feature>最佳化在橫向場景下的懸浮球使用體驗，懸浮球停留位置避開前置鏡頭區域，畫面顯示更美觀。</feature>
+</features>
+<features module="【系統應用程式】">
+<feature>新增螢幕錄影場景錄製系統聲音開關，視訊或語音通話時，支援錄製系統聲音，使螢幕錄影更完整。設定路徑：設定 > 無障礙功能 > 螢幕錄影 > 錄製系統聲音。
+新增螢幕錄影解析度自訂功能，支援三檔可調整 (480P/720P/1080P)，隨心選取對應的解析度進行螢幕錄影，使螢幕錄影更清晰，設定路徑：設定 > 無障礙功能 > 螢幕錄影 > 解析度選取。</feature>
+</features>
+<features module="【我的最愛空間】">
+<feature>最佳化我的最愛空間動畫流暢性。</feature>
+</features>
+<features module="【遊戲】">
+<feature>提升在部分遊戲場景下的效能體驗。</feature>
+</features>
+<features module="【電量消耗】">
+<feature>修復在部分場景下的異常耗電問題。</feature>
+</features>
+<features module="【系統】">
+<feature>提升系統穩定性，讓您的手機執行更穩定。</feature>
+</features>
+<features module="【安全】">
+<feature>新增裝置感測器權限管控功能，您可以自行選擇是否允許應用程式取得裝置感測器權限，有效管控「搖一搖」廣告重新導向，設定路徑：設定 > 應用程式 > 權限管理 > 權限 > 取得裝置動作與方向。
+整合 Android 2024 年 9 月的安全性修補程式，增強系統安全性。如需有關榮耀軟體安全更新內容的資訊，請造訪榮耀官方網站 https://www.honor.com/cn/support/bulletin/2024/9
+新增 USB 連接使用者身分驗證功能，選取「傳輸照片」或「傳輸檔案 / Android Auto」時，需要進行身分驗證，讓您的資料傳輸更安全。</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份。
+2. 如需更多精彩功能介紹，請查看「玩機技巧」應用程式。
+3. 若您在使用過程中遇到任何問題，請查看「我的榮耀」應用程式，或造訪榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援。</feature>
+</features>
+</language>
+
+</root>

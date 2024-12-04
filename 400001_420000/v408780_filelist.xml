@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642064384</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>xxPoBIj5MljHqgA6ntqFkEl3ra6Hvz9t5BVFuUMK6Z4=</fileHash>
+<fileSize>6625</fileSize>
+<metadataHash>SlV/PomIa1hLgZkRdnA088191MHrmAB7SOQTexc2ZCc=</metadataHash>
+<metadataSize>4263</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_RKY-L03_claro_la_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_RKY-L03_claro_la_R1.zip</spath>
+<dpath>update_preload_RKY-L03_claro_la_R1.zip</dpath>
+<operation>c</operation>
+<sha256>20309C207811952E61CE10F349DE144C44C88A8FD8A051CA131AFE0421C758F6</sha256>
+<size>13935</size>
+</file>
+</files>
+</root>

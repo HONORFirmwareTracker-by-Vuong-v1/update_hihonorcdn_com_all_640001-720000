@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1214750720</cowsize>
+<payloadOffset>884</payloadOffset>
+<fileHash>JJYKqB58LlkMoKFErWB3Hy6qtk83mU3KAVtEuLdPjrg=</fileHash>
+<fileSize>389285308</fileSize>
+<metadataHash>9896dOCNZ2XayCYtb/cgWFJmV61bCRq7HXtXqE7yIfY=</metadataHash>
+<metadataSize>25663</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="preload" package="update_preload_VNE-L43CM_def_la_R2.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBP version="NA"/>
+<files>
+<file>
+<spath>update_preload_VNE-L43CM_def_la_R2.zip</spath>
+<dpath>update_preload_VNE-L43CM_def_la_R2.zip</dpath>
+<operation>c</operation>
+<sha256>FF9CA62019DFBA53F70CF07FA9C47BA8BF65DB899D3D81B9715B514AC653F1A8</sha256>
+<size>389292602</size>
+</file>
+</files>
+</root>

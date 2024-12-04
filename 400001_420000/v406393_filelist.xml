@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1214738432</cowsize>
+<payloadOffset>884</payloadOffset>
+<fileHash>8eMDfJzvUBZ/P+gq225xjx/eRNItnommPKW5tWWY/98=</fileHash>
+<fileSize>235905817</fileSize>
+<metadataHash>UxT6V1mLvMEYZDsstlCFDDkbKn1g0hJUGn9ut3saCQc=</metadataHash>
+<metadataSize>15322</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="preload" package="update_preload_VNE-L41CM_def_meafnaf_R2.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBP version="NA"/>
+<files>
+<file>
+<spath>update_preload_VNE-L41CM_def_meafnaf_R2.zip</spath>
+<dpath>update_preload_VNE-L41CM_def_meafnaf_R2.zip</dpath>
+<operation>c</operation>
+<sha256>0F7915519338D54E6BC2E1437BE1A2EEFE5D8E79649C82C7188757CA05DB6385</sha256>
+<size>235913109</size>
+</file>
+</files>
+</root>

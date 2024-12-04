@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新新增相机水印可编辑、防跟踪、分屏保存功能和智慧购物功能，优化通知栏布局显示，提升部分场景通话、异常耗电和动效体验，合入安全补丁，推荐您进行更新。</feature>
+</features>
+<features module="【图库】">
+<feature>新增相机水印可编辑功能，可自行添加和还原水印，体验路径：拍照>打开照片>编辑>水印>水印选择：原图、文字水印、相框水印。</feature>
+</features>
+<features module="【平行空间】">
+<feature>新增防跟踪功能，体验路径：平行空间>设置>位置和广告>防位置跟踪或防广告跟踪。</feature>
+</features>
+<features module="【智慧视觉】">
+<feature>新增智慧购物功能。</feature>
+</features>
+<features module="【智慧多窗】">
+<feature>新增分屏保存功能，分屏状态下点击分屏线中间按钮，可将分屏组合以图标形式保存在桌面，后续通过点击该图标即可快捷打开此分屏组合。</feature>
+</features>
+<features module="【通知栏】">
+<feature>优化通知栏布局显示，界面呈现更加简洁美观。</feature>
+</features>
+<features module="【动效】">
+<feature>优化文件夹打断动效、图库旋转动效、快捷方式返回桌面动效等流畅动效体验。</feature>
+</features>
+<features module="【通信】">
+<feature>提升部分场景通话体验。</feature>
+</features>
+<features module="【功耗】">
+<feature>修复部分场景异常耗电问题。</feature>
+</features>
+<features module="【安全】">
+<feature>合入安卓2024年8月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2024/8</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this recommended update introduces Anti-tracking and AI shopping. Watermarks can be edited. App combinations in split-screen can be saved. This update also optimizes the layout of notification panel and enhances call experience as well as motion effects. Additionally, this release fixes the issue of abnormal power consumption and incorporates a security patch.</feature>
+</features>
+<features module="Gallery">
+<feature>Watermarks can now be added and removed as desired. You can experience it by going to: Take a photo > Open the photo > Edit > Watermark > Watermark options: Original, Text watermark, Frame watermark.</feature>
+</features>
+<features module="Parallel Space">
+<feature>Anti-tracking is incorporated. Try it out by going to: Parallel Space > Settings > Location and advertising > Select Location preferences or Ad preferences.</feature>
+</features>
+<features module="AI Lens">
+<feature>AI shopping is introduced.</feature>
+</features>
+<features module="Multi-Window">
+<feature>App combinations in split-screen mode can now be saved. In split-screen mode, tap the button in the middle of the divider to save the combination as an icon on the home screen. Tap the icon enables quick access to the combination.</feature>
+</features>
+<features module="Notification panel">
+<feature>The layout of notification panel is optimized, making the interface more streamlined and visually appealing.</feature>
+</features>
+<features module="Motion effect">
+<feature>The animation is optimized when the process of opening a folder is interrupted. Additionally, the motion effects for screen rotation in Gallery and for returning to the home screen from a shortcut are enhanced.</feature>
+</features>
+<features module="Communication">
+<feature>Optimizes the call experience in some scenarios.</feature>
+</features>
+<features module="Power consumption">
+<feature>Fixes the issue of abnormal power consumption in some scenarios.</feature>
+</features>
+<features module="Security">
+<feature>Android security patch (Aug 2024) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2024/8</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. Check out more information on product features in the Tips app.
+3. If you encounter any problem during use, please get support by going to My HONOR or visiting our website: https://www.honor.com/cn/contact-us.</feature>
+</features>
+</language>
+
+</root>

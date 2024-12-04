@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="请自行修改"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>本次更新新增面对面翻译功能，修复部分三方应用和系统功能相关问题，优化分屏和充电场景使用体验，提升系统稳定性，推荐您进行更新。</feature>
+</features>
+<features module="【面对面翻译】">
+<feature>支持轮流对话场景下，中文、英语、日语、韩语、德语、法语、西班语、葡萄牙语、意大利语、俄语之间的互译；支持语音和文本输入，以及翻译结果播报，体验路径：设置&gt;YOYO助手&gt;面对面翻译。</feature>
+</features>
+<features module="【游戏】">
+<feature>修复部分游戏分屏场景下键盘显示错位的问题。</feature>
+</features>
+<features module="【图库】">
+<feature>修复使用AI消除功能提示服务超时的问题。</feature>
+</features>
+<features module="【分屏】">
+<feature>提升部分三方以及系统应用分屏场景使用体验。</feature>
+</features>
+<features module="【充电】">
+<feature>优化待机充电场景热体验。</feature>
+</features>
+<features module="【系统】">
+<feature>提升系统稳定性，让您的手机运行更稳定。</feature>
+</features>
+
+<features module="【优化】">
+<feature>
+1. 优化部分场景相机拍照效果。
+2. 优化部分场景音频效果。
+3. 优化分屏和悬停部分场景稳定性。
+</feature>
+</features><features module="【相机】">
+<feature>优化部分场景前置摄像头、人像和夜景模式拍照成像效果。</feature>
+</features><features module="【应用】">
+<feature>提升系统与部分三方即时通信类、游戏类应用兼容性。</feature>
+</features><features module="【显示】">
+<feature>提升熄屏显示场景稳定性。</feature>
+</features><features module="【通知栏】">
+<feature>修复通知栏下拉后闪退的问题。</feature>
+</features><features module="【短信】">
+<feature>修复外屏打开短信应用出现白屏的问题。</feature>
+</features><features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持。</feature>
+</features></language>
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this recommended update optimizes the imaging performance in some scenarios, as well as the system compatibility with some third-party apps and the stability of AOD. Additionally, this issue fixes the crashing issue after pulling down the notification panel and the issue where a white screen appears when opening Messages on the exterior screen.</feature>
+</features>
+<features module="Camera">
+<feature>Optimizes the imaging performance of the front camera, Portrait mode and Night mode in some scenarios.</feature>
+</features>
+<features module="Application">
+<feature>Improves the system compatibility with some third-party apps.</feature>
+</features>
+<features module="Display">
+<feature>Improves the stability of AOD.</feature>
+</features>
+<features module="Notification panel">
+<feature>Fixes the crashing issue after pulling down the notification panel.</feature>
+</features>
+<features module="Messages">
+<feature>Fixes the issue where a white screen appears when opening Messages on the exterior screen.</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. Check out more information on product features in the Tips app.
+3. If you encounter any problem during use, please get support by going to My HONOR or visiting our website: https://www.honor.com/cn/contact-us.</feature>
+</features>
+</language><language name="bo-cn" code="1105">
+<features module="" type="header">
+<feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་བཟོ་ལྗོངས་ཁག་ཅིག་གི་པར་ལེན་བརྙན་འགྲུབ་ཁྱད་ནུས་ལེགས་སྒྱུར་བྱས་ཡོད། རྒྱུད་ཁོངས་དང་ཕྱོགས་གསུམ་པའི་ཉེར་སྤྱོད་ཁ་ཤས་ཀྱི་མཐུན་འགྲིག་རང་བཞིན་མཐོར་འདེགས་བཏང་ཡོད། བརྙན་ཡོལ་འགྲིབ་དུས་འཆར་བའི་བཟོ་ལྗོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་ཡོད། བརྡ་ཐོའི་ཚན་བྱང་ཐུར་འཐེན་རྗེས་མྱུར་ལོག་དང་ཕྱི་ཡོལ་དུ་འཕྲིན་ཐུང་ཉེར་སྤྱོད་ཁ་ཕྱེ་སྐབས་ཡོལ་དཀར་མངོན་པའི་གནད་དོན་ཉམས་གསོ་བྱས་ཡོད། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུའི་འོས་སྦྱོར་བྱེད།</feature>
+</features>
+<features module="【པར་ཆས།】">
+<feature>བཟོ་ལྗོངས་ཁག་ཅིག་གི་སྔོན་སྒྲིག་བརྙན་མིག་དང་མིའི་གཟུགས། མཚན་ལྗོངས་རྣམ་པ་བཅས་ཀྱི་པར་ལེན་བརྙན་འགྲུབ་ཁྱད་ནུས་ལེགས་སྒྱུར་བྱས་ཡོད།</feature>
+</features>
+<features module="【ཉེར་སྤྱོད།】">
+<feature>རྒྱུད་ཁོངས་དང་ཕྱོགས་གསུམ་པ་ཁག་ཅིག་ཏེ་མྱུར་འཕྲིན་རིགས་དང་རོལ་རྩེད་རིགས་ཀྱི་ཉེར་སྤྱོད་ཀྱི་མཐུན་འགྲིག་རང་བཞིན་མཐོར་འདེགས་བཏང་ཡོད།</feature>
+</features>
+<features module="【མངོན་སྟོན།】">
+<feature>བརྙན་ཡོལ་འགྲིབ་དུས་འཆར་བའི་བཟོ་ལྗོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་ཡོད།</feature>
+</features>
+<features module="【བརྡ་ཐོའི་ཚན་བྱང་།】">
+<feature>བརྡ་ཐོའི་ཚན་བྱང་ཐུར་འཐེན་རྗེས་མྱུར་ལོག་གི་གནད་དོན་ཉམས་གསོ་བྱས་ཡོད།</feature>
+</features>
+<features module="【འཕྲིན་ཐུང་།】">
+<feature>ཕྱི་ཡོལ་དུ་འཕྲིན་ཐུང་ཉེར་སྤྱོད་ཁ་ཕྱེ་སྐབས་ཡོལ་དཀར་མངོན་པའི་གནད་དོན་ཉམས་གསོ་བྱས་ཡོད།</feature>
+</features>
+<features module="གསར་སྒྱུར་གྱི་དོ་སྣང་དོན་ཚན།" type="end">
+<feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གྱི་གཞི་གྲངས་གསུབ་མི་སྲིད། ཡིན་ནའང་ཁྱེད་ཀྱིས་གསར་སྒྱུར་མ་བྱས་གོང་གཞི་གྲངས་གྲབས་ཉར་ཡག་པོ་བྱས་ན་ལེགས།
+2. ངོ་མཚར་བའི་རྩོལ་ནུས་དེ་ལས་མང་བའི་ངོ་སྤྲོད་ཁ་པར་རྩེ་བའི་ལག་རྩལ་གྱི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་རོགས།
+3. གལ་ཏེ་ཁྱེད་ཀྱིས་བཀོལ་བའི་བརྒྱུད་རིམ་ཁྲོད་གནད་དོན་གང་རུང་ལ་འཕྲད་ཚེ། ངའི་རུང་ཡོའོ་ཡི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་པའམ། ཡང་ན་རུང་ཡོའོ་གཞུང་ཕྱོགས་ཞབས་ཞུའི་དྲ་ཚིགས་ https://www.honor.com/cn/contact-us ལ་ལྟ་སྤྱོད་བྱས་ཏེ་རྒྱབ་སྐྱོར་ཐོབ་ཐབས་བྱེད་རོགས།</feature>
+</features>
+</language><language name="ug-cn" code="1152">
+<features module="" type="header">
+<feature>‏ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا بىر قىسىم كۆرۈنۈشلەردىكى رەسىم تارتىپ تەسۋىر ھاسىل قىلىش ئۈنۈمى يۇقىرى كۆتۈرۈلدى، سىستېما بىلەن بىر قىسىم ئۈچىنچى تەرەپ ئەپلىرىنىڭ ماسلىشىشچانلىقى يۇقىرى كۆتۈرۈلدى، ئىزچىل كۆرسىتىش كۆرۈنۈشىنىڭ تۇراقلىقى يۇقىرى كۆتۈرۈلدى، ئۇقتۇرۇش بالدىقىنى ئاستىغا سىيرىغاندىن كېيىن تۇيۇقسىز چېكىنىش مەسلىسى ھەل قىلىندى، سىرتقى ئېكراندا ئۇچۇر ئەپىنى ئاچقاندا ئاق ئېكران پەيدا بولۇش مەسىلىسى ھەل قىلىندى، يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+</features>
+<features module="‏«كامېرا»">
+<feature>‏بىر قىسىم كۆرۈنۈشلەردىكى ئالدى كامېرا، پورترېت ۋە كېچە ھالىتىدە رەسىمگە تارتىش ئۈنۈمى ئەلالاشتۇرۇلدى.</feature>
+</features>
+<features module="‏«ئەپ»">
+<feature>‏سىستېما بىلەن بىر قىسىم ئۈچىنچى تەرەپ تېز ئالاقە ئەپلىرى ۋە ئويۇن ئەپلىرىنىڭ ماسلىشىشچانلىقى ئۆستۈرۈلدى.</feature>
+</features>
+<features module="‏«كۆرسىتىش»">
+<feature>‏ئىزچىل كۆرسىتىش كۆرۈنۈشىنىڭ تۇراقلىقى يۇقىرى كۆتۈرۈلدى.</feature>
+</features>
+<features module="‏«ئۇقتۇرۇش بالدىقى»">
+<feature>‏ئۇقتۇرۇش بالدىقىنى ئاستىغا سىيرىغاندا تۇيۇقسىز چېكىنىش مەسىلىسى ھەل قىلىندى.</feature>
+</features>
+<features module="‏«ئۇچۇر»">
+<feature>‏سىرتقى ئېكراندا ئۇچۇر ئەپىنى ئاچقاندا ئاق ئېكران پەيدا بولۇش مەسىلىسى ھەل قىلىندى</feature>
+</features>
+<features module="‏يېڭىلاشتا دىققەت قىلىدىغان ئىشلار:" type="end">
+<feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتلىرىڭىزنى ئۆچۈرمەيدۇ، ئەمما يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتىڭىزنى زاپاسلىۋېلىشىڭىزنى تەۋسىيە قىلىمىز.
+2. كۆپرەك قالتىس ئىقتىدارلار بىلەن تونۇشۇش ئۈچۈن «ئىشلىتىش كۆرسەتمىسى» ئەپىنى زىيارەت قىلىڭ.
+3. ئىشلىتىش جەريانىدا مەسىلىگە يولۇقسىڭىز، «روڭياۋىم» ئەپىنى زىيارەت قىلىڭ ياكى روڭياۋ ئورگان تەرەپ مۇلازىمەت تور بېكىتى https://www.honor.com/cn/contact-us نى زىيارەت قىلىپ ياردەم سوراڭ.</feature>
+</features>
+</language><language name="zh-hk" code="3076">
+<features module="" type="header">
+<feature>親愛的用戶，本次更新優化部分場景拍攝成像效果，提升系統與部分第三方應用程式相容性，提升息屏顯示場景穩定性，修復通知欄向下拉動後突然退出，以及外屏幕開啟短訊應用程式出現屏幕變白的問題，建議您更新。</feature>
+</features>
+<features module="【相機】">
+<feature>優化部分場景前置鏡頭、人像和夜景模式拍攝成像效果。</feature>
+</features>
+<features module="【應用程式】">
+<feature>提升系統與部分第三方即時通訊類，以及遊戲類應用程式相容性。</feature>
+</features>
+<features module="【顯示】">
+<feature>提升息屏顯示場景穩定性。</feature>
+</features>
+<features module="【通知欄】">
+<feature>修復通知欄向下拉動後突然退出的問題。</feature>
+</features>
+<features module="【短訊】">
+<feature>修復外屏幕開啟短訊應用程式出現屏幕變白的問題。</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份。
+2. 如需了解更多精彩功能的介紹，請瀏覽「玩機技巧」應用程式。
+3. 如果您在使用過程中遇到任何問題，請瀏覽「我的榮耀」應用程式，或瀏覽榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援。</feature>
+</features>
+</language><language name="zh-tw" code="1028">
+<features module="" type="header">
+<feature>親愛的使用者：本次更新最佳化在部分場景下的拍照成像效果，提升系統與部分第三方應用程式的相容性，提升隨顯螢幕顯示場景穩定性，修復通知列下拉後閃退，以及外螢幕開啟簡訊應用程式出現白色畫面的問題，建議您進行更新。</feature>
+</features>
+<features module="【相機】">
+<feature>最佳化在部分場景下的前置鏡頭、人像和夜景模式拍照成像效果。</feature>
+</features>
+<features module="【應用程式】">
+<feature>提升系統與部分第三方即時通訊類、遊戲類應用程式的相容性。</feature>
+</features>
+<features module="【顯示】">
+<feature>提升隨顯螢幕顯示場景穩定性。</feature>
+</features>
+<features module="【通知列】">
+<feature>修復通知列下拉後閃退的問題。</feature>
+</features>
+<features module="【簡訊】">
+<feature>修復外螢幕開啟簡訊應用程式出現白色畫面的問題。</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份。
+2. 如需更多精彩功能介紹，請查看「玩機技巧」應用程式。
+3. 若您在使用過程中遇到任何問題，請查看「我的榮耀」應用程式，或造訪榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援。</feature>
+</features>
+</language></root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1484234752</cowsize>
+<payloadOffset>884</payloadOffset>
+<fileHash>gKdqnpqpAsFx8BGb29X0i3O+/kG7RiGg2/mdbGwDxEw=</fileHash>
+<fileSize>462241820</fileSize>
+<metadataHash>HDUMYOJUuii7u0HqowYvVWY7uAiArqUxeiAXr38XlWA=</metadataHash>
+<metadataSize>29528</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_cust_CRT-L03_claro_la.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_cust_CRT-L03_claro_la.zip</spath>
+<dpath>update_cust_CRT-L03_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>25D7467EA5FE430E9BF04AC9380101097A803E051AB5BFA4006C19DF81665D87</sha256>
+<size>462249091</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>44179456</cowsize>
+<payloadOffset>702</payloadOffset>
+<fileHash>jsfBBQHX9cAC+G3uYRFeO5zm8qG+eaukctc0sNg3eek=</fileHash>
+<fileSize>7382</fileSize>
+<metadataHash>oP+pSiBuDoOks2qfOHJJ8wdOhBLJXNXS5H4SZpaAOuU=</metadataHash>
+<metadataSize>1060</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_VNE-L41CM_def_meafnaf.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_VNE-L41CM_def_meafnaf.zip</spath>
+<dpath>update_full_cust_VNE-L41CM_def_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>B4D0484041D39EA9389FDF274025BD3D645574334379F7B8EB4FE74D3DB10241</sha256>
+<size>14472</size>
+</file>
+</files>
+</root>

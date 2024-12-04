@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>615878656</cowsize>
+<payloadOffset>931</payloadOffset>
+<fileHash>1vv1jm2XzZ0AUz0ZISpt10AmNrx78xh1FT94zQJyGWo=</fileHash>
+<fileSize>31021290</fileSize>
+<metadataHash>IPmC0JBVT+dc6b3OJmdoZ/ehTT85bfR3ab6V2obR6S0=</metadataHash>
+<metadataSize>7227</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_LLY-N31_opr_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_LLY-N31_opr_eea.zip</spath>
+<dpath>update_cust_LLY-N31_opr_eea.zip</dpath>
+<operation>c</operation>
+<sha256>DA7524EC8ADE528885B82614BF5E025BCFCD6373ADB76EC13C11B09B284E1D54</sha256>
+<size>31028616</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>12966973</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>758</payloadOffset>
+<fileHash>1WATEwLV1qC2kE6zndMMAKVnOpGGC44CRd2xxC4LVmw=</fileHash>
+<fileSize>7384</fileSize>
+<metadataHash>msZr6aPXWbbKfBloYDOq0GoYiJRosB7gUE5vObgvfm4=</metadataHash>
+<metadataSize>1074</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_NDL-L09_def_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_NDL-L09_def_meafnaf.zip</spath>
+<dpath>update_full_cust_NDL-L09_def_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>7D875B5A5421EC3E81D8BE9E11BDF7FABF103CC05CC2C93A00FE4759E39D575B</sha256>
+<size>14529</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1119084544</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>y43htiV6U2bx7lilFnpzecZvF8mGYiTc8iSRJ5VUyRQ=</fileHash>
+<fileSize>184200367</fileSize>
+<metadataHash>lprmAokrwy5tjbDLVw8nUIhaiCyYU+h/xXRMt0dVpsU=</metadataHash>
+<metadataSize>16583</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_JDY-L13P_telcel_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_JDY-L13P_telcel_mx.zip</spath>
+<dpath>update_cust_JDY-L13P_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>6A8410BA21113265535DA65FE52A5877DA177BBF24A77B4CC55EF2A1D999FB88</sha256>
+<size>184207705</size>
+</file>
+</files>
+</root>

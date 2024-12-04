@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>791</payloadOffset>
+<fileHash>396jTSzXUKc3x8M7r9YVAuLDXyjADr3ajzlIAUrB1gQ=</fileHash>
+<fileSize>40034553</fileSize>
+<metadataHash>C35B/HXAlAeU+7/c+odm2m4eNn6mRR5a3Jme0tK1CcQ=</metadataHash>
+<metadataSize>15818</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_VNE-L41CM_opr_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_VNE-L41CM_opr_eea.zip</spath>
+<dpath>update_full_cust_VNE-L41CM_opr_eea.zip</dpath>
+<operation>c</operation>
+<sha256>5EE5D74AA166F9335738E0597A9826D6EFF564767ABD7B6E0336B17982D0119E</sha256>
+<size>40041736</size>
+</file>
+</files>
+</root>

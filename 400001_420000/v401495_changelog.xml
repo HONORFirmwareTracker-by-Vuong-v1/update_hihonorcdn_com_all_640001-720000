@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新修复部分应用启动悬浮窗概率性显示白屏或黑屏的问题，提升系统与部分三方应用兼容性，推荐您进行更新。</feature>
+</features>
+<features module="【悬浮窗】">
+<feature>修复部分应用启动悬浮窗概率性出现白屏或黑屏的问题。</feature>
+</features>
+<features module="【应用】">
+<feature>提升系统与部分三方应用兼容性。</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this recommended update fixes the issue that the screen occasionally turns black or white when opening some apps as floating windows, and improves the system compatibility with some third-party apps.</feature>
+</features>
+<features module="Floating window">
+<feature>Fixes the issue that the screen occasionally turns black or white when opening some apps as floating windows.</feature>
+</features>
+<features module="Application">
+<feature>Improves the system compatibility with some third-party apps.</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not erase your personal data, but a backup beforehand is still recommended.
+2. Check out more information on product features in the Tips app.
+3. If you encounter any problem during use, please get support by going to My HONOR or visiting our website: https://www.honor.com/cn/contact-us.</feature>
+</features>
+</language>
+
+<language name="bo-cn" code="1105">
+<features module="" type="header">
+<feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཉེར་སྤྱོད་ཁག་ཅིག་གིས་གཡེང་སྒྲོམ་འགོ་སློང་བའི་སྲིད་ཕྱོད་རང་བཞིན་དུ་ཡོལ་དཀར་ཡང་ན་ཡོལ་ནག་མངོན་སྟོན་བྱེད་པའི་གནད་དོན་སླར་གསོ་བྱས་ཡོད། རྒྱུད་ཁོངས་དང་ཕྱོགས་གསུམ་པའི་ཉེར་སྤྱོད་ཁ་ཤས་ཀྱི་མཐུན་འགྲིག་རང་བཞིན་མཐོར་འདེགས་བཏང་ཡོད། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུའི་འོས་སྦྱོར་བྱེད།</feature>
+</features>
+<features module="【གཡེང་སྒྲོམ།】">
+<feature>ཉེར་སྤྱོད་ཁག་ཅིག་གིས་གཡེང་སྒྲོམ་འགོ་སློང་བའི་སྲིད་ཕྱོད་རང་བཞིན་དུ་ཡོལ་དཀར་ཡང་ན་ཡོལ་ནག་བྱུང་བའི་གནད་དོན་སླར་གསོ་བྱས་ཡོད།</feature>
+</features>
+<features module="【ཉེར་སྤྱོད།】">
+<feature>རྒྱུད་ཁོངས་དང་ཕྱོགས་གསུམ་པའི་ཉེར་སྤྱོད་ཁ་ཤས་ཀྱི་མཐུན་འགྲིག་རང་བཞིན་མཐོར་འདེགས་བཏང་ཡོད།</feature>
+</features>
+<features module="གསར་སྒྱུར་གྱི་དོ་སྣང་དོན་ཚན།" type="end">
+<feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གྱི་གཞི་གྲངས་གསུབ་མི་སྲིད། ཡིན་ནའང་ཁྱེད་ཀྱིས་གསར་སྒྱུར་མ་བྱས་གོང་གཞི་གྲངས་གྲབས་ཉར་ཡག་པོ་བྱས་ན་ལེགས།
+2. ངོ་མཚར་བའི་རྩོལ་ནུས་དེ་ལས་མང་བའི་ངོ་སྤྲོད་ཁ་པར་རྩེ་བའི་ལག་རྩལ་གྱི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་རོགས།
+3. གལ་ཏེ་ཁྱེད་ཀྱིས་བཀོལ་བའི་བརྒྱུད་རིམ་ཁྲོད་གནད་དོན་གང་རུང་ལ་འཕྲད་ཚེ། ངའི་རུང་ཡོའོ་ཡི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་པའམ། ཡང་ན་རུང་ཡོའོ་གཞུང་ཕྱོགས་ཞབས་ཞུའི་དྲ་ཚིགས་ https://www.honor.com/cn/contact-us ལ་ལྟ་སྤྱོད་བྱས་ཏེ་རྒྱབ་སྐྱོར་ཐོབ་ཐབས་བྱེད་རོགས།</feature>
+</features>
+</language>
+
+<language name="ug-cn" code="1152">
+<features module="" type="header">
+<feature>‏ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا بىر قىسىم ئەپلەردىكى لەيلىمە كۆزنەك قوزغالغاندا ئاق ئېكران ياكى قارا ئېكران كۆرۈنۈش ئىھتىماللىقى مەسىلىسى ئوڭشالدى، سىستېما بىلەن بىر قىسىم ئۈچىنچى تەرەپ ئەپلەرنىڭ ماسلىشىشچانلىقى ئاشۇرۇلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+</features>
+<features module="‏«لەيلىمە كۆزنەك»">
+<feature>‏بىر قىسىم ئەپلەردىكى لەيلىمە كۆزنەك قوزغالغاندا ئاق ئېكران ياكى قارا ئېكران كۆرۈنۈش ئېھتىماللىقى مەسىلىسى ئوڭشالدى.</feature>
+</features>
+<features module="‏«ئەپ»">
+<feature>‏سىستېما بىلەن بىر قىسىم ئۈچىنچى تەرەپ ئەپلىرىنىڭ ماسلىشىشچانلىقى ئۆستۈرۈلدى.</feature>
+</features>
+<features module="‏يېڭىلاشتا دىققەت قىلىدىغان ئىشلار:" type="end">
+<feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتلىرىڭىزنى ئۆچۈرمەيدۇ، ئەمما يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتىڭىزنى زاپاسلىۋېلىشىڭىزنى تەۋسىيە قىلىمىز.
+2. كۆپرەك قالتىس ئىقتىدارلار بىلەن تونۇشۇش ئۈچۈن «ئىشلىتىش كۆرسەتمىسى» ئەپىنى زىيارەت قىلىڭ.
+3. ئىشلىتىش جەريانىدا مەسىلىگە يولۇقسىڭىز، «روڭياۋىم» ئەپىنى زىيارەت قىلىڭ ياكى روڭياۋ ئورگان تەرەپ مۇلازىمەت تور بېكىتى https://www.honor.com/cn/contact-us نى زىيارەت قىلىپ ياردەم سوراڭ.</feature>
+</features>
+</language>
+
+<language name="zh-hk" code="3076">
+<features module="" type="header">
+<feature>親愛的用戶，本次更新旨在修復部分應用程式啟動浮動視窗時有機率出現白屏或黑屏的問題，提升系統與部分第三方應用程式的相容性，建議您進行更新。</feature>
+</features>
+<features module="【浮動視窗】">
+<feature>修復部分應用程式啟動浮動視窗時有機率出現白屏或黑屏的問題。</feature>
+</features>
+<features module="【應用程式】">
+<feature>提升系統與部分第三方應用程式的相容性。</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份。
+2. 如需了解更多精彩功能的介紹，請瀏覽「玩機技巧」應用程式。
+3. 如果您在使用過程中遇到任何問題，請瀏覽「我的榮耀」應用程式，或瀏覽榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援。</feature>
+</features>
+</language>
+
+<language name="zh-tw" code="1028">
+<features module="" type="header">
+<feature>親愛的使用者，本次更新修復部分應用程式啟動懸浮視窗可能顯示白色畫面或黑色畫面的問題，提升系統與部分第三方應用程式的相容性，建議您進行更新。</feature>
+</features>
+<features module="【懸浮視窗】">
+<feature>修復部分應用程式啟動懸浮視窗可能出現白色畫面或黑色畫面的問題。</feature>
+</features>
+<features module="【應用程式】">
+<feature>提升系統與部分第三方應用程式的相容性。</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份。
+2. 如需更多精彩功能介紹，請查看「玩機技巧」應用程式。
+3. 若您在使用過程中遇到任何問題，請查看「我的榮耀」應用程式，或造訪榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援。</feature>
+</features>
+</language>
+
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44150784</cowsize>
+<payloadOffset>898</payloadOffset>
+<fileHash>tV8SoKzT3TGx3ua3bulr/ptqZVQf8rEH+mBL1IZlBhE=</fileHash>
+<fileSize>3008</fileSize>
+<metadataHash>vjxe89I9/UqOG2EXsVf2LUUVBVphVdrrgbQyLk1R6Aw=</metadataHash>
+<metadataSize>642</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_RKY-L32_def_spcseas.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_RKY-L32_def_spcseas.zip</spath>
+<dpath>update_cust_RKY-L32_def_spcseas.zip</dpath>
+<operation>c</operation>
+<sha256>239D8A3805982561775674859A1555AF8ECAB67AC7375CD12E71F365D7083885</sha256>
+<size>10292</size>
+</file>
+</files>
+</root>

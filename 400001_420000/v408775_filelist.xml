@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1484234752</cowsize>
+<payloadOffset>884</payloadOffset>
+<fileHash>VQbcM5H1hqnxk68VCW+lBXlRUn2y4O8NaNhnfF1TLeM=</fileHash>
+<fileSize>455318082</fileSize>
+<metadataHash>Tfi5RL7qoS8qHkIY7z9XBRCCMCfT99gswAtilLt1BpM=</metadataHash>
+<metadataSize>29701</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_cust_RKY-L03_claro_la.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_cust_RKY-L03_claro_la.zip</spath>
+<dpath>update_cust_RKY-L03_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>13660F70A175C1412159EB8B59F606DA240F5888194B03A7E709526C833EC0E2</sha256>
+<size>455325359</size>
+</file>
+</files>
+</root>

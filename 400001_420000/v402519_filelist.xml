@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>915</payloadOffset>
+<fileHash>YnJBboFa4zoe+qclrRdm0az1msblnGNMCpl20G2h7OI=</fileHash>
+<fileSize>674534</fileSize>
+<metadataHash>2NGgs82KNOtu17IO1YSJwKooTZbgDkOLzBWJ0a15M+E=</metadataHash>
+<metadataSize>905</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_VNE-L43CM_def_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_VNE-L43CM_def_la.zip</spath>
+<dpath>update_cust_VNE-L43CM_def_la.zip</dpath>
+<operation>c</operation>
+<sha256>D3786D387EE322518E55F2B3891508B11C25DE03DF743BFF7363E3E76B3533AD</sha256>
+<size>681837</size>
+</file>
+</files>
+</root>

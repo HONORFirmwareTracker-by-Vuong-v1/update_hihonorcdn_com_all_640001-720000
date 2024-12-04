@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>910204928</cowsize>
+<payloadOffset>938</payloadOffset>
+<fileHash>+WutNfuKw6/KWFyNbYmyUcbvg76Lv9WyDArwEb75DDo=</fileHash>
+<fileSize>199739983</fileSize>
+<metadataHash>LV9dnKOXr2bc8xzajsKrMTS0sMdDF8M29/cgnM1Ulus=</metadataHash>
+<metadataSize>15722</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_FNE-N09_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_FNE-N09_claro_la.zip</spath>
+<dpath>update_cust_FNE-N09_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>7D717E0BAC1AF3DAFAE1B9E60893B83FE0E32BC4BDA9C0EF75C16C70F493C84E</sha256>
+<size>199747317</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1214742528</cowsize>
+<payloadOffset>851</payloadOffset>
+<fileHash>PgwfXUcy9K+Wf1+VKwmCmY0b0C2LF7yqPd7986Noui0=</fileHash>
+<fileSize>13212</fileSize>
+<metadataHash>A7/CDYivK+91SzKxhuPBYi06qcYjU2UEqqlvNL2fgf4=</metadataHash>
+<metadataSize>7862</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="preload" package="update_preload_RKY-L03_def_la_R100.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBP version="NA"/>
+<files>
+<file>
+<spath>update_preload_RKY-L03_def_la_R100.zip</spath>
+<dpath>update_preload_RKY-L03_def_la_R100.zip</dpath>
+<operation>c</operation>
+<sha256>88B17F794BA62F0D362CF2102D92F587ECF9040DD563EDA2195D89EADA3675B0</sha256>
+<size>20467</size>
+</file>
+</files>
+</root>

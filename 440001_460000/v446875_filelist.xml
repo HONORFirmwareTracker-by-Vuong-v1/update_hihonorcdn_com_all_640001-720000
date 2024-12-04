@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>923</payloadOffset>
+<fileHash>7AfSZ+FflTYboMJMGt7VSZ3fbaXHDt1/3H5WnyFIkZ8=</fileHash>
+<fileSize>2261058</fileSize>
+<metadataHash>9UAi/X2re5A+y2mNqq141mBzhXqVGiBDjYIbteWYWGo=</metadataHash>
+<metadataSize>761</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_GFY-L32P_def_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_GFY-L32P_def_meafnaf.zip</spath>
+<dpath>update_cust_GFY-L32P_def_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>EB75BD89CFAAEF435521C8C82D5813E630971DE86318533AC71B9AB213490F47</sha256>
+<size>2268369</size>
+</file>
+</files>
+</root>
