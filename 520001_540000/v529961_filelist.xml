@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>939</payloadOffset>
+<fileHash>QQbKKLjsHYzznrBX5WW3+jBTKpsppA8WxxZoc2nx+I0=</fileHash>
+<fileSize>293470646</fileSize>
+<metadataHash>mjOiFRGQ0j+XKG/YMV+JnOAkJ6L2ONoc1Pxbi4vz6jU=</metadataHash>
+<metadataSize>7094</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_FRI-N39_def_eea_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_FRI-N39_def_eea_R3.zip</spath>
+<dpath>update_preload_FRI-N39_def_eea_R3.zip</dpath>
+<operation>c</operation>
+<sha256>D00B4FB28092E1972891AFCE4F696B1AE22EC59D76BFA136A0D51F7F08372BD4</sha256>
+<size>293477995</size>
+</file>
+</files>
+</root>

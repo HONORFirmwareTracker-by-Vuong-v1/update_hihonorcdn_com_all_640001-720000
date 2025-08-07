@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2275844096</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>7NZ5eD9NmWVz/JCoec8r8zlFhdZLvQSzUlMKAA/pyKw=</fileHash>
+<fileSize>1238195919</fileSize>
+<metadataHash>2wN0/4oDV1Ycdc0RWoyWXvKEGCWdupyNbO9/CVhY3bc=</metadataHash>
+<metadataSize>60646</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_NIC-AN00M_all_cn_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_NIC-AN00M_all_cn_R102.zip</spath>
+<dpath>update_full_preload_NIC-AN00M_all_cn_R102.zip</dpath>
+<operation>c</operation>
+<sha256>2DC77021467B3ACDDE42C31BAE462A2444321EC0822B20A01F4C205016308734</sha256>
+<size>1238203141</size>
+</file>
+</files>
+</root>

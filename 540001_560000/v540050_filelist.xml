@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>2</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1593700352</cowsize>
+<payloadOffset>930</payloadOffset>
+<fileHash>1yTdbgPz4TEeokvb6V3YiNG2vYdq4gT+2VmioSwJ7YY=</fileHash>
+<fileSize>22518217</fileSize>
+<metadataHash>0Wb+F9ngVXMFBATBjJ3wW5qJcZKiU5+XzRvgN+zv9I8=</metadataHash>
+<metadataSize>41243</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_FNE-TN00_cmcc_cn_R10.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_FNE-TN00_cmcc_cn_R10.zip</spath>
+<dpath>update_preload_FNE-TN00_cmcc_cn_R10.zip</dpath>
+<operation>c</operation>
+<sha256>E8747C6EA1E53C057F26D3E9535168B538CDB57E83B14FF31421EE79A2EEBAA8</sha256>
+<size>22525549</size>
+</file>
+</files>
+</root>

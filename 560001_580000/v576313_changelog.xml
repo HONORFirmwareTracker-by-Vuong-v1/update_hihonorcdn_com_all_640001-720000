@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <component name="TCPU" version="请自行修改"/>
+    <default-language name="en-us">1033</default-language>
+    <language name="zh-cn" code="2052">
+                <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>测试</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="云推测试">
+            <!-- 正文 -->
+            <feature>修改通话记录限制条数</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+</root>

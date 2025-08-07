@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616820736</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>0v5r8zyDwuX87JmXP7wYWETF4W8IhHTZTID+aSbP1DE=</fileHash>
+<fileSize>8211</fileSize>
+<metadataHash>ElLy89DC1mfg7MnjebeoYBAUvYJuk52OpXmAnnOTTu0=</metadataHash>
+<metadataSize>4209</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_BRC-N21_def_normal.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_BRC-N21_def_normal.zip</spath>
+<dpath>update_cust_BRC-N21_def_normal.zip</dpath>
+<operation>c</operation>
+<sha256>49DA19E2DDEB5204A2636E995BB5BE859D986FB6F0A59C367AD2D1D2D8189B03</sha256>
+<size>15504</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>311808643</compressCowSize>
+<cowsize>2010570752</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>ityfaBHRgK4s0Zd9av6F700gsyVQGz4DS81kTxohT+8=</fileHash>
+<fileSize>187505302</fileSize>
+<metadataHash>fWY66SoPUCzoJCcL5CXiSdLEBPBGYadcZELd9Nl1r8w=</metadataHash>
+<metadataSize>98165</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_BVL-N19_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_BVL-N19_claro_la.zip</spath>
+<dpath>update_cust_BVL-N19_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>7847596388547BF81F7364F6EF971C862BC03289D6B6FFF19C556473BBA481B4</sha256>
+<size>187512638</size>
+</file>
+</files>
+</root>

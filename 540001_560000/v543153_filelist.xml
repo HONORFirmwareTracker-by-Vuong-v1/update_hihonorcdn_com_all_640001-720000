@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>2</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1593700352</cowsize>
+<payloadOffset>932</payloadOffset>
+<fileHash>wHawsK0tyNAiBFd9VCViXYq2uC0pn62ULk6XPQBIUsg=</fileHash>
+<fileSize>23633849</fileSize>
+<metadataHash>6t4MoSMk9i+W9gSiLFiYQ9Q+KeXqogylbsaLT94M6qQ=</metadataHash>
+<metadataSize>42805</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_HPB-AN00_all_cn_R6.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_HPB-AN00_all_cn_R6.zip</spath>
+<dpath>update_preload_HPB-AN00_all_cn_R6.zip</dpath>
+<operation>c</operation>
+<sha256>78F503F38A712BB3E649B0CB52FA3A5013CD712C152B68C112CAD94F726AB9D0</sha256>
+<size>23641187</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,1149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+	<default-language name="en-us">1033</default-language>
+	<language name="zh-cn" code="2052">
+		<features module="" type="header">
+			<feature>本次更新如下资源文件，将提升系统的用户体验，建议您立即更新。</feature>
+		</features>
+		<features module="情景感知模型">
+			<feature>1.优化了模型推理速度。</feature>
+			<feature>2.改进了模型的生成效果。</feature>
+			<feature>3.新增业务功能。</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="en-us" code="1033">
+		<features module="" type="header">
+			<feature>This recommended update includes the following resource files, which will improve the user experience of the system.</feature>
+		</features>
+		<features module="Awareness model">
+			<feature>1. Optimizes the model inference speed.</feature>
+			<feature>2. Improves the generation effect of the model.</feature>
+			<feature>3. Adds new functions.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="am-ET" code="1033">
+		<features module="" type="header">
+			<feature>ይህ የሚመከር ዝማኔ የሚከተሉትን የግብዓት ፋይሎችን ያካትታል፣ ይህም የስርዓቱን የተጠቃሚ ተሞክሮ ያሻሽላል።</feature>
+		</features>
+		<features module="ማስተዋል ሞዴል">
+			<feature>1. የሞዴሉን የመግቢያ ፍጥነት ያተባል።</feature>
+			<feature>2. የሞዴሉን የማመንጨት ተጽእኖን ያሻሽላል።</feature>
+			<feature>3. አዲስ ተግባሮችን ያክላል።</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="ar-eg" code="3073">
+		<features module="" type="header">
+			<feature>يتضمن هذا التحديث الموصى به ملفات الموارد التالية، والتي من شأنها تحسين تجربة المستخدم للنظام.</feature>
+		</features>
+		<features module="نموذج الإدراك">
+			<feature>1. تحسين سرعة الاستدلال النموذجي.</feature>
+			<feature>2. تحسين تأثير توليد النموذج.</feature>
+			<feature>3. إضافة وظائف جديدة.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="as-IN" code="3073">
+		<features module="" type="header">
+			<feature>এই অনুমোদিত আপডেটত নিম্নোক্ত সম্পদৰ ফাইলসমূহ অন্তৰ্ভুক্ত আছে, যিয়ে ছিষ্টেমৰ ব্যৱহাৰকাৰীৰ অভিজ্ঞতা উন্নত কৰিব।</feature>
+		</features>
+		<features module="সচেতনতা মডেল">
+			<feature>1. মডেল ইণ্টাৰফেচৰ গতি অনুকূলন কৰে।</feature>
+			<feature>2. মডেলৰ সৃষ্টিৰ প্ৰভাৱ উন্নত কৰে।</feature>
+			<feature>3. নতুন ফাংচনসমূহ যোগ কৰে।</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="az-az" code="1068">
+		<features module="" type="header">
+			<feature>Tövsiyə edilən bu yeniləməyə sistemin istifadəçi təcrübəsini yaxşılaşdıracaq aşağıdakı resurs faylları daxildir.</feature>
+		</features>
+		<features module="Məlumatlılıq modeli">
+			<feature>1. Modelin nəticə çıxarma sürətini optimallaşdırır.</feature>
+			<feature>2. Modelin yaratma effektini təkmilləşdirir.</feature>
+			<feature>3. Yeni funksiyalar əlavə edir.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="jv-id" code="1033">
+		<features module="" type="header">
+			<feature>Panganyaran sing disaranake iki ngatutake file sumber daya ing ngisor iki, sing bakal ngapikake pangalaman pengguna sistem.</feature>
+		</features>
+		<features module="Model kasadharan">
+			<feature>1. Ngoptimalake kacepetan inferensi model.</feature>
+			<feature>2. Ngapikake efek pangriptan model.</feature>
+			<feature>3. Nambahake fungsi anyar.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="sr-rs" code="2074">
+		<features module="" type="header">
+			<feature>Ovo preporučeno ažuriranje uključuje sledeće datoteke s resursima, što poboljšava korisničko iskustvo sistema.</feature>
+		</features>
+		<features module="Model svesti o okruženju">
+			<feature>1. Optimizuje brzinu interferencije modela.</feature>
+			<feature>2. Poboljšava generativini efekat modela.</feature>
+			<feature>3. Dodaje nove funkcije.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="sr-ba" code="2074">
+		<features module="" type="header">
+			<feature>Ovo preporučeno ažuriranje uključuje sledeće datoteke s resursima, što poboljšava korisničko iskustvo sistema.</feature>
+		</features>
+		<features module="Model svesti o okruženju">
+			<feature>1. Optimizuje brzinu interferencije modela.</feature>
+			<feature>2. Poboljšava generativini efekat modela.</feature>
+			<feature>3. Dodaje nove funkcije.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="sr-me" code="2074">
+		<features module="" type="header">
+			<feature>Ovo preporučeno ažuriranje uključuje sledeće datoteke s resursima, što poboljšava korisničko iskustvo sistema.</feature>
+		</features>
+		<features module="Model svesti o okruženju">
+			<feature>1. Optimizuje brzinu interferencije modela.</feature>
+			<feature>2. Poboljšava generativini efekat modela.</feature>
+			<feature>3. Dodaje nove funkcije.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="be-by" code="1059">
+		<features module="" type="header">
+			<feature>Гэта рэкамендаванае абнаўленне ўключае наступныя файлы рэсурсаў, якія будуць паляпшаць досвед выкарыстання сістэмы.</feature>
+		</features>
+		<features module="Мадэль дасведчанасці">
+			<feature>1. Аптымізуе хуткасць вываду мадэлі.</feature>
+			<feature>2. Паляпшае эфект стварэння мадэлі.</feature>
+			<feature>3. Дадае новыя функцыі.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="bg-bg" code="1026">
+		<features module="" type="header">
+			<feature>Тази препоръчителна актуализация включва следните файлове с ресурси, които ще подобрят изживяването на потребителите със системата.</feature>
+		</features>
+		<features module="Модел на „Чуване на околни звуци“">
+			<feature>1. Оптимизира скоростта на извеждане на модела.</feature>
+			<feature>2. Подобрява ефекта на генериране на модела.</feature>
+			<feature>3. Добавя нови функции.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="bn-bd" code="2117">
+		<features module="" type="header">
+			<feature>এই সুপারিশকৃত আপডেটে নিম্নলিখিত রিসোর্স ফাইলগুলি অন্তর্ভুক্ত রয়েছে, যা সিস্টেমের ব্যবহারকারীর অভিজ্ঞতাকে উন্নত করবে।</feature>
+		</features>
+		<features module="সচেতনতা মডেল">
+			<feature>1. মডেলের অনুমানের গতি অপটিমাইজ করে।</feature>
+			<feature>2. মডেলের জেনারেশন ইফেক্টকে উন্নত করে।</feature>
+			<feature>3. নতুন ফাংশন যোগ করে।</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="bo-cn" code="1105">
+		<features module="" type="header">
+			<feature>ཐེངས་འདིར་གཤམ་གསལ་གྱི་ཐོན་ཁུངས་ཡིག་ཆ་གསར་སྒྱུར་བྱས་ནས། རྒྱུད་ཁོངས་ཀྱི་སྤྱོད་མཁན་གྱི་ཉམས་ལེན་མཐོར་འདེགས་གཏོང་། ཁྱེད་ཀྱིས་མྱུར་དུ་གསར་སྒྱུར་བྱས་ན་ལེགས།</feature>
+		</features>
+		<features module="བཟོ་ལྗོངས་ཚོར་ཤེས་དཔེ་དབྱིབས།">
+			<feature>1. མ་དཔེའི་རིག་འདེད་མྱུར་ཚད་ལེགས་སྒྱུར་བྱས་ཡོད།</feature>
+			<feature>2. མ་དཔེའི་གསར་འགྲུབ་ཁྱད་ནུས་ལེགས་བཅོས་བྱས་ཡོད།</feature>
+			<feature>3. ལས་སྒོ་དང་རྩོལ་ནུས་གསར་སྣོན་བྱས་ཡོད།</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="bs-ba" code="5146">
+		<features module="" type="header">
+			<feature>Ovo preporučeno ažuriranje uključuje sljedeće resursne datoteke koje će poboljšati korisničko iskustvo sa sistemom.</feature>
+		</features>
+		<features module="Model Svjesnosti">
+			<feature>1. Optimizira brzinu zaključivanja modela.</feature>
+			<feature>2. Poboljšava efekat generiranja modela.</feature>
+			<feature>3. Dodaje nove funkcije.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="ca-es" code="1027">
+		<features module="" type="header">
+			<feature>Aquesta actualització recomanada inclou els fitxers de recursos següents, que milloraran l'experiència d'usuari del sistema.</feature>
+		</features>
+		<features module="Model de reconeixement del so ambiental">
+			<feature>1. Optimitza la velocitat d'inferència del model.</feature>
+			<feature>2. Millora l'efecte de generació del model.</feature>
+			<feature>3. Afegeix noves funcions.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="cs-cz" code="1029">
+		<features module="" type="header">
+			<feature>Tato doporučená aktualizace obsahuje následující soubory zdrojů, které zlepší uživatelské prostředí systému.</feature>
+		</features>
+		<features module="Model zvuků okolí">
+			<feature>1. Optimalizuje rychlost odvození modelu.</feature>
+			<feature>2. Zlepšuje efekt generování modelu.</feature>
+			<feature>3. Přidává nové funkce.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="da-dk" code="1030">
+		<features module="" type="header">
+			<feature>Denne anbefalede opdatering omfatter følgende ressourcefiler, som vil forbedre systemets brugeroplevelse.</feature>
+		</features>
+		<features module="Opmærksomhedsmodel">
+			<feature>1. Optimerer modellens interferenshastighed.</feature>
+			<feature>2. Forbedrer modellens genereringseffekt.</feature>
+			<feature>3. Tilføjer nye funktioner.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="de-de" code="1031">
+		<features module="" type="header">
+			<feature>Diese empfohlene Aktualisierung enthält die folgenden Ressourcendateien, die das Benutzererlebnis mit dem System verbessern.</feature>
+		</features>
+		<features module="Aufmerksamkeitsmodell">
+			<feature>1. Optimiert die Geschwindigkeit der Modellinferenz.</feature>
+			<feature>2. Verbessert den Generierungseffekt des Modells.</feature>
+			<feature>3. Fügt neue Funktionen hinzu.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="de-at" code="1031">
+		<features module="" type="header">
+			<feature>Diese empfohlene Aktualisierung enthält die folgenden Ressourcendateien, die das Benutzererlebnis mit dem System verbessern.</feature>
+		</features>
+		<features module="Großes Sprachmodell">
+			<feature>1. Optimiert die Geschwindigkeit der Modellinferenz.</feature>
+			<feature>2. Verbessert den Generierungseffekt des Modells.</feature>
+			<feature>3. Fügt neue Funktionen hinzu.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="de-ch" code="1031">
+		<features module="" type="header">
+			<feature>Diese empfohlene Aktualisierung enthält die folgenden Ressourcendateien, die das Benutzererlebnis mit dem System verbessern.</feature>
+		</features>
+		<features module="Aufmerksamkeitsmodell">
+			<feature>1. Optimiert die Geschwindigkeit der Modellinferenz.</feature>
+			<feature>2. Verbessert den Generierungseffekt des Modells.</feature>
+			<feature>3. Fügt neue Funktionen hinzu.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="el-gr" code="1032">
+		<features module="" type="header">
+			<feature>Αυτή η προτεινόμενη ενημέρωση περιλαμβάνει τα ακόλουθα αρχεία πόρων, τα οποία θα βελτιώσουν την εμπειρία χρήστη του συστήματος.</feature>
+		</features>
+		<features module="Μοντέλο Αντίληψης">
+			<feature>1. Βελτιστοποιεί την ταχύτητα συμπερασμάτων του μοντέλου.</feature>
+			<feature>2. Βελτιώνει το αποτέλεσμα παραγωγής του μοντέλου.</feature>
+			<feature>3. Προσθέτει νέες λειτουργίες.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="en-GB" code="1032">
+		<features module="" type="header">
+			<feature>This recommended update includes the following resource files, which will improve the user experience of the system.</feature>
+		</features>
+		<features module="Awareness model">
+			<feature>1. Optimises the model inference speed.</feature>
+			<feature>2. Improves the generation effect of the model.</feature>
+			<feature>3. Adds new functions.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="es-es" code="1034">
+		<features module="" type="header">
+			<feature>Esta actualización recomendada incluye los siguientes archivos de recursos, que mejorarán la experiencia del usuario del sistema.</feature>
+		</features>
+		<features module="Modelo de atención">
+			<feature>1. Optimiza la velocidad de inferencia del modelo.</feature>
+			<feature>2. Mejora el efecto de generación del modelo.</feature>
+			<feature>3. Añade nuevas funciones.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="es-us" code="21514">
+		<features module="" type="header">
+			<feature>Esta actualización recomendada incluye los siguientes archivos de recursos, que mejorarán la experiencia del usuario del sistema.</feature>
+		</features>
+		<features module="Modelo de Atención">
+			<feature>1. Optimiza la velocidad de inferencia del modelo.</feature>
+			<feature>2. Mejora el efecto de generación del modelo.</feature>
+			<feature>3. Agrega nuevas funciones.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="et-ee" code="1061">
+		<features module="" type="header">
+			<feature>See soovitatav värskendus sisaldab järgmisi ressursifaile, mis parendavad süsteemi kasutajakogemust.</feature>
+		</features>
+		<features module="Teadlikkuse mudel">
+			<feature>1. Optimeerib mudeli järeldamiskiirust.</feature>
+			<feature>2. Täiustab mudeli genereerimisefekti.</feature>
+			<feature>3. Lisab uusi funktsioone.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="eu-es" code="1069">
+		<features module="" type="header">
+			<feature>Gomendatutako eguneratze honek baliabide-fitxategi hauek ditu, sistemaren erabiltzaile-esperientzia hobetzeko.</feature>
+		</features>
+		<features module="Ohartzearen eredua">
+			<feature>1. Ereduaren interferentzia-abiadura optimizatzen du.</feature>
+			<feature>2. Eredua sortzeko efektua hobetzen du.</feature>
+			<feature>3. Funtzio berriak ditu.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="fa-ir" code="1065">
+		<features module="" type="header">
+			<feature>این به‌روزرسانی پیشنهادی شامل فایل‌های منابع زیر است که تجربه کاربری سیستم را بهبود می‌بخشد.</feature>
+		</features>
+		<features module="مدل آگاهی">
+			<feature>‏‏۱. سرعت استنتاج مدل را بهینه می‌کند.</feature>
+			<feature>‏‏۲. اثر تولید مدل را بهبود می‌بخشد.</feature>
+			<feature>‏‏۳. عملکردهای جدیدی اضافه می‌کند.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="fi-fi" code="1035">
+		<features module="" type="header">
+			<feature>Tämä suositeltu päivitys sisältää alla mainitut resurssitiedostot, jotka parantavat järjestelmän käyttökokemusta.</feature>
+		</features>
+		<features module="Tietoisuusmalli">
+			<feature>1. Optimoi mallin päättelynopeuden.</feature>
+			<feature>2. Parantaa mallin generointivaikutusta.</feature>
+			<feature>3. Lisää uusia toimintoja.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="fr-fr" code="1036">
+		<features module="" type="header">
+			<feature>Cette mise à jour recommandée comprend les fichiers de ressources suivants, qui amélioreront l'expérience utilisateur du système.</feature>
+		</features>
+		<features module="Modèle de Perception">
+			<feature>1. Optimise la vitesse d'inférence du modèle.</feature>
+			<feature>2. Améliore l'effet de génération du modèle.</feature>
+			<feature>3. Ajoute de nouvelles fonctions.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="fr-ch" code="1036">
+		<features module="" type="header">
+			<feature>Cette mise à jour recommandée comprend les fichiers de ressources suivants, qui amélioreront l'expérience utilisateur du système.</feature>
+		</features>
+		<features module="Modèle de Perception">
+			<feature>1. Optimise la vitesse d'inférence du modèle.</feature>
+			<feature>2. Améliore l'effet de génération du modèle.</feature>
+			<feature>3. Ajoute de nouvelles fonctions.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="gl-es" code="1110">
+		<features module="" type="header">
+			<feature>Esta actualización recomendada inclúe os seguintes ficheiros de recursos, que mellorarán a experiencia do usuario do sistema.</feature>
+		</features>
+		<features module="Modelo de percepción do contorno">
+			<feature>1. Optimiza a velocidade da inferencia do modelo.</feature>
+			<feature>2. Mellora o efecto de xeración do modelo.</feature>
+			<feature>3. Engade novas funcións.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="gu-IN" code="1110">
+		<features module="" type="header">
+			<feature>આ ભલામણ કરેલ અપડેટમાં નીચેની સંસાધન ફાઇલોનો સમાવેશ થાય છે, જે સિસ્ટમના વપરાશકર્તા અનુભવને બહેતર બનાવશે.</feature>
+		</features>
+		<features module="જાગરુકતા મોડેલ">
+			<feature>1. મોડેલ અનુમાન ગતિને ઑપ્ટિમાઇઝ કરે છે.</feature>
+			<feature>2. મોડેલની જનરેશન પ્રભાવને સુધારે છે.</feature>
+			<feature>3. નવાં કાર્યો ઉમેરે છે.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="hi-in" code="1081">
+		<features module="" type="header">
+			<feature>इस अनुशंसित अद्यतन से निम्न संसाधन फ़ाइलें शामिल की जाती हैं जिससे सिस्टम के उपयोगकर्ता अनुभव को बेहतर बनाया जाएगा।</feature>
+		</features>
+		<features module="जागरूकता मॉडल">
+			<feature>1. मॉडल इंटरफ़ेस स्पीड को अनुकूलित किया जाता है।</feature>
+			<feature>2. मॉडल के जनरेशन प्रभाव को बेहतर बनाया जाता है।</feature>
+			<feature>3. नए फ़ंक्शन जोड़े जाते हैं।</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="hr-hr" code="1050">
+		<features module="" type="header">
+			<feature>Ovo preporučeno ažuriranje uključuje datoteke resursa navedene u nastavku koje će poboljšati korisničko iskustvo upotrebe sustava.</feature>
+		</features>
+		<features module="Model Svjesnost">
+			<feature>1. Optimizira brzinu procjenjivanja modela.</feature>
+			<feature>2. Poboljšava učinak generiranja modela.</feature>
+			<feature>3. Dodaje nove funkcije.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="hu-hu" code="1038">
+		<features module="" type="header">
+			<feature>Ez az ajánlott frissítés tartalmazza a következő erőforrásfájlokat, amelyek javítják a rendszer felhasználói élményét.</feature>
+		</features>
+		<features module="Tudatosság modell">
+			<feature>1. Optimalizáltuk a modell következtetési sebességét.</feature>
+			<feature>2. Javítottuk a modell létrehozási hatását.</feature>
+			<feature>3. Új funkciókat vezettünk be.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="in-id" code="1057">
+		<features module="" type="header">
+			<feature>Pembaruan yang direkomendasikan ini menyertakan file sumber daya berikut yang akan meningkatkan pengalaman pengguna sistem.</feature>
+		</features>
+		<features module="Model kesadaran">
+			<feature>1. Mengoptimalkan kecepatan inferensi model.</feature>
+			<feature>2. Meningkatkan efek pembuatan model.</feature>
+			<feature>3. Menambahkan fungsi baru.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="id-" code="1057">
+		<features module="" type="header">
+			<feature>Pembaruan yang direkomendasikan ini menyertakan file sumber daya berikut yang akan meningkatkan pengalaman pengguna sistem.</feature>
+		</features>
+		<features module="Model kesadaran">
+			<feature>1. Mengoptimalkan kecepatan inferensi model.</feature>
+			<feature>2. Meningkatkan efek pembuatan model.</feature>
+			<feature>3. Menambahkan fungsi baru.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="it-it" code="1040">
+		<features module="" type="header">
+			<feature>Questo aggiornamento consigliato include i seguenti file di risorse, che miglioreranno l'esperienza utente del sistema.</feature>
+		</features>
+		<features module="Modello di Modalità Aware">
+			<feature>1. Ottimizza la velocità di inferenza del modello.</feature>
+			<feature>2. Migliora l'effetto di generazione del modello.</feature>
+			<feature>3. Aggiunge nuove funzioni.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="it-ch" code="1040">
+		<features module="" type="header">
+			<feature>Questo aggiornamento consigliato include i seguenti file di risorse, che miglioreranno l'esperienza utente del sistema.</feature>
+		</features>
+		<features module="Modello di Modalità Aware">
+			<feature>1. Ottimizza la velocità di inferenza del modello.</feature>
+			<feature>2. Migliora l'effetto di generazione del modello.</feature>
+			<feature>3. Aggiunge nuove funzioni.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="iw-il" code="1037">
+		<features module="" type="header">
+			<feature>עדכון מומלץ זה כולל את קובצי המשאבים הבאים, אשר ישפרו את חוויית המשתמש של המערכת.</feature>
+		</features>
+		<features module="מודל מודעות">
+			<feature>‏‏1. ממטב את מהירות ההסקה של המודל.</feature>
+			<feature>‏‏2. משפר את אפקט היצירה של המודל.</feature>
+			<feature>‏‏3. מוסיף פונקציות חדשות.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="he-" code="1037">
+		<features module="" type="header">
+			<feature>עדכון מומלץ זה כולל את קובצי המשאבים הבאים, אשר ישפרו את חוויית המשתמש של המערכת.</feature>
+		</features>
+		<features module="מודל מודעות">
+			<feature>‏‏1. ממטב את מהירות ההסקה של המודל.</feature>
+			<feature>‏‏2. משפר את אפקט היצירה של המודל.</feature>
+			<feature>‏‏3. מוסיף פונקציות חדשות.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="ja-jp" code="1041">
+		<features module="" type="header">
+			<feature>今回の推奨更新には、システムのユーザー体験を向上させる以下のリソースファイルが含まれます。</feature>
+		</features>
+		<features module="外部音取り込みモデル">
+			<feature>1. モデルの推論速度の最適化。</feature>
+			<feature>2. モデルの生成効果の向上。</feature>
+			<feature>3. 新機能の追加。</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="ka-ge" code="1079">
+		<features module="" type="header">
+			<feature>ეს რეკომენდებული განახლება მოიცავს შემდეგ რესურს-ფაილებს, რაც გააუმჯობესებს სისტემის მომხმარებლის გამოცდილებას.</feature>
+		</features>
+		<features module="აღქმის მოდელი">
+			<feature>1. ახდენს მოდელის გამოყვანის სიჩქარის ოპტიმიზაციას.</feature>
+			<feature>2. აუმჯობესებს მოდელის გენერირების ეფექტს.</feature>
+			<feature>3. ამატებს ახალ ფუნქციებს.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="kk-kz" code="1087">
+		<features module="" type="header">
+			<feature>Бұл ұсынылған жаңарту жүйенің пайдаланушы тәжірибесін жақсартатын келесі ресурс файлдарын қамтиды.</feature>
+		</features>
+		<features module="Хабардар болу үлгісі">
+			<feature>1. Үлгіні шығару жылдамдығын оңтайландырады.</feature>
+			<feature>2. Үлгіні жасау әсерін жақсартады.</feature>
+			<feature>3. Жаңа функциялар қосады.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="km-kh" code="1107">
+		<features module="" type="header">
+			<feature>បច្ចុប្បន្នភាពដែលបានណែនាំនេះរួមបញ្ចូលឯកសារធនធានដូចខាងក្រោម ដែលនឹងធ្វើឱ្យបទពិសោធអ្នកប្រើប្រព័ន្ធប្រសើរឡើង។</feature>
+		</features>
+		<features module="ម៉ូដឮសំឡេងខាងក្រៅ">
+			<feature>1. ធ្វើឱ្យល្បឿនសន្និដ្ឋានគំរូប្រសើរឡើង។</feature>
+			<feature>2. ធ្វើឱ្យបែបផែនបង្កើតគំរូប្រសើរឡើង។</feature>
+			<feature>3. បញ្ចូលមុខងារថ្មី។</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="kn-IN" code="1107">
+		<features module="" type="header">
+			<feature>ಈ ಶಿಫಾರಸು ಮಾಡಲಾದ ನವೀಕರಣವು ಕೆಳಗಿನ ಸಂಪನ್ಮೂಲ ಫೈಲ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿದೆ, ಇದು ಸಿಸ್ಟಂನ ಬಳಕೆದಾರರ ಅನುಭವವನ್ನು ಸುಧಾರಿಸುತ್ತದೆ.</feature>
+		</features>
+		<features module="ಅರಿವು ಮಾದರಿ">
+			<feature>1. ಮಾದರಿ ಊಹೆಯ ವೇಗವನ್ನು ಆಪ್ಟಿಮೈಸ್ ಮಾಡುತ್ತದೆ.</feature>
+			<feature>2. ಮಾದರಿಯ ಜನರೇಶನ್ ಎಫೆಕ್ಟ್ ಅನ್ನು ಸುಧಾರಿಸುತ್ತದೆ.</feature>
+			<feature>3. ಹೊಸ ಕಾರ್ಯಗಳನ್ನು ಸೇರಿಸುತ್ತದೆ.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="ko-kr" code="1042">
+		<features module="" type="header">
+			<feature>다음 리소스 파일이 이 권장 업데이트에 포함되어 있어 시스템의 사용자 경험을 개선할 수 있습니다.</feature>
+		</features>
+		<features module="상황 인식 모델">
+			<feature>1. 모델 추론 속도를 최적화합니다.</feature>
+			<feature>2. 모델의 생성 효과를 개선합니다.</feature>
+			<feature>3. 새로운 기능을 추가합니다.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="lo-la" code="1108">
+		<features module="" type="header">
+			<feature>ການ​ອັບ​ເດດ​ທີ່​ແນະ​ນຳນີ້​​ລວມ​ມີ​ໄຟ​ລ໌​ຕົ້ນ​ສະ​ບັບ​ຕໍ່​ໄປ​​ນີ້, ເຊິ່ງ​ຈະ​ປັບ​ປຸງ​ປະ​​ສົບ​ການ​ຜູ້​ໃຊ້​ຂອງ​ລະ​ບົບ.</feature>
+		</features>
+		<features module="ໂມ​ເດ​ລ​ການ​ຮູ້ຈັກ">
+			<feature>1. ປັບ​ຄວາມ​ໄວ​ການ​ລົງ​ຄວາມ​ເຫັນ​ຮູບ​ແບບ.</feature>
+			<feature>2. ປັບ​ປຸງ​ເອັບ​ເຝັກ​ການ​ສ້າງ​ຂອງ​ໂມ​ເດ​ລ.</feature>
+			<feature>3. ເພີ່ມຟັງ​ຊັນໃໝ່.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="lt-lt" code="1063">
+		<features module="" type="header">
+			<feature>Į šį rekomenduojamą naujinį įtraukti tolesni išteklių failai, kurie pagerins sistemos naudojimo patirtį.</feature>
+		</features>
+		<features module="Konteksto modelis">
+			<feature>1. Optimizuojama modelio numatymo sparta.</feature>
+			<feature>2. Pagerinamas modelio generavimo efektas.</feature>
+			<feature>3. Įtraukiama naujų funkcijų.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="lv-lv" code="1062">
+		<features module="" type="header">
+			<feature>Ar šo ieteicamo atjauninājumu ir ietverti tālāk norādītie resursu faili, kas uzlabos sistēmas lietotāja pieredzi.</feature>
+		</features>
+		<features module="Informētības modelis">
+			<feature>1. Optimizē modeļa traucējumu ātrumu.</feature>
+			<feature>2. Uzlabo modeļa ģenerēšanas efektu.</feature>
+			<feature>3. Pievieno jaunas funkcijas.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="mai-IN" code="1062">
+		<features module="" type="header">
+			<feature>एहि अनुशंसित अपडेट मे निम्न संसाधन फाइल सभ सम्मिलित अछि, जे सिस्टमक उपयोगकर्ता अनुभव मे सुधार करत।</feature>
+		</features>
+		<features module="जागरूकता मॉडल">
+			<feature>1. मॉडल इंटरफेस गति केँ अनुकूलित करू।</feature>
+			<feature>2. मॉडल केर जेनरेट करबाक प्रभाव मे सुधार करैत अछि।</feature>
+			<feature>3. नव फंक्शन सभ जोड़ैत अछि।</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="mi-NZ" code="1062">
+		<features module="" type="header">
+			<feature>Kei tēnei whakahōu e manakohia ana ko ngā kōnae rauemi e whai ake nei, e whakapai ake ai i te wheako kaiwhakamahi o te pūnaha.</feature>
+		</features>
+		<features module="Tauira arokā">
+			<feature>1. Arotautia ai te tere o te tauira.</feature>
+			<feature>2. Ka whakapai ake i te pānga whakatupuranga o te tauira.</feature>
+			<feature>3. Tāpiri ai i ngā taumahi hōu.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="mk-mk" code="1071">
+		<features module="" type="header">
+			<feature>Ова препорачано ажурирање ги вклучува следниве датотеки со ресурси, што може да го подобрат корисничкото искуство со системот.</feature>
+		</features>
+		<features module="Модел за Свесност">
+			<feature>1. Ја оптимизира брзината на заклучување на моделот.</feature>
+			<feature>2. Го подобрува генеративниот ефект на моделот.</feature>
+			<feature>3. Додава нови функции.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="ml-IN" code="1071">
+		<features module="" type="header">
+			<feature>ഈ ശുപാർശ ചെയ്യുന്ന അപ്‌ഡേറ്റിൽ ഇനിപ്പറയുന്ന ഉറവിട ഫയലുകൾ ഉൾപ്പെടുന്നു, ഇത് സിസ്റ്റത്തിന്റെ ഉപയോക്തൃ അനുഭവം മെച്ചപ്പെടുത്തും.</feature>
+		</features>
+		<features module="സന്ദർഭാനുസൃത അവബോധ മോഡൽ">
+			<feature>1. മോഡൽ അനുമാന വേഗത ഒപ്‌റ്റിമൈസ് ചെയ്യുന്നു.</feature>
+			<feature>2. മോഡലിന്റെ സൃഷ്‌ടിക്കൽ ഇഫക്റ്റ് മെച്ചപ്പെടുത്തുന്നു.</feature>
+			<feature>3. പുതിയ പ്രവർത്തനങ്ങൾ ചേർക്കുന്നു.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="mn-MN" code="1071">
+		<features module="" type="header">
+			<feature>Энэхүү санал болгож буй шинэчлэлт нь системийн хэрэглэгчийн туршлагыг сайжруулах дараах эх үүсвэрийн файлыг багтаасан болно.</feature>
+		</features>
+		<features module="Мэдээлэл олгох загвар">
+			<feature>1. Загварын дүгнэлт гаргах хурдыг оновчтой болгосон.</feature>
+			<feature>2. Загвар үүсгэх үр нөлөөг сайжруулсан.</feature>
+			<feature>3. Шинэ функцүүд нэмсэн.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="mr-IN" code="1071">
+		<features module="" type="header">
+			<feature>या शिफारस केलेल्या अद्यतनामध्ये खालील संसाधन फाइल्स समाविष्ट आहेत, ज्यामुळे सिस्टमचा वापरकर्ता अनुभव सुधारेल.</feature>
+		</features>
+		<features module="जागरूकता मॉडेल">
+			<feature>1. मॉडेल अनुमान गती ऑप्टिमाइझ करते.</feature>
+			<feature>2. मॉडेलचा जनरेशन प्रभाव सुधारतो.</feature>
+			<feature>3. नवीन फंक्शन्स जोडते.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="ms-my" code="1086">
+		<features module="" type="header">
+			<feature>Kemas kini yang disyorkan ini termasuk fail sumber berikut, yang akan meningkatkan pengalaman pengguna sistem.</feature>
+		</features>
+		<features module="Model Kesedaran">
+			<feature>1. Optimumkan kelajuan inferens model.</feature>
+			<feature>2. Tingkatkan kesan penjanaan model.</feature>
+			<feature>3. Tambah fungsi baharu.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="my-mm" code="1109">
+		<features module="" type="header">
+			<feature>အကြံပြုထားသော ဤအပ်ဒိတ်တွင် ဖော်ပြပါ ရင်းမြစ်ဖိုင်များ ပါဝင်ပြီး စနစ်သုံးစွဲရသည့် အတွေ့အကြုံကို မြှင့်တင်ပေးမည်ဖြစ်သည်။</feature>
+		</features>
+		<features module="အသိရှိမှု မော်ဒယ်">
+			<feature>1. စနစ်၏ ရည်ညွှန်းချက်မြန်နှုန်းကို အကောင်းဆုံး ချိန်ညှိပေးသည်။</feature>
+			<feature>2. စနစ်၏ ထုတ်လုပ်မှုစွမ်းရည်ကို မြှင့်တင်ပေးသည်။</feature>
+			<feature>3. လုပ်ဆောင်ချက်အသစ်များ ထည့်ပေးသည်။</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="my-zg" code="1109">
+		<features module="" type="header">
+			<feature>အႀကံျပဳထားေသာ ဤအပ္ဒိတ္တြင္ ေဖာ္ျပပါ ရင္းျမစ္ဖိုင္မ်ား ပါဝင္ၿပီး စနစ္သုံးစြဲရသည့္ အေတြ႕အႀကဳံကို ျမႇင့္တင္ေပးမည္ျဖစ္သည္။</feature>
+		</features>
+		<features module="အသိရွိမႈ ေမာ္ဒယ္">
+			<feature>1. စနစ္၏ ရည္ၫႊန္းခ်က္ျမန္ႏႈန္းကို အေကာင္းဆုံး ခ်ိန္ညႇိေပးသည္။</feature>
+			<feature>2. စနစ္၏ ထုတ္လုပ္မႈစြမ္းရည္ကို ျမႇင့္တင္ေပးသည္။</feature>
+			<feature>3. လုပ္ေဆာင္ခ်က္အသစ္မ်ား ထည့္ေပးသည္။</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="nb-no" code="1044">
+		<features module="" type="header">
+			<feature>Denne anbefalte oppdateringen inkluderer følgende ressursfiler, som vil forbedre brukeropplevelsen med systemet.</feature>
+		</features>
+		<features module="Tilstedeværelsesmodell">
+			<feature>1. Optimerer modellslutningshastigheten.</feature>
+			<feature>2. Forbedrer genereringseffekten av modellen.</feature>
+			<feature>3. Legger til nye funksjoner.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="ne-np" code="1121">
+		<features module="" type="header">
+			<feature>सिफारिस गरिएको यो अपडेटमा निम्न स्रोत फाइलहरू समावेश गरिएको छ र यसले प्रणालीको प्रयोगकर्ता अनुभव सुधार गर्ने छ ।</feature>
+		</features>
+		<features module="सचेतना मोडेल">
+			<feature>1. मोडेलको इन्फेरेन्स गति अप्टिमाइज गर्छ ।</feature>
+			<feature>2. मोडेलको सिर्जना गर्ने प्रभाव सुधार गर्छ ।</feature>
+			<feature>3. नयाँ सुविधाहरू थप्छ ।</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="nl-nl" code="1043">
+		<features module="" type="header">
+			<feature>Deze aanbevolen update bevat de volgende bronbestanden, die de gebruikerservaring van het systeem zullen verbeteren.</feature>
+		</features>
+		<features module="Bewustzijnsmodel">
+			<feature>1. Optimaliseert de inferentiesnelheid van het model.</feature>
+			<feature>2. Verbetert het generatie-effect van het model.</feature>
+			<feature>3. Voegt nieuwe functies toe.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="or-IN" code="1043">
+		<features module="" type="header">
+			<feature>ସୁପାରିଶ କରାଯାଇଥିବା ଏହି ଅପଡେଟ୍‌ରେ ନିମ୍ନଲିଖିତ ଉତ୍ସ ଫାଇଲ୍‌ଗୁଡ଼ିକ ଅନ୍ତର୍ଭୁକ୍ତ କରେ, ଯାହା ସିଷ୍ଟମ୍‌ର ଉପଯୋଗକର୍ତ୍ତା ଅନୁଭୂତିରେ ଉନ୍ନତି ଆଣିବ।</feature>
+		</features>
+		<features module="ସଚେତନତା ମଡେଲ୍">
+			<feature>1. ମଡେଲ୍‌ ଇଣ୍ଟରଫେସ୍ ବେଗ ଅପ୍ଟିମାଇଜ୍‌ କରେ।</feature>
+			<feature>2. ମଡେଲ୍‌ର ପ୍ରସ୍ତୁତି ପ୍ରଭାବକୁ ବିକାଶ କରେ।</feature>
+			<feature>3. ନୂତନ ପ୍ରକାର୍ଯ୍ୟଗୁଡ଼ିକ ଯୋଡେ।</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="pa-IN" code="1043">
+		<features module="" type="header">
+			<feature>ਇਸ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੇ ਅੱਪਡੇਟ ਵਿੱਚ ਹੇਠ ਲਿਖੀਆਂ ਸਰੋਤ ਫ਼ਾਈਲਾਂ ਸ਼ਾਮਲ ਹਨ, ਜੋ ਸਿਸਟਮ ਦੇ ਵਰਤੋਂਕਾਰ ਅਨੁਭਵ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣਗੀਆਂ।</feature>
+		</features>
+		<features module="ਵਜਾਗਰੂਕਤਾ ਮਾਡਲ">
+			<feature>1. ਮਾਡਲ ਅਨੁਮਾਨ ਦੀ ਗਤੀ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਇਆ ਗਿਆ ਹੈ।</feature>
+			<feature>2. ਮਾਡਲ ਦੇ ਜਨਰੇਸ਼ਨ ਪ੍ਰਭਾਵ ਨੂੰ ਬਿਹਤਰ ਬਣਾਇਆ ਗਿਆ ਹੈ।</feature>
+			<feature>3. ਨਵੇਂ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤੇ ਗਏ ਹਨ।</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="pl-pl" code="1045">
+		<features module="" type="header">
+			<feature>Ta zalecana aktualizacja obejmuje następujące pliki zasobów, które zwiększą komfort użytkowania systemu.</feature>
+		</features>
+		<features module="Model świadomości">
+			<feature>1. Zoptymalizowano szybkość wnioskowania modelu.</feature>
+			<feature>2. Poprawiono efekty generowania przez model.</feature>
+			<feature>3. Dodano nowe funkcje.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="pt-br" code="1046">
+		<features module="" type="header">
+			<feature>Essa atualização recomendada inclui os seguintes arquivos de recursos, que melhorarão a experiência de usuário no sistema.</feature>
+		</features>
+		<features module="Modelo de reconhecimento">
+			<feature>1. Otimiza a velocidade de inferência do modelo.</feature>
+			<feature>2. Melhora o efeito de geração do modelo.</feature>
+			<feature>3. Adiciona novas funções.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="pt-pt" code="2070">
+		<features module="" type="header">
+			<feature>Esta atualização recomendada inclui os seguintes ficheiros de recursos, que irão melhorar a experiência do utilizador do sistema.</feature>
+		</features>
+		<features module="Modelo de Reconhecimento">
+			<feature>1. Otimiza a velocidade de inferência do modelo.</feature>
+			<feature>2. Melhora o efeito de geração do modelo.</feature>
+			<feature>3. Adiciona novas funções.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="ro-ro" code="1048">
+		<features module="" type="header">
+			<feature>Această actualizare recomandată include următoarele fișiere de resurse, care vor îmbunătăți experiența de utilizare a sistemului.</feature>
+		</features>
+		<features module="Model de Conștientizarea contextului">
+			<feature>1. Optimizează viteza de inferență a modelului.</feature>
+			<feature>2. Îmbunătățește efectul de generare al modelului.</feature>
+			<feature>3. Adaugă funcții noi.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="ru-ru" code="1049">
+		<features module="" type="header">
+			<feature>Это рекомендованное обновление включает в себя следующие файлы ресурсов, которые улучшат пользовательский интерфейс системы.</feature>
+		</features>
+		<features module="Модель осведомленности">
+			<feature>1. Оптимизирует скорость вывода модели.</feature>
+			<feature>2. Улучшает эффект генерации модели.</feature>
+			<feature>3. Добавляет новые функции.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="si-lk" code="1115">
+		<features module="" type="header">
+			<feature>මෙම නිර්දේශිත යාවත්කාලයට පද්ධතියේ පරිශීලක අත්දැකීම වැඩිදියුණු කරනු ඇති පහත මූලාශ්‍ර ගොනු ඇතුළත් වේ.</feature>
+		</features>
+		<features module="දැනුවත්භාවය ප්‍රකාරය">
+			<feature>1. ආකෘතිය අනුමාන කිරීමේ වේගය ප්‍රශස්ත කරයි.</feature>
+			<feature>2. ආකෘතියේ ජනනය කිරීමේ ප්‍රයෝගය වැඩිදියුණු කරයි.</feature>
+			<feature>3. නව ක්‍රියාකාරීත්ව එක් කරයි.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="sk-sk" code="1051">
+		<features module="" type="header">
+			<feature>Táto odporúčaná aktualizácia obsahuje nasledujúce zdrojové súbory, ktoré zlepšia používateľskú skúsenosť so systémom.</feature>
+		</features>
+		<features module="Model vnímania okolia">
+			<feature>1. Optimalizuje inferenčnú rýchlosť modelu.</feature>
+			<feature>2. Zlepšuje efekt generovania modelu.</feature>
+			<feature>3. Pridáva nové funkcie.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="sl-si" code="1060">
+		<features module="" type="header">
+			<feature>Ta priporočena posodobitev vključuje naslednje datoteke z viri, ki bodo izboljšale uporabniško izkušnjo sistema.</feature>
+		</features>
+		<features module="Model zavedanja okolice">
+			<feature>1. Optimizira hitrost sklepanja modela.</feature>
+			<feature>2. Izboljša učinek ustvarjanja modela.</feature>
+			<feature>3. Dodaja nove funkcije.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="sv-se" code="1053">
+		<features module="" type="header">
+			<feature>Den här rekommenderade uppdateringen innehåller följande resursfiler, som kommer att förbättra användarupplevelsen av systemet.</feature>
+		</features>
+		<features module="Modell för medvetenhet">
+			<feature>1. Optimerar modellens slutledningshastighet.</feature>
+			<feature>2. Förbättrar modellens genereringseffekt.</feature>
+			<feature>3. Lägger till nya funktioner.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="sw-KE" code="1053">
+		<features module="" type="header">
+			<feature>Sasisho hili linalopendekezwa linajumuisha faili zifuatazo za nyenzo, ambazo zitaboresha uzoefu wa mtumiaji wa mfumo.</feature>
+		</features>
+		<features module="Modeli ya ufahamu">
+			<feature>1. Huboresha kasi ya kukisiwa ya modeli.</feature>
+			<feature>2. Huboresha athari ya uzalishaji wa modeli.</feature>
+			<feature>3. Huongeza utendaji mpya.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="ta-IN" code="1053">
+		<features module="" type="header">
+			<feature>இந்தப் பரிந்துரைக்கப்படும் புதுப்பிப்பு சிஸ்டத்தின் பயனர் அனுபவத்தை மேம்படுத்தும், பின்வரும் ஆதாரக் கோப்புகளைக் கொண்டுள்ளது.</feature>
+		</features>
+		<features module="அவேர்னஸ் மாடல்">
+			<feature>1. மாடல் ஊகித்தல் வேகத்தை உகந்ததாக்குகிறது.</feature>
+			<feature>2. மாடலின் உருவாக்க விளைவை மேம்படுத்துகிறது.</feature>
+			<feature>3. புதிய செயல்பாடுகளைச் சேர்க்கிறது.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="te-IN" code="1053">
+		<features module="" type="header">
+			<feature>ఈ సిఫార్సు చేయబడిన అప్‌డేట్‌లో కింది వనరు ఫైల్స్ ఉంటాయి, ఇవి సిస్టమ్ యొక్క వినియోగదారు అనుభవాన్ని మెరుగుపరుస్తాయి.</feature>
+		</features>
+		<features module="జాగృతి మోడల్">
+			<feature>1. మోడల్ అంతరాయ వేగాన్ని ఆప్టిమైజ్ చేస్తుంది.</feature>
+			<feature>2. మోడల్ యొక్క రూపకల్పన ప్రభావాన్ని మెరుగుపరుస్తుంది.</feature>
+			<feature>3. కొత్త ఫంక్షన్‌లను జోడిస్తుంది.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="th-th" code="1054">
+		<features module="" type="header">
+			<feature>อัปเดตที่แนะนำนี้รวมไฟล์ทรัพยากรต่อไปนี้ ซึ่งจะปรับปรุงการใช้งานระบบของผู้ใช้</feature>
+		</features>
+		<features module="โมเดลการรับรู้">
+			<feature>1. ปรับปรุงความเร็วของการอนุมานของโมเดล</feature>
+			<feature>2. ปรับปรุงการสร้างเอฟเฟ็กต์ของโมเดล</feature>
+			<feature>3. เพิ่มฟังก์ชันใหม่</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="tl-ph" code="1124">
+		<features module="" type="header">
+			<feature>Kasama sa inirerekomendang update na ito ang mga sumusunod na resource file, na magpapahusay sa karanasan ng user sa system.</feature>
+		</features>
+		<features module="Modelo ng Awareness">
+			<feature>1. Ino-optimize ang bilis ng model inference.</feature>
+			<feature>2. Pinapahusay ang effect ng pagbuo ng modelo.</feature>
+			<feature>3. Nagdaragdag ng mga bagong function.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="fil-ph" code="1124">
+		<features module="" type="header">
+			<feature>Kasama sa inirerekomendang update na ito ang mga sumusunod na resource file, na magpapahusay sa karanasan ng user sa system.</feature>
+		</features>
+		<features module="Modelo ng Awareness">
+			<feature>1. Ino-optimize ang bilis ng model inference.</feature>
+			<feature>2. Pinapahusay ang effect ng pagbuo ng modelo.</feature>
+			<feature>3. Nagdaragdag ng mga bagong function.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="tr-tr" code="1055">
+		<features module="" type="header">
+			<feature>Önerilen bu güncelleme, sistemin kullanıcı deneyimini iyileştirmek için aşağıdaki kaynak dosyalarını içerir.</feature>
+		</features>
+		<features module="Farkındalık modeli">
+			<feature>1. Model çıkarım hızı optimize edildi.</feature>
+			<feature>2. Modelin oluşturma etkisi geliştirildi.</feature>
+			<feature>3. Yeni işlevler eklendi.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="ug-cn" code="1152">
+		<features module="" type="header">
+			<feature>‏بۇ قېتىملىق يېڭىلاش تۆۋەندىكى مەنبە ھۆججەتلەرنى يېڭىلاپ، سىستېمىنىڭ ئىشلەتكۈچى تەسىراتىنى يۇقىرى كۆتۈرىدۇ، دەرھال يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+		</features>
+		<features module="‏‏مۇھىت تونۇش مودېلى">
+			<feature>‏1. مودىل يەكۈنلەش سۈرئىتى ئەلالاشتۇرۇلدى.</feature>
+			<feature>‏2. مودىل ھاسىللاش ئۈنۈمى ياخشىلاندى.</feature>
+			<feature>‏3. مۇلازىمەت ئىقتىدارى يېڭىدىن قوشۇلدى.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="uk-ua" code="1058">
+		<features module="" type="header">
+			<feature>Це рекомендоване оновлення включає наведені далі файли ресурсів, які покращать роботу системи.</feature>
+		</features>
+		<features module="Модель Awareness">
+			<feature>1. Оптимізує швидкість виведення моделі.</feature>
+			<feature>2. Покращує ефект генерації моделі.</feature>
+			<feature>3. Додає нові функції.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="ur-pk" code="1056">
+		<features module="" type="header">
+			<feature>اس تجویز کردہ اپ ڈیٹ میں درج ذیل وسائل کی فائلز شامل ہیں، جو سسٹم کے صارف کے تجربے کو بہتر بنائیں گی۔</feature>
+		</features>
+		<features module="آگاہی کا ماڈل">
+			<feature>‏1. ماڈل کے استدلال کی رفتار کو بہتر بناتا ہے۔</feature>
+			<feature>‏2. ماڈل کے تخلیقی اثر کو بہتر بناتا ہے۔</feature>
+			<feature>‏3. نئے فنکشنز شامل کرتا ہے۔</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="uz-uz" code="2115">
+		<features module="" type="header">
+			<feature>Bu tavsiya etiladigan yangilanish tizim foydalanuvchi taassurotini yaxshilaydigan quyidagi resurs fayllarini oʻz ichiga oladi.</feature>
+		</features>
+		<features module="Xabardorlik modeli">
+			<feature>1. Modelning ishlash tezligini optimallaydi.</feature>
+			<feature>2. Modelning yaratish effektini yaxshilaydi.</feature>
+			<feature>3. Yangi funksiyalar qoʻshildi.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="vi-vn" code="1066">
+		<features module="" type="header">
+			<feature>Bản cập nhật đề xuất này bao gồm các tệp tin tài nguyên sau giúp cải thiện trải nghiệm của người dùng về hệ thống.</feature>
+		</features>
+		<features module="Model nhận biết">
+			<feature>1. Tối ưu hóa tốc độ suy luận của mô hình.</feature>
+			<feature>2. Cải thiện hiệu ứng tạo của mô hình.</feature>
+			<feature>3. Bổ sung các chức năng mới.</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="zh-hk" code="3076">
+		<features module="" type="header">
+			<feature>本次更新了以下資源檔案，將提升系統的用戶體驗，建議您立即更新。</feature>
+		</features>
+		<features module="情景感知模型">
+			<feature>1. 優化了模型推理速度。</feature>
+			<feature>2. 改進了模型的建立效果。</feature>
+			<feature>3. 新增服務功能。</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+	<language name="zh-tw" code="1028">
+		<features module="" type="header">
+			<feature>本次更新以下資源檔案，將提升系統的使用者經驗，建議您立即更新。</feature>
+		</features>
+		<features module="情境感知模型">
+			<feature>1. 已最佳化模型推理速度。</feature>
+			<feature>2. 已改善模型的產生效果。</feature>
+			<feature>3. 新增業務功能。</feature>
+		</features>
+		<features module="" type="end">
+			<feature/>
+		</features>
+	</language>
+</root>

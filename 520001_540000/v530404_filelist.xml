@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>9Wt4YrrBivhoi2WfiI8Wj2ae83e6GF94ZUr+62YmzYw=</fileHash>
+<fileSize>499260776</fileSize>
+<metadataHash>Ve2UfPz/hkB/Ri6dzzVZuWBSAby68IqJpX+MhHCiiGE=</metadataHash>
+<metadataSize>32091</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_ELI-N39_opr_meafnaf_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_ELI-N39_opr_meafnaf_R3.zip</spath>
+<dpath>update_full_preload_ELI-N39_opr_meafnaf_R3.zip</dpath>
+<operation>c</operation>
+<sha256>D6A0BB0F5A1F70566CFBDD7AA408ABC5C763B82893773931F6F7BE87DB06C71A</sha256>
+<size>499267984</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>386109083</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>J82QkW2CUmpIuCMO48el20uFk7/JxJJjUr9ML+C9Oco=</fileHash>
+<fileSize>333356488</fileSize>
+<metadataHash>mEOkheGulQ5DLAEtYHHrLZ1xNAtrBx2HX8SWZXkAW4w=</metadataHash>
+<metadataSize>56791</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_DNP-N39_def_la_R201.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_DNP-N39_def_la_R201.zip</spath>
+<dpath>update_full_preload_DNP-N39_def_la_R201.zip</dpath>
+<operation>c</operation>
+<sha256>55C50F4D11EFC6E16798C42ADCE9D5DE5CB39EAFECAC3CE5DDA504A4473B3429</sha256>
+<size>333363700</size>
+</file>
+</files>
+</root>

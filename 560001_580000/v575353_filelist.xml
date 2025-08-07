@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2705334272</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>mnXzFbggpESDK1byn6u1SG1pfDT9jIyzmq/MGh1H62Y=</fileHash>
+<fileSize>1346854960</fileSize>
+<metadataHash>0Pn6V3CgVkQDbuWTIkg7UuSOKXXkxbBT4sbro8U7MQ8=</metadataHash>
+<metadataSize>71993</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_LYN-AN90_all_cn_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_LYN-AN90_all_cn_R102.zip</spath>
+<dpath>update_full_preload_LYN-AN90_all_cn_R102.zip</dpath>
+<operation>c</operation>
+<sha256>548A1399823B7A17D8B05D2717776498FB34EA02D1FF6509F693B0901D2300B0</sha256>
+<size>1346862178</size>
+</file>
+</files>
+</root>

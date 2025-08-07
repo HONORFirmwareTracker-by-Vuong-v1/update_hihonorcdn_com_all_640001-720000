@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>1517197727</compressCowSize>
+<cowsize>2705334272</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>tSOL02Tjv2OYvFXmzpxrMHHJ2ueNumjSpFG0iYv7frg=</fileHash>
+<fileSize>1421819664</fileSize>
+<metadataHash>WVxYozVpIAf60Vs1ii1XG3rrTFAQXqam2P+SF7PsCHo=</metadataHash>
+<metadataSize>72068</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_FCP-AN20_all_cn_R104.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_FCP-AN20_all_cn_R104.zip</spath>
+<dpath>update_full_preload_FCP-AN20_all_cn_R104.zip</dpath>
+<operation>c</operation>
+<sha256>06C3DA10BF9270EC55F233E5CC1951B3FB1DA2DB2D0C8724F38A0FC3A9C45452</sha256>
+<size>1421826884</size>
+</file>
+</files>
+</root>

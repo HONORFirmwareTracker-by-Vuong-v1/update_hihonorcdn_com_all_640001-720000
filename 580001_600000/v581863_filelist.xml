@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>41402368</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>yjWWoaMdeUzPf9B0cpGwiI9oAnnAKdoEHUFylq6KBSs=</fileHash>
+<fileSize>34086</fileSize>
+<metadataHash>FM72SnDQokiCq6+cd2fQMWsaIxCHZCt2MA8yAP706XA=</metadataHash>
+<metadataSize>1334</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ALT-L32_def_spcseas.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ALT-L32_def_spcseas.zip</spath>
+<dpath>update_cust_ALT-L32_def_spcseas.zip</dpath>
+<operation>c</operation>
+<sha256>70E6C20345B72F6433C93AE673E31F1A3F97C581CA4B26FA8D2FDAB5105811B7</sha256>
+<size>41386</size>
+</file>
+</files>
+</root>

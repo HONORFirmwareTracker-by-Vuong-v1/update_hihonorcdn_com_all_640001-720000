@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>767</payloadOffset>
+<fileHash>HzbVP2t6QOAOehSqp9t+tVQ+ICozdLg0NFLYp99KaL0=</fileHash>
+<fileSize>63651</fileSize>
+<metadataHash>SDzp5w81tYRycG58GyHPQjAqTQAFg5X/XOFMvW+QZZA=</metadataHash>
+<metadataSize>30301</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_CRT-N03_def_la_R100.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_CRT-N03_def_la_R100.zip</spath>
+<dpath>update_full_preload_CRT-N03_def_la_R100.zip</dpath>
+<operation>c</operation>
+<sha256>0AA46D8B824ACA37AFCA6B0AB4DFCAB9B820A97367F4B7A70E1B4C801008FF69</sha256>
+<size>70824</size>
+</file>
+</files>
+</root>

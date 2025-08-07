@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>1Wnw+UcEFHu8OYI11oY8OKgRS7kfhcN/XBPB73C9wKI=</fileHash>
+<fileSize>338900332</fileSize>
+<metadataHash>aJzEj1WD8bIEs/G6JTva6swW593+o09Y7p0jJwrTbX4=</metadataHash>
+<metadataSize>31916</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_CRT-L31_def_meafnaf_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_CRT-L31_def_meafnaf_R2.zip</spath>
+<dpath>update_full_preload_CRT-L31_def_meafnaf_R2.zip</dpath>
+<operation>c</operation>
+<sha256>5C684BDED6C931DD35AB2DED2F29C3315E12B28E4CF12A281E784BF74D30516C</sha256>
+<size>338907538</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>2</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1661083648</cowsize>
+<payloadOffset>806</payloadOffset>
+<fileHash>3CBUq7qwKhyz7X+ckIfZXla+h+GdgTSdiv9x7VS06EI=</fileHash>
+<fileSize>1449623855</fileSize>
+<metadataHash>dPvS3DZESkfZOXuW3ElE3aB+hoy4TebHKM7BsMA9jIM=</metadataHash>
+<metadataSize>44804</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_RNA-TN00_cmcc_cn_R7.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_RNA-TN00_cmcc_cn_R7.zip</spath>
+<dpath>update_full_preload_RNA-TN00_cmcc_cn_R7.zip</dpath>
+<operation>c</operation>
+<sha256>7B87A9A57D58A15BD0D4667408D84AA7B0A0DBD8782AD7C91AE9FDA263AA65AF</sha256>
+<size>1449631066</size>
+</file>
+</files>
+</root>

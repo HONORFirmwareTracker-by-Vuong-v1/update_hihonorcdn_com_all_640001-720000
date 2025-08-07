@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>8633597952</cowsize>
+<payloadOffset>948</payloadOffset>
+<fileHash>AFNOHRXzAJSrzoQel0jjmxCEKnE1MtPGQha5stv6Ols=</fileHash>
+<fileSize>2003038354</fileSize>
+<metadataHash>MOVizKie3h8AI9Se0gZsHIWPq8G9w59Fx43bXgD5dVU=</metadataHash>
+<metadataSize>47565</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_DNY-N39_demo_normal.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_DNY-N39_demo_normal.zip</spath>
+<dpath>update_cust_DNY-N39_demo_normal.zip</dpath>
+<operation>c</operation>
+<sha256>053F99E826C22CD456FD1158B3C18651DB1B9D0D8A10DB5D0092FAAEAB94601F</sha256>
+<size>2003045703</size>
+</file>
+</files>
+</root>

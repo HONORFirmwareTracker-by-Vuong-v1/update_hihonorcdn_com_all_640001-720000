@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>2</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1661071360</cowsize>
+<payloadOffset>930</payloadOffset>
+<fileHash>WGuguHlKrPcVfrNTnx+YWNa230d/aMd3Hv7MpqMrkuo=</fileHash>
+<fileSize>25104852</fileSize>
+<metadataHash>JY+fOw9ulKmQV1a+PpXyUg5Li6wfqEGg68SsM2ePChg=</metadataHash>
+<metadataSize>45532</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_NTH-AN00_cmcc_cn_R5.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_NTH-AN00_cmcc_cn_R5.zip</spath>
+<dpath>update_preload_NTH-AN00_cmcc_cn_R5.zip</dpath>
+<operation>c</operation>
+<sha256>937FEC7A65CF9569B9F1C7172DB9F8B64B6E6CD4DBA736561BB2B7E8E4F47B4A</sha256>
+<size>25112188</size>
+</file>
+</files>
+</root>

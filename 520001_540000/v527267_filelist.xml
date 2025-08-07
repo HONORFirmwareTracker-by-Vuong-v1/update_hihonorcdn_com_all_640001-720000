@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44048384</cowsize>
+<payloadOffset>909</payloadOffset>
+<fileHash>120FIWV5vGCEALnP0or3gf6F9qjXAJNdoPklCmKHszE=</fileHash>
+<fileSize>50205</fileSize>
+<metadataHash>+UdTszpy1lJduPp1NxCYZCgaVesV3DhxpkN9g3X4y44=</metadataHash>
+<metadataSize>838</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ELZ-AN10_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ELZ-AN10_all_cn.zip</spath>
+<dpath>update_cust_ELZ-AN10_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>2DECDC0FF9459DA31182A2F9DA5CAE3E7241E609F2D6749B84C8EC2A04ED3039</sha256>
+<size>57510</size>
+</file>
+</files>
+</root>

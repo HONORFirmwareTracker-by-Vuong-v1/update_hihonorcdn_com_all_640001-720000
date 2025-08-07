@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>1362794695</compressCowSize>
+<cowsize>1593712640</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>rLfHwHfUnZoZEI13p44+vfYQBE3zwB8PxB6v6Cyl3Ms=</fileHash>
+<fileSize>1271749387</fileSize>
+<metadataHash>Q9khx3gPJDx7s0JcfKsUFi9YJuX4GBdH/AduW2Kx/lA=</metadataHash>
+<metadataSize>42868</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_JDY-AN50_all_cn_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_JDY-AN50_all_cn_R3.zip</spath>
+<dpath>update_full_preload_JDY-AN50_all_cn_R3.zip</dpath>
+<operation>c</operation>
+<sha256>B71B38E14E9C09825E74FDD86D648215B952052D838FDB766372389F93A24A4E</sha256>
+<size>1271756601</size>
+</file>
+</files>
+</root>

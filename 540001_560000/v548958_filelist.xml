@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>732217634</compressCowSize>
+<cowsize>1189486592</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>nGVTUvkty9xYL8tN5NwSckYynMDyntEpjDpQzSNUH2s=</fileHash>
+<fileSize>645961155</fileSize>
+<metadataHash>cm233wG18zzGn75OV+K7GWvKccnZr9DWT3KhDtzGYkU=</metadataHash>
+<metadataSize>31659</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_PTP-N19_telcel_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_PTP-N19_telcel_mx.zip</spath>
+<dpath>update_full_cust_PTP-N19_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>EAEC4EDDA454CB2AE15DDCB22BCC66CF188B102A5F82DE331487A5FBBF1337FF</sha256>
+<size>645968343</size>
+</file>
+</files>
+</root>

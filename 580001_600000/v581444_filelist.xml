@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1755897856</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>VpEeQNeaUMKw18BqUYU2lEHdWkfwONWDTCGsQv/yWsA=</fileHash>
+<fileSize>163411782</fileSize>
+<metadataHash>LYEfwr9RVENeh5OiV089NMv8lKTN+t2H34htolD2mRE=</metadataHash>
+<metadataSize>33042</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_REA-N09_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_REA-N09_claro_la.zip</spath>
+<dpath>update_cust_REA-N09_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>68DF481D1134B6C5604F8FE8EA34A44158B6246D6EBC428366BFD907F02B6E18</sha256>
+<size>163419120</size>
+</file>
+</files>
+</root>

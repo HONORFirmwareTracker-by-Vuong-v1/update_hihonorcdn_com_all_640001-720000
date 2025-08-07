@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2705334272</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>+1hKhO2Rp2OXdi4+yCFxYTvq4LB4nCnhOaQkdhA12s0=</fileHash>
+<fileSize>796822124</fileSize>
+<metadataHash>K+qevpWT4XVr8TzLG8PIccnHcCr2b453J2RRu/hG5eM=</metadataHash>
+<metadataSize>41549</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_LYN-TN00_cmcc_cn_R101.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_LYN-TN00_cmcc_cn_R101.zip</spath>
+<dpath>update_preload_LYN-TN00_cmcc_cn_R101.zip</dpath>
+<operation>c</operation>
+<sha256>FEB3FB3E50A47BAAB03DB9AA05AC97D4B036CD3D8611D9F8177B79BB4DEEA2EE</sha256>
+<size>796829472</size>
+</file>
+</files>
+</root>

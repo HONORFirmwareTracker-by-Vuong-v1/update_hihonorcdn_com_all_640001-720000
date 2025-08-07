@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>616833024</cowsize>
+<payloadOffset>742</payloadOffset>
+<fileHash>YVjUE2FWlUWJ+7FyOA2QXOpKMEj9McJiaRiq2UQ4nOE=</fileHash>
+<fileSize>221280587</fileSize>
+<metadataHash>2wlhKP/WpV6Rkk3jWk9ngVN0MrxXM+QzRYr7M9rWgZw=</metadataHash>
+<metadataSize>16021</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_JLH-AN00_cmcc_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_JLH-AN00_cmcc_cn.zip</spath>
+<dpath>update_full_cust_JLH-AN00_cmcc_cn.zip</dpath>
+<operation>c</operation>
+<sha256>FED9154D93985F3A185313A98BC7D1FE85F2E1816B9644B7AD4E7AC4C01932B2</sha256>
+<size>221287738</size>
+</file>
+</files>
+</root>

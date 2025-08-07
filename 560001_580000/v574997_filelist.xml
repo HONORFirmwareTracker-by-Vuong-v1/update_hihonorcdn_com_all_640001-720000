@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>823377159</compressCowSize>
+<cowsize>1189486592</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>ebsJgb1u9YAzrB+CsoKPIgJrI+h9KAJ4RzTxdGUHACU=</fileHash>
+<fileSize>746865098</fileSize>
+<metadataHash>ifmwHDzA0L60mnGpIawAIHjGxl+PyzLa9zglW/A041E=</metadataHash>
+<metadataSize>31758</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_ELP-N09_telcel_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_ELP-N09_telcel_mx.zip</spath>
+<dpath>update_full_cust_ELP-N09_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>CD818C680FB9C37DB1C42F8C1A5B5BC260A123284A76E88D94E3231F019E6429</sha256>
+<size>746872291</size>
+</file>
+</files>
+</root>

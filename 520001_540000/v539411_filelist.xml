@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214738432</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>kgqYsSPncPF8aQrIfdlTcOs2IrBaeRJlpYxO32st06k=</fileHash>
+<fileSize>11505</fileSize>
+<metadataHash>POHYd1UqWE/+svk7PKaMVia48ZOFCr81QLH/CLHEdws=</metadataHash>
+<metadataSize>7901</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_ELI-N09_def_la_R100.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_ELI-N09_def_la_R100.zip</spath>
+<dpath>update_preload_ELI-N09_def_la_R100.zip</dpath>
+<operation>c</operation>
+<sha256>6703BF0BE2B6A1038D14CC871BFDC200F536FBDC032BDD2DA71A35BFE5FD178D</sha256>
+<size>18818</size>
+</file>
+</files>
+</root>

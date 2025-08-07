@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1593712640</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>U8ZkNkPaIsv07AecLNAZjN8CiQ7iZ+tWcRUHUjRiYLc=</fileHash>
+<fileSize>1445867511</fileSize>
+<metadataHash>fygioKgHmet3+evJ+bsOzUu1zaLNkVshIPIJniFaapw=</metadataHash>
+<metadataSize>43025</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_VER-AN20P_all_cn_R5.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_VER-AN20P_all_cn_R5.zip</spath>
+<dpath>update_full_preload_VER-AN20P_all_cn_R5.zip</dpath>
+<operation>c</operation>
+<sha256>8FD3952095D42C73029F560C33EBF80DA48A1B7C4588CB9AC1E8FB63719F054C</sha256>
+<size>1445874744</size>
+</file>
+</files>
+</root>

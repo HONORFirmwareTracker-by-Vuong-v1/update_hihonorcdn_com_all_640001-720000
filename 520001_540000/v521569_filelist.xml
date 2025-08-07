@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1520984064</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>Vad5sbNknx3p2ltK/6JVBt2Ab71RE9e5pwwhpEjv+1w=</fileHash>
+<fileSize>296220966</fileSize>
+<metadataHash>5gwCwCUf4R1JAdTN8kokN6PZXUc6y0BQRwXpy8qaVzA=</metadataHash>
+<metadataSize>52490</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_PGT-AN20_all_cn_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_PGT-AN20_all_cn_R3.zip</spath>
+<dpath>update_preload_PGT-AN20_all_cn_R3.zip</dpath>
+<operation>c</operation>
+<sha256>51652C36EA56329FC856847460653FF6DFB9C5736A41434F34A7DC96583D40DF</sha256>
+<size>296228316</size>
+</file>
+</files>
+</root>

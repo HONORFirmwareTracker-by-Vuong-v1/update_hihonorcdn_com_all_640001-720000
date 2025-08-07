@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44040192</cowsize>
+<payloadOffset>915</payloadOffset>
+<fileHash>j++wjzjuGjrq5mKJ91oet/n0sd3vf0H4Vo4jmP634MI=</fileHash>
+<fileSize>839071</fileSize>
+<metadataHash>owzKvS2rTYXLRomh8eZIfTpnwjcNYZuoCqatXwZyV9k=</metadataHash>
+<metadataSize>911</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_PGT-N29_def_spcseas.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_PGT-N29_def_spcseas.zip</spath>
+<dpath>update_cust_PGT-N29_def_spcseas.zip</dpath>
+<operation>c</operation>
+<sha256>B85615A98BE3627D7FDFFF2641A10EFCAC619710A8794F9941E9BA2B48C5886B</sha256>
+<size>846379</size>
+</file>
+</files>
+</root>

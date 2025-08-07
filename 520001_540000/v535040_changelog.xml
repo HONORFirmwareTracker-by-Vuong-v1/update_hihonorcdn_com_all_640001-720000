@@ -1,0 +1,1772 @@
+<root>
+    <component name="TCPU" version="请自行修改"></component>
+    <default-language name="en-us">1033</default-language>
+    <language name="zh-cn" code="2052">
+              <features module="" type="header" backgroud="">
+             <feature>亲爱的用户，本次更新新增圈定即搜功能，优化部分场景相机拍摄效果，提升系统稳定性，合入安全补丁，推荐您进行更新。</feature>
+         </features>
+        <features id="1" module="系统">
+             <feature title="圈定即搜">•  支持长按导航提示条或主屏幕按钮，即可圈定屏幕上的内容进行快捷搜索，体验路径：设置>系统和更新>系统导航方式>打开显示提示条开关。</feature>
+             <feature title="稳定性">•  提升系统稳定性，让您的手机运行更稳定。</feature>
+         </features>
+        <features id="2" module="媒体">
+             <feature title="相机">•  优化部分场景相机拍摄效果。</feature>
+         </features>
+        <features id="3" module="安全">
+             <feature>•  合入安卓2025年2月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2025/2</feature>
+         </features>
+        <features module="更新注意事项：" type="end">
+            <feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更新过程中，如果遇到任何问题，请拨打荣耀品牌服务热线或至荣耀品牌客户服务中心寻求支持。</feature>
+        </features>
+    </language>
+
+    <language name="en-us" code="1033">
+              <features module="" type="header" backgroud="">
+             <feature>Dear user, this update introduces Circle to Search and optimizes the shooting effect in some scenarios. It also improves the system stability, and incorporates a security patch. Update to enjoy the new features and improvements.</feature>
+         </features>
+        <features id="1" module="System">
+             <feature title="Circle to Search">• Touch and hold the navigation bar or the Home button to circle content on your screen for searching. Try it out by going to Settings > System &amp; updates > System navigation > Show navigation bar.</feature>
+             <feature title="Stability">• Improves the system stability to make your device run more stably.</feature>
+         </features>
+        <features id="2" module="Media">
+             <feature title="Camera">• Optimizes the shooting effect in some scenarios.</feature>
+         </features>
+        <features id="3" module="Security">
+             <feature>• Android security patch (Feb 2025) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Notes:" type="end">
+            <feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating. 
+2. If you encounter any issues during the update, please call the HONOR service hotline or go to the HONOR customer service center for support.</feature>
+        </features>
+    </language>
+
+    <language code="1118" name="am-ET">
+              <features module="" backgroud="" type="header">
+             <feature>ውድ ተጠቃሚ፣ ይህ ዝማኔ ለፍለጋ ማክበብን ያስተዋውቃል እና በአንዳንድ ሁኔታዎች የማንሳት ተጽእኖውን ያሻሽላል። የስርዓት መረጋጋትን ያሻሽላል እና የደህንነት መጠገኛን ያካትታል። በአዲስ ባህሪያት እና ማሻሻያዎች ለመደሰት ያዘምኑ።</feature>
+         </features>
+        <features module="ስርዓት" id="1">
+             <feature title="ለመፈለግ ያክበቡ">• ለመፈለግ በማያዎ ላይ ያለውን ይዘት ለማክበብ የአሰሳ አሞሌውን ወይም የመነሻ አዝራሩን ተጭነው ይያዙ። ወደ ቅንብሮች > ስርዓት እና ዝማኔዎች > የስርዓት ዳሰሳ > መዳሰሻ መሰላልን አሳይ በመሄድ ይሞክሩት።</feature>
+             <feature title="ጽኑነት">• መሳሪያዎን በበለጠ እርጋታ ለማሄድ የስርዓት እርጋታን ያሻሽላል።</feature>
+         </features>
+        <features module="ሚዲያ" id="2">
+             <feature title="ካሜራ">• በአንዳንድ ሁኔታዎች ላይ የማንሳት ተጽዕኖውን ያተባል።</feature>
+         </features>
+        <features module="ደህንነት" id="3">
+             <feature>• የአንድሮይድ ደህንነት መጠገኛ (ፌብ 2025) ለስርዓት ደህንነት ተካትቷል። ስለHONOR ደህንነት ዝማኔዎች ተጨማሪ መረጃ ለማግኘት እባክዎ የእኛን ድር ጣቢያ https://www.honor.com/global/support/bulletin/2025/2 ይጎብኙ።</feature>
+         </features>
+        <features module="ማስታወሻዎች፦" type="end">
+            <feature>1. ይህን ዝማኔ መጫን በእርስዎ የግል ውሂብ ላይ ተጽዕኖ አያሳድርም፣ ነገር ግን አሁንም ከማዘመንዎ በፊት የውሂብዎን ምትኬ ማስቀመጥ ይመከራል። 
+2. በዝማኔው ጊዜ ማንኛውም አይነት ችግር ካጋጠመዎት ድጋፍ ለማግኘት እባክዎ ወደ የHONOR አገልግሎት ቀጥታ መስመር ይደውሉ ወይም ወደ የHONOR ደንበኛ አገልግሎት ማዕከል ይሂዱ።</feature>
+        </features>
+    </language>
+    
+<language code="3073" name="ar-eg">
+              <features module="" backgroud="" type="header">
+             <feature>عزيزنا المستخدم، يقدم هذا التحديث ميزة رسم دائرة للبحث ويحسّن تأثير التصوير في بعض السيناريوهات. وهو يحسّن أيضًا استقرار النظام، ويضمّن تصحيح أمان. للاستمتاع بالتحسينات والميزات الجديدة، ما عليك سوى التحديث.</feature>
+         </features>
+        <features module="النظام" id="1">
+             <feature title="رسم دائرة للبحث">• المس مطولاً شريط التنقل أو زر الصفحة الرئيسية لرسم دائرة حول المحتوى الموجود على شاشتك للبحث فيه. جرّب هذه الميزة بالانتقال إلى الإعدادات > النظام والتحديثات > أزرار التنقل > إظهار شريط التنقل.</feature>
+             <feature title="الاستقرار">• يحسّن استقرار النظام لجعل جهازك يعمل بشكل أكثر استقرارًا.</feature>
+         </features>
+        <features module="الوسائط" id="2">
+             <feature title="الكاميرا">• يحسّن تأثير التصوير في بعض السيناريوهات.</feature>
+         </features>
+        <features module="الأمان" id="3">
+             <feature>• تم تضمين تصحيح أمان Android (فبراير 2025) لأمان النظام. لمزيد من المعلومات حول تحديثات الأمان في HONOR، يرجى زيارة موقعنا على الويب https://www.honor.com/ae-ar/support/bulletin/2025/2</feature>
+         </features>
+        <features module="الملاحظات:" type="end">
+            <feature>1. لن يؤثر تثبيت هذا التحديث على بياناتك الشخصية، ولكن لا يزال من المستحسن إنشاء نسخة احتياطية لبياناتك قبل التحديث. 
+2. إذا واجهت أي مشاكل أثناء التحديث، فيُرجى الاتصال بالخط الساخن لخدمة HONOR أو الانتقال إلى مركز خدمة عملاء HONOR للحصول على الدعم.</feature>
+        </features>
+    </language>
+    
+<language code="1101" name="as-IN">
+              <features module="" backgroud="" type="header">
+             <feature>মৰমৰ ব্যৱহাৰকাৰী, এই আপডেটটোৱে অনুসন্ধান কৰিবলৈ বৃত্ত বনোৱাৰ পৰিচয় কৰায় আৰু কিছুমান পৰিস্থিতিত শ্বুটিঙৰ প্ৰভাৱ অনুকূলন কৰে। ই ছিষ্টেমৰ স্থিৰতা উন্নত কৰে আৰু এটা নিৰাপত্তাৰ পেচ অন্তৰ্ভুক্ত কৰে। নতুন ফিচাৰসমূহ আৰু উন্নতিসমূহৰ আনন্দ ল'বলৈ আপডেট কৰক।</feature>
+         </features>
+        <features module="ছিষ্টেম" id="1">
+             <feature title="অনুসন্ধান কৰিবলৈ বৃত্ত বনোৱা">• অনুসন্ধান কৰিবৰ বাবে আপোনাৰ স্ক্ৰীণত থকা সমলত বৃত্ত বনাবলৈ নেভিগেশ্বন বাৰ বা হোম বুটামটো স্পৰ্শ কৰক আৰু ধৰি থাকক। ছেটিংছ > ছিষ্টেম আৰু আপডেটসমূহ > ছিষ্টেম নেভিগেশ্বন > নেভিগেশ্বন বাৰ দেখুৱাওকলৈ গৈ ইয়াক ব্যৱহাৰ কৰি চাওক।</feature>
+             <feature title="স্থিৰতা">• আপোনাৰ ডিভাইচ অধিক স্থিৰতাৰে চলাবলৈ ছিষ্টেমৰ স্থিৰতা উন্নত কৰে।</feature>
+         </features>
+        <features module="মিডিয়া" id="2">
+             <feature title="কেমেৰা">• কিছুমান পৰিস্থিতিত শ্বুটিঙৰ প্ৰভাৱ অনুকূলন কৰে।</feature>
+         </features>
+        <features module="নিৰাপত্তা" id="3">
+             <feature>• ছিষ্টেমৰ নিৰাপত্তাৰ বাবে Android নিৰাপত্তাৰ পেচ (ফেব্ৰুৱাৰী 2025) অন্তৰ্ভুক্ত কৰা হৈছে। HONOR নিৰাপত্তা আপডেটৰ বিষয়ে অধিক তথ্যৰ বাবে, অনুগ্ৰহ কৰি আমাৰ ৱেবছাইট দৰ্শন কৰক: https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="মনত ৰাখিব:" type="end">
+            <feature>1. এই আপডেটটো ইনষ্টল কৰিলে আপোনাৰ ব্যক্তিগত ডাটাত প্ৰভাৱ নপৰিব, কিন্তু আপডেট কৰাৰ পূৰ্বে আপোনাৰ ডাটাৰ বেক আপ ল'বলৈ এতিয়াও অনুমোদন জনোৱা হয়। 
+2. আপুনি আপডেটৰ সময়ত কোনো সমস্যাৰ সন্মুখীন হ'লে, অনুগ্ৰহ কৰি HONOR সেৱা হটলাইনত কল কৰক বা সমৰ্থনৰ বাবে HONOR গ্ৰাহক সেৱা কেন্দ্ৰলৈ যাওক।</feature>
+        </features>
+    </language>
+    
+<language code="1068" name="az-az">
+              <features module="" backgroud="" type="header">
+             <feature>Hörmətli istifadəçi, bu yeniləmə Dairəyə alaraq axtarın proqramını təqdim edir və bəzi ssenarilərdə çəkiliş effektini optimallaşdırır. O həmçinin sistemin sabitliyini yaxşılaşdırır və təhlükəsizlik paketini ehtiva edir. Yeni xüsusiyyətlər və təkmilləşdirmələrdən zövq almaq üçün yeniləyin.</feature>
+         </features>
+        <features module="Sistem" id="1">
+             <feature title="Dairəyə alaraq axtarın">• Ekranınızdakı məzmunu dairəyə almaq üçün naviqasiya paneli və ya Əsas ekran düyməsini basıb saxlayın. Bunu Parametrlər > Sistem və yeniləmələr > Sistem naviqasiyası > Naviqasiya zolağını göstərin bölməsinə keçərək sınayın.</feature>
+             <feature title="Stabillik">• Cihazınızın daha stabil işləməsi üçün sistem stabilliyini təkmilləşdirir.</feature>
+         </features>
+        <features module="Media" id="2">
+             <feature title="Kamera">• Bəzi ssenarilərdə çəkiliş effektini optimallaşdırır.</feature>
+         </features>
+        <features module="Təhlükəsizlik" id="3">
+             <feature>• Sistem təhlükəsizliyi üçün Android təhlükəsizlik paketi (Fevral 2025) daxil edilib. HONOR Təhlükəsizlik yeniləmələri haqqında ətraflı məlumat üçün veb-saytımıza daxil olun: https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Qeydlər:" type="end">
+            <feature>1. Bu yeniləmənin quraşdırılması şəxsi məlumatlarınıza təsir etməyəcək, lakin yenə də yeniləmədən əvvəl verilənlərinizin ehtiyat nüsxəsini çıxarmaq tövsiyə olunur. 
+2. Yeniləmə zamanı hər hansı problemlə qarşılaşsanız, HONOR xidmət qaynar xəttinə zəng edin və ya dəstək üçün HONOR müştəri xidməti mərkəzinə gedin.</feature>
+        </features>
+    </language>
+    
+<language code="1033" name="jv-id">
+              <features module="" backgroud="" type="header">
+             <feature>Katur pangguna, panganyaran iki menehi fitur Bunderi kanggo Nlusuri lan ngoptimalake efek ngrekam ing sawetara skenario. Panganyaran iki uga ngapikake stabilitas sistem, lan nggabungake patch keamanan. Anyarake kanggo nikmati pangapikan lan fitur anyar.</feature>
+         </features>
+        <features module="Sistem" id="1">
+             <feature title="Bunderi kanggo Nlusuri">• Dumuk suwe wilah navigasi utawa tombol Layar ngarep kanggo mbunderi konten ing layar kanggo nlusuri. Cobanen kanthi mbukak Setelan > Sistem &amp; panganyaran > Navigasi sistem > Tampilake wilah navigasi.</feature>
+             <feature title="Stabilitas">• Ngapikake stabilitas sistem supaya piranti mlaku kanthi luwih stabil.</feature>
+         </features>
+        <features module="Media" id="2">
+             <feature title="Kamera">• Ngoptimalake efek ngrekam ing sawetara skenario.</feature>
+         </features>
+        <features module="Keamanan" id="3">
+             <feature>• Patch keamanan Android (Feb 2025) wis digabungake kanggo keamanan sistem. Informasi sing luwih jangkep babagan panganyaran Keamanan HONOR bisa dideleng ing situs web kita https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Cathetan:" type="end">
+            <feature>1. Nginstal panganyaran iki ora bakal mengaruhi data pribadi sampeyan, nanging sampeyan tetep disaranake nggawe serep data sadurunge nganyarake.
+2. Yen ana masalah sajrone panganyaran, telpon hotline layanan HONOR utawa tekani pusat layanan pelanggan HONOR kanggo njaluk dhukungan.</feature>
+        </features>
+    </language>
+    
+<language code="2074" name="sr-rs">
+              <features module="" backgroud="" type="header">
+             <feature>Poštovani korisniče, ovim ažuriranjem uvodi se funkcija Zaokruživanje radi pretraživanja i optimizuje se učinak snimanja u pojedinim situacijama. Pored toga, poboljšava se stabilnost sistema i inkorporirana je bezbednosna zakrpa. Ažurirajte da biste uživali u novim funkcijama i poboljšanjima.</feature>
+         </features>
+        <features module="Sistem" id="1">
+             <feature title="Zaokruživanje radi pretraživanja">• Dodirnite i držite traku za navigaciju ili dugme Početak da biste zaokružili sadržaj na ekranu radi pretraživanja. Isprobajte na putanji: Podešavanja > Sistem i ažuriranja > Navigacija sistema > Prikaži traku za navigaciju.</feature>
+             <feature title="Stabilnost">• Poboljšana je stabilnost sistema, zbog čega vaš uređaj radi stabilnije.</feature>
+         </features>
+        <features module="Multimedija" id="2">
+             <feature title="Kamera">• Optimizuje učinak snimanja u pojedinim situacijama.</feature>
+         </features>
+        <features module="Bezbednost" id="3">
+             <feature>• Ugrađena je bezbednosna zakrpa za Android (februar 2025.) radi bezbednosti sistema. Za više informacija o bezbednosnim ažuriranjima koja sprovodi HONOR, posetite našu veb-stranicu: https://www.honor.com/rs/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Napomena:" type="end">
+            <feature>1. Ovo ažuriranje neće uticati na vaše lične podatke. Međutim, preporučujemo da pre ažuriranja napravite rezervnu kopiju svojih podataka. 
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, pozovite dežurnu liniju kompanije HONOR ili posetite centar za korisničku podršku kompanije HONOR radi podrške.</feature>
+        </features>
+    </language>
+    
+<language code="1059" name="be-by">
+              <features module="" backgroud="" type="header">
+             <feature>Паважаны карыстальнік, гэта абнаўленне ўводзіць функцыю «Абвесці, каб шукаць» і аптымізуе эфект здымкі ў некаторых сцэнарыях. Акрамя таго, яно павышае ўстойлівасць сістэмы і ўключае выпраўленне сістэмы бяспекі. Выканайце абнаўленне, каб паспрабаваць новыя функцыі і паляпшэнні.</feature>
+         </features>
+        <features module="Сістэма" id="1">
+             <feature title="Абвесці, каб шукаць">• Націсніце і ўтрымлівайце панэль навігацыі або кнопку «Дом», каб абвесці змесціва на экране для пошуку. Каб паспрабаваць, прайдзіце ў меню «Налады > Сістэма і абнаўленні > Навігацыя ў сістэме > Паказваць панэль навігацыі».</feature>
+             <feature title="Устойлівасць">• Устойлівасць сістэмы павышана, што робіць працу прылады больш стабільнай.</feature>
+         </features>
+        <features module="Медыя" id="2">
+             <feature title="Камера">• У некаторых сцэнарыях аптымізаваны эфект здымкі.</feature>
+         </features>
+        <features module="Бяспека" id="3">
+             <feature>• Для бяспекі сістэмы ўключана выпраўленне бяспекі Android (люты 2025 г.). Больш інфармацыі аб абнаўленні сістэмы бяспекі HONOR можна знайсці на нашым вэб-сайце: https://www.honor.com/by/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Заўвагі." type="end">
+            <feature>1. Устаноўка гэтага абнаўлення не закране вашы асабістыя даныя. Тым не менш рэкамендуецца стварыць рэзервовую копію даных перад абнаўленнем. 
+2. Калі падчас абнаўлення ўзнікнуць праблемы, звярніцеся на гарачую лінію абслугоўвання HONOR або наведайце сэрвісны цэнтр HONOR для атрымання дапамогі.</feature>
+        </features>
+    </language>
+    
+<language code="1026" name="bg-bg">
+              <features module="" backgroud="" type="header">
+             <feature>Уважаеми потребители, тази актуализация въвежда функцията „Оградете за търсене“ и оптимизира ефекта на заснемане в някои ситуации. Освен това тя подобрява стабилността на системата и включва корекция за сигурност. Актуализирайте, за да се насладите на новите функции и подобрения.</feature>
+         </features>
+        <features module="Система" id="1">
+             <feature title="Оградете за търсене">• Докоснете и задръжте лентата за навигация или бутона за начало, за да оградите съдържанието на екрана за търсене. Изпробвайте това, като отидете в „Настройки > Система и актуализации > Системна навигация > Показване на лентата за навигация“.</feature>
+             <feature title="Стабилност">• Подобрява стабилността на системата, за да работи устройството ви по-стабилно.</feature>
+         </features>
+        <features module="Медия" id="2">
+             <feature title="Камера">• Оптимизира ефекта на заснемане в някои ситуации.</feature>
+         </features>
+        <features module="Защита" id="3">
+             <feature>• За сигурността на системата е включена корекция за сигурност на Android (февруари 2025). За повече информация относно актуализациите за сигурност на HONOR посетете нашия уебсайт https://www.honor.com/bg/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Бележки:" type="end">
+            <feature>1. Инсталирането на тази актуализация няма да се отрази на вашите лични данни, но все пак е препоръчително да архивирате данните си преди актуализиране. 
+2. Ако срещнете проблеми по време на актуализацията, моля, обадете се на сервизната гореща линия на HONOR или отидете до сервизния център на HONOR за поддръжка.</feature>
+        </features>
+    </language>
+    
+<language code="2117" name="bn-bd">
+              <features module="" backgroud="" type="header">
+             <feature>প্রিয় ব্যবহারকারী, এই আপডেটটি সার্কেল টু সার্চ চালু করে এবং কিছু পরিস্থিতিতে শুটিং এফেক্টকে অপটিমাইজ করে। এটি সিস্টেমের স্থিতিশীলতাকেও উন্নত করে এবং এতে একটি নিরাপত্তা প্যাচ অন্তর্ভুক্ত আছে। নতুন বৈশিষ্ট্য ও উন্নতিগুলি উপভোগ করতে আপডেট করুন।</feature>
+         </features>
+        <features module="সিস্টেম" id="1">
+             <feature title="অনুসন্ধান করতে গোল করে চিহ্নিত করুন">• অনুসন্ধান করার জন্য আপনার স্ক্রিনের কন্টেন্টে গোল করে চিহ্নিত করতে নেভিগেশন বার বা হোম বোতামটি স্পর্শ করে ধরে রাখুন। সেটিংস > সিস্টেম ও আপডেটগুলি > সিস্টেম নেভিগেশন > নেভিগেশন বার দেখান-এ গিয়ে এটি ব্যবহার করে দেখুন।</feature>
+             <feature title="স্থিতিশীলতা">• আপনার ডিভাইসটিকে আরও স্থিতিশীলভাবে চালানোর জন্য সিস্টেমের স্থিতিশীলতা উন্নত করে।</feature>
+         </features>
+        <features module="মিডিয়া" id="2">
+             <feature title="ক্যামেরা">• কিছু পরিস্থিতিতে শুটিং এফেক্টকে অপটিমাইজ করে।</feature>
+         </features>
+        <features module="নিরাপত্তা" id="3">
+             <feature>• সিস্টেমের নিরাপত্তার জন্য Android নিরাপত্তা প্যাচ (ফেব্রুয়ারি 2025) যোগ করা হয়েছে। HONOR-এর নিরাপত্তা আপডেটগুলি সম্পর্কে আরো তথ্যের জন্য, আমাদের ওয়েবসাইট দেখুন https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="নোটসমূহ:" type="end">
+            <feature>1. এই আপডেটটি ইনস্টল করলে তা আপনার ব্যক্তিগত ডেটাকে প্রভাবিত করবে না, তবুও আপডেট করার আগে আপনার ডেটা ব্যাক আপ করার পরামর্শ দেওয়া হয়। 
+2. আপনি আপডেটের সময় কোনো সমস্যার সম্মুখীন হলে HONOR সার্ভিস হটলাইনে কল করুন বা সহায়তার জন্য HONOR গ্রাহক সেবা কেন্দ্রে যান।</feature>
+        </features>
+    </language>
+    
+<language code="1105" name="bo-cn">
+              <features module="" backgroud="" type="header">
+             <feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་སྐོར་འགོད་ཙམ་གྱིས་བཤེར་འཚོལ་རྩོལ་ནུས་གསར་སྣོན་བྱས་ཡོད། བཟོ་ལྗོངས་ཁག་ཅིག་གི་པར་ཆས་ཀྱི་བརྙན་ལེན་ཁྱད་ནུས་ལེགས་སྒྱུར་བྱས་ཡོད། རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་ཡོད། བདེ་འཇགས་ལྷན་པ་འདུས་གྲུབ་བྱས་ཡོད། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུའི་འོས་སྦྱོར་བྱེད།</feature>
+         </features>
+        <features module="རྒྱུད་ཁོངས།" id="1">
+             <feature title="སྐོར་འགོད་ཙམ་གྱིས་བཤེར་འཚོལ།">• ཕྱོགས་སྟོན་དྲན་སྐུལ་ཐིག་ཡང་ན་བརྙན་ཡོལ་གཙོ་བའི་མཐེབ་ཡུན་རིང་གནོན་ན་བརྙན་ཡོལ་ཐོག་གི་ནང་དོན་སྐོར་འགོད་བྱས་ནས་མགྱོགས་མྱུར་གྱིས་བཤེར་འཚོལ་བྱེད་པར་རྒྱབ་སྐྱོར་བྱེད། ཉམས་ལེན་བརྒྱུད་ལམ། སྒྲིག་འགོད་ནས་རྒྱུད་ཁོངས་དང་གསར་སྒྱུར། དེ་ནས་རྒྱུད་ཁོངས་ཀྱི་ཕྱོགས་སྟོན་བྱེད་ཐབས། དེ་ནས་དྲན་སྐུལ་ཐིག་མངན་སྟོན་བསད་སྤར་ཁ་ཕྱེ་བ།</feature>
+             <feature title="བརྟན་འཇགས་རང་བཞིན།">• རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་སྟེ། ཁྱེད་ཀྱི་ལག་ཁྱེར་ཁ་པར་གྱི་འཁོར་སྐྱོད་སྔར་ལས་བརྟན་འཇགས་སུ་བཏང་ཡོད།</feature>
+         </features>
+        <features module="སྨྱན་གཟུགས།" id="2">
+             <feature title="པར་ཆས།">• བཟོ་ལྗོངས་ཁག་ཅིག་གི་པར་ཆས་ཀྱི་བརྙན་ལེན་ཁྱད་ནུས་ལེགས་སྒྱུར་བྱས་ཡོད།</feature>
+         </features>
+        <features module="བདེ་འཇགས།" id="3">
+             <feature>• ཨན་སྒྲོའི་ 2025 ལོའི་ཟླ་ 2 པོའི་བདེ་འཇགས་ལྷན་པ་འདུས་གྲུབ་བྱས་ཡོད། རྒྱུད་ཁོངས་ཀྱི་བདེ་འཇགས་རང་བཞིན་སྟོབས་སྒྱུར་བྱས་ཡོད། རུང་ཡོའོ་མཉེན་ཆས་ཀྱི་བདེ་འཇགས་གསར་སྒྱུར་ནང་དོན་སྐོར་གྱི་ཆ་འཕྲིན་ལ། རུང་ཡོའོ་གཞུང་ཕྱོགས་དྲ་ཚིགས་ https://www.honor.com/cn/support/bulletin/2025/2 ལ་ལྟ་སྤྱོད་བྱེད་རོགས།</feature>
+         </features>
+        <features module="གསར་སྒྱུར་གྱི་དོ་སྣང་དོན་ཚན།" type="end">
+            <feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གྱི་གཞི་གྲངས་གསུབ་མི་སྲིད། འོན་ཀྱང་གསར་སྒྱུར་མ་བྱས་གོང་གཞི་གྲངས་གྲབས་ཉར་ཡག་པོ་བྱས་ན་ལེགས།
+2. གསར་སྒྱུར་གྱི་བརྒྱུད་རིམ་ཁྲོད། གལ་ཏེ་གནད་དོན་གང་རུང་ལ་འཕྲད་ཚེ། རུང་ཡོའོ་ཚོང་རྟགས་ཀྱི་ཞབས་ཞུའི་ཁ་པར་ལ་ཁ་པར་གཏོང་བའམ་ཡང་ན་རུང་ཡོའོ་ཚོང་རྟགས་ཀྱི་སྐུ་མགྲོན་ཞབས་ཞུའི་ལྟེ་གནས་སུ་སོང་ནས་རྒྱབ་སྐྱོར་རེ་ཞུ་བྱེད་རོགས།</feature>
+        </features>
+    </language>
+    
+<language code="5146" name="bs-ba">
+              <features module="" backgroud="" type="header">
+             <feature>Poštovani korisniče, ovo ažuriranje uvodi Pretraživanje zaokruživanjem i optimizira efekat snimanja u nekim scenarijima. Također poboljšava stabilnost sistema i ugrađuje sigurnosnu zakrpu. Ažurirajte da uživate u novim funkcijama i poboljšanjima.</feature>
+         </features>
+        <features module="Sistem" id="1">
+             <feature title="Pretraživanje zaokruživanjem">• Dodirnite i držite navigacijsku traku ili dugme Početak da zaokružite sadržaj na ekranu radi pretraživanja. Isprobajte odlaskom u opciju Postavke > Sistem i ažuriranja > Navigacija sistema > Prikaži navigacijsku traku.</feature>
+             <feature title="Stabilnost">• Poboljšava stabilnost sistema kako bi se omogućio stabilniji rad uređaja.</feature>
+         </features>
+        <features module="Mediji" id="2">
+             <feature title="Fotoaparat">• Optimizira efekat snimanja u određenim scenarijima.</feature>
+         </features>
+        <features module="Sigurnost" id="3">
+             <feature>• Sigurnosna zakrpa za Android (februar 2025.) je ugrađena radi sigurnosti sistema. Više informacija o HONOR sigurnosnim ažuriranjima potražite na našoj web lokaciji https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Napomene:" type="end">
+            <feature>1. Instaliranje ovog ažuriranja ne utiče na lične podatke, ali se i dalje preporučuje da napravite rezervnu kopiju podataka prije ažuriranja. 
+2. U slučaju bilo kakvih problema pri ažuriranju, pozovite HONOR servisnu dežurnu liniju ili idite u HONOR servisni centar korisničke podrške.</feature>
+        </features>
+    </language>
+    
+<language code="1027" name="ca-es">
+              <features module="" backgroud="" type="header">
+             <feature>Benvolgut usuari, aquesta actualització introdueix la funció Encerclar per cercar i optimitza l'efecte de captura en determinades situacions. També millora l'estabilitat del sistema i incorpora un pedaç de seguretat. Feu l'actualització per gaudir de les noves funcions i millores.</feature>
+         </features>
+        <features module="Sistema" id="1">
+             <feature title="Encerclar per cercar">• Toqueu i manteniu premuda la barra de navegació o el botó Inici per encerclar el contingut de la pantalla que vulgueu cercar. Per provar-ho, aneu a Configuració > Sistema i actualitzacions > Navegació pel sistema > Mostrar la barra de navegació.</feature>
+             <feature title="Estabilitat">• Millora l'estabilitat del sistema, la qual cosa permet que el funcionament del dispositiu sigui més estable.</feature>
+         </features>
+        <features module="Mitjans de comunicació" id="2">
+             <feature title="Càmera">• Optimitza l'efecte de captura en determinades situacions.</feature>
+         </features>
+        <features module="Seguretat" id="3">
+             <feature>• S'ha incorporat el pedaç de seguretat d'Android (febrer de 2025) per motius de seguretat del sistema. Per obtenir més informació sobre les actualitzacions de seguretat d'HONOR, consulteu el nostre lloc web https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Notes:" type="end">
+            <feature>1. El fet d'instal·lar aquesta actualització no afectarà les vostres dades personals, però es recomana fer una còpia de seguretat de les dades abans d'iniciar l'actualització. 
+2. Si teniu algun problema durant l'actualització, truqueu a la línia directa del servei HONOR o aneu al Centre de servei tècnic d'HONOR per sol·licitar assistència.</feature>
+        </features>
+    </language>
+    
+<language code="1029" name="cs-cz">
+              <features module="" backgroud="" type="header">
+             <feature>Vážení uživatelé, tato aktualizace přináší funkci Hledání pomocí kruhu a optimalizuje fotografování v některých scénářích. Také zlepšuje stabilitu systému a obsahuje bezpečnostní opravu. Aktualizujte systém, abyste si mohli užívat nové funkce a vylepšení.</feature>
+         </features>
+        <features module="Systém" id="1">
+             <feature title="Hledání pomocí kruhu">• Chcete-li procházet obsah na obrazovce a prohledávat ho, dotkněte se a podržte navigační lištu nebo tlačítko Domů. Vyzkoušejte to v Nastavení > Systém a aktualizace > Pohyb po systému > Zobrazit navigační panel.</feature>
+             <feature title="Stabilita">• Vylepšuje stabilitu systému, aby zařízení pracovalo stabilněji.</feature>
+         </features>
+        <features module="Média" id="2">
+             <feature title="Fotoaparát">• Optimalizuje fotografování v některých situacích.</feature>
+         </features>
+        <features module="Bezpečnost" id="3">
+             <feature>• Do systému byla začleněna bezpečnostní oprava (únor 2025) pro systém Android, která zajišťuje bezpečnost systému. Více informací o bezpečnostních aktualizacích HONOR najdete na našem webu https://www.honor.com/cz/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Poznámky:" type="end">
+            <feature>1. Instalace této aktualizace neovlivní vaše osobní data, ale přesto doporučujeme před aktualizací zálohovat data. 
+2. Pokud se během aktualizace setkáte s nějakými problémy, zavolejte na informační linku HONOR nebo si vyžádejte podporu v Centru služeb zákazníkům HONOR.</feature>
+        </features>
+    </language>
+    
+<language code="1030" name="da-dk">
+              <features module="" backgroud="" type="header">
+             <feature>Kære Bruger. Denne opdatering introducerer Sæt cirkel om for at søge og optimerer optagelseseffekten i visse scenarier. Systemets stabilitet forbedres også, og der integreres en sikkerhedspatch. Opdater for at udnytte de nye funktioner og forbedringer.</feature>
+         </features>
+        <features module="System" id="1">
+             <feature title="Sæt cirkel om for at søge">• Hold navigationslinjen eller Startknappen inde for at sætte cirkel om indholdet på din skærm for at søge. Prøv det ved at gå til Indstillinger > System og opdateringer > Systemnavigation > Vis navigationslinje.</feature>
+             <feature title="Stabilitet">• Forbedrer systemets stabilitet, så din enhed kører mere stabilt.</feature>
+         </features>
+        <features module="Medier" id="2">
+             <feature title="Kamera">• Optimerer optagelseseffekten i visse scenarier.</feature>
+         </features>
+        <features module="Sikkerhed" id="3">
+             <feature>• Android-sikkerhedspatch (feb 2025) er blevet integreret med henblik på systemsikkerhed. Du kan få flere oplysninger om HONOR-sikkerhedsopdateringer på vores websted https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Noter:" type="end">
+            <feature>1. Installation af denne opdatering vil ikke påvirke dine personlige data, men vi anbefaler stadig, at du sikkerhedskopierer dine data, før du opdaterer.
+2. Hvis du støder på problemer under opdateringen, kan du ringe til HONOR Servicehotline eller gå til HONOR Kundeservicecenter vedrørende support.</feature>
+        </features>
+    </language>
+    
+<language code="1031" name="de-de">
+              <features module="" backgroud="" type="header">
+             <feature>Liebe Nutzer, mit diesem Update wird die Funktion „Zum Suchen einkreisen“ eingeführt und der Aufnahmeeffekt in einigen Szenarien optimiert. Es verbessert außerdem die Systemstabilität und enthält ein Sicherheitspatch. Nehmen Sie eine Aktualisierung vor, um in den Genuss der neuen Funktionen und Verbesserungen zu kommen.</feature>
+         </features>
+        <features module="System" id="1">
+             <feature title="Zum Suchen einkreisen">• Halten Sie die Navigationsleiste oder die Starttaste gedrückt, um zum Suchen einen Kreis um Inhalt auf Ihrem Bildschirm zu ziehen. Sie können es hier ausprobieren: Einstellungen > System &amp; Aktualisierungen > Systemnavigation > Navigationsleiste anzeigen.</feature>
+             <feature title="Stabilität">• Verbessert die Systemstabilität, damit Ihr Gerät stabiler läuft.</feature>
+         </features>
+        <features module="Medien" id="2">
+             <feature title="Kamera">• Optimiert den Aufnahmeeffekt in einigen Szenarien.</feature>
+         </features>
+        <features module="Sicherheit" id="3">
+             <feature>• Der Android Sicherheitspatch (Feb. 2025) für Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Hinweise:" type="end">
+            <feature>1. Die Installation dieses Updates hat keine Auswirkungen auf Ihre persönlichen Daten, es wird jedoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen. 
+2. Wenn bei der Aktualisierung Probleme auftreten, rufen Sie die HONOR-Kundenhotline an oder suchen Sie das HONOR-Kunden-Service-Center auf, um Unterstützung zu erhalten.</feature>
+        </features>
+    </language>
+    
+<language code="1032" name="el-gr">
+              <features module="" backgroud="" type="header">
+             <feature>Αγαπητέ χρήστη, αυτή η ενημέρωση εισάγει τη δυνατότητα «Σχηματισμός κύκλου για αναζήτηση» και βελτιστοποιεί το αποτέλεσμα λήψης σε ορισμένα σενάρια. Βελτιώνει επίσης τη σταθερότητα του συστήματος και ενσωματώνει μια ενημέρωση κώδικα ασφαλείας. Πραγματοποιήστε ενημέρωση για να απολαύσετε τις νέες δυνατότητες και βελτιώσεις.</feature>
+         </features>
+        <features module="Σύστημα" id="1">
+             <feature title="Σχηματισμός κύκλου για αναζήτηση">• Αγγίξτε παρατεταμένα τη γραμμή πλοήγησης ή το κουμπί αρχικής σελίδας για να κυκλώσετε το περιεχόμενο στην οθόνη σας για αναζήτηση. Δοκιμάστε το μεταβαίνοντας στις επιλογές Ρυθμίσεις > Σύστημα και ενημερώσεις > Πλοήγηση στο σύστημα > Εμφάνιση γραμμής πλοήγησης.</feature>
+             <feature title="Σταθερότητα">• Βελτιώνει τη σταθερότητα του συστήματος για να λειτουργεί η συσκευή σας πιο σταθερά.</feature>
+         </features>
+        <features module="Πολυμέσα" id="2">
+             <feature title="Κάμερα">• Βελτιστοποιεί το αποτέλεσμα λήψης σε ορισμένα σενάρια.</feature>
+         </features>
+        <features module="Ασφάλεια" id="3">
+             <feature>• Η ενημέρωση κώδικα ασφαλείας Android (Φεβρουάριος 2025) ενσωματώθηκε για την ασφάλεια του συστήματος. Για περισσότερες πληροφορίες σχετικά με τις ενημερώσεις της Ασφάλειας HONOR, επισκεφθείτε τον ιστότοπό μας https://www.honor.com/gr/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Σημειώσεις:" type="end">
+            <feature>1. Η εγκατάσταση αυτής της ενημέρωσης δεν θα επηρεάσει τα προσωπικά δεδομένα σας, αλλά ακόμη και έτσι συνιστάται η δημιουργία αντιγράφων ασφαλείας των δεδομένων σας πριν από την ενημέρωση. 
+2. Εάν αντιμετωπίσετε τυχόν προβλήματα κατά την ενημέρωση, καλέστε την ανοιχτή τηλεφωνική γραμμή της HONOR ή μεταβείτε στο κέντρο εξυπηρέτησης πελατών της HONOR για υποστήριξη.</feature>
+        </features>
+    </language>
+    
+<language code="2057" name="en-GB">
+              <features module="" backgroud="" type="header">
+             <feature>Dear user, this update introduces Circle to Search and optimises the shooting effect in some scenarios. It also improves the system stability, and incorporates a security patch. Update to enjoy the new features and improvements.</feature>
+         </features>
+        <features module="System" id="1">
+             <feature title="Circle to Search">• Touch and hold the navigation bar or the Home button to circle content on your screen for searching. Try it out by going to Settings > System &amp; updates > System navigation > Show navigation bar.</feature>
+             <feature title="Stability">• Improves the system stability to make your device run more stably.</feature>
+         </features>
+        <features module="Media" id="2">
+             <feature title="Camera">• Optimises the shooting effect in some scenarios.</feature>
+         </features>
+        <features module="Security" id="3">
+             <feature>• Android security patch (Feb 2025) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/uk/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Notes:" type="end">
+            <feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating. 
+2. If you encounter any issues during the update, please call the HONOR service hotline or go to the HONOR customer service centre for support.</feature>
+        </features>
+    </language>
+    
+<language code="1034" name="es-es">
+              <features module="" backgroud="" type="header">
+             <feature>Estimado usuario/a, esta actualización incluye Círculo para buscar y optimiza el efecto de disparo en algunos casos. Además, mejora la estabilidad del sistema e incorpora un parche de seguridad. Realice la actualización para disfrutar de las nuevas funcionalidades y mejoras.</feature>
+         </features>
+        <features module="Sistema" id="1">
+             <feature title="Círculo para buscar">• Mantenga pulsada la barra de navegación o el botón de inicio para rodear contenido con un círculo en su pantalla para buscar. Para probarlo, vaya a Ajustes > Sistema y actualizaciones > Navegación del sistema > Mostrar barra de navegación.</feature>
+             <feature title="Estabilidad">• Mejora la estabilidad del sistema para que el dispositivo funcione de manera más estable.</feature>
+         </features>
+        <features module="Multimedia" id="2">
+             <feature title="Cámara">• Optimiza el efecto de disparo en determinadas situaciones.</feature>
+         </features>
+        <features module="Seguridad" id="3">
+             <feature>• Se ha incorporado el parche de seguridad de Android (febrero de 2025) para la seguridad del sistema. Para obtener más información sobre las actualizaciones de seguridad de HONOR, visite nuestro sitio web https://www.honor.com/es/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Notas:" type="end">
+            <feature>1. La instalación de esta actualización no afectará a sus datos personales, pero se recomienda hacer una copia de seguridad de sus datos antes de actualizar. 
+2. Si tiene algún problema durante la actualización, llame a la línea de atención al cliente de HONOR o diríjase al centro de servicios al cliente de HONOR para obtener ayuda.</feature>
+        </features>
+    </language>
+    
+<language code="21514" name="es-us">
+              <features module="" backgroud="" type="header">
+             <feature>Estimado usuario, esta actualización incluye Círculo para buscar y optimiza el efecto de disparo en algunas situaciones. También, mejora la estabilidad del sistema e incorpora un parche de seguridad. Actualice para disfrutar de las nuevas funcionalidades y mejoras.</feature>
+         </features>
+        <features module="Sistema" id="1">
+             <feature title="Círculo para buscar">• Mantenga presionada la barra de navegación o el botón de inicio para encerrar contenido en un círculo en su pantalla y realizar búsquedas. Para probarlo, vaya a Ajustes > Sistema y actualizaciones > Navegación del sistema > Mostrar barra de navegación.</feature>
+             <feature title="Estabilidad">• Mejora la estabilidad del sistema para que el dispositivo funcione de manera más estable.</feature>
+         </features>
+        <features module="Multimedia" id="2">
+             <feature title="Cámara">• Optimiza el efecto de captura en algunas situaciones.</feature>
+         </features>
+        <features module="Seguridad" id="3">
+             <feature>• Se incorporó un parche de seguridad de Android (febrero de 2025) para mejorar la seguridad del sistema. Para obtener más información sobre las actualizaciones de seguridad de HONOR, visite nuestro sitio web https://www.honor.com/latam/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Notas:" type="end">
+            <feature>1. La instalación de esta actualización no afectará sus datos personales, pero se recomienda hacer una copia de respaldo de sus datos antes de actualizar. 
+2. Si tiene problemas durante la actualización, llame a la línea de atención al cliente de HONOR o visite el centro de atención al cliente de HONOR para recibir asistencia.</feature>
+        </features>
+    </language>
+    
+<language code="1061" name="et-ee">
+              <features module="" backgroud="" type="header">
+             <feature>Lugupeetud kasutaja, see värskendus lisab funktsiooni Ring otsimiseks ning optimeerib teatud olukordades jäädvustamisefekti. Lisaks muudab see süsteemi kiiremaks ja stabiilsemaks ning sisaldab turvapaika. Värskendage, et saada uued funktsioonid ja täiustused.</feature>
+         </features>
+        <features module="Süsteem" id="1">
+             <feature title="Ring otsimiseks">• Puudutage pikalt navigeerimisriba või avakuva nuppu, et teha ekraanil olevale sisule otsimiseks ring ümber. Proovige seda, avades Sätted > Süsteem ja värskendused > Süsteemi navigeerimine > Kuva navigeerimisriba.</feature>
+             <feature title="Stabiilsus">• Parandab süsteemi stabiilsust, et seade töötaks tõrgeteta.</feature>
+         </features>
+        <features module="Meedium" id="2">
+             <feature title="Kaamera">• Optimeerib mõnes olukorras jäädvustamisefekti.</feature>
+         </features>
+        <features module="Turvalisus" id="3">
+             <feature>• Lisati süsteemi turvalisemaks muutev Androidi turvapaik (veebruar 2025). Lisateavet HONORi turvavärskenduste kohta leiate meie veebisaidilt https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Märkused:" type="end">
+            <feature>1. Selle värskenduse installimine ei mõjuta teie isikuandmeid, aga soovitame ikkagi enne värskendamist andmed varundada. 
+2. Kui teil tekib värskendamise ajal probleeme, helistage HONORi klienditoe infoliinile või minge toe saamiseks HONORi klienditeeninduskeskusesse.</feature>
+        </features>
+    </language>
+    
+<language code="1069" name="eu-es">
+              <features module="" backgroud="" type="header">
+             <feature>Erabiltzaile hori, eguneratze honetan Egin zirkulu bat bilatzeko aurkeztu da eta grabatzeko efektua optimizatu da zenbait egoeretan. Sistemaren egonkortasuna ere hobetu da eta segurtasun-adabaki bat gehitu da. Eguneratu, eginbide eta hobekuntza berriez gozatzeko.</feature>
+         </features>
+        <features module="Sistema" id="1">
+             <feature title="Egin zirkulu bat bilatzeko">• Eduki ukituta nabigazio-barra edo hasierako botoia pantailako edukian zirkulu bat marrazteko eta bilaketak egiteko. Probatzeko, joan Ezarpenak > Sistema eta eguneratzeak > Sistemaren nabigazioa > Erakutsi nabigazio-barra atalera.</feature>
+             <feature title="Egonkortasuna">• Sistemaren egonkortasuna hobetu da, gailuak hobeto funtziona dezan.</feature>
+         </features>
+        <features module="Multimedia-edukia" id="2">
+             <feature title="Kamera">• Argazkiak ateratzeko efektua optimizatzen du zenbait egoeratan.</feature>
+         </features>
+        <features module="Segurtasuna" id="3">
+             <feature>• Android-en segurtasun-adabakia (2025eko ots) gehitu da sistemaren segurtasuna bermatzeko. HONOR Segurtasun-eguneratzeei buruzko informazio gehiago lortzeko, ikusi gure webgunea: https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Oharrak:" type="end">
+            <feature>1. Eguneratze hau instalatzeak ez du eraginik izango datu pertsonaletan, baina, eguneratu baino lehen, datuen babeskopia egitea gomendatzen da. 
+2. Eguneratzean arazoren bat izanez gero, deitu HONOR-en doako telefonora edo joan HONOR-en bezeroaren zerbitzu-zentrora, laguntza lortzeko.</feature>
+        </features>
+    </language>
+    
+<language code="1065" name="fa-ir">
+              <features module="" backgroud="" type="header">
+             <feature>کاربر گرامی، این به‌روزرسانی قابلیت «ترسیم دایره برای جستجو» را ارائه می‌کند و جلوه تصویربرداری را در برخی شرایط بهینه می‌کند. همچنین، پایداری سیستم را بهبود می‌بخشد و حاوی یک وصله امنیتی است. برای استفاده از قابلیت‌ها و بهبودهای جدید، به‌روزرسانی کنید.</feature>
+         </features>
+        <features module="سیستم" id="1">
+             <feature title="ترسیم دایره برای جستجو">• به‌منظور ترسیم دایره دور محتوای موجود در صفحۀ نمایش برای جستجوی آن، نوار پیمایش یا دکمۀ «صفحۀ اصلی» را لمس کنید و نگه دارید. آن را با رفتن به «تنظیمات > سیستم و به‌روزرسانی‌ها > پیمایش سیستم > نمایش نوار پیمایش» امتحان کنید.</feature>
+             <feature title="پایداری">‏• پایداری سیستم را بهبود می‌بخشد تا دستگاه شما عملکرد پایدارتری داشته باشد.</feature>
+         </features>
+        <features module="رسانه" id="2">
+             <feature title="دوربین">‏• جلوه تصویربرداری را در برخی شرایط بهینه می‌کند.</feature>
+         </features>
+        <features module="امنیت" id="3">
+             <feature>‏• برای حفظ امنیت سیستم، «وصلۀ امنیتی Android (فوریه ۲۰۲۵)» گنجانده شده است. برای کسب اطلاعات بیشتر دربارۀ به‌روزرسانی‌های «امنیت HONOR»، لطفاً به وب‌سایت ما مراجعه کنید: https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="نکات:" type="end">
+            <feature>‏۱. نصب این به‌روزرسانی روی داده‌های شخصی شما تأثیری نخواهد داشت. بااین‌وجود، توصیه می‌شود قبل از به‌روزرسانی از داده‌های خود پشتیبان‌گیری کنید. 
+‏۲. اگر در حین به‌روزرسانی با مشکلی مواجه شدید، لطفاً برای پشتیبانی، با تلفن مستقیم خدمات HONOR تماس بگیرید یا به مرکز خدمات مشتریان HONOR مراجعه کنید.</feature>
+        </features>
+    </language>
+    
+<language code="1035" name="fi-fi">
+              <features module="" backgroud="" type="header">
+             <feature>Hyvä käyttäjä, tämä päivitys lisää Hae ympyröimällä -toiminnon ja optimoi kuvaustehosteen joissakin tilanteissa. Lisäksi se parantaa järjestelmän vakautta ja sisältää turvallisuuskorjauksen. Päivitä, niin pääset nauttimaan uusista ominaisuuksista ja parannuksista.</feature>
+         </features>
+        <features module="Järjestelmä" id="1">
+             <feature title="Hae ympyröimällä">• Ympyröi sisältöä näytöllä hakua varten koskettamalla ja pitämällä navigointiriviä tai aloituspainiketta. Voit kokeilla sitä menemällä kohtaan Asetukset > Järjestelmä ja päivitykset > Järjestelmänavigointi > Näytä navigointirivi.</feature>
+             <feature title="Vakaus">• Parantaa järjestelmän vakautta, jotta laite toimii vakaammin.</feature>
+         </features>
+        <features module="Media" id="2">
+             <feature title="Kamera">• Optimoi kuvaustehosteen joissakin tilanteissa.</feature>
+         </features>
+        <features module="Turvallisuus" id="3">
+             <feature>• Android-turvallisuuskorjaus (helmikuu 2025) on lisätty järjestelmän turvallisuutta varten. Lisätietoja HONORin turvallisuuspäivityksistä on saatavilla verkkosivustollamme osoitteessa https://www.hihonor.com/fi/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Huomautukset:" type="end">
+            <feature>1. Tämän päivityksen asentaminen ei vaikuta henkilökohtaisiin tietoihisi, mutta tietojen varmuuskopiointi ennen päivittämistä on kuitenkin suositeltavaa.
+2. Soita HONORin palvelunumeroon tai käy HONORin asiakaspalvelukeskuksessa, jos päivityksen aikana ilmenee ongelmia ja tarvitset apua.</feature>
+        </features>
+    </language>
+    
+<language code="1036" name="fr-fr">
+              <features module="" backgroud="" type="header">
+             <feature>Cher utilisateur, cette mise à jour présente Encercler pour rechercher et optimise l'effet de prise de vue dans certains scénarios. Elle améliore également la stabilité du système et intègre un correctif de sécurité. Effectuez la mise à jour pour profiter des nouvelles fonctionnalités et des améliorations.</feature>
+         </features>
+        <features module="Système" id="1">
+             <feature title="Encercler pour rechercher">• Appuyez longuement sur la barre de navigation ou sur le bouton Accueil pour encercler du contenu sur votre écran pour effectuer une recherche. Faites-en l'essai en allant dans Paramètres > Système &amp; mises à jour > Navigation système > Affichage de la barre de navigation.</feature>
+             <feature title="Stabilité">• Améliore la stabilité du système de votre appareil.</feature>
+         </features>
+        <features module="Média" id="2">
+             <feature title="Appareil photo">• Optimise l'effet de prise de vue dans certains scénarios.</feature>
+         </features>
+        <features module="Sécurité" id="3">
+             <feature>• Un correctif de sécurité Android (février 2025) a été intégré pour la sécurité du système. Pour plus d'informations sur les mises à jour de sécurité HONOR, veuillez consulter notre site Web https://www.honor.com/fr/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Remarques :" type="end">
+            <feature>1. L'installation de cette mise à jour n'affectera pas vos données personnelles, mais il est tout de même recommandé de sauvegarder vos données avant la mise à jour. 
+2. Si vous rencontrez des problèmes lors de la mise à jour, veuillez appeler la Hotline du service HONOR ou accéder au centre de service client HONOR pour obtenir de l'aide.</feature>
+        </features>
+    </language>
+    
+<language code="1110" name="gl-es">
+              <features module="" backgroud="" type="header">
+             <feature>Esta actualización engade Rodear para buscar e optimiza o efecto de gravación nalgunhas situacións. Tamén mellora a estabilidade do sistema e incorpora un parche de seguranza. Realice a actualización para gozar das novas funcionalidades e melloras.</feature>
+         </features>
+        <features module="Sistema" id="1">
+             <feature title="Rodear para buscar">• Toque sen soltar a barra de navegación ou o botón de inicio para rodear o contido da pantalla que quere buscar. Próbeo indo a Configuración > Sistema e actualizacións > Navegación polo sistema > Mostrar barra de navegación.</feature>
+             <feature title="Estabilidade">• Mellora a estabilidade do sistema para que o dispositivo funcione dun xeito máis estable.</feature>
+         </features>
+        <features module="Multimedia" id="2">
+             <feature title="Cámara">• Optimiza o efecto de captura en determinadas situacións.</feature>
+         </features>
+        <features module="Seguranza" id="3">
+             <feature>• Incorporouse un parche de seguranza de Android (febreiro de 2025) para a seguranza do sistema. Para obter máis información acerca das actualizacións de seguranza de HONOR, visite o noso sitio web https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Notas:" type="end">
+            <feature>1. Instalar esta actualización non afectará os seus datos persoais, pero recoméndase que realice unha copia de seguranza dos datos antes da actualización. 
+2. Se xorde algún problema durante a actualización, chame á liña directa de servizo de HONOR ou vaia a un centro de servizos ao cliente de HONOR para obter axuda.</feature>
+        </features>
+    </language>
+    
+<language code="1095" name="gu-IN">
+              <features module="" backgroud="" type="header">
+             <feature>પ્રિય વપરાશકર્તા, આ અપડેટ શોધવા માટે વર્તુળ કરોનો પરિચય આપે છે અને કેટલિક પરિસ્થિતિઓમાં શૂટિંગ પ્રભાવને ઓપ્ટિમાઇઝ કરે છે. તે સિસ્ટમની સ્થિરતામાં પણ સુધારો કરે છે અને સુરક્ષા પેચનો સમાવેશ કરે છે. નવી સુવિધાઓ અને સુધારાઓનો આનંદ માણવા માટે અપડેટ કરો.</feature>
+         </features>
+        <features module="સિસ્ટમ" id="1">
+             <feature title="શોધવા માટે વર્તુળ કરો">• શોધવા માટે તમારી સ્ક્રીન પરની સામગ્રી ફરતે વર્તુળ બનાવવા માટે નેવિગેશન બાર અથવા હોમ બટનને ટચ કરીને રાખો. સેટિંગ્સ > સિસ્ટમ અને અપડેટ > સિસ્ટમ નેવિગેશન > નેવિગેશન બાર બતાવો પર જઈને તેને અજમાવી જુઓ.</feature>
+             <feature title="સ્થિરતા">• તમારા ઉપકરણને વધુ સ્થિર રીતે ચલાવવા માટે સિસ્ટમની સ્થિરતાને સુધારે છે.</feature>
+         </features>
+        <features module="મીડિયા" id="2">
+             <feature title="કૅમેરા">• કેટલિક પરિસ્થિતિઓમાં શૂટિંગ પ્રભાવને ઓપ્ટિમાઇઝ કરે છે.</feature>
+         </features>
+        <features module="સુરક્ષા" id="3">
+             <feature>• Android સુરક્ષા પેચ (ફેબ્રુઆરી 2025) સિસ્ટમ સુરક્ષા માટે સામેલ કરવામાં આવ્યો છે. HONOR સુરક્ષા અપડેટ્સ વિશે વધુ માહિતી માટે, કૃપા કરીને અમારી અધિકૃત વેબસાઇટ https://www.honor.com/global/support/bulletin/2025/2 ની મુલાકાત લો.</feature>
+         </features>
+        <features module="નોંધો:" type="end">
+            <feature>1. આ અપડેટ ઇન્સ્ટોલ કરવાથી તમારા વ્યક્તિગત ડેટાને અસર થશે નહીં, પરંતુ હજુ પણ અપડેટ કરતા પહેલાં તમારા ડેટાનો બેકઅપ લેવાની ભલામણ કરવામાં આવે છે. 
+2. જો તમને અપડેટ દરમિયાન કોઈ સમસ્યા આવે, તો કૃપા કરીને HONOR સેવા હોટલાઇન પર કૉલ કરો અથવા સમર્થન માટે HONOR ગ્રાહક સેવા કેન્દ્ર પર જાઓ.</feature>
+        </features>
+    </language>
+    
+<language code="1081" name="hi-in">
+              <features module="" backgroud="" type="header">
+             <feature>नमस्ते उपयोगकर्ता, इस अद्यतन से खोजने के लिए वृत्त बनाएँ पेश किया जाता है और कुछ परिदृश्यों में शूटिंग प्रभाव को अनुकूलित किया जाता है। इससे सिस्टम स्थिरता को भी बेहतर बनाया जाता है और सुरक्षा पैच शामिल किया जाता है। नई सुविधाएँ और सुधार पाने के लिए अद्यतन करें।</feature>
+         </features>
+        <features module="सिस्टम" id="1">
+             <feature title="खोजने के लिए वृत्त बनाएँ">• खोजने के लिए अपनी स्क्रीन पर मौजूद सामग्री पर वृत्त बनाने के लिए, नेविगेशन बार या होम बटन को टच और होल्ड करें। सेटिंग्स > सिस्टम और अद्यतन > सिस्टम नेविगेशन > नेविगेशन बार दिखाएँ पर जाकर इसे आज़माएँ।</feature>
+             <feature title="स्थिरता">• आपके डिवाइस को अधिक स्थिर रूप से चलाने के लिए सिस्टम स्थिरता में सुधार किया जाता है।</feature>
+         </features>
+        <features module="मीडिया" id="2">
+             <feature title="कैमरा">• कुछ परिदृश्यों में शूटिंग प्रभाव को अनुकूलित किया जाता है।</feature>
+         </features>
+        <features module="सुरक्षा" id="3">
+             <feature>• सिस्टम सुरक्षा के लिए Android सुरक्षा पैच (फरवरी 2025) को शामिल किया गया है। HONOR सुरक्षा अद्यतनों के बारे में अधिक जानकारी के लिए, हमारी वेबसाइट पर जाएँ: https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="टिप्पणियाँ:" type="end">
+            <feature>1. इस अद्यतन को स्थापित करने से आपके व्यक्तिगत डेटा पर कोई प्रभाव नहीं पड़ेगा, लेकिन फिर भी अद्यतन करने से पहले अपने डेटा का बैकअप लेने की अनुशंसा की जाती है। 
+2. अगर अद्यतन के दौरान आपको कोई भी समस्या होती है, तो सहायता के लिए HONOR सेवा हॉटलाइन पर कॉल करें या HONOR ग्राहक सेवा केंद्र पर जाएँ।</feature>
+        </features>
+    </language>
+    
+<language code="1050" name="hr-hr">
+              <features module="" backgroud="" type="header">
+             <feature>Poštovani korisniče, ovim se ažuriranje uvodi značajka Zaokruživanje za pretraživanje i optimizira se efekt snimanja u nekim scenarijima. Poboljšava se i stabilnost sustava, a implementirana je i sigurnosna zakrpa. Ažurirajte kako biste uživali u novim značajkama i poboljšanjima.</feature>
+         </features>
+        <features module="Sustav" id="1">
+             <feature title="Krug za pretraživanje">• Dodirnite i držite navigacijsku traku ili tipku Početak kako biste zaokružili sadržaj na zaslonu za pretraživanje. Isprobajte odlaskom na Postavke > Sustav i ažuriranja > Kretanje sustavom > Prikaz navigacijske trake.</feature>
+             <feature title="Stabilnost">• Poboljšava se stabilnost sustava pa uređaj radi stabilnije.</feature>
+         </features>
+        <features module="Mediji" id="2">
+             <feature title="Fotoaparat">• Optimizira se efekt snimanja u nekim scenarijima.</feature>
+         </features>
+        <features module="Sigurnost" id="3">
+             <feature>• Implementirana je sigurnosna zakrpa za Android (veljača 2025.) za sigurnost sustava. Za više informacija o ažuriranjima značajke HONOR Sigurnost posjetite naše web-mjesto https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Napomene:" type="end">
+            <feature>1. Instaliranje ovog ažuriranja neće utjecati na osobne podatke, ali se svejedno preporučuje izraditi sigurnosnu kopiju podataka prije ažuriranja. 
+2. Ako tijekom ažuriranja naiđete na bilo kakve poteškoće, za pomoć nazovite telefonsku korisničku službu tvrtke HONOR ili posjetite centar za korisničku podršku tvrtke HONOR.</feature>
+        </features>
+    </language>
+    
+<language code="1038" name="hu-hu">
+              <features module="" backgroud="" type="header">
+             <feature>Kedves felhasználó! Ez a frissítés bevezeti a Keresés bekarikázással funkciót, és bizonyos helyzetekben optimalizálja a fényképezési hatásokat. Javítja a rendszer stabilitását, és egy biztonsági javítást is tartalmaz. Frissítsen, hogy élvezhesse a legújabb funkciókat és fejlesztéseket!</feature>
+         </features>
+        <features module="Rendszer" id="1">
+             <feature title="Keresés bekarikázással">• Tartsa nyomva a navigációs sávot vagy a főképernyő-gombot a keresendő tartalom bekarikázásához a képernyőn. Próbálja ki: Beállítások > Rendszer és frissítések > Rendszernavigáció > Navigációs sáv mutatása.</feature>
+             <feature title="Stabilitás">• Javítottuk a rendszer stabilitását, így a készülék zökkenőmentesebben működik.</feature>
+         </features>
+        <features module="Média" id="2">
+             <feature title="Kamera">• Bizonyos helyzetekben optimalizálja a fényképezés működését.</feature>
+         </features>
+        <features module="Biztonság" id="3">
+             <feature>• Tartalmazz az Android biztonsági javítását (2025. február), amely fokozza a rendszer biztonságát. A HONOR biztonsági javításaival kapcsolatos további információkért keresse fel weboldalunkat: https://www.honor.com/hu/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Megjegyzések:" type="end">
+            <feature>1. A frissítés telepítése nem érinti az Ön személyes adatait, de a frissítés megkezdése előtt ajánlott biztonsági másolatot készíteni az adatokról. 
+2. Ha problémába ütközik a frissítés során, hívja a HONOR ügyfélszolgálati forródrótját, vagy keresse fel a HONOR szervizközpontját.</feature>
+        </features>
+    </language>
+    
+<language code="1057" name="in-id">
+              <features module="" backgroud="" type="header">
+             <feature>Pengguna yang terhormat, pembaruan ini memperkenalkan Lingkari untuk Cari dan mengoptimalkan efek pengambilan gambar di beberapa skenario. Pembaruan ini juga meningkatkan stabilitas sistem dan menyertakan penambal keamanan. Instal pembaruan ini untuk menikmati berbagai fitur dan peningkatan baru.</feature>
+         </features>
+        <features module="Sistem" id="1">
+             <feature title="Lingkari untuk Cari">• Sentuh dan tahan bilah navigasi atau tombol Beranda untuk melingkari konten di layar untuk melakukan pencarian. Cobalah dengan membuka Pengaturan > Sistem &amp; pembaruan > Navigasi sistem > Tampilkan bilah navigasi.</feature>
+             <feature title="Stabilitas">• Meningkatkan stabilitas sistem sehingga perangkat berjalan dengan lebih stabil.</feature>
+         </features>
+        <features module="Media" id="2">
+             <feature title="Kamera">• Mengoptimalkan efek pengambilan gambar di beberapa skenario.</feature>
+         </features>
+        <features module="Keamanan" id="3">
+             <feature>• Penambal keamanan Android (Feb 2025) telah disertakan untuk keamanan sistem. Untuk informasi selengkapnya tentang pembaruan Keamanan HONOR, kunjungi situs web kami https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Catatan:" type="end">
+            <feature>1. Menginstal pembaruan ini tidak akan memengaruhi data pribadi Anda, tetapi tetap direkomendasikan mencadangkan data Anda sebelum memperbarui.
+2. Jika Anda mengalami masalah apa pun selama pembaruan, hubungi saluran siaga layanan HONOR atau kunjungi pusat layanan pelanggan HONOR untuk mendapatkan bantuan.</feature>
+        </features>
+    </language>
+    
+<language code="1040" name="it-it">
+              <features module="" backgroud="" type="header">
+             <feature>Gentile utente, questo aggiornamento introduce la funzione Cerchia per cercare e ottimizza l'effetto di scatto in alcuni scenari. Inoltre migliora la stabilità del sistema e incorpora una patch di sicurezza. Effettua l'aggiornamento per usufruire delle nuove funzionalità e dei miglioramenti.</feature>
+         </features>
+        <features module="Sistema" id="1">
+             <feature title="Cerchia per cercare">• Tocca e tieni premuta la barra di navigazione o il tasto Home per cerchiare i contenuti sullo schermo per effettuare ricerche. Per provare la funzione, vai in Impostazioni > Sistema e aggiornamenti > Navigazione di sistema > Mostra barra di navigazione.</feature>
+             <feature title="Stabilità">• Viene migliorata la stabilità del sistema per garantire un funzionamento più stabile del dispositivo.</feature>
+         </features>
+        <features module="Multimedia" id="2">
+             <feature title="Fotocamera">• Viene ottimizzato l'effetto di scatto in alcuni scenari.</feature>
+         </features>
+        <features module="Sicurezza" id="3">
+             <feature>• È stata incorporata la patch di sicurezza di Android (febbraio 2025) per garantire la sicurezza del sistema. Per ulteriori informazioni sugli aggiornamenti di sicurezza HONOR, visita il sito Web all'indirizzo https://www.honor.com/it/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Note:" type="end">
+            <feature>1. L'installazione di questo aggiornamento non avrà effetto sulle informazioni personali, ma si consiglia comunque di effettuare un backup dei dati prima di procedere. 
+2. Se si verificano problemi durante l'aggiornamento, contatta il servizio call center di HONOR oppure recati presso un centro servizio clienti HONOR per ricevere supporto.</feature>
+        </features>
+    </language>
+    
+<language code="1037" name="iw-il">
+              <features module="" backgroud="" type="header">
+             <feature>משתמש יקר, עדכון זה מוסיף לראשונה את 'הקפה בעיגול לחיפוש' וממטב את אפקט הצילום בתרחישים מסוימים. כמו כן העדכון משפר את יציבות המערכת ומשלב תיקון אבטחה. עדכן כדי ליהנות מהתכונות והשיפורים החדשים.</feature>
+         </features>
+        <features module="מערכת" id="1">
+             <feature title="הקפה בעיגול לחיפוש">‏• גע נגיעה ממושכת בסרגל הניווט או בלחצן הבית כדי להקיף בעיגול תוכן במסך לצורך חיפוש. נסה זאת על-ידי מעבר אל 'הגדרות' > 'מערכת ועדכונים' > 'ניווט במערכת' > 'הצג סרגל ניווט'.</feature>
+             <feature title="יציבות">‏• משפר את יציבות המערכת כדי לגרום להתקן שלך לפעול בצורה יציבה יותר.</feature>
+         </features>
+        <features module="מדיה" id="2">
+             <feature title="מצלמה">‏• ממטב את אפקט הצילום בתרחישים מסוימים.</feature>
+         </features>
+        <features module="אבטחה" id="3">
+             <feature>‏• 'תיקון אבטחה של Android' (פברואר 2025) שולב למען אבטחת המערכת. למידע נוסף על עדכוני 'אבטחה של HONOR', אפשר לבקר באתר האינטרנט שלנו בכתובת: https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="הערות:" type="end">
+            <feature>‏1. התקנת עדכון זה לא תשפיע על הנתונים האישיים שלך, אך עדיין מומלץ לגבות את הנתונים לפני העדכון. 
+‏2. אם מופיעות בעיות כלשהן במהלך העדכון, יש להתקשר לקו החם של השירות של HONOR או ללכת למרכז שירות הלקוחות של HONOR לקבלת תמיכה.</feature>
+        </features>
+    </language>
+    
+<language code="1041" name="ja-jp">
+              <features module="" backgroud="" type="header">
+             <feature>ユーザーの皆様、今回のアップデートでは、「囲んで検索」機能を導入し、一部のシナリオにおける撮影効果を最適化しました。また、システム安定性が改善し、セキュリティパッチも組み込まれています。更新して新しい機能および改善点をご利用ください。</feature>
+         </features>
+        <features module="システム" id="1">
+             <feature title="囲んで検索">• ナビゲーションバーまたはホームボタンを長押しして、画面上のコンテンツを囲んで検索します。設定 > システムと更新 > システムナビゲーション > ナビゲーションバーを表示、と進んで試してみてください。</feature>
+             <feature title="安定性">• システム安定性が改善され、デバイスがより安定して動作するようになります。</feature>
+         </features>
+        <features module="メディア" id="2">
+             <feature title="カメラ">• 一部のシナリオにおける撮影効果が最適化されます。</feature>
+         </features>
+        <features module="セキュリティ" id="3">
+             <feature>• Androidセキュリティパッチ（2025年2月）がシステムセキュリティのために組み込まれました。HONORのセキュリティ更新の詳細については、当社のWebサイトをご覧ください：https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="注意：" type="end">
+            <feature>1.この更新をインストールしても個人情報への影響はありませんが、更新前に個人情報をバックアップしておくことをおすすめします。 
+2.更新中に問題が発生した場合、HONORサービスコールセンターにお電話をいただくか、HONORカスタマーサービスセンターにお出でいただきサポートを受けてください。</feature>
+        </features>
+    </language>
+    
+<language code="1079" name="ka-ge">
+              <features module="" backgroud="" type="header">
+             <feature>ძვირფასო მომხმარებელო, ეს განახლება უზრუნველყოფს მოსაძიებლად შემოხაზვის ფუნქციას და გარკვეულ სცენარებში გადაღების გამოცდილების ოპტიმიზაციას. ამას გარდა, ამ განახლებაში გაუმჯობესებულია სისტემის სტაბილურობა და ჩაშენებულია უსაფრთხოების შესწორება. განაახლეთ, რომ ისარგებლოთ ახალი ფუნქციებითა და გაუმჯობესებებით.</feature>
+         </features>
+        <features module="სისტემა" id="1">
+             <feature title="შემოხაზვა მოსაძიებლად">• მოსაძიებლად ეკრანზე არსებული შიგთავსის შემოსახაზად ხანგრძლივად შეეხეთ ნავიგაციის ზოლს ან საწყისი ეკრანის ღილაკს. გამოსცადეთ შემდეგ მენიუში გადასვლით: პარამეტრები > სისტემა და გაახლებები > სისტემის ნავიგაცია > ნავიგაციის ზოლის ჩვენება.</feature>
+             <feature title="სტაბილურობა">• აუმჯობესებს სისტემის სტაბილურობას, რის შედეგადაც მოწყობილობა უფრო სტაბილურად მუშაობს.</feature>
+         </features>
+        <features module="მედია" id="2">
+             <feature title="კამერა">• ოპტიმიზებულია გადაღების გამოცდილება გარკვეულ სცენარებში.</feature>
+         </features>
+        <features module="უსაფრთხოება" id="3">
+             <feature>• Android-ის უსაფრთხოების შესწორება (თებ., 2025) ჩაშენებულია სისტემის უსაფრთხოებისთვის. HONOR-ის უსაფრთხოების განახლებების შესახებ დამატებითი ინფორმაციისთვის ეწვიეთ ჩვენს ვებსაიტს: https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="შენიშვნები:" type="end">
+            <feature>1. ამ განახლების დაინსტალირება არ იმოქმედებს თქვენს პერსონალურ მონაცემებზე, თუმცა რეკომენდებულია განახლებამდე მონაცემების სარეზერვო ასლის შექმნა. 
+2. განახლების პროცესში პრობლემების წარმოქმნის შემთხვევაში, დარეკეთ HONOR-ის მომსახურების ცხელ ხაზზე ან მხარდაჭერისთვის მიმართეთ HONOR-ის კლიენტთა სერვისცენტრს.</feature>
+        </features>
+    </language>
+    
+<language code="1087" name="kk-kz">
+              <features module="" backgroud="" type="header">
+             <feature>Құрметті пайдаланушы, бұл жаңарту «Іздеу үшін айналдыра жиектеу» мүмкіндігін ұсынады және кейбір сценарийлерде түсіру әсерін оңтайландырады. Сондай-ақ ол жүйе тұрақтылығын жақсартады және қауіпсіздік патчын біріктіреді. Жаңа мүмкіндіктер мен жақсартуларды пайдалану үшін жаңартыңыз.</feature>
+         </features>
+        <features module="Жүйе" id="1">
+             <feature title="Іздеу үшін айналдыра жиектеу">• Іздеу үшін экрандағы мазмұнды айналдыра жиектеу үшін навигация тақтасын немесе бастапқы түймені басып тұрыңыз. «Параметрлер» > «Жүйе және жаңартулар» > «Жүйені шарлау» > «Навигация тақтасын көрсету» тармағына өту арқылы қолданып көріңіз.</feature>
+             <feature title="Тұрақтылық">• Құрылғының тұрақты жұмыс істеуі үшін жүйенің тұрақтылығын жақсартады.</feature>
+         </features>
+        <features module="Мультимедиа" id="2">
+             <feature title="Камера">• Кейбір сценарийлерде түсіру әсерін оңтайландырады.</feature>
+         </features>
+        <features module="Қауіпсіздік" id="3">
+             <feature>• Android қауіпсіздік патчы (ақпан, 2025) жүйе қауіпсіздігі үшін біріктірілген. HONOR қауіпсіздік жаңартулары туралы қосымша ақпарат алу үшін біздің веб-сайтқа кіріңіз: https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Ескертпелер:" type="end">
+            <feature>1. Бұл жаңартуды орнату жеке деректеріңізге әсер етпейді, бірақ жаңартпас бұрын деректердің сақтық көшірмесін жасау ұсынылады.
+2. Жаңарту барысында мәселелер орын алса, қолдау алу үшін HONOR қызмет көрсету орталығының байланыс желісіне хабарласыңыз немесе HONOR тұтынушыларға қызмет көрсету орталығына барыңыз.</feature>
+        </features>
+    </language>
+    
+<language code="1107" name="km-kh">
+              <features module="" backgroud="" type="header">
+             <feature>អ្នកប្រើជាទីរាប់អាន បច្ចុប្បន្នភាពនេះដាក់ចេញ "គូររង្វង់ដើម្បីស្វែងរក" និងធ្វើឱ្យបែបផែនថតប្រសើរឡើងក្នុងសេណារីយោមួយចំនួន។ វាក៏ធ្វើឱ្យស្ថិរភាពប្រព័ន្ធប្រសើរឡើង និងរួមបញ្ចូលបំណះសន្តិសុខផងដែរ។ ធ្វើបច្ចុប្បន្នភាពដើម្បីរីករាយជាមួយមុខងារ និងការកែលម្អថ្មី។</feature>
+         </features>
+        <features module="ប្រព័ន្ធ" id="1">
+             <feature title="គូររង្វង់ដើម្បីស្វែងរក">• ប៉ះឱ្យជាប់លើរបារ​រុករក ឬប៊ូតុងទំព័រដើម ដើម្បីគូររង្វង់លើខ្លឹមសារនៅលើអេក្រង់របស់អ្នកសម្រាប់ការស្វែងរក។ សាកល្បងវាដោយចូលទៅកាន់ការកំណត់ > ប្រព័ន្ធ និងបច្ចុប្បន្នភាព > ការរុករកប្រព័ន្ធ > បង្ហាញរបារ​រុករក។</feature>
+             <feature title="ស្ថិរភាព">• កែលម្អស្ថិរភាពប្រព័ន្ធ ដើម្បីធ្វើឱ្យឧបករណ៍របស់អ្នកដំណើរការបានកាន់តែមានស្ថិរភាព។</feature>
+         </features>
+        <features module="ប្រព័ន្ធផ្សព្វផ្សាយ" id="2">
+             <feature title="កាមេរ៉ា​">• ធ្វើឱ្យបែបផែនថតប្រសើរឡើងក្នុងសេណារីយោមួយចំនួន។</feature>
+         </features>
+        <features module="សន្តិសុខ" id="3">
+             <feature>• បំណះសុវត្ថិភាព Android (ខែកុម្ភៈ ឆ្នាំ 2025) ត្រូវបានដាក់បញ្ចូលសម្រាប់សុវត្ថិភាពប្រព័ន្ធ។ សម្រាប់ព័ត៌មានបន្ថែមអំពីបច្ចុប្បន្នភាពសន្តិសុខ HONOR សូមចូលទៅគេហទំព័ររបស់យើង https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="កំណត់សម្គាល់៖" type="end">
+            <feature>1. ការដំឡើងបច្ចុប្បន្នភាពនេះនឹងមិនប៉ះពាល់ដល់ទិន្នន័យផ្ទាល់ខ្លួនរបស់អ្នកទេ ប៉ុន្តែសូមណែនាំឱ្យបម្រុងទុកទិន្នន័យរបស់អ្នក មុននឹងធ្វើបច្ចុប្បន្នភាព។ 
+2. ប្រសិនបើអ្នកជួបបញ្ហាណាមួយក្នុងអំឡុងពេលធ្វើបច្ចុប្បន្នភាពនេះ សូមហៅទូរស័ព្ទទៅខ្សែទូរស័ព្ទរហ័សសេវាកម្ម HONOR ឬទៅកាន់មជ្ឈមណ្ឌលសេវាកម្មអតិថិជន HONOR ដើម្បីទទួលបានជំនួយ។</feature>
+        </features>
+    </language>
+    
+<language code="1099" name="kn-IN">
+              <features module="" backgroud="" type="header">
+             <feature>ಆತ್ಮೀಯ ಬಳಕೆದಾರರೇ, ಈ ನವೀಕರಣವು ಹುಡುಕಲು ವೃತ್ತ ಹಾಕಿ ಸೌಲಭ್ಯವನ್ನು ಪರಿಚಯಿಸುತ್ತದೆ ಮತ್ತು ಕೆಲವು ಸನ್ನಿವೇಶಗಳಲ್ಲಿ ಶೂಟಿಂಗ್ ಎಫೆಕ್ಟ್ ಅನ್ನು ಆಪ್ಟಿಮೈಸ್ ಮಾಡುತ್ತದೆ. ಅದಲ್ಲದೆ, ಇದು ಸಿಸ್ಟಂ ಸ್ಥಿರತೆಯನ್ನು ಸಹ ಸುಧಾರಿಸುತ್ತದೆ ಮತ್ತು ಭದ್ರತಾ ಪ್ಯಾಚ್ ಅನ್ನು ಅಳವಡಿಸುತ್ತದೆ. ಹೊಸ ಸೌಲಭ್ಯಗಳು ಮತ್ತು ಸುಧಾರಣೆಗಳನ್ನು ಆನಂದಿಸಲು ನವೀಕರಿಸಿ.</feature>
+         </features>
+        <features module="ಸಿಸ್ಟಂ" id="1">
+             <feature title="ಹುಡುಕಲು ವೃತ್ತ ಹಾಕಿ">• ನಿಮ್ಮ ಸ್ಕ್ರೀನ್‌ನಲ್ಲಿರುವ ಕಂಟೆಂಟ್ ಅನ್ನು ಹುಡುಕಲು ನ್ಯಾವಿಗೇಶನ್ ಪಟ್ಟಿ ಅಥವಾ ಹೋಮ್ ಬಟನ್ ಅನ್ನು ಸ್ಪರ್ಶಿಸಿ ಮತ್ತು ಹಿಡಿದಿಡಿ. ಸೆಟ್ಟಿಂಗ್‌ಗಳು > ಸಿಸ್ಟಂ ಮತ್ತು ನವೀಕರಣಗಳು > ಸಿಸ್ಟಂ ನ್ಯಾವಿಗೇಶನ್ > ನ್ಯಾವಿಗೇಶನ್ ಪಟ್ಟಿ ತೋರಿಸು ಎಂಬಲ್ಲಿಗೆ ಹೋಗುವ ಮೂಲಕ ಇದನ್ನು ಪ್ರಯತ್ನಿಸಿ.</feature>
+             <feature title="ಸ್ಥಿರತೆ">• ನಿಮ್ಮ ಸಾಧನವನ್ನು ಹೆಚ್ಚು ಸ್ಥಿರವಾಗಿ ರನ್ ಮಾಡಲು ಸಿಸ್ಟಂ ಸ್ಥಿರತೆಯನ್ನು ಸುಧಾರಿಸುತ್ತದೆ.</feature>
+         </features>
+        <features module="ಮೀಡಿಯಾ" id="2">
+             <feature title="ಕ್ಯಾಮರಾ">• ಕೆಲವು ಸನ್ನಿವೇಶಗಳಲ್ಲಿ ಶೂಟಿಂಗ್ ಎಫೆಕ್ಟ್ ಅನ್ನು ಆಪ್ಟಿಮೈಸ್ ಮಾಡುತ್ತದೆ.</feature>
+         </features>
+        <features module="ಭದ್ರತೆ" id="3">
+             <feature>• ಸಿಸ್ಟಂ ಭದ್ರತೆಗಾಗಿ Android ಭದ್ರತಾ ಪ್ಯಾಚ್ (ಫೆಬ್ರವರಿ 2025) ಅನ್ನು ಅಳವಡಿಸಲಾಗಿದೆ. HONOR ಭದ್ರತಾ ನವೀಕರಣಗಳ ಕುರಿತು ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ, ದಯವಿಟ್ಟು ನಮ್ಮ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಿ https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="ಟಿಪ್ಪಣಿಗಳು:" type="end">
+            <feature>1. ಈ ನವೀಕರಣವನ್ನು ಸ್ಥಾಪಿಸುವುದರಿಂದ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಡೇಟಾದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುವುದಿಲ್ಲ, ಆದರೂ ಸಹ ನವೀಕರಿಸುವ ಮೊದಲು ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡಲು ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ. 
+2. ನವೀಕರಣದ ಸಮಯದಲ್ಲಿ ನೀವು ಯಾವುದೇ ಸಮಸ್ಯೆಗಳನ್ನು ಎದುರಿಸಿದರೆ, ದಯವಿಟ್ಟು HONOR ಸೇವಾ ಹಾಟ್‌ಲೈನ್‌ಗೆ ಕರೆ ಮಾಡಿ ಅಥವಾ ಬೆಂಬಲಕ್ಕಾಗಿ HONOR ಗ್ರಾಹಕ ಸೇವಾ ಕೇಂದ್ರಕ್ಕೆ ಹೋಗಿ.</feature>
+        </features>
+    </language>
+    
+<language code="1042" name="ko-kr">
+              <features module="" backgroud="" type="header">
+             <feature>사용자 여러분, 이번 업데이트에서는 검색에 서클 기능이 도입되고 일부 시나리오에서 촬영 효과가 최적화됩니다. 또한 시스템 안정성이 개선되었으며 보안 패치도 포함되어 있습니다. 업데이트하여 새로운 기능과 개선 사항을 즐겨보세요.</feature>
+         </features>
+        <features module="시스템" id="1">
+             <feature title="검색하려면 동그라미로 표시">• 검색하려면 탐색 표시줄 또는 홈 버튼을 길게 터치하여 화면의 콘텐츠를 동그라미로 표시하세요. 설정 > 시스템 및 업데이트 > 시스템 탐색 > 탐색 표시줄 표시로 이동하여 사용해 보세요.</feature>
+             <feature title="안정성">• 시스템 안정성을 개선하여 장치를 더욱 안정적으로 실행할 수 있도록 합니다.</feature>
+         </features>
+        <features module="미디어" id="2">
+             <feature title="카메라">• 일부 시나리오에서 촬영 효과를 최적화합니다.</feature>
+         </features>
+        <features module="보안" id="3">
+             <feature>• 시스템 보안을 위해 Android 보안 패치(2025년 2월)가 통합되었습니다. HONOR 보안 업데이트에 대해 자세히 알아보려면 당사 웹사이트 https://www.honor.com/global/support/bulletin/2025/2 (을)를 방문하세요.</feature>
+         </features>
+        <features module="참고:" type="end">
+            <feature>1. 이 업데이트를 설치해도 개인 데이터에는 영향을 미치지 않지만 업데이트하기 전에 데이터를 백업하는 것이 좋습니다. 
+2. 업데이트 중에 문제가 발생하면 HONOR 서비스 핫라인에 전화하거나 HONOR 고객 서비스 센터로 가서 지원을 받으세요.</feature>
+        </features>
+    </language>
+    
+<language code="1108" name="lo-la">
+              <features module="" backgroud="" type="header">
+             <feature>ຮຽນ​ຜູ້​ໃຊ້, ການ​ອັບ​ເດດ​ນີ້ແນະ​ນຳ​ຂີດ​ອ້ອມ​ເພື່ອ​ຊອກ​ຫາ ແລະ ປັບເອັບ​ເຝັກການ​ຖ່າຍ​ຮູບໃນບາງສະພາບການ​ໃຫ້ເໝາະສົມ. ນອກນັ້ນ ມັນ​ຍັງ​ປັບ​ປຸງ​ຄວາມ​ສະ​ຖຽນຂອງລະ​ບົບ ແລະ ລວມ​ເອົາ​ໂປ​ຣ​ແກ​ຣມ​ແກ້​ໄຂ​ຄວາມ​ປອດ​ໄພ​ເຂົ້າ​ກັນ. ອັບ​ເດດ​ເພື່ອ​ມ່ວນ​​ຊື່ນ​ກັບ​ຄຸນ​ສົມ​ບັດ ແລະ ການ​ປັບ​ປຸງ​ໃໝ່.</feature>
+         </features>
+        <features module="ລະບົບ" id="1">
+             <feature title="ຂີດ​ອ້ອມ​ເພື່ອ​ຊອກ​ຫາ">• ສຳ​ຜັດແຖບ​ກຳ​ນົດ​ທິດທາງ​ຄ້າງ​ໄວ້ ຫຼື ປຸ່ມ​ໜ້າຫຼັກ ເພື່ອ​ຂີດ​ອ້ອມ​ເນື້ອ​ຫາ​ໃນ​ໜ້າ​ຈໍ​ຂອງ​ທ່ານ​ສຳ​ລັບ​ການ​ຊອກ​ຫາ. ລອງ​ໃຊ້​ມັນ​ໂດຍ​ການ​ໄປ​ທີ່ ການ​ຕັ້ງ​ຄ່າ > ລະ​ບົບ ແລະ ການ​ອັບ​ເດດ > ການ​ນຳ​ທາງ​ລະ​ບົບ > ສະ​ແດງແຖບກຳ​ນົດ​ທິດທາງ.</feature>
+             <feature title="ຄວາມສະຖຽນ">• ປັບປຸງຄວາມສະຖຽນຂອງລະບົບ ເພື່ອເຮັດໃຫ້ອຸປະກອນຂອງທ່ານເຮັດວຽກໄດ້ສະຖຽນຍິ່ງຂຶ້ນ.</feature>
+         </features>
+        <features module="ສື່​ມີ​ເດຍ" id="2">
+             <feature title="ກ້ອງຖ່າຍຮູບ">• ປັບເອັບ​ເຝັກການ​ຖ່າຍ​ຮູບໃນບາງສະພາບການ​ໃຫ້ເໝາະສົມ.</feature>
+         </features>
+        <features module="ຄວາມປອດ​ໄພ" id="3">
+             <feature>• ໂປ​ຣ​ແກ​ຣມ​ແກ້​ໄຂ​ຄວາມ​ປອດ​ໄພ​ຂອງ Android (ກຸມ​ພາ 2025) ​ໄດ້ຖືກລວມ​​ເຂົ້າ​ເປັນ​ການ​ຮັກ​ສາ​ຄວາມ​ປອດ​ໄພ​ລະ​ບົບ. ສຳລັບຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບການອັບເດດດ້ານຄວາມປອດໄພຂອງ HONOR, ກະລຸນາເຂົ້າໄປ​ທີ່ເວັບໄຊຂອງພວກເຮົາ https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="ໝາຍ​ເຫດ:" type="end">
+            <feature>1. ການ​ຕິດ​ຕັ້ງ​ການ​ອັບ​ເດດ​ນີ້​ຈະ​ບໍ່​ສົ່ງ​ຜົນ​ຕໍ່​ຂໍ້​ມູນ​ສ່ວນ​ຕົວ​ຂອງ​ທ່ານ, ແຕ່​ຍັງ​ຄົງ​ຂໍ​ແນະ​ນຳ​ໃຫ້​ສຳ​ຮອງ​ຂໍ້​ມູນ​ຂອງ​ທ່ານ​ໄວ້ກ່ອນ​ການ​ອັບ​ເດດ. 
+2. ຖ້າທ່ານພົບບັນຫາໃດໆໃນລະຫວ່າງການອັບເດດ, ກະລຸນາໂທຫາສາຍດ່ວນບໍລິການ HONOR ຫຼື ເຂົ້າໄປທີ່ສູນບໍລິການລູກຄ້າ HONOR ເພື່ອຂໍຄວາມຊ່ວຍເຫຼືອ.</feature>
+        </features>
+    </language>
+    
+<language code="1063" name="lt-lt">
+              <features module="" backgroud="" type="header">
+             <feature>Gerbiamasis naudotojau, šiuo naujiniu pristatoma paieška apibraukiant ir kai kuriais atvejais optimizuojamas fotografavimo efektas. Taip pat pagerinamas sistemos stabilumas ir įtraukiama saugumo pataisa. Atnaujinkite, kad galėtumėte mėgautis naujomis funkcijomis ir patobulinimais.</feature>
+         </features>
+        <features module="Sistema" id="1">
+             <feature title="Paieška apibraukiant">• Palieskite ir palaikykite naršymo juostą arba pradžios mygtuką, kad galėtumėte apibraukti ekrane esantį turinį apskritimu ir atlikti paiešką. Išbandykite tai nuėję į „Nuostatos > Sistema ir naujiniai > Sistemos naršymas > Rodyti naršymo juostą“.</feature>
+             <feature title="Stabilumas">• Pagerinamas sistemos stabilumas, todėl įrenginys veikia stabiliau.</feature>
+         </features>
+        <features module="Medija" id="2">
+             <feature title="Kamera">• Kai kuriais atvejais optimizuojamas fotografavimo efektas.</feature>
+         </features>
+        <features module="Saugumas" id="3">
+             <feature>• Sistemos saugumui užtikrinti įtraukta „Android“ saugumo pataisa (2025 m. vasario mėn.). Jei reikia daugiau informacijos apie HONOR saugumo naujinius, apsilankykite mūsų svetainėje https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Pastabos" type="end">
+            <feature>1. Įdiegiant šį naujinį, jūsų asmeniniai duomenys paveikti nebus, tačiau vis tiek rekomenduojama prieš naujinant padaryti atsarginę duomenų kopiją.
+2. Jei naujinimo metu kyla problemų, skambinkite HONOR klientų aptarnavimo karštąja linija arba kreipkitės pagalbos į HONOR klientų aptarnavimo centrą.</feature>
+        </features>
+    </language>
+    
+<language code="1062" name="lv-lv">
+              <features module="" backgroud="" type="header">
+             <feature>Cien. lietotāj! Ar šo atjauninājumu tiek ieviesta funkcija Apvilkt, lai meklētu un dažos gadījumos optimizēts fotografēšanas efekts. Ar to tiek arī uzlabota sistēmas stabilitāte, kā arī ir iekļauts drošības ielāps. Atjauniniet, lai izbaudītu jaunās funkcijas un uzlabojumus.</feature>
+         </features>
+        <features module="Sistēma" id="1">
+             <feature title="Apvelciet, lai meklētu">• Pieskarieties navigācijas joslai vai pogai Sākums un turiet, lai apvilktu saturu ekrānā meklēšanai. Izmēģiniet to, atverot Iestatījumi > Sistēma un atjauninājumi > Sistēmas navigācija > Rādīt navigācijas joslu.</feature>
+             <feature title="Stabilitāte">• Uzlabo sistēmas stabilitāti, padarot jūsu ierīci stabilāku.</feature>
+         </features>
+        <features module="Multivide" id="2">
+             <feature title="Kamera">• Optimizē uzņemšanas efektu dažiem scenārijiem.</feature>
+         </features>
+        <features module="Drošība" id="3">
+             <feature>• Sistēmas drošībai iekļauts Android drošības ielāps (2025. gada februāris). Lai iegūtu papildinformāciju par HONOR drošības atjauninājumiem, lūdzu, apmeklējiet mūsu vietni https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Piezīmes." type="end">
+            <feature>1. Šī atjauninājuma instalēšana neietekmēs jūsu personas datus, taču joprojām ir ieteicams pirms atjaunināšanas dublēt datus. 
+2. Ja atjaunināšanas laikā rodas problēmas, lūdzu, zvaniet HONOR uzziņu dienestam vai dodieties uz HONOR klientu servisa centru, lai saņemtu atbalstu.</feature>
+        </features>
+    </language>
+    
+<language code="1033" name="mai-IN">
+              <features module="" backgroud="" type="header">
+             <feature>प्रिय उपयोगकर्ता, ई अपडेट खोजबाक लेल गोला बनाउ प्रस्तुत करैत अछि आ किछु परिदृश्य सभ मे शूटिंग प्रभाव अनुकूलित करैत अछि। ई सिस्टम स्थिरता मे सेहो सुधार करैत अछि आ सुरक्षा पैच समाविष्ट करैत अछि। नव विशेषता आ सुधार सभक आनंद लेबाक लेल अपडेट करू।</feature>
+         </features>
+        <features module="सिस्टम" id="1">
+             <feature title="खोजबाक लेल गोला बनाउ">• खोजबाक लेल अपन स्क्रीन पर कंटेंट केँ गोला बनयबाक लेल नेवीगेशन पट्टी वा होम बटन केँ छुबू आ थामि कए राखू। सेटिंग्स > सिस्टम आ अपडेट सभ > सिस्टमक नेविगेशन > नेवीगेशन पट्टी देखाउ मे जा कए एकरा आजमाउ।</feature>
+             <feature title="स्थिरता">• सिस्टमक स्थिरता मे सुधार करैत अछि, जाहि सँ अहाँक डिवाइस बेसी स्थिर रूप सँ चलि सकए।</feature>
+         </features>
+        <features module="मीडिया" id="2">
+             <feature title="कैमरा">• किछु परिदृश्य सभ मे शूटिंग प्रभाव केँ अनुकूलित करैत अछि।</feature>
+         </features>
+        <features module="सुरक्षा" id="3">
+             <feature>• सिस्टमक सुरक्षाक लेल Android सुरक्षा पैच (फरवरी 2025) समाविष्ट कयल गेल अछि। HONOR सुरक्षा अपडेट सभक विषय मे आओर जानकारीक लेल, कृपाकए हमरासभक वेबसाइट https://www.honor.com/global/support/bulletin/2025/2 केँ देखू।</feature>
+         </features>
+        <features module="नोट:" type="end">
+            <feature>1. एहि अपडेट केँ इंस्टॉल कयला सँ अहाँक व्यक्तिगत डेटा प्रभावित नहि होयत, मुदा तैयो अपडेट करए सँ पहिने अहाँक डेटाक बैकअप लेबाक अनुशंसा कयल जाइत अछि। 
+2. यदि अपडेटक दरमियान अहाँ केँ कोनो समस्या होइत अछि, त' सपोर्ट केर लेल कृपाकए HONOR सेवा हॉटलाइन पर कॉल करू वा HONOR ग्राहक सेवा केंद्र पर जाउ।</feature>
+        </features>
+    </language>
+    
+<language code="1153" name="mi-NZ">
+              <features module="" backgroud="" type="header">
+             <feature>E te kaiwhakamahi, ka whakamōhiotia e tēnei whakahōu te Porohita ki Rapu ā, ka arotau i te pānga tākaro i ētahi ngā tauari. Ka whakapai ake hoki i te taimautanga pūnaha, ā, ka komokomo i tētahi āpure haumarutanga. Whakahōu kia ngahau ki ngā āhuahira me ngā whakapainga hōu.</feature>
+         </features>
+        <features module="Pūnaha" id="1">
+             <feature title="Porohita ki Rapu">• Pā me te pupuri i te pae whakatere, i te Pātene Kāinga rānei hei porohita ihirangi i tō mata hei rapu. Whakamātauria mā te haere ki Ngā Tautuhinga > Pūnaha me ngā whakahōu > Whakaterenga pūnaha > Whakaaturia te pae whakaterenga.</feature>
+             <feature title="Pūmautanga">• Ka whakapai ake i te pūmautanga pūnaha kia ētahi anō ai te whakahaere o tō pūrere.</feature>
+         </features>
+        <features module="Pāpāho" id="2">
+             <feature title="Kāmera">• Ka arotautia te pānga tākaro i ētahi ngā tauari.</feature>
+         </features>
+        <features module="Haumarutanga" id="3">
+             <feature>• Kua whakaurua te āpure haumarutanga Android (Hui tanguru 2025) mō te haumarutanga pūnaha. Mō ētahi anō mōhiohio mō ngā whakahōutanga Haumarutanga HONOR, haere koa ki tā mātou paetukutuku https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Ngā Tuhipoka:" type="end">
+            <feature>1. Kāore te tāuta i tēnei whakahōu e pā ki tō raraunga whaiaro, engari e manakohia tonutia ana kia tāruatia ō raraunga i mua i te whakahōu.
+2. Mēnā ka tūtaki koe i ētahi ngā take i te wā o te whakahōutanga, waea atu koa ki te waeawera ratonga HONOR, ka haere rānei ki te pokapū ratonga kiritaki HONOR hei tautoko.</feature>
+        </features>
+    </language>
+    
+<language code="1071" name="mk-mk">
+              <features module="" backgroud="" type="header">
+             <feature>Почитуван кориснику, ова ажурирање ја воведува карактеристиката Заокружи за пребарување и го оптимизира ефектот при фотографирање во некои сценарија. Исто така, ја подобрува стабилноста на системот и воведува безбедносна крпеница. Ажурирајте за да уживате во новите карактеристики и подобрувања.</feature>
+         </features>
+        <features module="Систем" id="1">
+             <feature title="Заокружи за пребарување">• Допрете ја и задржете ја лентата за навигација или копчето за почетен екран за да ја заокружите содржината на екранот за пребарување. Испробајте така што ќе отидете до Нагодување > Систем и ажурирања > Навигација во системот > Прикажи ја лентата за навигација.</feature>
+             <feature title="Стабилност">• Ја подобрува стабилноста на системот, со што уредот работи постабилно.</feature>
+         </features>
+        <features module="Медиуми" id="2">
+             <feature title="Камера">• Го оптимизира ефектот при фотографирање во некои сценарија.</feature>
+         </features>
+        <features module="Безбедност" id="3">
+             <feature>• Безбедносната крпеница за Android (февруари 2025 г.) е вградена за безбедност на системот. За повеќе информации за безбедносните ажурирања од HONOR, посетете ја нашата веб-локација https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Белешки:" type="end">
+            <feature>1. Инсталирањето на ова ажурирање нема да влијае врз вашите лични податоци, но, се препорачува да направите резервна копија од податоците пред да ажурирате. 
+2. Ако се појават проблеми во текот на ажурирањето, јавете се на телефонскиот број на службата за корисници на HONOR или посетете сервисен центар за корисници на HONOR за да добиете поддршка.</feature>
+        </features>
+    </language>
+    
+<language code="1100" name="ml-IN">
+              <features module="" backgroud="" type="header">
+             <feature>പ്രിയ ഉപയോക്താവേ, ഈ അപ്‌ഡേറ്റ് 'തിരയാൻ വൃത്തമിടുക' എന്നത് അവതരിപ്പിക്കുകയും ചില സാഹചര്യങ്ങളിലെ ഷൂട്ടിംഗ് ഇഫക്റ്റ് ഒപ്‌റ്റിമൈസ് ചെയ്യുകയും ചെയ്യുന്നു. കൂടാതെ, ഇത് സിസ്റ്റം സ്ഥിരത മെച്ചപ്പെടുത്തുകയും ഒരു സുരക്ഷാ പാച്ച് ഉൾപ്പെടുത്തുകയും ചെയ്യുന്നു. പുതിയ സവിശേഷതകളും മെച്ചപ്പെടുത്തലുകളും ആസ്വദിക്കാൻ അപ്‌ഡേറ്റ് ചെയ്യുക.</feature>
+         </features>
+        <features module="സിസ്റ്റം" id="1">
+             <feature title="തിരയാൻ വൃത്തമിടുക">• തിരയുന്നതിനായി നിങ്ങളുടെ സ്‌ക്രീനിലെ ഉള്ളടക്കത്തിന് വൃത്തമിടാൻ, നാവിഗേഷൻ ബാറിലോ ഹോം ബട്ടണിലോ സ്‌പർശിച്ച് പിടിക്കുക. ക്രമീകരണം > സിസ്റ്റവും അപ്‌ഡേറ്റുകളും > സിസ്റ്റം നാവിഗേഷൻ > നാവിഗേഷൻ ബാർ കാണിക്കുക എന്നതിലേക്ക് പോയി ഇത് പരീക്ഷിച്ച് നോക്കാവുന്നതാണ്.</feature>
+             <feature title="സ്ഥിരത">• നിങ്ങളുടെ ഉപകരണം കൂടുതൽ സ്ഥിരതയോടെ പ്രവർത്തിക്കാൻ സിസ്റ്റം സ്ഥിരത മെച്ചപ്പെടുത്തുന്നു.</feature>
+         </features>
+        <features module="മീഡിയ" id="2">
+             <feature title="ക്യാമറ">• ചില സാഹചര്യങ്ങളിലെ ഷൂട്ടിംഗ് ഇഫക്റ്റ് ഒപ്‌റ്റിമൈസ് ചെയ്യുന്നു.</feature>
+         </features>
+        <features module="സുരക്ഷ" id="3">
+             <feature>• സിസ്റ്റം സുരക്ഷയ്‌ക്കായി Android സുരക്ഷാ പാച്ച് (ഫെബ്രുവരി 2025) ഉൾപ്പെടുത്തിയിരിക്കുന്നു. HONOR സുരക്ഷാ അപ്‌ഡേറ്റുകൾ സംബന്ധിച്ച കൂടുതൽ വിവരങ്ങൾക്ക്, ഞങ്ങളുടെ വെബ്‌സൈറ്റ് സന്ദർശിക്കുക: https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="ശ്രദ്ധിക്കുക:" type="end">
+            <feature>1. ഈ അപ്‌ഡേറ്റ് ഇൻസ്റ്റാൾ ചെയ്യുന്നത് നിങ്ങളുടെ വ്യക്തിഗത ഡാറ്റയെ ബാധിക്കില്ല, എങ്കിൽപ്പോലും അപ്‌ഡേറ്റ് ചെയ്യുന്നതിന് മുമ്പായി നിങ്ങളുടെ ഡാറ്റ ബാക്കപ്പ് ചെയ്യാൻ ശുപാർശ ചെയ്യുന്നു. 
+2. അപ്‌ഡേറ്റിനിടെ നിങ്ങൾക്ക് എന്തെങ്കിലും പ്രശ്‌നങ്ങൾ നേരിടുകയാണെങ്കിൽ, പിന്തുണയ്‌ക്കായി HONOR സർവീസ് ഹോട്ട്‌ലൈനിൽ വിളിക്കുകയോ HONOR ഉപഭോക്തൃ സർവീസ് സെന്റർ സന്ദർശിക്കുകയോ ചെയ്യുക.</feature>
+        </features>
+    </language>
+    
+<language code="1104" name="mn-MN">
+              <features module="" backgroud="" type="header">
+             <feature>Хүндэт хэрэглэгч танаа, энэхүү шинэчлэлтээр Дугуйлж хайх онцлогийг танилцуулж, зарим тохиолдолд зураг авах нөлөөг оновчлов. Түүнчлэн системийн тогтвортой байдлыг сайжруулж, хамгаалалтын нөхөөсийг нэмж өгсөн. Шинэ онцлог, сайжруулалтыг ашиглаж үзэхийн тулд шинэчилнэ үү.</feature>
+         </features>
+        <features module="Систем" id="1">
+             <feature title="Дугуйлж хайх">• Дэлгэц дээрээсээ контент дугуйлж хайхын тулд навигацийн мөр эсвэл Үндсэн товчийг удаан дарна уу. Тохиргоо > Систем ба шинэчлэлт > Системийн навигаци > Навигацийн мөрийг харуулах руу очиж туршиж үзнэ үү.</feature>
+             <feature title="Тогтвортой байдал">• Таны төхөөрөмжийг илүү тогтвортой ажиллуулахын тулд системийн тогтвортой байдлыг нэмэгдүүлсэн.</feature>
+         </features>
+        <features module="Медиа" id="2">
+             <feature title="Камер">• Зарим тохиолдолд зураг авах нөлөөг оновчилсон.</feature>
+         </features>
+        <features module="Хамгаалалт" id="3">
+             <feature>• Системийн аюулгүй байдлын үүднээс Андройдын аюулгүй байдлын нөхөөсийг (2025 оны хоёрдугаар сар) нэмсэн. HONOR Хамгаалалтын шинэчлэлтийн талаар нэмэлт мэдээлэл авах бол манай дараах вебсайтаар зочилно уу: https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Тэмдэглэл:" type="end">
+            <feature>1. Энэхүү шинэчлэлтийг суулгахад таны хувийн мэдээлэлд нөлөөлөхгүй ч шинэчлэхээс өмнө өгөгдлөө нөөцлөхийг зөвлөж байна. 
+2. Танд шинэчлэх явцад асуудал тулгарвал HONOR үйлчилгээний дуудлага хүлээн авах утас руу залгах буюу HONOR хэрэглэгчийн үйлчилгээний төвд очиж тусламж авна уу.</feature>
+        </features>
+    </language>
+    
+<language code="1102" name="mr-in">
+              <features module="" backgroud="" type="header">
+             <feature>प्रिय वापरकर्ता, हे अपडेट शोध घेण्यासाठी वर्तुळ कराची ओळख करून देते आणि काही परिस्थितींमध्ये शूटिंग प्रभाव ऑप्टिमाइझ करते. हे सिस्टम स्थिरता देखील सुधारते आणि सुरक्षितता पॅच समाविष्ट करते. नवीन वैशिष्ट्ये आणि सुधारणांचा आनंद घेण्यासाठी अद्यतनित करा.</feature>
+         </features>
+        <features module="सिस्टम" id="1">
+             <feature title="शोध घेण्यासाठी वर्तुळ करा">• शोध घेण्यासाठी आपल्या स्क्रीनवरील सामग्रीला वर्तुळ करण्यासाठी नेव्हिगेशन बार किंवा होम बटणाला स्पर्श करा आणि धरून ठेवा. सेटिंग्ज > सिस्टम आणि अद्यतने > सिस्टम नेव्हिगेशन > नॅव्हिगेशन बार दाखवा येथे जाऊन ते वापरून पहा.</feature>
+             <feature title="स्थिरता">• आपले उपकरण अधिक स्थिरपणे चालवण्यासाठी सिस्टम स्थिरता सुधारते.</feature>
+         </features>
+        <features module="मीडिया" id="2">
+             <feature title="कॅमेरा">• काही परिस्थितींमध्ये शूटिंग प्रभाव ऑप्टिमाइझ करते.</feature>
+         </features>
+        <features module="सुरक्षितता" id="3">
+             <feature>• सिस्टम सुरक्षिततेसाठी Android सुरक्षितता पॅच (फेब्रु 2025) समाविष्ट करण्यात आला आहे. HONOR सुरक्षितता अद्यतनांबद्दल अधिक माहितीसाठी, कृपया आमच्या वेबसाइट https://www.honor.com/global/support/bulletin/2025/2 वर जा.</feature>
+         </features>
+        <features module="नोट्स:" type="end">
+            <feature>1. हे अद्यतन स्‍थापित केल्याने आपल्या वैयक्तिक डेटावर परिणाम होणार नाही, परंतु तरीही अद्यतनित करण्यापूर्वी आपल्या डेटाचा बॅकअप घेण्याची शिफारस केली जाते. 
+2. अद्यतनादरम्यान आपल्याला काही समस्या आल्यास, कृपया HONOR सेवा हॉटलाइनवर कॉल करा किंवा समर्थनासाठी HONOR ग्राहक सेवा केंद्रावर जा.</feature>
+        </features>
+    </language>
+    
+<language code="1086" name="ms-my">
+              <features module="" backgroud="" type="header">
+             <feature>Pengguna yang dihormati, kemas kini ini memperkenalkan Bulatkan untuk Mencari dan mengoptimumkan kesan penangkapan dalam beberapa senario. Ia juga meningkatkan kestabilan sistem dan memasukkan tampalan keselamatan. Kemas kini untuk menikmati ciri dan penambahbaikan baharu.</feature>
+         </features>
+        <features module="Sistem" id="1">
+             <feature title="Bulatkan untuk Mencari">• Sentuh dan tahan bar navigasi atau butang Skrin utama untuk membulatkan kandungan pada skrin anda untuk mencari. Cuba ciri ini dengan pergi ke Tetapan > Sistem &amp; kemas kini > Navigasi sistem > Tunjukkan bar navigasi.</feature>
+             <feature title="Kestabilan">• Meningkatkan kestabilan sistem untuk membolehkan peranti anda berjalan dengan lebih stabil.</feature>
+         </features>
+        <features module="Media" id="2">
+             <feature title="Kamera">• Optimumkan kesan penangkapan dalam beberapa senario.</feature>
+         </features>
+        <features module="Keselamatan" id="3">
+             <feature>• Tampalan keselamatan Android (Feb 2025) telah dimasukkan untuk tujuan keselamatan sistem. Untuk mendapatkan maklumat lanjut tentang kemas kini Keselamatan HONOR, sila lawati laman web kami https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Nota:" type="end">
+            <feature>1. Tindakan memasang kemas kini ini tidak akan menjejaskan data peribadi anda, tetapi anda masih disyorkan untuk membuat sandaran data sebelum mengemas kini. 
+2. Jika anda menghadapi sebarang isu semasa kemas kini, sila hubungi talian penting khidmat HONOR atau pergi ke pusat khidmat pelanggan HONOR untuk mendapatkan sokongan.</feature>
+        </features>
+    </language>
+    
+<language code="1109" name="my-mm">
+              <features module="" backgroud="" type="header">
+             <feature>လေးစားရပါသော သုံးစွဲသူ၊ ဤအပ်ဒိတ်တွင် စက်ဝိုင်းဆွဲ၍ ရှာဖွေခြင်းနှင့် မိတ်ဆက်ပေးထားပြီး အချို့အခြေအနေများတွင် ရိုက်ကူးမှု အထူးပြုလုပ်ချက်ကို အကောင်းဆုံးဖြစ်စေရန် ချိန်ညှိပေးသည်။ စနစ်တည်ငြိမ်မှုကိုလည်း မြှင့်တင်ပေးပြီး လုံခြုံရေး အဆင့်မြှင့်ဆော့ဖ်ဝဲကိုလည်း ပေါင်းစပ်ထည့်သွင်းထားသည်။ လုပ်ဆောင်ချက်များနှင့် မြှင့်တင်မှုအသစ်များကို သုံးစွဲရန် အပ်ဒိတ်လုပ်ပါ။</feature>
+         </features>
+        <features module="စနစ်" id="1">
+             <feature title="စက်ဝိုင်းဆွဲ၍ ရှာဖွေခြင်း">• သင့်မျက်နှာပြင်ပေါ်ရှိ အကြောင်းအရာကို စက်ဝိုင်းဆွဲ၍ ရှာဖွေရန်အတွက် လမ်းညွှန်ပြဘား သို့မဟုတ် ပင်မ ခလုတ်ကို ဖိ၍ နှိပ်ထားပါ။ ဆက်တင် > စနစ်နှင့် အပ်ဒိတ်များ > စနစ် လမ်းညွှန်မှု > လမ်းညွှန်ပြဘားကို ပြသရန်သို့ သွား၍ စမ်းသုံးကြည့်ပါ။</feature>
+             <feature title="တည်ငြိမ်မှု">• သင့်စက်ကို ပိုမိုတည်ငြိမ်စွာ လုပ်ဆောင်နိုင်စေရန် စနစ် တည်ငြိမ်မှုကို တိုးမြှင့်ပေးသည်။</feature>
+         </features>
+        <features module="မီဒီယာ" id="2">
+             <feature title="ကင်မရာ">• အချို့အခြေအနေများ၌ ရိုက်ကူးမှု အထူးပြုလုပ်ချက်ကို အကောင်းဆုံးဖြစ်စေရန် ချိန်ညှိပေးသည်။</feature>
+         </features>
+        <features module="လုံခြုံရေး" id="3">
+             <feature>• စနစ် လုံခြုံရေးအတွက် Android လုံခြုံရေး အဆင့်မြှင့်ဆော့ဖ်ဝဲ (ဖေဖော်ဝါရီ 2025) ကို ထည့်သွင်းထားသည်။ HONOR လုံခြုံရေး အပ်ဒိတ်များအကြောင်း နောက်ထပ်အချက်အလက်များကို သိရှိရန် ကျွန်ုပ်တို့၏ ဖော်ပြပါဝက်ဘ်ဆိုဒ်သို့ သွားရောက်ကြည့်ရှုပါ- https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="မှတ်ချက်-" type="end">
+            <feature>1. ဤအပ်ဒိတ်ကို ထည့်သွင်းခြင်းက သင့်ကိုယ်ရေး ဒေတာကို ထိခိုက်စေမည်မဟုတ်သော်လည်း အပ်ဒိတ်မလုပ်မီ သင့်ဒေတာကို ဘက်ခ်အပ်လုပ်ထားရန် အကြံပြုပါသည်။ 
+2. အပ်ဒိတ်လုပ်နေစဉ်အတွင်း ပြဿနာ တစ်စုံတစ်ခု ရှိနေပါက အကူအညီ ရယူရန်အတွက် HONOR ဝန်ဆောင်မှု ဟော့လိုင်းကို ခေါ်ဆိုပါ သို့မဟုတ် HONOR သုံးစွဲသူ ဝန်ဆောင်မှုစင်တာသို့ သွားရောက်ပါ။</feature>
+        </features>
+    </language>
+    
+<language code="1109" name="my-zg">
+              <features module="" backgroud="" type="header">
+             <feature>ေလးစားရပါေသာ သုံးစြဲသူ၊ ဤအပ္ဒိတ္တြင္ စက္ဝိုင္းဆြဲ၍ ရွာေဖြျခင္းႏွင့္ မိတ္ဆက္ေပးထားၿပီး အခ်ိဳ႕အေျခအေနမ်ားတြင္ ႐ိုက္ကူးမႈ အထူးျပဳလုပ္ခ်က္ကို အေကာင္းဆုံးျဖစ္ေစရန္ ခ်ိန္ညႇိေပးသည္။ စနစ္တည္ၿငိမ္မႈကိုလည္း ျမႇင့္တင္ေပးၿပီး လုံျခံဳေရး အဆင့္ျမႇင့္ေဆာ့ဖ္ဝဲကိုလည္း ေပါင္းစပ္ထည့္သြင္းထားသည္။ လုပ္ေဆာင္ခ်က္မ်ားႏွင့္ ျမႇင့္တင္မႈအသစ္မ်ားကို သုံးစြဲရန္ အပ္ဒိတ္လုပ္ပါ။</feature>
+         </features>
+        <features module="စနစ္" id="1">
+             <feature title="စက္ဝိုင္းဆြဲ၍ ရွာေဖြျခင္း">• သင့္မ်က္ႏွာျပင္ေပၚရွိ အေၾကာင္းအရာကို စက္ဝိုင္းဆြဲ၍ ရွာေဖြရန္အတြက္ လမ္းၫႊန္ျပဘား သို႔မဟုတ္ ပင္မ ခလုတ္ကို ဖိ၍ ႏွိပ္ထားပါ။ ဆက္တင္ > စနစ္ႏွင့္ အပ္ဒိတ္မ်ား > စနစ္ လမ္းညႊန္မႈ > လမ္းၫႊန္ျပဘားကို ျပသရန္သို႔ သြား၍ စမ္းသုံးၾကည့္ပါ။</feature>
+             <feature title="တည္ၿငိမ္မႈ">• သင့္စက္ကို ပိုမိုတည္ၿငိမ္စြာ လုပ္ေဆာင္ႏိုင္ေစရန္ စနစ္ တည္ၿငိမ္မႈကို တိုးျမႇင့္ေပးသည္။</feature>
+         </features>
+        <features module="မီဒီယာ" id="2">
+             <feature title="ကင္မရာ">• အခ်ိဳ႕အေျခအေနမ်ား၌ ႐ိုက္ကူးမႈ အထူးျပဳလုပ္ခ်က္ကို အေကာင္းဆုံးျဖစ္ေစရန္ ခ်ိန္ညႇိေပးသည္။</feature>
+         </features>
+        <features module="လုံျခံဳေရး" id="3">
+             <feature>• စနစ္လုံျခံဳေရးအတြက္ Android လုံျခံဳေရး အဆင့္ျမႇင့္ေဆာ့ဖ္ဝဲ (ေဖေဖာ္ဝါရီ 2025) ကို ထည့္သြင္းထားသည္။ HONOR လုံျခံဳေရး အပ္ဒိတ္မ်ားအေၾကာင္း ေနာက္ထပ္အခ်က္အလက္မ်ားကို သိရွိရန္ ကြၽႏ္ုပ္တို႔၏ ေဖာ္ျပပါဝက္ဘ္ဆိုဒ္သို႔ သြားေရာက္ၾကည့္ရႈပါ- https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="မွတ္ခ်က္-" type="end">
+            <feature>1. ဤအပ္ဒိတ္ကို ထည့္သြင္းျခင္းက သင့္ကိုယ္ေရး ေဒတာကို ထိခိုက္ေစမည္မဟုတ္ေသာ္လည္း အပ္ဒိတ္မလုပ္မီ သင့္ေဒတာကို ဘက္ခ္အပ္လုပ္ထားရန္ အႀကံျပဳပါသည္။ 
+2. အပ္ဒိတ္လုပ္ေနစဥ္အတြင္း ျပႆနာ တစ္စုံတစ္ခု ရွိေနပါက အကူအညီ ရယူရန္အတြက္ HONOR ဝန္ေဆာင္မႈ ေဟာ့လိုင္းကို ေခၚဆိုပါ သို႔မဟုတ္ HONOR သုံးစြဲသူ ဝန္ေဆာင္မႈစင္တာသို႔ သြားေရာက္ပါ။</feature>
+        </features>
+    </language>
+    
+<language code="1044" name="nb-no">
+              <features module="" backgroud="" type="header">
+             <feature>Kjære bruker, denne oppdateringen introduserer Sirkle for å søke og optimerer fotograferingseffekten i enkelte scenarier. Den forbedrer også systemstabiliteten, og innlemmer en sikkerhetsoppdatering. Oppdater for å dra nytte av de nye funksjonene og forbedringene.</feature>
+         </features>
+        <features module="System" id="1">
+             <feature title="Sirkle for å søke">• Trykk og hold på navigeringsfeltet eller Hjem-knappen for å sirkle innholdet på skjermen for å søke. Prøv den ut ved å gå til Innstillinger > System og oppdateringer > Systemnavigasjon > Vis navigeringsfelt.</feature>
+             <feature title="Stabilitet">• Forbedrer systemstabiliteten, slik at enheten kjører mer stabilt.</feature>
+         </features>
+        <features module="Medier" id="2">
+             <feature title="Kamera">• Optimerer fotograferingseffekten i enkelte scenarier.</feature>
+         </features>
+        <features module="Sikkerhet" id="3">
+             <feature>• Android-sikkerhetsoppdatering (feb 2025) er innlemmet for systemsikkerhet. For mer informasjon om sikkerhetsoppdateringer fra HONOR, se nettstedet vårt https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Merknader:" type="end">
+            <feature>1. Installering av denne oppdateringen vil ikke påvirke personopplysningene dine, men vi anbefaler likevel at du sikkerhetskopierer dataene dine før du oppdaterer.
+2. Hvis du møter på problemer under oppdateringen, ring HONOR-kundeservice eller gå til HONOR-kundeservicesenteret for assistanse.</feature>
+        </features>
+    </language>
+    
+<language code="1121" name="ne-np">
+              <features module="" backgroud="" type="header">
+             <feature>आदरणीय प्रयोगकर्ता, यो अपडेटले गोलो लगाएर खोज्ने सुविधा ल्याएको छ र केही परिदृश्यहरूमा सुटिङको प्रभाव अप्टिमाइज गर्छ । साथै, यसले प्रणालीको स्थिरता पनि सुधार गर्छ र सुरक्षा प्याच समावेश गर्छ । नयाँ सुविधा र सुधारहरूको आनन्द लिन अपडेट गर्नुहोस् ।</feature>
+         </features>
+        <features module="प्रणाली" id="1">
+             <feature title="खोज्नका लागि गोलो लगाउनुहोस्">• आफ्नो स्क्रिनमा भएको सामग्री खोज्न त्यसलाई गोलो लगाउन नेभिगेसन पट्टी वा गृह बटनमा टच गरी होल्ड गर्नुहोस् । सेटिङहरू > प्रणाली र अद्यावधिकहरू > प्रणाली नेभिगेसन > नेभिगेसन पट्टी देखाउनुहोस् विकल्पमा गई यसलाई प्रयोग गरी हेर्नुहोस् ।</feature>
+             <feature title="स्थिरता">• तपाईंको यन्त्रलाई थप स्थिर रूपमा चल्ने बनाउन प्रणालीको स्थिरतामा सुधार ल्याउँछ ।</feature>
+         </features>
+        <features module="मिडिया" id="2">
+             <feature title="क्यामेरा">• यसले केही परिदृश्यहरूमा सुटिङको प्रभाव अप्टिमाइज गर्छ ।</feature>
+         </features>
+        <features module="सुरक्षा" id="3">
+             <feature>• एन्ड्रोइड सुरक्षा प्याच (फेब्रुअरी 2025) प्रणाली सुरक्षाका लागि समावेश गरिएको छ । HONOR सुरक्षा अपडेटबारे थप जानकारी प्राप्त गर्न कृपया हाम्रो वेबसाइटमा जानुहोस्: https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="नोटहरू:" type="end">
+            <feature>1. तपाईंले यो एप स्थापना गर्नुभयो भने तपाईंको व्यक्तिगत डाटामा कुनै प्रभाव नपर्ने भए पनि तपाईंलाई अपडेट गर्नुअघि आफ्नो डाटा ब्याकअप गर्न सिफारिस गरिन्छ । 
+2. अपडेट गर्ने क्रममा तपाईंले कुनै पनि समस्या सामना गर्नुभयो भने कृपया HONOR सेवाको हटलाइनमा कल गर्नुहोस् वा सहायताका लागि HONOR ग्राहक सेवा केन्द्रमा जानुहोस् ।</feature>
+        </features>
+    </language>
+    
+<language code="1043" name="nl-nl">
+              <features module="" backgroud="" type="header">
+             <feature>Beste gebruiker, deze update introduceert Omcirkelen om te Zoeken en optimaliseert het opname-effect in bepaalde scenario's. Deze update verbetert ook de stabiliteit van het systeem en bevat een beveiligingspatch. Werk bij om te genieten van de nieuwe functies en verbeteringen.</feature>
+         </features>
+        <features module="Systeem" id="1">
+             <feature title="Omcirkelen om te Zoeken">• Houd de navigatiebalk of de Startknop aangetikt om inhoud op uw scherm te omcirkelen om te zoeken. Probeer het uit via Instellingen > Systeem en updates > Systeemnavigatie > Navigatiebalk tonen.</feature>
+             <feature title="Stabiliteit">• Verbetert de systeemstabiliteit om uw apparaat stabieler te laten werken.</feature>
+         </features>
+        <features module="Media" id="2">
+             <feature title="Camera">• Optimaliseert de opname-ervaring in bepaalde scenario's.</feature>
+         </features>
+        <features module="Beveiliging" id="3">
+             <feature>• Android-beveiligingspatch (februari 2025) is opgenomen voor systeembeveiliging. Voor meer informatie over HONOR-beveiligingsupdates kunt u terecht op onze website https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Opmerkingen:" type="end">
+            <feature>1. Als u deze update installeert, worden uw persoonlijke gegevens niet beïnvloed, maar een back-up van uw gegevens maken voordat u bijwerkt wordt nog steeds aanbevolen.
+2. Als u problemen ondervindt tijdens de update, bel dan de HONOR-servicehotline of ga naar een HONOR-klantenservicecentrum voor ondersteuning.</feature>
+        </features>
+    </language>
+    
+<language code="1096" name="or-IN">
+              <features module="" backgroud="" type="header">
+             <feature>ପ୍ରିୟ ଉପଯୋଗକର୍ତ୍ତା, ଏହି ଅପଡେଟ୍‌ ସନ୍ଧାନ କରିବାକୁ ଗୋଲ ବୁଲାନ୍ତୁ ଆଣିଦେଇଥାଏ ଏବଂ କେତେକ ପରିଦୃଶ୍ୟରେ ଶୁଟିଂ ପ୍ରଭାବକୁ ଅପ୍ଟିମାଇଜ୍‌ କରେ। ଏହା ସିଷ୍ଟମ୍‌‌ର ସ୍ଥିରତାକୁ ମଧ୍ୟ ବଢ଼ାଏ ତଥା ଏକ ସୁରକ୍ଷା ପ୍ୟାଚ୍ ଅନ୍ତର୍ଭୁକ୍ତ କରେ। ନୂତନ ବିଶେଷତାଗୁଡ଼ିକ ତଥା ବିକାଶଗୁଡ଼ିକର ଉପଭୋଗ କରିବାକୁ ଅପଡେଟ୍ କରନ୍ତୁ।</feature>
+         </features>
+        <features module="ସିଷ୍ଟମ୍‌" id="1">
+             <feature title="ସନ୍ଧାନ କରିବାକୁ ଗୋଲ ବୁଲାନ୍ତୁ">• ସନ୍ଧାନ କରିବାକୁ ଆପଣଙ୍କ ସ୍କ୍ରିନ୍‌ରେ ଥିବା ବିଷୟବସ୍ତୁରେ ଗୋଲ ବୁଲେଇବାକୁ ନେଭିଗେସନ୍‌ ବାର୍ କିମ୍ବା ହୋମ୍ ବଟନ୍‌କୁ ସ୍ପର୍ଶ କରନ୍ତୁ ଏବଂ ଧରି ରଖନ୍ତୁ। ସେଟିଂସ୍ > ସିଷ୍ଟମ୍ ଏବଂ ଅପଡେଟ୍ > ସିଷ୍ଟମ୍ ନେଭିଗେସନ୍ > ନେଭିଗେସନ୍‌ ବାର୍ ଦେଖାନ୍ତୁକୁ ଯାଇ ଏହା ପରଖି ନିଅନ୍ତୁ।</feature>
+             <feature title="ସ୍ଥିରତା">• ଆପଣଙ୍କ ଡିଭାଇସ୍‌ ଅଧିକ ସ୍ଥିର ଭାବେ ଚଲାଇବାକୁ, ସିଷ୍ଟମ୍‌ ସ୍ଥିରତାକୁ ବଢ଼ାଇଥାଏ।</feature>
+         </features>
+        <features module="ମିଡ଼ିଆ" id="2">
+             <feature title="କ୍ୟାମେରା">• କେତେକ ପରିଦୃଶ୍ୟରେ ଶୁଟିଂ ପ୍ରଭାବକୁ ଅପ୍ଟିମାଇଜ୍‌ କରେ।</feature>
+         </features>
+        <features module="ସୁରକ୍ଷା" id="3">
+             <feature>• Android ସୁରକ୍ଷା ପ୍ୟାଚ୍‌ (ଫେବୃଆରୀ 2025) ସିଷ୍ଟମ୍ ସୁରକ୍ଷା ପାଇଁ ଅନ୍ତର୍ଭୁକ୍ତ କରାଯାଇଛି। HONOR ସୁରକ୍ଷା ଅପଡେଟ୍‌ଗୁଡ଼ିକ ବିଷୟରେ ଅଧିକ ସୂଚନା ପାଇଁ, ଦୟାକରି ଆମ ୱେବସାଇଟ୍‌ https://www.honor.com/global/support/bulletin/2025/2 ଦେଖନ୍ତୁ।</feature>
+         </features>
+        <features module="ନୋଟ୍‌ଗୁଡ଼ିକ:" type="end">
+            <feature>1. ଏହି ଅପଡେଟ୍ ସଂସ୍ଥାପନ କରିବା ଦ୍ୱାରା ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ଡାଟା ପ୍ରଭାବିତ ହେବ ନାହିଁ, ତଥାପି ଅପଡେଟ୍ କରିବା ପୂର୍ବରୁ ଆପଣଙ୍କ ଡାଟାର ବ୍ୟାକଅପ୍‌ ନେବାକୁ ସୁପାରିଶ କରାଯାଇଛି। 
+2. ଅପଡେଟ୍‌ ସମୟରେ ଯଦି ଆପଣ କୌଣସି ସମସ୍ୟାର ସମ୍ମୁଖୀନ ହୁଅନ୍ତି, ଦୟାକରି HONOR ସେବା ହଟଲାଇନ୍‌ରେ କଲ୍‌ କରନ୍ତୁ କିମ୍ବା ସହାୟତା ପାଇଁ ଏକ HONOR ଗ୍ରାହକ ସେବା କେନ୍ଦ୍ରକୁ ଯାଆନ୍ତୁ।</feature>
+        </features>
+    </language>
+    
+<language code="1094" name="pa-IN">
+              <features module="" backgroud="" type="header">
+             <feature>ਪਿਆਰੇ ਵਰਤੋਂਕਾਰ, ਇਸ ਅੱਪਡੇਟ ਵਿੱਚ ਖੋਜ ਕਰਨ ਲਈ ਗੋਲ-ਚੱਕਰ ਬਣਾਓ ਦੀ ਸਹੂਲਤ ਪੇਸ਼ ਕੀਤੀ ਗਈ ਹੈ ਅਤੇ ਕੁਝ ਦ੍ਰਿਸ਼ਾਂ ਵਿੱਚ ਸ਼ੂਟਿੰਗ ਪ੍ਰਭਾਵ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਇਆ ਗਿਆ ਹੈ। ਇਸ ਵਿੱਚ ਸਿਸਟਮ ਦੀ ਸਥਿਰਤਾ ਵਿੱਚ ਵੀ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ, ਅਤੇ ਇੱਕ ਸੁਰੱਖਿਆ ਪੈਚ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ। ਨਵੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਅਤੇ ਸੁਧਾਰਾਂ ਦਾ ਆਨੰਦ ਲੈਣ ਲਈ ਅੱਪਡੇਟ ਕਰੋ।</feature>
+         </features>
+        <features module="ਸਿਸਟਮ" id="1">
+             <feature title="ਖੋਜ ਕਰਨ ਲਈ ਗੋਲ-ਚੱਕਰ ਬਣਾਓ">• ਖੋਜ ਕਰਨ ਲਈ ਆਪਣੀ ਸਕ੍ਰੀਨ 'ਤੇ ਸਮੱਗਰੀ 'ਤੇ ਗੋਲ-ਚੱਕਰ ਬਣਾਉਣ ਲਈ ਨੈਵੀਗੇਸ਼ਨ ਬਾਰ ਜਾਂ ਹੋਮ ਬਟਨ ਨੂੰ ਟੱਚ ਅਤੇ ਹੋਲਡ ਕਰੋ। ਸੈਟਿੰਗਾਂ > ਸਿਸਟਮ ਅਤੇ ਅੱਪਡੇਟ > ਸਿਸਟਮ ਨੈਵੀਗੇਸ਼ਨ > ਨੈਵੀਗੇਸ਼ਨ ਬਾਰ ਦਿਖਾਓ 'ਤੇ ਜਾ ਕੇ ਇਸ ਨੂੰ ਅਜ਼ਮਾਓ।</feature>
+             <feature title="ਸਥਿਰਤਾ">• ਸਿਸਟਮ ਦੀ ਸਥਿਰਤਾ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ, ਜਿਸ ਨਾਲ ਤੁਹਾਡਾ ਡਿਵਾਈਸ ਹੋਰ ਸਥਿਰਤਾ ਨਾਲ ਕੰਮ ਕਰੇਗਾ।</feature>
+         </features>
+        <features module="ਮੀਡੀਆ" id="2">
+             <feature title="ਕੈਮਰਾ">• ਕੁਝ ਸਥਿਤੀਆਂ ਵਿੱਚ ਸ਼ੂਟਿੰਗ ਪ੍ਰਭਾਵ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਇਆ ਗਿਆ ਹੈ।</feature>
+         </features>
+        <features module="ਸੁਰੱਖਿਆ" id="3">
+             <feature>• ਸਿਸਟਮ ਸੁਰੱਖਿਆ ਲਈ Android ਸੁਰੱਖਿਆ ਪੈਚ (ਫਰਵਰੀ 2025) ਨੂੰ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ। HONOR ਸੁਰੱਖਿਆ ਅਪਡੇਟਾਂ ਬਾਰੇ ਵਧੇਰੇ ਜਾਣਕਾਰੀ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਡੀ ਵੈੱਬਸਾਈਟ https://www.honor.com/global/support/bulletin/2025/2 'ਤੇ ਜਾਓ।</feature>
+         </features>
+        <features module="ਨੋਟਸ:" type="end">
+            <feature>1. ਇਸ ਅੱਪਡੇਟ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਨਾਲ ਤੁਹਾਡੇ ਨਿੱਜੀ ਡੇਟਾ 'ਤੇ ਕੋਈ ਅਸਰ ਨਹੀਂ ਪਵੇਗਾ, ਪਰ ਹਾਲੇ ਵੀ ਅੱਪਡੇਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਡੇ ਡੇਟਾ ਦਾ ਬੈਕਅੱਪ ਲੈਣ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ। 
+2. ਜੇਕਰ ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਦੌਰਾਨ ਕੋਈ ਸਮੱਸਿਆ ਆਉਂਦੀ ਹੈ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਸਹਾਇਤਾ ਈ HONOR ਸੇਵਾ ਹੌਟਲਾਈਨ 'ਤੇ ਕਾਲ ਕਰੋ ਜਾਂ HONOR ਗਾਹਕ ਸੇਵਾ ਕੇਂਦਰ 'ਤੇ ਜਾਓ।</feature>
+        </features>
+    </language>
+    
+<language code="1045" name="pl-pl">
+              <features module="" backgroud="" type="header">
+             <feature>W tej aktualizacji wprowadzono funkcję Zakreśl, aby wyszukać i zoptymalizowano efekt robienia zdjęć w niektórych sytuacjach. Ponadto poprawia ona stabilność systemu i zawiera poprawkę bezpieczeństwa. Zainstaluj tę aktualizację, aby korzystać z nowych funkcji i ulepszeń.</feature>
+         </features>
+        <features module="System" id="1">
+             <feature title="Zakreśl, aby wyszukać">• Dotknij i przytrzymaj pasek nawigacji lub przycisk powrotu do ekranu głównego, aby zakreślić zawartość na ekranie w celu wyszukiwania. Wypróbuj, wybierając Ustawienia > System i aktualizacje > Nawigacja systemowa > Pokaż pasek nawigacyjny.</feature>
+             <feature title="Stabilność">• Poprawiono stabilność systemu, dzięki czemu urządzenie działa bardziej niezawodnie.</feature>
+         </features>
+        <features module="Multimedia" id="2">
+             <feature title="Aparat">• Zoptymalizowano robienie zdjęć w niektórych sytuacjach.</feature>
+         </features>
+        <features module="Bezpieczeństwo" id="3">
+             <feature>• Aktualizacja zawiera Poprawkę zabezpieczeń systemu Android (luty 2025 r.). Więcej informacji o aktualizacjach zabezpieczeń urządzeń HONOR można znaleźć w naszej witrynie internetowej: https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Uwagi:" type="end">
+            <feature>1. Ta aktualizacja nie ma wpływu na Twoje dane osobowe, jednak przed jej zainstalowaniem zaleca się wykonanie kopii zapasowej danych. 
+2. W razie jakichkolwiek problemów z aktualizacją prosimy o kontakt z infolinią działu obsługi klienta HONOR lub z lokalnym punktem serwisowym HONOR.</feature>
+        </features>
+    </language>
+    
+<language code="1046" name="pt-br">
+              <features module="" backgroud="" type="header">
+             <feature>Prezado(a) usuário(a), esta atualização apresenta o Circular para pesquisar e otimiza o efeito de captura em alguns cenários. Ela também melhora a estabilidade do sistema e incorpora um patch de segurança. Atualize para aproveitar os novos recursos e aprimoramentos.</feature>
+         </features>
+        <features module="Sistema" id="1">
+             <feature title="Circular para pesquisar">• Toque e segure a barra de navegação ou o botão Início para circular o conteúdo da tela que deve ser pesquisado. Experimente acessando Configurações > Sistema e atualizações > Navegação do sistema > Mostrar Barra de navegação.</feature>
+             <feature title="Estabilidade">• Melhora a estabilidade do sistema para que seu dispositivo funcione de forma mais estável.</feature>
+         </features>
+        <features module="Mídia" id="2">
+             <feature title="Câmera">• Otimiza o efeito de captura em alguns cenários.</feature>
+         </features>
+        <features module="Segurança" id="3">
+             <feature>• O patch de segurança do Android (fevereiro de 2025) foi incorporado para a segurança do sistema. Para obter mais informações sobre as atualizações de segurança da HONOR, visite nosso site https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Notas:" type="end">
+            <feature>1. A instalação dessa atualização não afetará seus dados pessoais, mas ainda assim é recomendável fazer backup de seus dados antes da atualização. 
+2. Se você encontrar algum problema durante a atualização, ligue para a linha de atendimento da HONOR ou vá a uma central de serviços do cliente da HONOR para obter assistência.</feature>
+        </features>
+    </language>
+    
+<language code="2070" name="pt-pt">
+              <features module="" backgroud="" type="header">
+             <feature>Caro utilizador, esta atualização apresenta o Circundar para Procurar e otimiza o efeito de disparo em alguns cenários. Também melhora a estabilidade do sistema e incorpora uma correção de segurança. Atualize para aproveitar as novas funcionalidades e melhorias.</feature>
+         </features>
+        <features module="Sistema" id="1">
+             <feature title="Circundar para Procurar">• Toque continuamente na barra de navegação ou no botão Início para circundar o conteúdo no seu ecrã para pesquisa. Experimente, acedendo a Definições > Sistema e atualizações > Navegação do sistema > Apresentar barra de navegação.</feature>
+             <feature title="Estabilidade">• Melhora a estabilidade do sistema para que o seu dispositivo funcione de forma mais estável.</feature>
+         </features>
+        <features module="Multimédia" id="2">
+             <feature title="Câmara">• Otimiza o efeito de captura em alguns cenários.</feature>
+         </features>
+        <features module="Segurança" id="3">
+             <feature>• Foi incorporada uma correção de segurança Android (fevereiro de 2025) para segurança do sistema. Para mais informações sobre as atualizações de segurança da HONOR, visite o nosso website https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Notas:" type="end">
+            <feature>1. Instalar esta atualização não irá afetar os seus dados pessoais, mas continua a recomendar-se a realização de uma cópia de segurança antes da atualização.
+2. Se encontrar quaisquer problemas durante a atualização, ligue para a linha direta de assistência da HONOR ou dirija-se ao centro de apoio ao cliente HONOR para suporte.</feature>
+        </features>
+    </language>
+    
+<language code="1048" name="ro-ro">
+              <features module="" backgroud="" type="header">
+             <feature>Stimate utilizator, această actualizare introduce funcția Încercuiți pentru căutare și optimizează efectul de fotografiere în anumite scenarii. De asemenea, îmbunătățește stabilitatea sistemului și include o corecție de securitate. Actualizați pentru a vă bucura de noile funcții și îmbunătățiri.</feature>
+         </features>
+        <features module="Sistem" id="1">
+             <feature title="Încercuiți pentru căutare">• Atingeți lung bara de navigare sau Butonul principal pentru a încercui conținut pe ecran pentru căutare. Încercați funcția accesând Setări > Sistem și actualizări > Navigare sistem > Afișare bară de navigare.</feature>
+             <feature title="Stabilitate">• Îmbunătățește stabilitatea sistemului pentru ca dispozitivul să funcționeze mai stabil.</feature>
+         </features>
+        <features module="Mass-media" id="2">
+             <feature title="Cameră foto">• Optimizează efectul de fotografiere în anumite scenarii.</feature>
+         </features>
+        <features module="Securitate" id="3">
+             <feature>• Corecția de securitate Android (februarie 2025) a fost inclusă pentru securitatea sistemului. Pentru mai multe informații despre actualizările de Securitate HONOR, vizitați site-ul nostru web: https://www.honor.com/ro/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Note:" type="end">
+            <feature>1. Instalarea acestei actualizări nu va cauza ștergerea datelor dvs. personale, dar vă recomandăm totuși să realizați în prealabil o copie de rezervă.
+2. Dacă întâmpinați probleme în timpul actualizării, apelați linia de asistență HONOR sau vizitați un centru de servicii pentru clienți HONOR.</feature>
+        </features>
+    </language>
+    
+<language code="1049" name="ru-ru">
+              <features module="" backgroud="" type="header">
+             <feature>Уважаемый пользователь! В этом обновлении появилась функция «Обведение для поиска» и оптимизированы эффекты при съемке в некоторых сценариях. Оно также повышает стабильность системы и включает исправление безопасности. Установите это обновление, чтобы воспользоваться новыми функциями и улучшениями.</feature>
+         </features>
+        <features module="Система" id="1">
+             <feature title="Обведение для поиска">• Чтобы обвести нужный контент на экране для последующего поиска, нажмите и удерживайте панель навигации или кнопку «Главная». Чтобы попробовать, пройдите в меню «Настройки > Система и обновления > Системная навигация > Показать панель навигации».</feature>
+             <feature title="Стабильность">• Повышена стабильность системы и, соответственно, работы вашего устройства.</feature>
+         </features>
+        <features module="Мультимедиа" id="2">
+             <feature title="Камера">• Оптимизирован эффект съемки в некоторых сценариях.</feature>
+         </features>
+        <features module="Безопасность" id="3">
+             <feature>• В обновление включено исправление безопасности для Android (февраль 2025 г). Чтобы получить подробную информацию об обновлениях безопасности HONOR, посетите наш сайт: https://www.honor.com/ru/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Примечания:" type="end">
+            <feature>1. Установка этого обновления не приведет к удалению ваших персональных данных, но мы все равно рекомендуем вам создать резервную копию своих данных перед обновлением. 
+2. Если во время обновления произойдет ошибка, позвоните по телефону горячей линии службы поддержки клиентов HONOR или обратитесь в авторизованный сервисный центр HONOR.</feature>
+        </features>
+    </language>
+    
+<language code="1115" name="si-lk">
+              <features module="" backgroud="" type="header">
+             <feature>හිතවත් පරිශීලක භවතුනි, මෙම යාවත්කාලීනය සොයන්නට වට කරන්න හඳුන්වා දෙන අතර සමහර අවස්ථාවලදී රූගත කිරීමේ ප්‍රයෝගය ප්‍රශස්ත කරයි. එය පද්ධති ස්ථායීතාවය ද වැඩි දියුණු කරන අතර ආරක්ෂක පිළියමක් ඇතුළත් කරයි. නව විශේෂාංග සහ වැඩිදියුණු කිරීම් භුක්ති විඳීමට යාවත්කාලීන කරන්න.</feature>
+         </features>
+        <features module="පද්ධතිය" id="1">
+             <feature title="සොයන්නට වට කරන්න">• සෙවීම සඳහා ඔබගේ තිරයේ ඇති අන්තර්ගතය වට කරන්නට යාත්‍රණ දණ්ඩ හෝ මුල් පිටු බොත්තම ස්පර්ශ කර තබාගන්න. සැකසුම් > පද්ධතිය සහ යාවත්කාල > පද්ධති සංචාලනය > යාත්‍රණ දණ්ඩ පෙන්වන්න වෙත ගොස් එය උත්සාහ කරන්න.</feature>
+             <feature title="ස්ථායීතාවය">• ඔබගේ උපාංගය වඩා ස්ථායීව ධාවනය කරවීමට පද්ධතියේ ස්ථායිතාවය වැඩිදියුණු කරයි.</feature>
+         </features>
+        <features module="මාධ්‍ය" id="2">
+             <feature title="කැමරාව">• සමහර අවස්ථාවල රූගත කිරීමේ ප්‍රයෝගය ප්‍රශස්ත කරයි.</feature>
+         </features>
+        <features module="ආරක්ෂාව" id="3">
+             <feature>• පද්ධති ආරක්ෂාව සඳහා Android ආරක්ෂක පැච් එක (2025 පෙබ) යොදාගෙන ඇත. HONOR ආරක්ෂක යාවත්කාල පිළිබඳ තවත් තොරතුරු සඳහා, කරුණාකර අපගේ වෙබ් අඩවිය වෙත යන්න https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="සටහන්:" type="end">
+            <feature>1. මෙම යාවත්කාලය ස්ථාපනය කිරීම ඔබගේ පෞද්ගලික දත්තවලට බල නොපානු ඇති නමුත් තවමත් යාවත්කාල කිරීමට පෙර ඔබගේ දත්ත උපස්ථ කිරීමට නිර්දේශ කෙරේ. 
+2. ඔබට යාවත්කාල කිරීමේ දී ගැටළු කිසිවක් ඇති වුවහොත්, කරුණාකර HONOR සේවා හොට්ලයින් අමතන්න නැතහොත් සහය සඳහා HONOR පාරිභෝගික සේවා මධ්‍යස්ථානයට යන්න.</feature>
+        </features>
+    </language>
+    
+<language code="1051" name="sk-sk">
+              <features module="" backgroud="" type="header">
+             <feature>Vážený používateľ, táto aktualizácia predstavuje funkciu Vyhľadávanie zakrúžkovaním a optimalizuje efekt snímania v niektorých situáciách. Zlepšuje aj stabilitu systému a obsahuje bezpečnostnú opravu. Aktualizujte, aby ste si mohli vychutnať nové funkcie a zlepšenia.</feature>
+         </features>
+        <features module="Systém" id="1">
+             <feature title="Vyhľadávanie zakrúžkovaním">• Ak chcete vyhľadávať zakrúžkovaním obsahu na obrazovke, ťuknite na navigačný panel alebo tlačidlo Domov a podržte ho. Vyskúšajte si to v časti Nastavenia > Systém a aktualizácie > Systémová navigácia > Zobraziť navigačný panel.</feature>
+             <feature title="Stabilita">• Zlepšuje stabilitu systému, vďaka čomu zariadenie funguje stabilnejšie.</feature>
+         </features>
+        <features module="Médiá" id="2">
+             <feature title="Fotoaparát">• Optimalizuje efekt snímania v niektorých situáciách.</feature>
+         </features>
+        <features module="Zabezpečenie" id="3">
+             <feature>• Súčasťou zabezpečenia systému je bezpečnostná oprava systému Android (z februára 2025). Ak potrebujete viac informácií o aktualizáciách zabezpečenia spoločnosti HONOR, navštívte webovú stránku https://www.honor.com/sk/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Poznámky:" type="end">
+            <feature>1. Inštalácia tejto aktualizácie neovplyvní vaše osobné údaje, ale aj tak sa odporúča pred aktualizáciou si ich zálohovať. 
+2. Ak sa počas aktualizácie vyskytnú problémy, podporu môžete získať zavolaním na zákaznícku linku HONOR alebo návštevou Centra služieb zákazníkom HONOR.</feature>
+        </features>
+    </language>
+    
+<language code="1060" name="sl-si">
+              <features module="" backgroud="" type="header">
+             <feature>Spoštovani uporabnik, ta posodobitev uvaja funkcijo Iskanje z obkrožanjem in optimizira učinke snemanja v nekaterih situacijah. Izboljšuje stabilnost sistema in vključuje varnostni popravek. Namestite jo in uživajte v novih funkcijah in izboljšavah.</feature>
+         </features>
+        <features module="Sistem" id="1">
+             <feature title="Iskanje z obkrožanjem">• Dotaknite se vrstice za krmarjenje ali gumba za vrnitev na začetni zaslon, da obkrožite vsebino na zaslonu za iskanje. Funkcijo lahko preizkusite v razdelku Nastavitve > Sistem in posodobitve > Pomikanje po sistemu > Prikaz vrstice za krmarjenje.</feature>
+             <feature title="Stabilnost">• Stabilnost sistema je izboljšana, zato je delovanje naprave stabilnejše.</feature>
+         </features>
+        <features module="Predstavnosti" id="2">
+             <feature title="Kamera">• Učinek snemanja je optimiziran v nekaterih situacijah.</feature>
+         </features>
+        <features module="Varnost" id="3">
+             <feature>• Varnostni popravki za Android (februar 2025) so vključeni za varnost sistema. Za več informacij o varnostnih posodobitvah HONOR obiščite naše spletno mesto: https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Opombe:" type="end">
+            <feature>1. Namestitev te posodobitve ne bo vplivala na vaše osebne podatke, vendar vseeno priporočamo, da podatke pred posodobitvijo varnostno kopirate.
+2. Če med posodabljanjem pride do težav, lahko pokličete odprto linijo za pomoč uporabnikom družbe HONOR ali obiščete servisni center družbe HONOR.</feature>
+        </features>
+    </language>
+    
+<language code="1053" name="sv-se">
+              <features module="" backgroud="" type="header">
+             <feature>Kära användare! Den här uppdateringen introducerar Ringa in för att söka och optimerar fotograferingseffekten i vissa scenarier. Den förbättrar också systemets prestanda och en säkerhetskorrigering implementeras. Uppdatera för att ta del av de nya funktionerna och förbättringarna.</feature>
+         </features>
+        <features module="System" id="1">
+             <feature title="Ringa in för att söka">• Peka och håll kvar på navigeringsfältet eller hemknappen för att ringa in innehållet på skärmen och söka. Prova genom att gå till Inställningar > System och uppdateringar > Systemnavigering > Visa navigeringsfält.</feature>
+             <feature title="Stabilitet">• Förbättrar systemets stabilitet så att enheten körs stabilare.</feature>
+         </features>
+        <features module="Media" id="2">
+             <feature title="Kamera">• Optimerar fotograferingseffekten i vissa scenarier.</feature>
+         </features>
+        <features module="Säkerhet" id="3">
+             <feature>• Android-säkerhetskorrigeringen (februari 2025) har implementerats för systemsäkerhet. Vill du ha mer information om säkerhetsuppdateringar för HONOR går du till vår webbplats https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Noteringar:" type="end">
+            <feature>1. Installation av den här uppdateringen påverkar inte dina personuppgifter, men det rekommenderas ändå att du säkerhetskopierar alla data innan du uppdaterar. 
+2. Om du stöter på några problem under uppdateringen, kan du ringa HONORs hotline för service eller besöka HONORs kundtjänstcenter och få support.</feature>
+        </features>
+    </language>
+    
+<language code="1089" name="sw-KE">
+              <features module="" backgroud="" type="header">
+             <feature>Mtumiaji mpendwa, sasisho hili linaleta kipengele cha Chorea Mviringo ili Utafute na linaboresha athari ya upigaji picha katika baadhi ya miktadha. Pia, linaboresha uthabiti wa mfumo na kujumuisha rekebisho la usalama. Sasisha ili kufurahia vipengele na uboreshaji mpya.</feature>
+         </features>
+        <features module="Mfumo" id="1">
+             <feature title="Chorea Mviringo ili Utafute">• Gusa na ushikilie upau wa urambazaji au kitufe cha Mwanzo ili uchoree mviringo maudhui yaliyo kwenye skrini yako ili uyatafute. Ijaribu kwa kwenda kwenye Mipangilio > Mfumo na masasisho > Urambazaji wa mfumo > Onyesha upau wa urambazaji.</feature>
+             <feature title="Uthabiti">• Linaboresha uthabiti wa mfumo ili kufanya kifaa chako kiendeshwe kwa uthabiti zaidi.</feature>
+         </features>
+        <features module="Midia" id="2">
+             <feature title="Kamera">• Linaboresha athari ya upigaji picha katika baadhi ya miktadha.</feature>
+         </features>
+        <features module="Usalama" id="3">
+             <feature>• Rekebisho la usalama wa Android (Feb 2025) limejumuishwa kwa ajili ya usalama wa mfumo. Ili kupata maelezo zaidi kuhusu masasisho ya Usalama wa HONOR, tafadhali tembelea tovuti yetu https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Madokezo:" type="end">
+            <feature>1. Kusakinisha sasisho hili hakutaathiri data yako ya kibinafsi, lakini bado unapendekezwa kuhifadhi rudufu data yako kabla ya kusasisha. 
+2. Ukikumbana na matatizo yoyote unaposasisha, tafadhali piga simu kwa nambari ya dharura ya HONOR au uende kwenye kituo cha huduma za wateja cha HONOR ili upate usaidizi.</feature>
+        </features>
+    </language>
+    
+<language code="1097" name="ta-IN">
+              <features module="" backgroud="" type="header">
+             <feature>அன்புள்ள பயனரே, இந்தப் புதுப்பிப்பு தேட, வட்டமிடு அம்சத்தை அறிமுகப்படுத்துகிறது மற்றும் சில சூழ்நிலைகளில் ஷுட்டிங் விளைவை உகந்ததாக்குகிறது. அத்துடன், இது சிஸ்டம் நிலைத்தன்மையை மேம்படுத்துகிறது, பாதுகாப்புத் தொகுப்பைக் கொண்டுள்ளது. புதிய அம்சங்களையும் மேம்பாடுகளையும் பெற, புதுப்பிக்கவும்.</feature>
+         </features>
+        <features module="சிஸ்டம்" id="1">
+             <feature title="தேட, வட்டமிடு">• தேடுவதற்காக உங்கள் திரையில் உள்ள உள்ளடக்கத்தை வட்டமிட, வழிசெலுத்தல் பட்டி அல்லது முகப்புப் பொத்தானைத் தொட்டு அழுத்தவும். அமைப்புகள் > சிஸ்டம் &amp; புதுப்பிப்புகள் > சிஸ்டம் வழிசெலுத்தல் > வழிசெலுத்தல் பட்டியைக் காட்டு என்பதற்குச் செல்வதன் மூலம் அதை முயன்று பார்க்கவும்.</feature>
+             <feature title="நிலைத்தன்மை">• உங்கள் சாதனத்தை மேலும் நிலையாக இயங்கச் செய்ய, சிஸ்டம் நிலைத்தன்மையை மேம்படுத்துகிறது.</feature>
+         </features>
+        <features module="மீடியா" id="2">
+             <feature title="கேமரா">• சில சூழ்நிலைகளில் ஷூட்டிங் விளைவை உகந்ததாக்குகிறது.</feature>
+         </features>
+        <features module="பாதுகாப்பு" id="3">
+             <feature>• சிஸ்டம் பாதுகாப்பிற்காக Android பாதுகாப்புத் தொகுப்பு (பிப் 2025) சேர்க்கப்பட்டுள்ளது. HONOR பாதுகாப்புப் புதுப்பிப்புகளைப் பற்றிய மேலும் தகவல்களுக்கு, எங்கள் வலைத்தளத்தைப் பார்க்கவும்: https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="குறிப்புகள்:" type="end">
+            <feature>1. இந்தப் புதுப்பிப்பை நிறுவுவது உங்கள் தனிப்பட்ட தரவைப் பாதிக்காது, எனினும் புதுப்பிப்பதற்கு முன்பு உங்கள் தரவைக் காப்புப்பிரதி எடுப்பது இன்னும் பரிந்துரைக்கப்படுகிறது. 
+2. புதுப்பிப்புச் செயல்பாட்டின்போது ஏதேனும் சிக்கல்களைச் சந்தித்தால், உதவிக்காக HONOR சேவை ஹாட்லைனை அழைக்கவும் அல்லது HONOR வாடிக்கையாளர் சேவை மையத்திற்குச் செல்லவும்.</feature>
+        </features>
+    </language>
+    
+<language code="1098" name="te-IN">
+              <features module="" backgroud="" type="header">
+             <feature>ప్రియమైన వినియోగదారుకు, ఈ అప్‌డేట్ శోధించడానికి సర్కిల్ చేయండి పరిచయం చేస్తుంది మరియు కొన్ని సందర్భాల్లో షూటింగ్ ప్రభావాన్ని ఆప్టిమైజ్ చేస్తుంది. ఇది సిస్టమ్ స్థిరత్వాన్ని కూడా మెరుగుపరుస్తుంది మరియు భద్రతా ప్యాచ్‌ను చేర్చుతుంది. కొత్త ఫీచర్‌లు మరియు మెరుగుదలలను ఆస్వాదించడానికి అప్‌డేట్ చేయండి.</feature>
+         </features>
+        <features module="సిస్టమ్" id="1">
+             <feature title="శోధించడానికి సర్కిల్ చేయండి">• శోధించడానికి మీ స్క్రీన్‌పై కంటెంట్‌ను సర్కిల్ చేయడానికి నావిగేషన్ బార్ లేదా హోమ్ బటన్‌ను నొక్కి, పట్టుకోండి. దీనిని సెట్టింగ్‌లు > సిస్టమ్ &amp; అప్‌డేట్‌లు > సిస్టమ్ నావిగేషన్ > నావిగేషన్ బార్‌ను చూపుకు వెళ్లి ప్రయత్నించండి.</feature>
+             <feature title="స్థిరత్వం">• మీ పరికరం మరింత స్థిరంగా అమలు అయ్యేలా చేయడానికి సిస్టమ్ స్థిరత్వాన్ని మెరుగుపరుస్తుంది.</feature>
+         </features>
+        <features module="మీడియా" id="2">
+             <feature title="కెమెరా">• కొన్ని సందర్భాల్లో షూటింగ్ ప్రభావాన్ని ఆప్టిమైజ్ చేస్తుంది.</feature>
+         </features>
+        <features module="భద్రత" id="3">
+             <feature>• సిస్టమ్ భద్రత కోసం Android భద్రతా ప్యాచ్ (ఫిబ్రవరి 2025) చేర్చబడింది. HONOR భద్రత అప్‌డేట్‌ల గురించి మరింత సమాచారం కోసం, దయచేసి మా వెబ్‌సైట్‌ను సందర్శించండి: https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="గమనికలు:" type="end">
+            <feature>1. ఈ అప్‌డేట్ ఇన్‌స్టాల్ చేయడం వలన మీ వ్యక్తిగత డేటాను ప్రభావితం చేయదు, కాని అప్‌డేట్ చేయడానికి ముందు మీ డేాటాను బ్యాకప్ చేయాలని ఇంకా సిఫార్సు చేయబడింది. 
+2. అప్‌డేట్ సమయంలో మీరు ఏవైనా సమస్యలు ఎదుర్కొంటే, దయచేసి HONOR సేవా హాట్‌లైన్‌కు కాల్ చేయండి లేదా మద్దతు కోసం HONOR కస్టమర్ సర్వీస్ కేంద్రాన్ని సందర్శించండి.</feature>
+        </features>
+    </language>
+    
+<language code="1054" name="th-th">
+              <features module="" backgroud="" type="header">
+             <feature>เรียนผู้ใช้ การอัปเดตครั้งนี้เปิดตัวฟีเจอร์วงกลมเพื่อค้นหาและปรับปรุงเอฟเฟ็กต์การถ่ายภาพในบางสถานการณ์ และยังพัฒนาความเสถียรของระบบ และรวมแพตช์การรักษาความปลอดภัยด้วย โปรดอัปเดตเพื่อใช้ฟีเจอร์และการปรับปรุงใหม่ๆ</feature>
+         </features>
+        <features module="ระบบ" id="1">
+             <feature title="วงกลมเพื่อค้นหา">แตะแถบควบคุมทิศทางหรือปุ่มหน้าหลักค้างไว้เพื่อวงกลมรอบเนื้อหาบนหน้าจอในการทำการค้นหา ทดลองได้โดยไปที่การตั้งค่า > ระบบและการอัปเดต > การควบคุมทิศทางระบบ > แสดงแถบควบคุมทิศทาง</feature>
+             <feature title="ความเสถียร">• ปรับปรุงความเสถียรของระบบเพื่อให้อุปกรณ์ของคุณใช้งานได้อย่างเสถียรมากขึ้น</feature>
+         </features>
+        <features module="สื่อ" id="2">
+             <feature title="กล้องถ่ายรูป">• ปรับปรุงเอฟเฟ็กต์การถ่ายภาพในบางสถานการณ์</feature>
+         </features>
+        <features module="ความปลอดภัย" id="3">
+             <feature>• มีการรวมแพตช์การรักษาความปลอดภัยของ Android (ก.พ. 2025) ไว้เพื่อความปลอดภัยของระบบ ดูข้อมูลเพิ่มเติมเกี่ยวกับการอัปเดตการรักษาความปลอดภัยของ HONOR ได้ในเว็บไซต์ของเรา https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="โปรดทราบ:" type="end">
+            <feature>1. การติดตั้งอัปเดตนี้จะไม่กระทบต่อข้อมูลส่วนตัวของคุณ แต่เรายังคงแนะนำให้สำรองข้อมูลของคุณก่อนที่จะอัปเดต
+2. หากคุณพบปัญหาใด ๆ ในระหว่างการอัปเดต โปรดโทรติดต่อสายด่วนการบริการของ HONOR หรือไปที่ศูนย์บริการลูกค้าของ HONOR เพื่อขอการสนับสนุน</feature>
+        </features>
+    </language>
+    
+<language code="1124" name="tl-ph">
+              <features module="" backgroud="" type="header">
+             <feature>Minamahal na user, ipinapakilala ng update na ito ang Bilugan para Hanapin at ino-optimize ang effect sa pag-shoot sa ilang sitwasyon. Pinapahusay din nito ang stability ng system, at isinasama ang isang panseguridad na patch. I-update para i-enjoy ang mga bagong feature at pagpapahusay.</feature>
+         </features>
+        <features module="System" id="1">
+             <feature title="Bilugan para Hanapin">Pindutin nang matagal ang navigation bar sa Home button para bilugan ang content sa iyong screen para sa paghahanap. Subukan ito sa pamamagitan ng pagpunta sa Mga Setting > System at mga update > Pag-navigate ng system > Ipakita ang navigation bar.</feature>
+             <feature title="Stability">• Pinapahusay ang stability ng system para magawang tumakbo nang mas stable ang iyong device.</feature>
+         </features>
+        <features module="Media" id="2">
+             <feature title="Camera">• Ino-optimize ang effect sa pag-shoot sa ilang sitwasyon.</feature>
+         </features>
+        <features module="Seguridad" id="3">
+             <feature>• Isinama ang panseguridad na patch ng Android (Peb 2025) para sa seguridad ng system. Para sa higit pang impormasyon tungkol sa Mga panseguridad na update ng HONOR, pakibisita ang aming website https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Mga Tala:" type="end">
+            <feature>1. Hindi makakaapekto sa iyong personal na data kapag na-install ang update na ito, pero inirerekomenda pa ring i-back up ang iyong data bago mag-update.
+2. Kung makaranas ka ng anumang isyu habang nag-a-update, pakitawagan ang hotline ng serbisyo ng HONOR o pumunta sa customer service center ng HONOR para sa suporta.</feature>
+        </features>
+    </language>
+    
+<language code="1055" name="tr-tr">
+              <features module="" backgroud="" type="header">
+             <feature>Değerli kullanıcımız, bu güncelleme ile Aramak için Daire İçine Alma özelliği eklenmiş ve bazı senaryolarda fotoğraf çekim efekti optimize edilmiştir. Ayrıca sistem kararlılığını iyileştirilmiş ve bir güvenlik yaması eklenmiştir. Yeni özelliklerin ve iyileştirmenin keyfini çıkarmak için güncelleyin.</feature>
+         </features>
+        <features module="Sistem" id="1">
+             <feature title="Aramak için Daire İçine Alma">• Gezinme çubuğuna veya Başlangıç Ekranı düğmesine basılı tutarak arama yapmak için ekranınızdaki içeriği daire içine alın. Ayarlar > Sistem ve güncellemeler > Sistem gezintisi > Gezinme çubuğunu göster bölümüne giderek deneyebilirsiniz.</feature>
+             <feature title="Kararlılık">• Sistem kararlılığı iyileştirilerek cihazınız daha kararlı hale getirildi.</feature>
+         </features>
+        <features module="Medya" id="2">
+             <feature title="Kamera">• Bazı senaryolarda fotoğraf çekme efekti optimize edildi.</feature>
+         </features>
+        <features module="Güvenlik" id="3">
+             <feature>• Sistem güvenliği için Android güvenlik yamasını (Şub 2025) eklendi. HONOR Güvenlik güncellemeleri ile ilgili daha fazla bilgi için lütfen web sitemizi ziyaret edin: https://www.honor.com/tr/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Notlar:" type="end">
+            <feature>1. Bu güncellemenin yüklenmesi kişisel verilerinizi etkilemeyecektir ancak yine de güncellemeden önce verilerinizi yedeklemeniz önerilir. 
+2. Güncelleme sırasında bir sorunla karşılaşırsanız lütfen HONOR yardım hattını arayın veya destek için HONOR müşteri servis merkezine gidin.</feature>
+        </features>
+    </language>
+    
+<language code="1058" name="uk-ua">
+              <features module="" backgroud="" type="header">
+             <feature>Шановний користувачу! У цьому оновленні представлено функцію "Пошук обведенням" й оптимізовано ефект знімання в деяких ситуаціях. Крім того, оновлення покращує стабільність системи й містить виправлення для системи безпеки. Установіть оновлення, щоб користуватися новими функціями й удосконаленнями.</feature>
+         </features>
+        <features module="Система" id="1">
+             <feature title="Пошук обведенням">• Торкніться панелі навігації або кнопки головного екрана й утримуйте їх, потім обведіть на екрані вміст для пошуку. Випробуйте цю функцію, вибравши "Налаштування" > "Система й оновлення" > "Навігація системою" > "Показувати панель навігації".</feature>
+             <feature title="Стабільність">• Підвищено стабільність системи для надійнішої роботи пристрою.</feature>
+         </features>
+        <features module="Медіа" id="2">
+             <feature title="Камера">• Оптимізовано ефект знімання в деяких ситуаціях.</feature>
+         </features>
+        <features module="Безпека" id="3">
+             <feature>• Для посилення безпеки системи впроваджено виправлення для системи безпеки Android від лютого 2025 року. Додаткову інформацію про оновлення для системи безпеки HONOR див. на нашому вебсайті https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Примітки" type="end">
+            <feature>1. Установлення цього оновлення не вплине на ваші особисті дані, однак ми радимо створити резервну копію даних перед оновленням. 
+2. Якщо під час оновлення виникнуть проблеми, зателефонуйте на гарячу лінію обслуговування користувачів HONOR або зверніться по підтримку в сервісний центр HONOR.</feature>
+        </features>
+    </language>
+    
+<language code="1056" name="ur-pk">
+              <features module="" backgroud="" type="header">
+             <feature>محترم صارف، یہ اپ ڈیٹ تلاش کرنے کے لیے دائرہ زد کریں کو متعارف کرواتی ہے اور کچھ منظرناموں میں شوٹنگ کے اثر کو بہتر بناتی ہے۔ یہ سسٹم کے استحکام کو بھی بہتر بناتی ہے، اور سکیورٹی پیچ شامل کرتی ہے۔ نئی خصوصیات اور بہتریوں سے لطف اندوز ہونے کے لیے اپ ڈیٹ کریں۔</feature>
+         </features>
+        <features module="سسٹم" id="1">
+             <feature title="تلاش کرنے کے لیے دائرہ زد کریں">‏• تلاش کرنے کے لیے اپنی اسکرین پر موجود مواد کو دائرہ زد کرنے کے لیے نیویگیشن بار یا ہوم بٹن کو دبائیں رکھیں۔ ترتیبات > سسٹم اور اپ ڈیٹس > سسٹم نیویگیشن > نیویگیشن بار دکھائیں پر جا کر اسے آزمائیں۔</feature>
+             <feature title="استحکام">‏• آپ کی ڈیوائس کو زیادہ مستحکم طریقے سے چلانے کے لیے سسٹم کے استحکام کو بہتر بناتی ہے۔</feature>
+         </features>
+        <features module="میڈیا" id="2">
+             <feature title="کیمرہ">‏• کچھ مناظر میں شوٹنگ کا اثر بہتر بناتی ہے۔</feature>
+         </features>
+        <features module="سکیورٹی" id="3">
+             <feature>‏• Android سکیورٹی پیچ (فروری 2025) سسٹم سکیورٹی کے لیے شامل کر دیا گیا ہے۔ ‏HONOR سکیورٹی اپ ڈیٹس کے بارے میں مزید معلومات کے لیے، براہ کرم ہماری ویب سائٹ ملاحظہ کریں https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="نوٹس:" type="end">
+            <feature>‏1. اس اپ ڈیٹ کو انسٹال کرنے سے آپ کا ذاتی ڈیٹا متاثر نہیں ہو گا، لیکن اپ ڈیٹ کرنے سے پہلے اب بھی اپنے ڈیٹا کا بیک اپ لینے کی تجویز دی جاتی ہے۔ 
+2. اگر اپ ڈیٹ کرنے کے دوران آپ کسی مسئلے کا سامنا کرتے ہیں، تو براہ کرم تعاون حاصل کرنے کے لیے HONOR سروس ہاٹ لائن پر کال کریں یا HONOR کسٹمر سروس سینٹر پر جائیں۔</feature>
+        </features>
+    </language>
+    
+<language code="2115" name="uz-uz">
+              <features module="" backgroud="" type="header">
+             <feature>Hurmatli foydalanuvchi, ushbu yangilanishda Chizib qidirish funksiyasi taqdim etildi va ayrim holatlardagi suratga olish effekti optimallandi. Unda tizim barqarorligi ham yaxshilandi hamda xavfsizlik tuzatmasi kiritildi. Yangi funksiyalar va takomillashtirishlardan foydalanish uchun yangilang.</feature>
+         </features>
+        <features module="Tizim" id="1">
+             <feature title="Qidiruv uchun aylana chizish">• Qidirish uchun ekraningizdagi kontentni aylana bilan belgilash uchun navigatsiya paneli yoki Bosh ekran tugmasini bosib turing. Uni Sozlamalar > Tizim va yangilash > Tizim navigatsiyasi > Navigatsiya panelini chiqarish ruknida sinang.</feature>
+             <feature title="Barqarorlik">• Qurilmangiz yanada barqaror ishlashi uchun tizim barqarorligi oshirildi.</feature>
+         </features>
+        <features module="Multimedia" id="2">
+             <feature title="Kamera">• Ayrim holatlardagi tasvirga olish effekti optimallandi.</feature>
+         </features>
+        <features module="Xavfsizlik" id="3">
+             <feature>• Tizim xavfsizligini kuchaytirish uchun Android xavfsizlik tuzatmasi (2025-yil, fevral) kiritildi. HONOR Xavfsizlik yangilanishlari haqida batafsil axborot olish uchun veb-saytimizga tashrif buyuring: https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Eslatmalar:" type="end">
+            <feature>1. Bu yangilanishni oʻrnatish shaxsiy maʼlumotlaringizga taʼsir qilmaydi, lekin yangilashdan oldin maʼlumotlaringizni zaxiralash tavsiya etiladi. 
+2. Agar yangilash jarayonida muammolarga duch kelsangiz, yordam uchun HONOR xizmat markazi tezkor raqamiga murojaat qiling yoki HONOR mijozlarga xizmat markaziga tashrif buyuring.</feature>
+        </features>
+    </language>
+    
+<language code="1066" name="vi-vn">
+              <features module="" backgroud="" type="header">
+             <feature>Người dùng thân mến, bản cập nhật này giới thiệu tính năng Khoanh tròn để tìm kiếm và tối ưu hóa hiệu ứng quay/chụp trong một số trường hợp. Ngoài ra, bản cập nhật này còn cải thiện độ ổn định của hệ thống và tích hợp một bản vá bảo mật. Hãy cập nhật để tận hưởng các cải tiến và tính năng mới.</feature>
+         </features>
+        <features module="Hệ thống" id="1">
+             <feature title="Khoanh tròn để tìm kiếm">• Chạm và giữ thanh điều hướng hoặc nút Màn hình chính để khoanh tròn nội dung trên màn hình nhằm tìm kiếm. Hãy dùng thử tính năng này bằng cách vào Cài đặt > Hệ thống và cập nhật > Điều hướng hệ thống > Hiển thị thanh điều hướng.</feature>
+             <feature title="Độ ổn định">• Cải thiện độ ổn định của hệ thống để giúp thiết bị của bạn chạy ổn định hơn.</feature>
+         </features>
+        <features module="Phương tiện" id="2">
+             <feature title="Máy ảnh">• Tối ưu hóa hiệu ứng quay/chụp trong một số trường hợp.</feature>
+         </features>
+        <features module="Bảo mật" id="3">
+             <feature>• Bản vá bảo mật Android (Tháng 2 năm 2025) đã được tích hợp để bảo mật hệ thống. Để biết thêm thông tin về các bản cập nhật Bảo mật của HONOR, vui lòng truy cập trang web của chúng tôi https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Ghi chú:" type="end">
+            <feature>1. Việc cài đặt bản cập nhật này sẽ không ảnh hưởng đến dữ liệu cá nhân của bạn nhưng bạn vẫn nên sao lưu dữ liệu trước khi cập nhật. 
+2. Nếu bạn gặp bất kỳ sự cố nào trong quá trình cập nhật, vui lòng gọi đến đường dây nóng dịch vụ của HONOR hoặc đến trung tâm dịch vụ khách hàng của HONOR để được hỗ trợ.</feature>
+        </features>
+    </language>
+    
+<language code="3076" name="zh-hk">
+              <features module="" backgroud="" type="header">
+             <feature>親愛的用戶，本次更新新增圈定即搜功能，優化部分場景的相機拍攝效果，提升系統穩定性，並整合安全性修補程式，建議您更新。</feature>
+         </features>
+        <features module="系統" id="1">
+             <feature title="圈定即搜">• 支援長按導覽提示條或主屏幕按鈕，即可圈定屏幕上的內容快速搜尋，體驗路徑：設定 > 系統和更新 > 系統導覽方式 > 開啟顯示提示條開關。</feature>
+             <feature title="穩定性">• 提升系統穩定性，讓您的手機運行更穩定。</feature>
+         </features>
+        <features module="媒體" id="2">
+             <feature title="相機">• 優化部分場景的相機拍攝效果。</feature>
+         </features>
+        <features module="安全" id="3">
+             <feature>• 整合 Android 2025年2月安全性修補程式，增強系統安全性。如需有關榮耀軟件安全更新內容的資訊，請瀏覽榮耀官方網站 https://www.honor.com/cn/support/bulletin/2025/2</feature>
+         </features>
+        <features module="更新注意事項：" type="end">
+            <feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份。
+2. 更新過程中，如果遇到任何問題，請致電榮耀品牌服務熱線，或前往榮耀品牌客戶服務中心尋求支援。</feature>
+        </features>
+    </language>
+    
+<language code="1028" name="zh-tw">
+              <features module="" backgroud="" type="header">
+             <feature>親愛的使用者，本次更新新增圈定即搜功能，最佳化在部分場景下的相機拍攝效果，提升系統穩定性，並整合安全性修補程式，建議您進行更新。</feature>
+         </features>
+        <features module="系統" id="1">
+             <feature title="圈定即搜">• 支援長按導覽提示列或主畫面按鈕，即可圈定螢幕上的內容以進行快捷搜尋，體驗路徑：設定 > 系統和更新 > 系統導覽方式 > 開啟顯示提示列開關。</feature>
+             <feature title="穩定性">• 提升系統穩定性，讓您的手機執行更穩定。</feature>
+         </features>
+        <features module="媒體" id="2">
+             <feature title="相機">• 最佳化在部分場景下的相機拍攝效果。</feature>
+         </features>
+        <features module="安全" id="3">
+             <feature>• 整合 Android 2025 年 2 月的安全性修補程式，增強系統安全性。如需有關榮耀軟體安全更新內容的資訊，請造訪榮耀官方網站 https://www.honor.com/cn/support/bulletin/2025/2</feature>
+         </features>
+        <features module="更新注意事項：" type="end">
+            <feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份。
+2. 在更新過程中，若遇到任何問題，請撥打榮耀品牌服務專線或前往榮耀品牌客戶服務中心尋求支援。</feature>
+        </features>
+    </language>
+    
+<language code="1152" name="ug-cn">
+              <features module="" backgroud="" type="header">
+             <feature>ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا چەمبەر سىزىپ ئىزدەش ئىقتىدارى يېڭىدىن قوشۇلدى، قىسمەن كۆرۈنۈشلەردىكى كامېرانىڭ سۈرەتكە ئېلىش ئۈنۈمى ئەلالاشتۇرۇلۇپ، سىستېمىنىڭ مۇقىملىقى ئۆستۈرۈلدى، بىخەتەرلىك يامىقى قوشۇلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+         </features>
+        <features module="سىستېما" id="1">
+             <feature title="‏چەمبەر سىزىپ ئىزدەش">• يول باشلىغۇچ ئەسكەرتمىسى ياكى باش ئېكران كۇنۇپكىسىنى ئۇزۇن باسسىڭىز، ئېكراندىكى مەزمۇننى چەمبىرەك سىزىپ تاللاش ئارقىلىق ئىزدەشنى قوللايدىغان بولدى، سىناش يولى: تەڭشەك > سىستېما ۋە يېڭىلاش > سىستېمىدا يېتەكلەش ئۇسۇلى > ئەسكەرتمە ئۈزچاتىنى كۆرسىتىشنى ئېچىش.</feature>
+             <feature title="مۇقىملىق">‏•  سىستېمىنىڭ مۇقىملىقى ئۆستۈرۈلدى، يانفونىڭىزنىڭ يۈرۈشۈشىنى تېخىمۇ مۇقىم قىلىدۇ.</feature>
+         </features>
+        <features module="مېدىيا" id="2">
+             <feature title="‏كامېرا">• ‏كامېرانىڭ بىر قىسىم كۆرۈنۈشلەردىكى سۈرەتكە ئېلىش ئۈنۈمى ئەلالاشتۇرۇلدى.</feature>
+         </features>
+        <features module="بىخەتەرلىك" id="3">
+             <feature>‏•  2025-يىلى 2-ئايلىق بىخەتەرلىك يامىقى قوشۇلدى، سىستېما بىخەتەرلىكى كۈچەيتىلدى. روڭياۋ يۇمشاق دېتالىنىڭ بىخەتەرلىك يېڭىلانما مەزمۇنىغا ئالاقىدار ئۇچۇرلار ئۈچۈن روڭياۋ ئورگان تەرەپ تور بېكىتىنى زىيارەت قىلىڭ https://www.honor.com/cn/support/bulletin/2025/2</feature>
+         </features>
+        <features module="يېڭىلاشتا دىققەت قىلىدىغان ئىشلار:" type="end">
+            <feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتلىرىڭىزنى ئۆچۈرمەيدۇ، ئەمما يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتىڭىزنى زاپاسلىۋېلىشىڭىزنى تەۋسىيە قىلىمىز. 
+2. يېڭىلاش جەريانىدا ھەرقانداق مەسىلە كۆرۈلسە، روڭياۋ ماركا مۇلازىمەت قىزىق لىنىيەسىگە تېلېفون قىلىڭ ياكى روڭياۋ ماركىسى خېرىدارلار مۇلازىمەت مەركىزىدىن ياردەم سوراڭ.</feature>
+        </features>
+    </language>
+    
+<language code="1031" name="de-at">
+              <features module="" backgroud="" type="header">
+             <feature>Liebe Nutzer, mit diesem Update wird die Funktion „Zum Suchen einkreisen“ eingeführt und der Aufnahmeeffekt in einigen Szenarien optimiert. Es verbessert außerdem die Systemstabilität und enthält ein Sicherheitspatch. Nehmen Sie eine Aktualisierung vor, um in den Genuss der neuen Funktionen und Verbesserungen zu kommen.</feature>
+         </features>
+        <features module="System" id="1">
+             <feature title="Zum Suchen einkreisen">• Halten Sie die Navigationsleiste oder die Starttaste gedrückt, um zum Suchen einen Kreis um Inhalt auf Ihrem Bildschirm zu ziehen. Sie können es hier ausprobieren: Einstellungen > System &amp; Aktualisierungen > Systemnavigation > Navigationsleiste anzeigen.</feature>
+             <feature title="Stabilität">• Verbessert die Systemstabilität, damit Ihr Gerät stabiler läuft.</feature>
+         </features>
+        <features module="Medien" id="2">
+             <feature title="Kamera">• Optimiert den Aufnahmeeffekt in einigen Szenarien.</feature>
+         </features>
+        <features module="Sicherheit" id="3">
+             <feature>• Der Android Sicherheitspatch (Feb. 2025) für Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Hinweise:" type="end">
+            <feature>1. Die Installation dieses Updates hat keine Auswirkungen auf Ihre persönlichen Daten, es wird jedoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen. 
+2. Wenn bei der Aktualisierung Probleme auftreten, rufen Sie die HONOR-Kundenhotline an oder suchen Sie das HONOR-Kunden-Service-Center auf, um Unterstützung zu erhalten.</feature>
+        </features>
+    </language>
+    
+<language code="1031" name="de-ch">
+              <features module="" backgroud="" type="header">
+             <feature>Liebe Nutzer, mit diesem Update wird die Funktion „Zum Suchen einkreisen“ eingeführt und der Aufnahmeeffekt in einigen Szenarien optimiert. Es verbessert außerdem die Systemstabilität und enthält ein Sicherheitspatch. Nehmen Sie eine Aktualisierung vor, um in den Genuss der neuen Funktionen und Verbesserungen zu kommen.</feature>
+         </features>
+        <features module="System" id="1">
+             <feature title="Zum Suchen einkreisen">• Halten Sie die Navigationsleiste oder die Starttaste gedrückt, um zum Suchen einen Kreis um Inhalt auf Ihrem Bildschirm zu ziehen. Sie können es hier ausprobieren: Einstellungen > System &amp; Aktualisierungen > Systemnavigation > Navigationsleiste anzeigen.</feature>
+             <feature title="Stabilität">• Verbessert die Systemstabilität, damit Ihr Gerät stabiler läuft.</feature>
+         </features>
+        <features module="Medien" id="2">
+             <feature title="Kamera">• Optimiert den Aufnahmeeffekt in einigen Szenarien.</feature>
+         </features>
+        <features module="Sicherheit" id="3">
+             <feature>• Der Android Sicherheitspatch (Feb. 2025) für Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Hinweise:" type="end">
+            <feature>1. Die Installation dieses Updates hat keine Auswirkungen auf Ihre persönlichen Daten, es wird jedoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen. 
+2. Wenn bei der Aktualisierung Probleme auftreten, rufen Sie die HONOR-Kundenhotline an oder suchen Sie das HONOR-Kunden-Service-Center auf, um Unterstützung zu erhalten.</feature>
+        </features>
+    </language>
+    
+<language code="1036" name="fr-ch">
+              <features module="" backgroud="" type="header">
+             <feature>Cher utilisateur, cette mise à jour présente Encercler pour rechercher et optimise l'effet de prise de vue dans certains scénarios. Elle améliore également la stabilité du système et intègre un correctif de sécurité. Effectuez la mise à jour pour profiter des nouvelles fonctionnalités et des améliorations.</feature>
+         </features>
+        <features module="Système" id="1">
+             <feature title="Encercler pour rechercher">• Appuyez longuement sur la barre de navigation ou sur le bouton Accueil pour encercler du contenu sur votre écran pour effectuer une recherche. Faites-en l'essai en allant dans Paramètres > Système &amp; mises à jour > Navigation système > Affichage de la barre de navigation.</feature>
+             <feature title="Stabilité">• Améliore la stabilité du système de votre appareil.</feature>
+         </features>
+        <features module="Média" id="2">
+             <feature title="Appareil photo">• Optimise l'effet de prise de vue dans certains scénarios.</feature>
+         </features>
+        <features module="Sécurité" id="3">
+             <feature>• Un correctif de sécurité Android (février 2025) a été intégré pour la sécurité du système. Pour plus d'informations sur les mises à jour de sécurité HONOR, veuillez consulter notre site Web https://www.honor.com/fr/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Remarques :" type="end">
+            <feature>1. L'installation de cette mise à jour n'affectera pas vos données personnelles, mais il est tout de même recommandé de sauvegarder vos données avant la mise à jour. 
+2. Si vous rencontrez des problèmes lors de la mise à jour, veuillez appeler la Hotline du service HONOR ou accéder au centre de service client HONOR pour obtenir de l'aide.</feature>
+        </features>
+    </language>
+    
+<language code="1040" name="it-ch">
+              <features module="" backgroud="" type="header">
+             <feature>Gentile utente, questo aggiornamento introduce la funzione Cerchia per cercare e ottimizza l'effetto di scatto in alcuni scenari. Inoltre migliora la stabilità del sistema e incorpora una patch di sicurezza. Effettua l'aggiornamento per usufruire delle nuove funzionalità e dei miglioramenti.</feature>
+         </features>
+        <features module="Sistema" id="1">
+             <feature title="Cerchia per cercare">• Tocca e tieni premuta la barra di navigazione o il tasto Home per cerchiare i contenuti sullo schermo per effettuare ricerche. Per provare la funzione, vai in Impostazioni > Sistema e aggiornamenti > Navigazione di sistema > Mostra barra di navigazione.</feature>
+             <feature title="Stabilità">• Viene migliorata la stabilità del sistema per garantire un funzionamento più stabile del dispositivo.</feature>
+         </features>
+        <features module="Multimedia" id="2">
+             <feature title="Fotocamera">• Viene ottimizzato l'effetto di scatto in alcuni scenari.</feature>
+         </features>
+        <features module="Sicurezza" id="3">
+             <feature>• È stata incorporata la patch di sicurezza di Android (febbraio 2025) per garantire la sicurezza del sistema. Per ulteriori informazioni sugli aggiornamenti di sicurezza HONOR, visita il sito Web all'indirizzo https://www.honor.com/it/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Note:" type="end">
+            <feature>1. L'installazione di questo aggiornamento non avrà effetto sulle informazioni personali, ma si consiglia comunque di effettuare un backup dei dati prima di procedere. 
+2. Se si verificano problemi durante l'aggiornamento, contatta il servizio call center di HONOR oppure recati presso un centro servizio clienti HONOR per ricevere supporto.</feature>
+        </features>
+    </language>
+    
+<language code="2074" name="sr-ba">
+              <features module="" backgroud="" type="header">
+             <feature>Poštovani korisniče, ovim ažuriranjem uvodi se funkcija Zaokruživanje radi pretraživanja i optimizuje se učinak snimanja u pojedinim situacijama. Pored toga, poboljšava se stabilnost sistema i inkorporirana je bezbednosna zakrpa. Ažurirajte da biste uživali u novim funkcijama i poboljšanjima.</feature>
+         </features>
+        <features module="Sistem" id="1">
+             <feature title="Zaokruživanje radi pretraživanja">• Dodirnite i držite traku za navigaciju ili dugme Početak da biste zaokružili sadržaj na ekranu radi pretraživanja. Isprobajte na putanji: Podešavanja > Sistem i ažuriranja > Navigacija sistema > Prikaži traku za navigaciju.</feature>
+             <feature title="Stabilnost">• Poboljšana je stabilnost sistema, zbog čega vaš uređaj radi stabilnije.</feature>
+         </features>
+        <features module="Multimedija" id="2">
+             <feature title="Kamera">• Optimizuje učinak snimanja u pojedinim situacijama.</feature>
+         </features>
+        <features module="Bezbednost" id="3">
+             <feature>• Ugrađena je bezbednosna zakrpa za Android (februar 2025.) radi bezbednosti sistema. Za više informacija o bezbednosnim ažuriranjima koja sprovodi HONOR, posetite našu veb-stranicu: https://www.honor.com/rs/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Napomena:" type="end">
+            <feature>1. Ovo ažuriranje neće uticati na vaše lične podatke. Međutim, preporučujemo da pre ažuriranja napravite rezervnu kopiju svojih podataka. 
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, pozovite dežurnu liniju kompanije HONOR ili posetite centar za korisničku podršku kompanije HONOR radi podrške.</feature>
+        </features>
+    </language>
+    
+<language code="2074" name="sr-me">
+              <features module="" backgroud="" type="header">
+             <feature>Poštovani korisniče, ovim ažuriranjem uvodi se funkcija Zaokruživanje radi pretraživanja i optimizuje se učinak snimanja u pojedinim situacijama. Pored toga, poboljšava se stabilnost sistema i inkorporirana je bezbednosna zakrpa. Ažurirajte da biste uživali u novim funkcijama i poboljšanjima.</feature>
+         </features>
+        <features module="Sistem" id="1">
+             <feature title="Zaokruživanje radi pretraživanja">• Dodirnite i držite traku za navigaciju ili dugme Početak da biste zaokružili sadržaj na ekranu radi pretraživanja. Isprobajte na putanji: Podešavanja > Sistem i ažuriranja > Navigacija sistema > Prikaži traku za navigaciju.</feature>
+             <feature title="Stabilnost">• Poboljšana je stabilnost sistema, zbog čega vaš uređaj radi stabilnije.</feature>
+         </features>
+        <features module="Multimedija" id="2">
+             <feature title="Kamera">• Optimizuje učinak snimanja u pojedinim situacijama.</feature>
+         </features>
+        <features module="Bezbednost" id="3">
+             <feature>• Ugrađena je bezbednosna zakrpa za Android (februar 2025.) radi bezbednosti sistema. Za više informacija o bezbednosnim ažuriranjima koja sprovodi HONOR, posetite našu veb-stranicu: https://www.honor.com/rs/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Napomena:" type="end">
+            <feature>1. Ovo ažuriranje neće uticati na vaše lične podatke. Međutim, preporučujemo da pre ažuriranja napravite rezervnu kopiju svojih podataka. 
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, pozovite dežurnu liniju kompanije HONOR ili posetite centar za korisničku podršku kompanije HONOR radi podrške.</feature>
+        </features>
+    </language>
+    
+<language code="1057" name="id-">
+              <features module="" backgroud="" type="header">
+             <feature>Pengguna yang terhormat, pembaruan ini memperkenalkan Lingkari untuk Cari dan mengoptimalkan efek pengambilan gambar di beberapa skenario. Pembaruan ini juga meningkatkan stabilitas sistem dan menyertakan penambal keamanan. Instal pembaruan ini untuk menikmati berbagai fitur dan peningkatan baru.</feature>
+         </features>
+        <features module="Sistem" id="1">
+             <feature title="Lingkari untuk Cari">• Sentuh dan tahan bilah navigasi atau tombol Beranda untuk melingkari konten di layar untuk melakukan pencarian. Cobalah dengan membuka Pengaturan > Sistem &amp; pembaruan > Navigasi sistem > Tampilkan bilah navigasi.</feature>
+             <feature title="Stabilitas">• Meningkatkan stabilitas sistem sehingga perangkat berjalan dengan lebih stabil.</feature>
+         </features>
+        <features module="Media" id="2">
+             <feature title="Kamera">• Mengoptimalkan efek pengambilan gambar di beberapa skenario.</feature>
+         </features>
+        <features module="Keamanan" id="3">
+             <feature>• Penambal keamanan Android (Feb 2025) telah disertakan untuk keamanan sistem. Untuk informasi selengkapnya tentang pembaruan Keamanan HONOR, kunjungi situs web kami https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Catatan:" type="end">
+            <feature>1. Menginstal pembaruan ini tidak akan memengaruhi data pribadi Anda, tetapi tetap direkomendasikan mencadangkan data Anda sebelum memperbarui.
+2. Jika Anda mengalami masalah apa pun selama pembaruan, hubungi saluran siaga layanan HONOR atau kunjungi pusat layanan pelanggan HONOR untuk mendapatkan bantuan.</feature>
+        </features>
+    </language>
+    
+<language code="1037" name="he-">
+              <features module="" backgroud="" type="header">
+             <feature>משתמש יקר, עדכון זה מוסיף לראשונה את 'הקפה בעיגול לחיפוש' וממטב את אפקט הצילום בתרחישים מסוימים. כמו כן העדכון משפר את יציבות המערכת ומשלב תיקון אבטחה. עדכן כדי ליהנות מהתכונות והשיפורים החדשים.</feature>
+         </features>
+        <features module="מערכת" id="1">
+             <feature title="הקפה בעיגול לחיפוש">‏• גע נגיעה ממושכת בסרגל הניווט או בלחצן הבית כדי להקיף בעיגול תוכן במסך לצורך חיפוש. נסה זאת על-ידי מעבר אל 'הגדרות' > 'מערכת ועדכונים' > 'ניווט במערכת' > 'הצג סרגל ניווט'.</feature>
+             <feature title="יציבות">‏• משפר את יציבות המערכת כדי לגרום להתקן שלך לפעול בצורה יציבה יותר.</feature>
+         </features>
+        <features module="מדיה" id="2">
+             <feature title="מצלמה">‏• ממטב את אפקט הצילום בתרחישים מסוימים.</feature>
+         </features>
+        <features module="אבטחה" id="3">
+             <feature>‏• 'תיקון אבטחה של Android' (פברואר 2025) שולב למען אבטחת המערכת. למידע נוסף על עדכוני 'אבטחה של HONOR', אפשר לבקר באתר האינטרנט שלנו בכתובת: https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="הערות:" type="end">
+            <feature>‏1. התקנת עדכון זה לא תשפיע על הנתונים האישיים שלך, אך עדיין מומלץ לגבות את הנתונים לפני העדכון. 
+‏2. אם מופיעות בעיות כלשהן במהלך העדכון, יש להתקשר לקו החם של השירות של HONOR או ללכת למרכז שירות הלקוחות של HONOR לקבלת תמיכה.</feature>
+        </features>
+    </language>
+    
+<language code="1124" name="fil-ph">
+              <features module="" backgroud="" type="header">
+             <feature>Minamahal na user, ipinapakilala ng update na ito ang Bilugan para Hanapin at ino-optimize ang effect sa pag-shoot sa ilang sitwasyon. Pinapahusay din nito ang stability ng system, at isinasama ang isang panseguridad na patch. I-update para i-enjoy ang mga bagong feature at pagpapahusay.</feature>
+         </features>
+        <features module="System" id="1">
+             <feature title="Bilugan para Hanapin">Pindutin nang matagal ang navigation bar sa Home button para bilugan ang content sa iyong screen para sa paghahanap. Subukan ito sa pamamagitan ng pagpunta sa Mga Setting > System at mga update > Pag-navigate ng system > Ipakita ang navigation bar.</feature>
+             <feature title="Stability">• Pinapahusay ang stability ng system para magawang tumakbo nang mas stable ang iyong device.</feature>
+         </features>
+        <features module="Media" id="2">
+             <feature title="Camera">• Ino-optimize ang effect sa pag-shoot sa ilang sitwasyon.</feature>
+         </features>
+        <features module="Seguridad" id="3">
+             <feature>• Isinama ang panseguridad na patch ng Android (Peb 2025) para sa seguridad ng system. Para sa higit pang impormasyon tungkol sa Mga panseguridad na update ng HONOR, pakibisita ang aming website https://www.honor.com/global/support/bulletin/2025/2</feature>
+         </features>
+        <features module="Mga Tala:" type="end">
+            <feature>1. Hindi makakaapekto sa iyong personal na data kapag na-install ang update na ito, pero inirerekomenda pa ring i-back up ang iyong data bago mag-update.
+2. Kung makaranas ka ng anumang isyu habang nag-a-update, pakitawagan ang hotline ng serbisyo ng HONOR o pumunta sa customer service center ng HONOR para sa suporta.</feature>
+        </features>
+    </language>
+    
+    <icons>
+            <icon id="1"  res="iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABvUExURUdwTBSH/xSI/x2P/zKz/xSH/xSI/xWH/xSH/xeI/xaK/xWH/xmL/xWI/xSH/xaI/xSI/xaJ/xiJ/xaH/xSH/////4vD/2Gv/4jD/7LY/y6V/0qj/xyL//D3/+Hw/3m7//n8/8Th/9Lo/6PQ/5bK/4R3RPwAAAAUdFJOUwDEzA0Fq9uI7j82uhp4+h9eSkiVPrdEdQAAB2JJREFUeNq9W9eCqjAQFZSiKG5BURi7//+NV1SQJNOC7s2LK4spU87UjEZDxnj2lURZEMZpnqdxGGRR8jUbj/7LGP8kQVrcRl7YIw2Sn7/dxWSaBDm6djfyIJlO/mj52W9aqEb6O/v86stF7CwE1mdvxIvlZw8fUYvTI/ocGaYZuQpw+8mmn1k+KPyP/xzB+1uYR9LpWSIU0fw9vVukxZsjXbyhldM4l5ivYEk4lA+TJEfXAG9xSAYRYRlI84L1N72ZYIAkfKfMGUEvA49X02/f9RP1qsrNJH7sj2SgAc89RB6CMM44ggK5CX4jmdpUz0MNxHjJwEMflaK4jN/QfODkI1aZyHmsPD5oaf/yVmIFDcZhPmwt1T9CUQ4mmZfmga9GZpIuRO8aH3J3rTbq8McgNuDz9R9DoeYMi0jfpLzDO5ppvs2g8lJh/aGqS3pUIAtESirjJBDpV2+PK2YcV8dtDRKhggkrAPSPAS4rxbggqgEaMZgyqPeY5bxSjTNIIoL6SJNQEq7tSjm2gqDmMcaEhSS95WP23WlLjtPu8U4pYfKC0wAK3e4MOB74qQ8PJrgMNGdN5wIEIpuoVGd70qmSkDxCJBAQP9Oe+Swj0Fm1T0cORRf4QdyLjFR3VT2QeNieICBV0DYn0N/A2lVvm3BrewOIEQeHBJns2ay7DQAL+OZ7NMsyI/5XOBxrkwLFoPf6s888vQBnYsJVpzYAjGewRP18i8HGxExUhm0AUN9+yYEgQwEhTjXeY7X2BYexxq0bLANA0Sq2RFBwNu2JwW+j2OutGP5Sixs73qATu0igoFT7g9+nHdalYSQcaJ/f37sq/OObSZq4KEjTzDyZICurmpoHXIOQODiNWmSXtDgQrPtWE/jXE8wOUe7AhgEYsKGYMIdg/ehukca5zp/HcIBmQQmakDlvQsUfZWTXZwEwEdGLAoqA/scQAQeEcYQTCGaxAMTMUaBQQWBkAMUB2iUyD9YIQZrrgjqEAqCUAVrJ0psMOscAFRABtWFSDdG9jxtDACxVgYVYwDe6rzRZC2jMwZc27bhhhBBIl0wKEL6wlKhODanNyg6JqQYRrXjmUu3EIHBB4ze8lotGmS4n6okDa1X65u4bB9p86wZ1SNxsAkkpdz93axBqEzyuDBS0NVRoyzNx2PmDInAzWsCxSkg1xqNUUZQAlT8ACsR0hCId5XIUJ+s3r66c/5KPcm1+j3fJvJzS3i/yhgWgyjyjMoC8V57Ou77jAuwv0lYImQKM7A84S1UVu6oRnISKcoyj3zAwXwuIGgYaEABtxANaGwCdR5Jpj7Lh9fs+Y3VqMrnHU6XeVDaKaFKBt5HZPzOV+0JbY4qMCgHt5gha8Pyou1xpLYcF9888sR0Sn/yAI/zXbgNX2SWGp0My4w8OHrFh9Url76pCtpuPCH1ccDEBawteK18vh7oq97189b6s6sPlWkl0vYVGqS8L3PX3ZN58TyASvNzy0b03CuQA3TFGnZd5YjL3p4IV7iZZmAAjp0BoQR8xa7aIU9LHv/2VdJWyQqyIkfm/PVu82LN8/ebDc1VsWJoL7vY780GJHg9e4XljDRQi4OAAGBmRluUNAtWGUHDgGbjdGkAm7CgW1O5i0NvUsWa4m/SSVGJHBpmqPVgi34wXDTYcxE2tNB3rwdJecYfAL6WvLEzGZ3+m6R6JStGBoFOwrR70SlXFmdKBPi7/dqlaTUdMjwL2O9t+uRB9hM86Q5LVtLfBRL3P455eJr1FxzM3bWyk60ECZDLi6aDw2Ht2dIHQ4cLCLFgUNArzecJ656p8p4e7mmbC0q9kQ2lBtTN1/r6nzjM4Np4BLmKRW7RiC2IuDoAFA01h9063Q7/JgCwhzuyyneBFUhQ4mLbncr2Y1ulATJqZhUugM8rOBoByxFB7XBGGfjqsdEsFjeTYsHbIrt1yelgeDb3uhQ/7Ie7AlC3fY6BAl+9L2SFysuFuP9M8BSGncH7JlF3Z3+9O14PZ4bE9XE+7fUlMhrXyLKQYonwqttXCUaKUKHmlXlBNLOwgmlhqcF/Y8iodTog2HqwpoAfweBtPh7Y9EpR8oDUd2ElLNDK98L6FhB3fSZSoW7mcA9TbHSbrT7SD8rhyWm3AIQLZynXTBLnMgjeztXBX9b8Rzmg659r5gMzsd5O+1WRbsO18mBgAn5QpxOya/Sz565ZO8gjgeAEeTa2gJwyfQhSbWkfjsMBbSvnllIIRjtWNzYVCGrBP4Aof8dyjtfqT7H9+i5d+ze04F6CQK2e4soTqexZNez+7uC4LaNenPG7iTSKfnDCo1Cbyu+mSeLIYpOjW74rH/ZILmjSGwvueT/OG/yWXmygGvrpO0z8YdOFrkug1jH+cDL3tNQ0FfaOzuz1ACt+4cjdZpKCou3DjrctuTeQeDWBAPwR+/+rnNCC4AKiBMB4EH7pzmflhfgd9n1neuvQKWisUffbub//ar9VHhdrdD1/7bS8+g2z04I8uPhtXv5nxl1e/e5ffczTgSrPk+39dwcev/w85+j+QpwrM4ylYTwAAAABJRU5ErkJggg=="
+                  darkRes="iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABjUExURUdwTCKH8TKz/yqP/ySK9iKJ8iKH8SKH8SKH8SKH8SKH8SSI8yOI8SKH8SKH8SKH8SKH8f///5HD+Gqv9bbY++bx/WGp9fX5/yiK8YO896TO+dPn/VCg8z2W8sbg+3Oz9TaS8QrkvCQAAAAQdFJOUwCrBQ0cRduKxe66OzV40F6jEhemAAAEfklEQVR42tVb6ZqqMAxlh7IZ2UFE3v8p7yguqEBTSC33zDc/xmHombY5SdNE09bADA+u7nuxw4AxJ/Z83T2EpvYTmLbrM5gE81xbLgvDdj3gwHMDQ9LwgcsABeaG9KNbkQMCcCKLdPhQB2HodNMQ+LAKfkAyvO3Banj29rXXYRP0bXvBiBhsBIs2WGUQAwHitVvBcIEI7qpJsDwgg7diJ9gMCMGEzcEFYrhiy68DOXSBjWD6IAE+1lUbZgxSgN2KlgOS4Fhqx8cxMD2QCI+7DwwfpMLn2YIOkqH/WH8EFcmGH2BBlS2M/p/bokhnvtoe4xdmTcHgG0CblcdFlFnLNwVj7QaomiMCzdptEHDHPx1ROFW8N03GSAbXA2RHJDJulDa1CBHvr4rh7XmXzaLLh2dS3ruiNRYwLMClWprg6nJ7qFthCVwJ7IfxeY8NDHphQeRL0G0FTnwzv01UISxHfAm44EwMbqZa88VA0AQBkuuLE+RzfAIfpugTE0A857+d/+H3BCAUjALICYwMwQIVBMDCi6AcAi85dNQQcES2oAwCj22IzANIIHCPCwzcQbymJ8AMkUhUaAaOLeqdtkgoLkYgFVgDTx2Bm0cyQR0BMAQOI1II2AKnMSyBWoSAi98CaD8vNAPXTcBULgHD70E5BMBEOgJRJcx75FtD7SBlBhLsWw/4lIQcAi4+JyOHgK75agn4aBmQRMDTYrUEYs1RS8BBC6GYL0ATYBoIEajpnrsDPwO1lCVg9EuQdqdchAD5JrxlU3r8JoxlEMAjphciMXi0Unzubpnc7owm4NM6o0cqNUcT0EndcfvMlbbYt7qkAckrly0QkIRCBBYVrn+l8kt8SIYOSheUsGqaS9sX+ShfnRd9e2kabt7cpAjL+3w2b84LThkuRcghkK3P3PsUR7Ni8e6g4B7NNh9O80UCOfdwuvV4nn7cWuUf11opZw9uTlDU49G6qwK13fijmpeg2JqiaUeD3X9dJaPPWm6KJti4B15T8Lqp6VATcE/ZI9N080r4VOCX0feoS8R7mg65BgtKeLeD07dfXLaBR4FTsFGIHkqULX80twIEyeru+HVZN/HRRDxIlK5/SGH5cj1ViRDCiOjCoi2/o4CnHZYLVmjRXNmMfWH7rQ15NR+N0VxajZWwHMy0LjFKGBJd29XvvqdJmnfvVC94YqGLyzkd6JdrKmaDs4Ds6jZZJJAs+iGay+t8TThgr7y+TwVDogJhAoIFDFMM8rJL6vfQMKuTrsznopGpUh6uHKbPEo4my57f2X2Mqnqbib//vEKJ4Ahri1iKiQc4wfBkEcvqMp7y/GYomEqPgLaQKS8+XVBZcYPxSfDFoJgu5Xr8w5fht+WFk5TYUsxWnYsi/cJD7s5vP+EtYC/lfOoLGtWXdKovalVe1qu+sFl9afffKigublde3r+DBgf1LR47aHJR3+ZD2uj0n7Z67aDZTX273w4aHnfQ8rmDptcdtP0O04BvfA40KTAMO+K3fke2Iav3+8rh2vzuzTW/+9fmd4mjS2n//wcOXTJVTgpiZQAAAABJRU5ErkJggg=="/>
+            <icon id="2" mirror="true" res="iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABmUExURUdwTP+iAP+YAP+aAP+XAP+YAP+eAP+XAP+6AP+aAP+XAP+XAP+ZAP+ZAP+XAP+ZAP+ZAP+ZAP+XAP+YAP+XAP////+XAP+pKv/dqv/LgP+3Tv+aCP+hGP/68v/w2v/Ebv/UlP/oxYTSvwUAAAAVdFJOUwANijbsqxrGBD+61t14+kmGlfNeICw0t+QAAAO1SURBVHja1VvZcuowDCXBwdkIYYkCWUj4/58sLaVc2tixvCn3vHSmw4xPZEnWulrpIFgfyyjlWc6KguUZT6PyuA5WXhDsQs7gHcXjD+Phzi2LOCl58TpwCgUvk9jR8es9AyWw/dr+6adtDghk25Pdj48AjcieGJIUtJAmdo7noA1uTmETgRGijZndbQ9giMPWwCqTrABzZLr3EIdgB0WoJYQNB2vgGpqwY2ARbEcl/h/griGOwDoiBIMgBQdIAwr101HFUw6OkCsx2GQAlAwCDg7BZ/UgTsEp0ti//f2yRjmBEpwjlPpf8ACJV94wHwSY0BRiDl7ARYoYgicI1CABb5iMkeLMH4Fs6hK24BHbCQs4+CRw+GsJEXhFRKiB03rIfRPgxAL4LYLUP4H0Lf8HAqzpTOCPIZykP2xrZbQoBicVJ1iP1wqBfkSQeLlDYRzeXvoKi7Myg3xWBdtbpYFrh1XDvegHY6WFm6oM9t/vsCgQaypNDKrBWSz3gjddAv2bCLpuxhuKQvGu0kbzUqPhbkXXRnBEKXuH2kafwOX5Dd9W1DeSFykQVcIGfQLj4/jxx4ivgvJVIElG2os+gfOXC/vXh7TiJEUYjBsSeP9PLQ7QOSWBTyVgSAK3yzD2tgiwuw4CjsD4UC9LBCCQxCKTBG7PV/Jqh8B6dcQR+LbwtoWht0HgKClJTBJoXvbUnS0QKCXR2EXuZD9fq6sxgUgSD89J4Mtb9oYEUklGMi+Buy5M34M6Ab7KjCQgeLPUCWTieFBJAgIG6gRysSNUlMAdVwMCbFWYSmAqclInUKAJWJZAgb6CicSpMrqC3FQCdW+mhJmZBKbjJowZciMJCJwxxhGlBhKoz8ZvQYp+jFqVzBXzGCGf42H+KUQ+x8iA5Jl8S4IBZECCDMkeImiHvrIVkmGD0urc1MNc1QQTlKLDcqt5AVtCYkKemu0cEXhPXjpxckqenguVwKRA0f5ylrIChdAX1r5KNA6KVIAqUpGX6ewXKlUrpfvZboGnUi02LJv3AYrty9fMnLhX0CHL9edap3tJ3rAgb9nQN63I23b0jUvy1i1985q8fU8/wEA+wuF3iGWRYzxeJtlewfgiR7nIh9nox/m8zLOF8pFK9yOd8bKHWunHeu+mkLs7X3G02hmD7PR/DLfTj/fTLzi48EgldtOGeMllAWs+NjdtQt1tr8RKlJYZrNxRL7vRr/stYOFxASufC1h61Vj7zS2v/S5g8flt9VsCl6vf4uX355c7X353sf7/AUsJRmxA3bE0AAAAAElFTkSuQmCC"
+                darkRes="iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABaUExURUdwTPGPBP+VEPGPBPaTB/GPBf+zMvGPBPOPBvGPBPGPBPGQCPGPBPGPBfGPBPGPBvGPBvGPBP////OhLfvZq/jIg/GXF/W0Wf/58vWsR/fBdP3v2/nQl/zozNT+p4kAAAARdFJOUwDsDfgcqwWKQcXcNrrSVHx0LPPD9wAAA7dJREFUeNrVW+2WqjAMpBQKhQIGEQHh/V/zsuvuurq00M9456fHY8Z2mqRpEkUmiMs6SwWvCkIpKSou0qwu4ygI4jzjBDZBeJb7ZcFW43S1REEKupJgnsznGYFDIFnp3nrSFKCBokmcmi9T0EbqbhlyAUYQuRvznIIhKLenkKRghdROC+xEwBL0ZHEq8wqsQaEy3ocM3IBmRouQcHAGbqCEmrizD5TU2stPwSlopqf+FJwj1RBCLMADRIwhPxMpJgV4QpHg2geoDjCIOXgE39UBE+AVYu8spOAZaRj3r4DSI9XUPwFQZM0JCWAfiPQoMA5BwBmeAJQyyGkoAnQzR2IVBEO1tQknCIgT1gn42YQkvAt8JvDHIeYQGK865KEJ8Jfrb2j7r0dRBCcAAncBVpRoR+BvZpCov3k+jF6LwcMXNArj863VwDCfjxNofgjI8+DL0OqiO7wMxb4El9YAS68pQybNA+bWCItmXsBkYWhsDTEdTc6YOgwspgSGp5/p+52AINuBvjXG+PiVaT1Ft1G5B7I4dDUncPn+D9+naFREpFiWCk7mBOa7+XnY0SWNVRK4mBPoPl3Ybx/Sy0WQeSLw/MlZLgKOSeBDBITqEVgu13lwRYCsGgS9FZjv8nJEAGJFILio3Oy4uCFQRrUegYeXnQYXBGrFjXSTwPWXp+wcEMgU2dgegXUfbtYEUkU+vE9Aug/HCQjFjeQIATh3dgR4VNkRWGPWYEOgUuWDxwhsRc3jBIqIWBOAmwUBElF7AosFAYpPwH4LxtZqC6xFeB7sRGh7DC92fqCydEQSZ6zjiGxc8bmzjgXCJhhNDqJhqria7+QD481FPtDoJiTdfjKgmZBopmRfSzANrauUTDcpbbtxnPaqJjpJqdwVhrgXEFWJMAQB8Q5XM1+X0+fLSy9/QfN4PX/U2G5yDeIXKFiDV6Jp3qNIhV6mi/AKlXcCTBoO1BHHWalWVayefRarH8+XDsv1nVG5Xv1g0ft/sEB/ssF/tEJ/tsNYgjJo+9Du0y3+43Xog5AiNzBstfJgt3DgN7GwElGB79HIFKyPg79tM1vEckQBvEdDI35LJ35TK3pbr9/G5iI+0uGeePPJRfJ/NLfjt/fjDzj48Eh6Ix4fSaLTuED0Z42Y2zEfk0kj5mzSJosMkTvxCJXF4KGDYTdyshtBRR73uw88WvgeNzOXpenIZ+lsABh56PUNxn7vy4A6+Px5KFne7I3gUt7kzNfs90pBPfwusjz2Z/wXiY/x/2Zz/F/f/D9hHmQqCvoS3QAAAABJRU5ErkJggg=="/>
+            <icon id="3"  res="iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABpUExURUdwTADAygC/yQDBzAC/yQDC0wC/yQDAygDR6QO/yQC/yQC/yQC/yQC/yQC/yQC/yQC/yQC/yQDByf///wC/ydf19k3S2fv9/hbEzTXM1O37+2va4Lzu8avq7Yjh5iPI0Jjl6V7W3Q3Cy9Xd2S8AAAATdFJOUwBF0x2rD+85BP3huorGhnjDlV5vR85hAAAFJElEQVR42tVbCW+rMAzmhnC3CQ2ljEL//498UHYURogdAt37pErTtM6OHTs+DUMFrn9OnSi3Qo94XmjlkZOefdc4BK4Z5x7rQYYP+fph+Hh5bO7LRWCmORnIDvR+Y/g1yVMz2Im8f/LYMuUZH97J10/dzkICIj/CymytcvAdhqA+wtEnBj9iKiCRHhbMnCkjN7fr3mFbQBx7m91lHtsIL9twG32LaYClehWClGlCqiQEO2fakCvcBNNjGuFhzSGImWbEKDUEjm76vUEiOHAjwvQjAj/VdsL2ALGAHNgW2wckBBmDG7LdYAE4cBO2IxKpFoKI7YooONz+5nHKOgMp2ZsBFq/6X7Y/yIpXtr0DGGCe0BSCnB2CXHQRU3YQUkH8ww7DYowUoD1weWvaplPyiEtKyJD/5FJzSinn/OOK5yDbbAFNQb/Bi06DJWBc4L3lnL6A86opNzpEhAvqaroEpCbm7igH+uBHU3EqQHHDOAMlE7x+cC6k36NqS0VTBD3CXbFK/XkbaH2BPsxIAZS97GXkxwsJ1ATxMSbQy57CwUGaeDEEW2r1GPJP7wSRgg12gjXFgtMW4Q5lr8AHVYFcBhbwCl64EgO8BFviSbcCRjRSBk6fGlh/hh6K9Gkhf5ICyDNwVWWASr37Z3wqCcU7ZQbkr9MYm0lysZsqfS5lgCTPZJC8TwJkSBVN8jYJjFGBrBq0pwSeeZosG4FLoKrQEhjCklCXBIqStRwpgTAwXKZJAsXgelukBJgrj0U6BH1GkBLon4OzHgmM9CfcgiRwlmekHYL+ZRK1QRhI5dFYh6E/+e0dUj81pEXRGQN1DTw/iIE+NpZW5S7zR76BnR/GQGJYKAba4eFoQOenFBIaW1I/NI0HxnvVQM5PKah6a3iyO3CfZKBkzoHw/LQC5emGPGyZ5sBsyoH4/ICQbOh3G0TKwTQdnnIgPn9vLzAJSFUwj4pfOVg5PyQqfjIQShloqYiDtfNTCqrbhHIz/OUK+RcH6/RBboBYhrw6Wv6uxnx+e5U+yAj6iARQmiioQAZridvr36y6YkdeHGqpSAbi80OS07FIACgQX8TnEyeuHFQtIqk8IOn/qqICGYjPD/MCQ0ACqY81SyesS3ZbSdxhtSriy4PS4Tngi0WQ8SMI0YF1R9cIIG1CfImggdEPAYmJUopePeD1UkijnrTaC0Q/qRmoTF1WmosjL8mpC5oPw+XI0ML5Mz03QM1igrmHDbT9mSCaZWUBrgvUUAWQsURjwvi9c2C9sHgwzBWQlumwBcvqDhbAZ5nOOAFV1kE4qBCdmxO2YymXAYef/7VpAm5ZXmX3oMDQt35m5sDfuVaQLBndvbThX7oXKzL4wDUPf8ZOUYMbwmeB31DkJ71LHzO5cVlWQ4FtIfvott23GuqlPtUDST/aMjtwnfvl+o6efpnNEGCnN7rqtXuu0MDP581r9AnG+YFB+BemAHNL+/7rLtyKqu4eKuQX5plURniI8tjT0ihPxg5EpmWIRR2LQyw4b7QNglHn+Cj66V8d5eot4QgteCtzneYRDKwOWR9wDeL1kUpnZ/LE+eNDre8f691xsJrBBpvfP9ptBDsNt/fyh074u7vcxAixiRc4+j2Sg9t0iTVzQOL/bMnlD6z5aFx0IqnqttebV73+wLLb9nU/tnHdb1x4VLdIDQuPG1Y+WaRx6xSvCOLo3f21Mwv17mW2oRlB4J+AQfMui89fq9+JhIc9V79/lt8FXZ4w2Xv5XbT+n2xY//8HAavjmCKs89cAAAAASUVORK5CYII="
+                  darkRes="iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABmUExURUdwTBSstRSssx21wBiuuDLNzRSstBSstBWsthSrsxSstBertRSstRSttRSrtBSssxSttRSssxSrs////1rFyyezutry9LXl5/v9/W7M0US9xO75+pLY3DS3vqDd4R2utsjs7X7R1W19h/AAAAASdFJOUwCHqw0cBdvFPu66NUl40JBPXrbhPLQAAASMSURBVHjazVvZlqIwEGU1gNsxYQkCgv//k4O27YgN5FYIxvs2c+i+1ZVKpVbH0YG/Pblewg6bmPN4c2CJ5562vvMR+DuX9bRjiJm7W1eKMHIZV4C5UbgSfXSMOYT4uDXPHuw3nIDNPjBKv/U4GZ45NUQJ10ISmaFnXBtsuQiBxxfBW2YL4T7mCxHvF9zK6MAN4KB7DqHLDcHVUkLAuDEwDUvYxdwg4h2V3+WG4dKO3+PG4REMwU/4CkjQpzr0D3wVoKYYbPhK2AR2+TEJfMZXBFPaQZjwVZGo7oLHV4b3Yf9D9Eg7/gHMeOUg/oQA8eRVCBn/CFhozwBmzSDiH8NojBSSX4DsWl/qMtOJ0sYOYU/8JWkn7pDFmS7BfukNyK6VeEAKkZft8ptAcYHnixSvkKKqm4UOkWCBZSdGIIt0kR2iLiCrKykmkF8JJ8G0FHAupJjkv53EpdFUAfIIt2U+Tf4UokNPIhnk/+rvmxndD9WQXzHXsKVcgZvucchLRrsIgUr5NYX+huoKSBCgTrDtBB0XwB0+HbIiDi6EDtQ62IAmmEotAWSGmmF4nP+sE3qolQIcHwLMP0OZJr/IlX4xDhEveNYVQLSgN1REYqW2AOo4wUXeoTUFuL9IPrcnAPeBZGRVAXZAML6qAC4QiuACyHz4T0CAmxHEpgTIM36haiBW22Bb4vx8KAESrvvqWKQk8PNWEgXYOiczAvzwDz5GbICf1BlpSeBPJVUDrjoaKyn8g/9FImRPHQ+/CdB1EuSHNJCoM5L0/ZGvQX6JaIA5B5IA90ivhviFQELjg6Osi57/arWG+AVUO1U6Qt68/s6Cv0swzV9BebqjzsjEnATT/CKH8iO1ALyakWCG//dLlQbUhZHurQ7wIsEcP5Ka3ARQF+cv439ZreAXJWaE6tpY+acW8pBgnh9yA/01VJdGsqnTbWcTJ+gS9I4IKE3kYkIHc/wSssHeFQPVscuMhU8njpAJ9I8RUCBOp/++aX7MBPrn+KT+qK2mbvlM4oydQB+QAOWhv+/frRRUNG05k7hjJ9CHZD7wVUPPCbA7cE+NkBoxvURQY/wxWCM9k4tUYM2UoX2SC1EA0ALuqRnUKcsqWnGE0kHzoS+vptPS/+k5WCjvpHEL/C2ZY82yLIf5C5T/UaIBS/UNagY53saKkDLd3JMwegPxlsGjTOcc0V4NYgYVoYd2pPaL1EVbWVGaVxFYrH71iAoRcgr/RqNnea5M2d+gexngP9TMvUsFrX8ZaA1OtZPPgryS6Ae9yy3lB9PxY8ipLeQttW33/xiKsT4VtX2cLJkdSN8tQaODHum1bp9OqXqtkGo08Nni8Ym0+FV+yjUQGZhgaq551ZFHB/5egU+O8DyfoWD5CMci7I0MsehjdIjF+hiP/UEm+6Nc1ofZ7I/z2R9otD/SaX+o1fFX9UcHYLzbX3OwGRkvD22PdpvdrRjqH53wtzze/wULDvZXPL5gycX+mo/9RSf7q15fsOxmf93vCxYev2Dl8wuWXu9PpN213x814IvPve7XWL8OLa9+f8Hy+xrr//8ADxKYrPVbUygAAAAASUVORK5CYII="/>
+    </icons>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44167168</cowsize>
+<payloadOffset>898</payloadOffset>
+<fileHash>4yzp9CNesv/QwentyZQ2n+A9LbsqWgheBOksw5MVUcQ=</fileHash>
+<fileSize>4304</fileSize>
+<metadataHash>AZavwNEVqoitCgLRSpHgyOAQD9RQCuEV5N4kOrjh2bc=</metadataHash>
+<metadataSize>706</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_REA-N39_def_tr.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_REA-N39_def_tr.zip</spath>
+<dpath>update_cust_REA-N39_def_tr.zip</dpath>
+<operation>c</operation>
+<sha256>C78825D7B184A9CEA436CA6380C3EA0241C54ACA014CD6298C91E2299668DEEE</sha256>
+<size>11589</size>
+</file>
+</files>
+</root>

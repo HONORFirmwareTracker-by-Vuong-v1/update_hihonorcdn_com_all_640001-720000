@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>DVBsU2O+GQG1nfM3f1+uwtlLoN9vOPkJCr+t4aGim1A=</fileHash>
+<fileSize>827460910</fileSize>
+<metadataHash>IYQ9wNjb02dNjIXLV54hGJnPPNiewVZpdicDLcXlQDA=</metadataHash>
+<metadataSize>57309</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_NIC-L42_def_meafnaf_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_NIC-L42_def_meafnaf_R2.zip</spath>
+<dpath>update_full_preload_NIC-L42_def_meafnaf_R2.zip</dpath>
+<operation>c</operation>
+<sha256>C0C646761702228B26412F54F9C811BDCFD39EB3B1F63EABE399F8A0D5456494</sha256>
+<size>827468116</size>
+</file>
+</files>
+</root>

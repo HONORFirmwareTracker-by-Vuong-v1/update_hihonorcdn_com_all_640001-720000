@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1246515200</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>r2nC+R4vZa9sDFjZNnOZPPB5QWivXJlwQOVgeLoIS60=</fileHash>
+<fileSize>269724731</fileSize>
+<metadataHash>sRDTmBuWEXvrmX6MqyQXIVgzAPTslZ/c3oIyiK6h9mU=</metadataHash>
+<metadataSize>46628</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_LGE-AN00_all_cn_R7.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_LGE-AN00_all_cn_R7.zip</spath>
+<dpath>update_preload_LGE-AN00_all_cn_R7.zip</dpath>
+<operation>c</operation>
+<sha256>4F85221D958189BC6543011527B6E8B93C50CDFBED90B651FB7DBE55C2227A98</sha256>
+<size>269732082</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642084864</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>oRGCx6c6rDaZZ9wUcdfa9er7xeIGDCMdXGp5xlHZ2/8=</fileHash>
+<fileSize>7965</fileSize>
+<metadataHash>6rc8APzwiSKb9QdsURypXa1QEEuo3eXNZeYbi0RaMGE=</metadataHash>
+<metadataSize>4365</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_BRP-N03_claro_la_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_BRP-N03_claro_la_R1.zip</spath>
+<dpath>update_preload_BRP-N03_claro_la_R1.zip</dpath>
+<operation>c</operation>
+<sha256>56248874D7E3401BE2E45A2D42CF60A6D3C7B9C5F161D8854956DDDCE8A530AC</sha256>
+<size>15267</size>
+</file>
+</files>
+</root>

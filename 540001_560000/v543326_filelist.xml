@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>2</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1593712640</cowsize>
+<payloadOffset>806</payloadOffset>
+<fileHash>wCQUKuF0neB7M5pmIE+8lZkYT2LEItr1mSWTI3/Pnrk=</fileHash>
+<fileSize>1449320170</fileSize>
+<metadataHash>GPnOMx+zj+ZJk287D3tx6Xt86+AhbK+O3ZEM9wtbl14=</metadataHash>
+<metadataSize>43041</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_LSA-AN00_cmcc_cn_R8.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_LSA-AN00_cmcc_cn_R8.zip</spath>
+<dpath>update_full_preload_LSA-AN00_cmcc_cn_R8.zip</dpath>
+<operation>c</operation>
+<sha256>43426AC6A78AB7D7A3AAE77ABDB41389F91AAF47C3055628D41AC858CD26387A</sha256>
+<size>1449327387</size>
+</file>
+</files>
+</root>

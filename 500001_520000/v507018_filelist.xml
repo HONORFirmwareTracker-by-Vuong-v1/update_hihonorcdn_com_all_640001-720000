@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2705321984</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>BiAiD6yRn9WqxIE6iwu6BUwrTrdJm2Jvc2cuPLUau/s=</fileHash>
+<fileSize>322349230</fileSize>
+<metadataHash>xKm4l6ojUNgPrwhwq8QHLVyuOY4QeLVUFq8saNBkOjU=</metadataHash>
+<metadataSize>35809</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_BRC-TN00_cmcc_cn_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_BRC-TN00_cmcc_cn_R102.zip</spath>
+<dpath>update_preload_BRC-TN00_cmcc_cn_R102.zip</dpath>
+<operation>c</operation>
+<sha256>20A4E5BAA365F7F34B1818C81EACC6661E5772F8BC6DB5C06A52BB5823A99470</sha256>
+<size>322356581</size>
+</file>
+</files>
+</root>

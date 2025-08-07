@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>43954176</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>1uktUDNETY/KyUioCrHidwj1ZT/ug94knaPYEtAUD4Q=</fileHash>
+<fileSize>4030</fileSize>
+<metadataHash>eZF5VKtL0ksPLFdim1v72vccKaN/b6k385QHEJim43U=</metadataHash>
+<metadataSize>761</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ALI-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ALI-AN00_all_cn.zip</spath>
+<dpath>update_cust_ALI-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>81A33D8B41EAF1D24DCAB44E34A84AA1B832545BAB17501273E803FBEF2EC152</sha256>
+<size>11328</size>
+</file>
+</files>
+</root>

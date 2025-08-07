@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>r3JsGyanqpe1ur+HoCXNg9Z9hgq8Lgon4gYGpNFwR+0=</fileHash>
+<fileSize>229230818</fileSize>
+<metadataHash>PTnAv4LzX7SiQJMC+i3QulxzRE2L0wmDXI3dfs16VXU=</metadataHash>
+<metadataSize>55767</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_BRP-N21_def_in_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_BRP-N21_def_in_R3.zip</spath>
+<dpath>update_full_preload_BRP-N21_def_in_R3.zip</dpath>
+<operation>c</operation>
+<sha256>BE460603C8F7A9BD6CFBE419DEDD56817387F43FF94B89F3CAB4A055C7854CCB</sha256>
+<size>229238029</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>939</payloadOffset>
+<fileHash>kNGGNQOyCDVLHo+zGa7gNEfViDgNsoO+848zJyIcgsE=</fileHash>
+<fileSize>351424667</fileSize>
+<metadataHash>jhZ745q9pg4/xNj6rvDBo+M9wP4JETJko/yvzuFen5k=</metadataHash>
+<metadataSize>7217</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_ALI-N23P_def_la_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_ALI-N23P_def_la_R1.zip</spath>
+<dpath>update_preload_ALI-N23P_def_la_R1.zip</dpath>
+<operation>c</operation>
+<sha256>4ECD1F6766EF3F49DA37F76EF9ED4240C8379E6D9D0EAE64B52246C13880DC71</sha256>
+<size>351432016</size>
+</file>
+</files>
+</root>

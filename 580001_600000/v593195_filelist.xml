@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>41402368</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>lRiJ5D4+1HjGUnHI17aJ8SIX8rrsTNgKkCkoHH2KbIY=</fileHash>
+<fileSize>34083</fileSize>
+<metadataHash>K71MdcyT5XMZUx4KQa9vbpNc/wF5obuVMw876akhKko=</metadataHash>
+<metadataSize>1334</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ALT-L42_def_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ALT-L42_def_meafnaf.zip</spath>
+<dpath>update_cust_ALT-L42_def_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>D5CA9DE380CC605F1F729F21686BDEC60A3EC35EF05F81455559BEAE30D2957C</sha256>
+<size>41378</size>
+</file>
+</files>
+</root>

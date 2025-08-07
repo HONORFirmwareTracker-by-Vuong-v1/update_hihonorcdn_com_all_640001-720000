@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>12820771811</compressCowSize>
+<cowsize>17257472000</cowsize>
+<payloadOffset>836</payloadOffset>
+<fileHash>r+616cnsSy5fuFpQj7RMy0BpAe7hblP8BwZ2UfrMt8c=</fileHash>
+<fileSize>12254743765</fileSize>
+<metadataHash>oGQe10Yb2jx+ZIizGC6OM8J86CEQq0QwhiolSAkr6jA=</metadataHash>
+<metadataSize>469058</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_PPG-AN00_demo_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_PPG-AN00_demo_cn.zip</spath>
+<dpath>update_full_cust_PPG-AN00_demo_cn.zip</dpath>
+<operation>c</operation>
+<sha256>0E6182EF6F9F0D68735554BD568BE991F302F07FED10B17702C3615D417E8358</sha256>
+<size>12254751191</size>
+</file>
+</files>
+</root>

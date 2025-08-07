@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>GA5Os4zY04EOuAGzXHvk2vJdokn7PKPwmeY5yD3Qptk=</fileHash>
+<fileSize>1446852599</fileSize>
+<metadataHash>DmWDq6DoSEE8allYJJIGRuDlNDgmlAZHpxGmijvo7go=</metadataHash>
+<metadataSize>57979</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_REA-TN00_cmcc_cn_R4.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_REA-TN00_cmcc_cn_R4.zip</spath>
+<dpath>update_full_preload_REA-TN00_cmcc_cn_R4.zip</dpath>
+<operation>c</operation>
+<sha256>8D423D02F24A67B980C31D71BF03B8D1674A7AA79E114CAA124FB2C0FB40498C</sha256>
+<size>1446859822</size>
+</file>
+</files>
+</root>

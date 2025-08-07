@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>44179456</cowsize>
+<payloadOffset>717</payloadOffset>
+<fileHash>qy9Xq0gXLb10Dw3fc4WE/8pymhBGcrq8Rhaublw0fP4=</fileHash>
+<fileSize>300761</fileSize>
+<metadataHash>ZYUB9rFNyCOYqC6esQwKcx5KbrLq2NEXvvXwKW/wAno=</metadataHash>
+<metadataSize>1079</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_TFY-AN40_all_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_TFY-AN40_all_cn.zip</spath>
+<dpath>update_full_cust_TFY-AN40_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>761749815B9A24654A53DECC8C8EB9DD5E5372DE97FC9AB3A7845C3861790277</sha256>
+<size>307881</size>
+</file>
+</files>
+</root>

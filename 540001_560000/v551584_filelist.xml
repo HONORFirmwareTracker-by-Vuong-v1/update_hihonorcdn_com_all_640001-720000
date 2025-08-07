@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>fUia4xcAiU3H53X+p0rE/YWgAbVfhwFPmZ2nQzORbsU=</fileHash>
+<fileSize>107000476</fileSize>
+<metadataHash>UFAP0yzg4hV+tYaE1/oaNO70tUZxG4J2u2Nz69AI75g=</metadataHash>
+<metadataSize>37183</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_BRC-N21_def_meafnaf_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_BRC-N21_def_meafnaf_R3.zip</spath>
+<dpath>update_preload_BRC-N21_def_meafnaf_R3.zip</dpath>
+<operation>c</operation>
+<sha256>637CC2F2AA865C630D386CC01FA55E095A51DAC0544717831532DEE92C408342</sha256>
+<size>107007823</size>
+</file>
+</files>
+</root>

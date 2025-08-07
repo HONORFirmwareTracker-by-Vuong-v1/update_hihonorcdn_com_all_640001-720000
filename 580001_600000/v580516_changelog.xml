@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新新增面对面翻译功能，修复部分三方应用和系统功能相关问题，优化分屏和充电场景使用体验，提升系统稳定性，推荐您进行更新。</feature>
+</features>
+<features module="【面对面翻译】">
+<feature>支持轮流对话场景下，中文、英语、日语、韩语、德语、法语、西班语、葡萄牙语、意大利语、俄语之间的互译；支持语音和文本输入，以及翻译结果播报，体验路径：设置>智慧助手>YOYO助理>面对面翻译。</feature>
+</features>
+<features module="【游戏】">
+<feature>修复部分游戏分屏场景下键盘显示错位的问题。</feature>
+</features>
+<features module="【图库】">
+<feature>修复使用AI 消除功能提示服务超时的问题。</feature>
+</features>
+<features module="【分屏】">
+<feature>提升部分三方以及系统应用分屏场景使用体验。</feature>
+</features>
+<features module="【充电】">
+<feature>优化待机充电场景热体验。</feature>
+</features>
+<features module="【系统】">
+<feature>提升系统稳定性，让您的手机运行更稳定。</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新会删除您的用户数据，请您在更新前做好数据备份。
+2. 门店改制是特殊的 OTA 升级过程，由演示版本升级到商用版本过程中，系统会多次自动重启，当系统处于“开机导航”页面时，改制版本升级才算完成，在出现“开机导航”页面之前，请耐心等待，不要做恢复出厂等操作。
+3. 更多精彩功能介绍，请访问“玩机技巧”应用。
+4. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this update brings face-to-face translation and fixes the issues related to certain third-party apps and system functions. This release also optimizes the user experience in split-screen and charging scenarios, and improves the system stability. It is recommended to update.</feature>
+</features>
+<features module="Face-to-face translation">
+<feature>In a turn-taking situation, it can provide mutual translation between Chinese, English, Japanese, Korean, German, French, Spanish, Portuguese, Italian, and Russian. It also supports voice and text input, as well as translation broadcast. You can try it out by going to: Settings > Assistant > YOYO Assistant > Face-to-face translation.</feature>
+</features>
+<features module="Games">
+<feature>Fix the issue of keyboard misalignment in some split-screen scenarios.</feature>
+</features>
+<features module="Gallery">
+<feature>Fix the issue where service timeout prompts when using AI Eraser.</feature>
+</features>
+<features module="Split screen">
+<feature>Optimizes the user experience in split-screen mode for some third-party and system apps.</feature>
+</features>
+<features module="Charge">
+<feature>Optimizes the heating issue in standby charging scenarios.      </feature>
+</features>
+<features module="System">
+<feature>Improves the system stability to make your device run more stably.</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will erase your personal data. Please back up your data before updating. 
+2. Version upgrade is a special OTA upgrade process. In the process of upgrading from demo version to commercial version, the system will restart automatically several times. When the "Startup navigation" screen appears, the upgrade is completed. Before that, please wait patiently and do not perform any actions such as factory reset. 
+3. Discover more information on product features in Tips. 
+4. If you encounter any issues during use, please get support by going to My Honor or visiting our website: https://www.honor.com/cn/contact-us.</feature>
+</features>
+</language>
+
+</root>

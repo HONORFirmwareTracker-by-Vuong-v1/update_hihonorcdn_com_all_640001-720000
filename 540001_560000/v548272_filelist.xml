@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1989517312</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>wa9AJ8UfTPu+uYSdxRIhHxtpivZAaC6puGTRRENDCSA=</fileHash>
+<fileSize>379756768</fileSize>
+<metadataHash>y7mBmhywGdu+B8XB9QrD1GK0tPjOMgziaio8+oKSGV8=</metadataHash>
+<metadataSize>25468</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_NDL-W09_all_cn_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_NDL-W09_all_cn_R102.zip</spath>
+<dpath>update_preload_NDL-W09_all_cn_R102.zip</dpath>
+<operation>c</operation>
+<sha256>2368F4304F8235AE7019DA7EB77E2250F75C871BE52B381182B67892E204255C</sha256>
+<size>379764115</size>
+</file>
+</files>
+</root>

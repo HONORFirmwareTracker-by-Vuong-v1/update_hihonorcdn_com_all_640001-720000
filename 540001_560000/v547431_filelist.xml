@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1593712640</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>ItcC7mYOHG9VwBZLLtCK/Dbr2fROPIDhACgLtPTWzAg=</fileHash>
+<fileSize>974841929</fileSize>
+<metadataHash>Hl2BfVmX1KU9ltwIdPaAGCk87S2x9QQ+eZdowxxozTI=</metadataHash>
+<metadataSize>42514</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_ADT-AN00D_all_cn_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_ADT-AN00D_all_cn_R1.zip</spath>
+<dpath>update_full_preload_ADT-AN00D_all_cn_R1.zip</dpath>
+<operation>c</operation>
+<sha256>060D2B20DC65B9F49113AD1690252AD19E0E014A2E4641A63AD70EEBC62A2CAF</sha256>
+<size>974849139</size>
+</file>
+</files>
+</root>

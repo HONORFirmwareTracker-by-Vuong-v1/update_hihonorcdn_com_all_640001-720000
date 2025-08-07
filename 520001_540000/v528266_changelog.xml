@@ -1,0 +1,2205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新新增 AI 消除功能，应用分身支持更多三方应用，优化部分场景相机拍摄效果，提升系统稳定性，合入安全补丁，推荐您进行更新。</feature>
+</features>
+<features module="图库">
+<feature>•  新增AI 消除功能，智能消除照片中的路人、杂物等，一键拯救废片，体验路径：图库>图片>编辑>AI 消除。</feature>
+</features>
+<features module="相机">
+<feature>•  优化部分场景相机拍摄效果。</feature>
+</features>
+<features module="应用分身">
+<feature>•  新增支持更多三方应用。</feature>
+</features>
+<features module="系统">
+<feature>•  提升系统稳定性，让您的手机运行更稳定。</feature>
+</features>
+<features module="安全">
+<feature>•  合入安卓2025年2月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2025/2</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更新过程中，如果遇到任何问题，请拨打荣耀品牌服务热线或至荣耀品牌客户服务中心寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this update introduces AI Eraser. App Twin supports more third-party apps. This release also optimizes the shooting effect in some scenarios and improves the system stability. Additionally, it incorporates a security patch. Update to enjoy the new features and improvements.</feature>
+</features>
+<features module="Gallery">
+<feature>• The new AI Eraser can help you intelligently remove the passers-by and other unwanted elements from images with a single tap. Try it out by going to: Gallery > Select a photo > Edit > AI Eraser.</feature>
+</features>
+<features module="Camera">
+<feature>• Optimizes the shooting effect in some scenarios.</feature>
+</features>
+<features module="App Twin">
+<feature>• App Twin now supports more third-party apps.</feature>
+</features>
+<features module="System">
+<feature>• Enhances the system stability to make your device run more stably.</feature>
+</features>
+<features module="Security">
+<feature>• Android security patch (Feb 2025) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. If you encounter any issues during the update, please call the HONOR service hotline or go to the HONOR customer service center for support.</feature>
+</features>
+</language>
+
+<language name="am-ET" code="1033">
+<features module="" type="header">
+<feature>ውድ ተጠቃሚ፣ ይህ ዝማኔ ኤአይ መደምሰሻን ያስተዋውቃል። መንታ መተግበሪያ ተጨማሪ የሦስተኛ-ወገን መተግበሪያዎችን ይደግፋል። ይህ ልቀት በአንዳንድ ሁኔታዎች የማንሳት ተጽእኖንም ያተባል፣ የስርዓቱን መረጋጋት ያሻሽላል። በተጨማሪም፣ የደህንነት መጠገኛን ያካትታል። በአዲሶቹ ባህሪያት እና ማሻሻያዎች ለመደሰት ያዘምኑ።</feature>
+</features>
+<features module="የሥነ ጥበብ ማዕከል">
+<feature>• አዲሱ ኤአይ መደምሰሻ መንገደኞችን እና ሌሎች አላስፈላጊ ነገሮችን በአንድ ጊዜ መታ በማድረግ ከምስሎች ላይ በብልህነት እንዲያስወግዱ ይረዳዎታል። ወደሚከተለው በመሄድ ይሞክሩት፦ የሥነ ጥበብ ማዕከል > ፎቶ ይምረጡ > አርትዕ > ኤአይ መደምሰሻ።</feature>
+</features>
+<features module="ካሜራ">
+<feature>• በአንዳንድ ሁኔታዎች ላይ የማንሳት ተጽዕኖውን ያተባል።</feature>
+</features>
+<features module="መንታ መተግበሪያ">
+<feature>• መንታ መተግበሪያአሁን ተጨማሪ የሦስተኛ-ወገን መተግበሪያዎችን ይደግፋል።</feature>
+</features>
+<features module="ስርዓት">
+<feature>• መሳሪያዎን በበለጠ እርጋታ ለማሄድ የስርዓት እርጋታን ያሻሽላል።</feature>
+</features>
+<features module="ደህንነት">
+<feature>• የአንድሮይድ ደህንነት መጠገኛ (ፌብ 2025) ለስርዓት ደህንነት ተካትቷል። ስለHONOR ደህንነት ዝማኔዎች ተጨማሪ መረጃ ለማግኘት እባክዎ የእኛን ድር ጣቢያ https://www.honor.com/global/support/bulletin/2025/2 ይጎብኙ።</feature>
+</features>
+<features module="ማስታወሻዎች፦" type="end">
+<feature>1. ይህን ዝማኔ መጫን በግል ውሂብዎ ላይ ተጽዕኖ አያሳርፍም፣ ነገር ግን አሁንም ከማዘመንዎ በፊት የውሂብዎን መጠባበቂያ እንዲያስቀምጡ ይመከራል።
+2. በዝማኔው ጊዜ ማናቸውም ችግሮች ካጋጠመዎት እባክዎ ድጋፍ ለማግኘት ወደ የHONOR አገልግሎት ቀጥታ መስመር ይደውሉ ወይም ወደ የHONOR ደንበኛ አገልግሎት ማዕከል ይሂዱ።</feature>
+</features>
+</language>
+
+<language name="ar-eg" code="3073">
+<features module="" type="header">
+<feature>عزيزنا المستخدم، يقدم هذا التحديث ميزة الممحاة الذكية. تدعم ميزة الدخول المتعدد للتطبيقات المزيد من التطبيقات التابعة لطرف ثالث. يحسّن هذا الإصدار أيضًا تأثير التصوير في بعض السيناريوهات، ويحسّن استقرار النظام. وعلاوة على ذلك، يضمّن تصحيح أمان. للاستمتاع بالتحسينات والميزات الجديدة، ما عليك سوى التحديث.</feature>
+</features>
+<features module="المعرض">
+<feature>• بإمكان أداة الممحاة الذكية الجديدة أن تساعدك على إزالة المارة والعناصر غير المرغوب فيها الأخرى من الصور بذكاء بضغطة واحدة. جرّب هذه الميزة بالانتقال إلى: المعرض > تحديد صورة > تعديل > ممحاة ذكية.</feature>
+</features>
+<features module="الكاميرا">
+<feature>• يحسّن تأثير التصوير في بعض السيناريوهات.</feature>
+</features>
+<features module="الدخول المتعدد للتطبيقات">
+<feature>• تدعم الآن ميزة الدخول المتعدد للتطبيقات المزيد من التطبيقات التابعة لطرف ثالث.</feature>
+</features>
+<features module="النظام">
+<feature>• يحسّن استقرار النظام لجعل جهازك يعمل بشكل أكثر استقرارًا.</feature>
+</features>
+<features module="الأمان">
+<feature>• تم تضمين تصحيح أمان Android (فبراير 2025) لأمان النظام. لمزيد من المعلومات حول تحديثات الأمان في HONOR، يرجى زيارة موقعنا على الويب https://www.honor.com/ae-ar/support/bulletin/2025/2</feature>
+</features>
+<features module="الملاحظات:" type="end">
+<feature>1. لن يؤثر تثبيت هذا التحديث على بياناتك الشخصية، ولكن لا يزال من المستحسن إنشاء نسخة احتياطية لبياناتك قبل التحديث.
+2. إذا واجهت أي مشاكل أثناء التحديث، فيُرجى الاتصال بالخط الساخن لخدمة HONOR أو الانتقال إلى مركز خدمة عملاء HONOR للحصول على الدعم.</feature>
+</features>
+</language>
+
+<language name="as-IN" code="3073">
+<features module="" type="header">
+<feature>মৰমৰ ব্যৱহাৰকাৰী, এই আপডেটটোৱে AI ৰবৰৰ পৰিচয় কৰায়। এপ্প্‌ টুইনে অধিক তৃতীয়-পক্ষৰ এপ্প্‌ সমৰ্থন কৰে। এই মুক্তিয়ে কিছুমান পৰিস্থিতিত শ্বুটিঙৰ প্ৰভাৱো অনুকূলন কৰে আৰু ছিষ্টেমৰ স্থিৰতা উন্নত কৰে। ইয়াৰ উপৰিও, ই এটা নিৰাপত্তাৰ পেচ অন্তৰ্ভুক্ত কৰে। নতুন ফিচাৰসমূহ আৰু উন্নতিসমূহৰ আনন্দ ল'বলৈ আপডেট কৰক।</feature>
+</features>
+<features module="গেলাৰী">
+<feature>• নতুন AI ৰবৰে এবাৰ টিপি প্ৰতিচ্ছবিসমূহৰ পৰা পথচাৰী আৰু অন্য অবাঞ্ছিত উপাদানবোৰ বুদ্ধিমত্তাৰে আঁতৰোৱাত আপোনাক সহায় কৰিব। ইয়ালৈ গৈ ইয়াক ব্যৱহাৰ কৰি চাওক: গেলাৰী > এখন ফটো বাছনি কৰক > সম্পাদনা কৰক > AI ৰবৰ।</feature>
+</features>
+<features module="কেমেৰা">
+<feature>• কিছুমান পৰিস্থিতিত শ্বুটিঙৰ প্ৰভাৱ অনুকূলন কৰে।</feature>
+</features>
+<features module="এপ্প্‌ টুইন">
+<feature>• এপ্প্‌ টুইনে এতিয়া অধিক তৃতীয়-পক্ষৰ এপ্প্‌ সমৰ্থন কৰে।</feature>
+</features>
+<features module="ছিষ্টেম">
+<feature>• আপোনাৰ ডিভাইচ অধিক স্থিৰতাৰে চলাবলৈ ছিষ্টেমৰ স্থিৰতা বঢ়ায়।</feature>
+</features>
+<features module="নিৰাপত্তা">
+<feature>• ছিষ্টেমৰ নিৰাপত্তাৰ বাবে Android নিৰাপত্তাৰ পেচ (ফেব্ৰুৱাৰী 2025) অন্তৰ্ভুক্ত কৰা হৈছে। HONOR নিৰাপত্তা আপডেটৰ বিষয়ে অধিক তথ্যৰ বাবে, অনুগ্ৰহ কৰি আমাৰ ৱেবছাইট দৰ্শন কৰক: https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="মনত ৰাখিব:" type="end">
+<feature>1. এই আপডেটটো ইনষ্টল কৰিলে আপোনাৰ ব্যক্তিগত ডাটাত প্ৰভাৱ নপৰিব, কিন্তু আপডেট কৰাৰ পূৰ্বে আপোনাৰ ডাটাৰ বেক আপ ল'বলৈ এতিয়াও অনুমোদন জনোৱা হয়।
+2. আপুনি আপডেটৰ সময়ত কোনো সমস্যাৰ সন্মুখীন হ'লে, অনুগ্ৰহ কৰি HONOR সেৱা হটলাইনত কল কৰক বা সমৰ্থনৰ বাবে HONOR গ্ৰাহক সেৱা কেন্দ্ৰলৈ যাওক।</feature>
+</features>
+</language>
+
+<language name="az-az" code="1068">
+<features module="" type="header">
+<feature>Hörmətli istifadəçi, bu yeniləmə AI Pozanı təqdim edir. Əkiz proqram daha çox üçüncü tərəf proqramını dəstəkləyir. Bu buraxılış həmçinin bəzi ssenarilərdə çəkiliş effektini optimallaşdırır və sistemin sabitliyini yaxşılaşdırır. Bundan əlavə, o, təhlükəsizlik paketini ehtiva edir. Yeni xüsusiyyətlər və təkmilləşdirmələrdən zövq almaq üçün yeniləyin.</feature>
+</features>
+<features module="Qalereya">
+<feature>• Yeni AI Pozan sizə bir toxunuşla kənardan keçənləri və digər arzuolunmaz elementləri şəkillərdən ağıllı qaydada silməyə kömək edə bilər. Buraya keçərək sınayın: Qalereya > Foto seçin > Redaktə edin > AI Pozan.</feature>
+</features>
+<features module="Kamera">
+<feature>• Bəzi ssenarilərdə çəkiliş effektini optimallaşdırır.</feature>
+</features>
+<features module="Əkiz proqram">
+<feature>• Əkiz proqram indi daha çox üçüncü tərəf proqramını dəstəkləyir.</feature>
+</features>
+<features module="Sistem">
+<feature>• Cihazınızın daha stabil işləməsi üçün sistemin sabitliyini artırır.</feature>
+</features>
+<features module="Təhlükəsizlik">
+<feature>• Sistem təhlükəsizliyi üçün Android təhlükəsizlik paketi (Fevral 2025) daxil edilib. HONOR Təhlükəsizlik yeniləmələri haqqında ətraflı məlumat üçün veb-saytımıza daxil olun: https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Qeydlər:" type="end">
+<feature>1. Bu yeniləmənin quraşdırılması şəxsi məlumatlarınıza təsir etməyəcək, lakin yeniləmədən əvvəl verilənlərinizin ehtiyat nüsxəsini çıxarmaq tövsiyə olunur.
+2. Yeniləmə zamanı hər hansı problemlə qarşılaşsanız, dəstək üçün HONOR xidmətinin qaynar xəttinə zəng edin, yaxud HONOR müştəri xidməti mərkəzinə gedin.</feature>
+</features>
+</language>
+
+<language name="jv-id" code="1033">
+<features module="" type="header">
+<feature>Katur pangguna, penganyaran iki ngenalake Setip AI. Apl Kembar ndhukung luwih akeh apl pihak katelu. Rilis iki uga ngoptimalake efek ngrekam ing sawetara skenario lan ngapikake stabilitas sistem. Saliyane iku, panganyaran iki nggabungake patch keamanan. Anyarake kanggo nikmati pangapikan lan fitur anyar.</feature>
+</features>
+<features module="Galeri">
+<feature>• Setip AI sing anyar bisa mbantu sampeyan mbusak wong liwat lan unsur sing ora dikarepake liyane kanthi wasis saka gambar kanthi nutul sepisan. Coba kanthi mbukak: Galeri > Pilih foto > Edit > Setip AI.</feature>
+</features>
+<features module="Kamera">
+<feature>• Ngoptimalake efek ngrekam ing sawetara skenario.</feature>
+</features>
+<features module="Apl Kembar">
+<feature>• Apl Kembar saiki ndhukung luwih akeh apl pihak katelu.</feature>
+</features>
+<features module="Sistem">
+<feature>• Ningkatake stabilitas sistem supaya piranti mlaku kanthi luwih stabil.</feature>
+</features>
+<features module="Keamanan">
+<feature>• Patch keamanan Android (Feb 2025) wis digabungake kanggo keamanan sistem. Informasi sing luwih jangkep babagan panganyaran Keamanan HONOR bisa dideleng ing situs web kita https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Cathetan:" type="end">
+<feature>1. Nginstal panganyaran iki ora bakal mengaruhi data pribadi sampeyan, nanging sampeyan tetep disaranake nggawe serep data sadurunge nganyarake.
+2. Yen ana masalah sajrone panganyaran, ubungi hotline layanan HONOR utawa tekani pusat layanan pelanggan HONOR kanggo njaluk dhukungan.</feature>
+</features>
+</language>
+
+<language name="sr-rs" code="2074">
+<features module="" type="header">
+<feature>Poštovani korisniče, ovim ažuriranjem uvodi se AI gumica. Blizanac aplikacija sada podržava više aplikacija treće strane. Pored toga, ovim ažuriranjem optimizovano je snimanje u pojedinim situacijama i unapređena je stabilnost sistema. Pored toga, ono obuhvata i bezbednosnu zakrpu. Ažurirajte da biste uživali u novim funkcijama i unapređenjima.</feature>
+</features>
+<features module="Galerija">
+<feature>• Nova AI gumica može da vam pomogne da jednim dodirom pametno uklonite prolazne i ostale neželjene elemente sa slika. Isprobajte tako što ćete otići na: Galerija > Izaberi fotografiju > Izmeni > AI gumica.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimizuje učinak snimanja u pojedinim situacijama.</feature>
+</features>
+<features module="Blizanac aplikacija">
+<feature>• Blizanac aplikacija sada podržava više aplikacija treće strane.</feature>
+</features>
+<features module="Sistem">
+<feature>• Unapređena je stabilnost sistema, zbog čega vaš uređaj radi stabilnije.</feature>
+</features>
+<features module="Bezbednost">
+<feature>• Ugrađena je bezbednosna zakrpa za Android (februar 2025.) radi bezbednosti sistema. Za više informacija o bezbednosnim ažuriranjima koja sprovodi HONOR, posetite našu veb-stranicu: https://www.honor.com/rs/support/bulletin/2025/2</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja neće uticati na vaše lične podatke, ali se i dalje preporučuje da napravite rezervnu kopiju pre ažuriranja.
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, za podršku pozovite dežurnu liniju za podršku kompanije HONOR ili posetite korisnički servisni centar kompanije HONOR.</feature>
+</features>
+</language>
+
+<language name="sr-ba" code="2074">
+<features module="" type="header">
+<feature>Poštovani korisniče, ovim ažuriranjem uvodi se AI gumica. Blizanac aplikacija sada podržava više aplikacija treće strane. Pored toga, ovim ažuriranjem optimizovano je snimanje u pojedinim situacijama i unapređena je stabilnost sistema. Pored toga, ono obuhvata i bezbednosnu zakrpu. Ažurirajte da biste uživali u novim funkcijama i unapređenjima.</feature>
+</features>
+<features module="Galerija">
+<feature>• Nova AI gumica može da vam pomogne da jednim dodirom pametno uklonite prolazne i ostale neželjene elemente sa slika. Isprobajte tako što ćete otići na: Galerija > Izaberi fotografiju > Izmeni > AI gumica.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimizuje učinak snimanja u pojedinim situacijama.</feature>
+</features>
+<features module="Blizanac aplikacija">
+<feature>• Blizanac aplikacija sada podržava više aplikacija treće strane.</feature>
+</features>
+<features module="Sistem">
+<feature>• Unapređena je stabilnost sistema, zbog čega vaš uređaj radi stabilnije.</feature>
+</features>
+<features module="Bezbednost">
+<feature>• Ugrađena je bezbednosna zakrpa za Android (februar 2025.) radi bezbednosti sistema. Za više informacija o bezbednosnim ažuriranjima koja sprovodi HONOR, posetite našu veb-stranicu: https://www.honor.com/rs/support/bulletin/2025/2</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja neće uticati na vaše lične podatke, ali se i dalje preporučuje da napravite rezervnu kopiju pre ažuriranja.
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, za podršku pozovite dežurnu liniju za podršku kompanije HONOR ili posetite korisnički servisni centar kompanije HONOR.</feature>
+</features>
+</language>
+
+<language name="sr-me" code="2074">
+<features module="" type="header">
+<feature>Poštovani korisniče, ovim ažuriranjem uvodi se AI gumica. Blizanac aplikacija sada podržava više aplikacija treće strane. Pored toga, ovim ažuriranjem optimizovano je snimanje u pojedinim situacijama i unapređena je stabilnost sistema. Pored toga, ono obuhvata i bezbednosnu zakrpu. Ažurirajte da biste uživali u novim funkcijama i unapređenjima.</feature>
+</features>
+<features module="Galerija">
+<feature>• Nova AI gumica može da vam pomogne da jednim dodirom pametno uklonite prolazne i ostale neželjene elemente sa slika. Isprobajte tako što ćete otići na: Galerija > Izaberi fotografiju > Izmeni > AI gumica.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimizuje učinak snimanja u pojedinim situacijama.</feature>
+</features>
+<features module="Blizanac aplikacija">
+<feature>• Blizanac aplikacija sada podržava više aplikacija treće strane.</feature>
+</features>
+<features module="Sistem">
+<feature>• Unapređena je stabilnost sistema, zbog čega vaš uređaj radi stabilnije.</feature>
+</features>
+<features module="Bezbednost">
+<feature>• Ugrađena je bezbednosna zakrpa za Android (februar 2025.) radi bezbednosti sistema. Za više informacija o bezbednosnim ažuriranjima koja sprovodi HONOR, posetite našu veb-stranicu: https://www.honor.com/rs/support/bulletin/2025/2</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja neće uticati na vaše lične podatke, ali se i dalje preporučuje da napravite rezervnu kopiju pre ažuriranja.
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, za podršku pozovite dežurnu liniju za podršku kompanije HONOR ili posetite korisnički servisni centar kompanije HONOR.</feature>
+</features>
+</language>
+
+<language name="be-by" code="1059">
+<features module="" type="header">
+<feature>Паважаны карыстальнік, гэта абнаўленне ўводзіць функцыю «Разумная гумка». Функцыя «Двайнік праграмы» працуе з большай колькасцю праграм трэціх бакоў. Таксама гэта версія аптымізуе эфект здымкі ў некаторых сцэнарыях і павышае ўстойлівасць сістэмы. Акрамя таго, яна ўключае выпраўленне сістэмы бяспекі. Устанавіце абнаўленне, каб карыстацца новымі функцыямі і паляпшэннямі.</feature>
+</features>
+<features module="Галерэя">
+<feature>• Новая функцыя «Разумная гумка» выкарыстоўвае штучны інтэлект, каб вы маглі адным дотыкам выдаляць прахожых і іншыя непатрэбныя аб’екты са здымкаў. Каб паспрабаваць, прайдзіце ў меню «Галерэя > Выбраць фота > Рэдагаваць > Разумная гумка».</feature>
+</features>
+<features module="Камера">
+<feature>• У некаторых сцэнарыях аптымізаваны эфект здымкі.</feature>
+</features>
+<features module="Двайнік праграмы">
+<feature>• Цяпер функцыя «Двайнік праграмы» падтрымлівае большую колькасць праграм трэціх бакоў.</feature>
+</features>
+<features module="Сістэма">
+<feature>• Устойлівасць сістэмы павышана, што робіць працу прылады больш стабільнай.</feature>
+</features>
+<features module="Бяспека">
+<feature>• Для бяспекі сістэмы ўключана выпраўленне бяспекі Android (люты 2025 г.). Больш інфармацыі аб абнаўленні сістэмы бяспекі HONOR можна знайсці на нашым вэб-сайце: https://www.honor.com/by/support/bulletin/2025/2</feature>
+</features>
+<features module="Заўвагі." type="end">
+<feature>1. Устаноўка гэтага абнаўлення не паўплывае на вашы асабістыя даныя, але мы ўсё роўна рэкамендуем зрабіць іх рэзервовую копію перад абнаўленнем.
+2. Калі падчас абнаўлення ў вас узнікнуць праблемы, патэлефануйце на гарачую лінію абслугоўвання HONOR або звярніцеся па дапамогу ў сэрвісны цэнтр HONOR.</feature>
+</features>
+</language>
+
+<language name="bg-bg" code="1026">
+<features module="" type="header">
+<feature>Уважаеми потребители, тази актуализация въвежда „AI гумичка“. Приложението-двойник поддържа повече приложения на трети страни. Освен това тази версия оптимизира ефекта на снимане при някои ситуации и подобрява стабилността на системата. В допълнение тя включва корекция за сигурност. Актуализирайте, за да се насладите на новите функции и подобрения.</feature>
+</features>
+<features module="Галерия">
+<feature>• Новата „AI гумичка“ може да ви помогне да премахнете интелигентно минувачите и други нежелани елементи от изображенията с едно докосване. Изпробвайте я, като отидете на: „Галерия > Изберете снимка > Редактиране > AI гумичка“.</feature>
+</features>
+<features module="Камера">
+<feature>• Оптимизира ефекта на заснемане в някои ситуации.</feature>
+</features>
+<features module="Приложение-близнак">
+<feature>• Приложението-близнак сега поддържа повече приложения на трети страни.</feature>
+</features>
+<features module="Система">
+<feature>• Подобрява стабилността на системата, за да работи устройството ви по-стабилно.</feature>
+</features>
+<features module="Сигурност">
+<feature>• За сигурността на системата е включена корекция за сигурност на Android (февруари 2025). За повече информация относно актуализациите за сигурност на HONOR посетете нашия уебсайт https://www.honor.com/bg/support/bulletin/2025/2</feature>
+</features>
+<features module="Бележки:" type="end">
+<feature>1. Инсталирането на тази актуализация няма да засегне личните ви данни, но е препоръчително архивирането им преди това.
+2. Ако срещнете проблеми по време на актуализирането, обадете се на обслужващата гореща линия на HONOR или посетете сервизния център за клиенти на HONOR за поддръжка.</feature>
+</features>
+</language>
+
+<language name="bn-bd" code="2117">
+<features module="" type="header">
+<feature>প্রিয় ব্যবহারকারী, এই আপডেটটি AI ইরেজার চালু করছে। অ্যাপ টুইন আরো তৃতীয় পক্ষের অ্যাপকে সমর্থন করে। এছাড়াও এই রিলিজটি কিছু পরিস্থিতিতে শুটিং এফেক্টকে অপটিমাইজ করে এবং সিস্টেমের স্থিতিশীলতা উন্নত করে। এছাড়াও এতে একটি নিরাপত্তা প্যাচ অন্তর্ভুক্ত করা হয়েছে। নতুন বৈশিষ্ট্য ও উন্নতিগুলি উপভোগ করতে আপডেট করুন।</feature>
+</features>
+<features module="গ্যালারি">
+<feature>• নতুন AI ইরেজার আপনাকে বুদ্ধিমত্তার সাথে একবার মাত্র ট্যাপ করে ছবি থেকে পথচারীদের এবং অন্যান্য অবাঞ্ছিত উপাদানগুলি সরিয়ে দিতে সাহায্য করতে পারে। এখানে গিয়ে এটি ব্যবহার করে দেখুন: গ্যালারি > একটি ফটো নির্বাচন করুন > সম্পাদনা করুন > AI ইরেজার।</feature>
+</features>
+<features module="ক্যামেরা">
+<feature>• কিছু পরিস্থিতিতে শুটিং এফেক্টকে অপটিমাইজ করে।</feature>
+</features>
+<features module="অ্যাপ টুইন">
+<feature>• অ্যাপ টুইন এখন আরও তৃতীয় পক্ষের অ্যাপকে সমর্থন করে।</feature>
+</features>
+<features module="সিস্টেম">
+<feature>• আপনার ডিভাইসকে আরো স্থিতিশীলভাবে চালানোর জন্য সিস্টেমের স্থিতিশীলতা বাড়ায়।</feature>
+</features>
+<features module="নিরাপত্তা">
+<feature>• সিস্টেমের নিরাপত্তার জন্য Android নিরাপত্তা প্যাচ (ফেব্রুয়ারি 2025) যোগ করা হয়েছে। HONOR-এর নিরাপত্তা আপডেটগুলি সম্পর্কে আরো তথ্যের জন্য, আমাদের ওয়েবসাইট দেখুন https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="নোটসমূহ:" type="end">
+<feature>1. এই আপডেটটি ইনস্টল করলে তা আপনার ব্যক্তিগত ডেটাকে প্রভাবিত করবে না, তবুও আপডেট করার আগে আপনার ডেটা ব্যাক আপ করার পরামর্শ দেওয়া হয়।
+2. আপনি আপডেটের সময় কোনো সমস্যার সম্মুখীন হলে HONOR সার্ভিস হটলাইনে কল করুন বা সহায়তার জন্য HONOR গ্রাহক সেবা কেন্দ্রে যান।</feature>
+</features>
+</language>
+
+<language name="bo-cn" code="1105">
+<features module="" type="header">
+<feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ AI གསུབ་འདོར་རྩོལ་ནུས་གསར་སྣོན་བྱས་ཡོད། ཉེར་སྤྱོད་ཆ་གཅིག་གིས་དེ་ལས་མང་བའི་ཕྱོགས་གསུམ་པའི་ཉེར་སྤྱོད་ལ་རྒྱབ་སྐྱོར་བྱས་ཡོད། བཟོ་ལྗོངས་ཁག་ཅིག་གི་པར་ཆས་ཀྱི་བརྙན་ལེན་ཁྱད་ནུས་ལེགས་སྒྱུར་བྱས་ཡོད། རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་ཡོད། བདེ་འཇགས་ལྷན་པ་འདུས་གྲུབ་བྱས་ཡོད། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུའི་འོས་སྦྱོར་བྱེད།</feature>
+</features>
+<features module="【པར་མཛོད།】">
+<feature>• AI གསུབ་འདོར་རྩོལ་ནུས་གསར་སྣོན་བྱས་ཡོད། རིག་ལྡན་གྱིས་འདྲ་པར་ཁྲོད་ཀྱི་ལམ་འགྲོ་བ་དང་ཅ་ལག་སྣ་ཚོགས་སོགས་གསུབ་འདོར་བྱས་ནས། མཐེབ་གཅིག་གིས་འདྲ་པར་ཇེ་ལེགས་གཏོང་། ཉམས་ལེན་བརྒྱུད་ལམ་ནི། པར་མཛོད་ནས་པར་རིས། དེ་ནས་རྩོམ་སྒྲིག AI གསུབ་འདོར།</feature>
+</features>
+<features module="པར་ཆས།">
+<feature>•  བཟོ་ལྗོངས་ཁག་ཅིག་གི་པར་ཆས་ཀྱི་བརྙན་ལེན་ཁྱད་ནུས་ལེགས་སྒྱུར་བྱས་ཡོད།</feature>
+</features>
+<features module="ཉེར་སྤྱོད་ཆ་གཅིག">
+<feature>•  རྒྱབ་སྐྱོར་བྱེད་པའི་ཕྱོགས་གསུམ་པའི་ཉེར་སྤྱོད་དེ་ལས་མང་བ་གསར་སྣོན་བྱས་ཡོད།</feature>
+</features>
+<features module="རྒྱུད་ཁོངས།">
+<feature>•  རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་སྟེ། ཁྱེད་ཀྱི་ལག་ཁྱེར་ཁ་པར་གྱི་འཁོར་སྐྱོད་སྔར་ལས་བརྟན་འཇགས་སུ་གཏོང་དགོས།</feature>
+</features>
+<features module="བདེ་འཇགས།">
+<feature>• ཨན་སྒྲོའི་ 2025 ལོའི་ཟླ་ 2 པོའི་བདེ་འཇགས་ལྷན་པ་འདུས་གྲུབ་བྱས་ཡོད། རྒྱུད་ཁོངས་ཀྱི་བདེ་འཇགས་རང་བཞིན་སྟོབས་སྒྱུར་བྱས་ཡོད། རུང་ཡོའོ་མཉེན་ཆས་ཀྱི་བདེ་འཇགས་གསར་སྒྱུར་ནང་དོན་སྐོར་གྱི་ཆ་འཕྲིན་ལ། རུང་ཡོའོ་གཞུང་ཕྱོགས་དྲ་ཚིགས་ https://www.honor.com/cn/support/bulletin/2025/2 ལ་ལྟ་སྤྱོད་བྱེད་རོགས།</feature>
+</features>
+<features module="གསར་སྒྱུར་གྱི་དོ་སྣང་དོན་ཚན།" type="end">
+<feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གྱི་གཞི་གྲངས་གསུབ་མི་སྲིད། འོན་ཀྱང་གསར་སྒྱུར་མ་བྱས་གོང་གཞི་གྲངས་གྲབས་ཉར་ཡག་པོ་བྱས་ན་ལེགས།
+2. གསར་སྒྱུར་གྱི་བརྒྱུད་རིམ་ཁྲོད། གལ་ཏེ་གནད་དོན་གང་རུང་ལ་འཕྲད་ཚེ། རུང་ཡོའོ་ཚོང་རྟགས་ཀྱི་ཞབས་ཞུའི་ཁ་པར་ལ་ཁ་པར་གཏོང་བའམ་ཡང་ན་རུང་ཡོའོ་ཚོང་རྟགས་ཀྱི་སྐུ་མགྲོན་ཞབས་ཞུའི་ལྟེ་གནས་སུ་སོང་ནས་རྒྱབ་སྐྱོར་རེ་ཞུ་བྱེད་རོགས།</feature>
+</features>
+</language>
+
+<language name="bs-ba" code="5146">
+<features module="" type="header">
+<feature>Poštovani korisniče, ovo ažuriranje uvodi AI brisač. Blizanac aplikacija podržava više aplikacija treće strane. Ovo izdanja također optimizira efekat snimanja u nekim scenarijima i poboljšava stabilnost sistema. Pored toga, ugrađuje sigurnosnu zakrpu. Ažurirajte da biste uživali u novim funkcijama i poboljšanjima.</feature>
+</features>
+<features module="Galerija">
+<feature>• Novi AI brisač vam može pomoći da inteligentno uklonite prolaznike i druge neželjene elemente sa slika samo jednim dodirom. Isprobajte ga odlaskom u aplikaciju Galerija > Odaberite fotografiju > Uredi > AI brisač.</feature>
+</features>
+<features module="Fotoaparat">
+<feature>• Optimizira efekat snimanja u određenim scenarijima.</feature>
+</features>
+<features module="Blizanac aplikacija">
+<feature>• Blizanac aplikacija sada podržava više aplikacija treće strane.</feature>
+</features>
+<features module="Sistem">
+<feature>• Poboljšava stabilnost sistema kako bi se omogućio stabilniji rad uređaja.</feature>
+</features>
+<features module="Sigurnost">
+<feature>• Sigurnosna zakrpa za Android (februar 2025.) je ugrađena radi sigurnosti sistema. Više informacija o HONOR sigurnosnim ažuriranjima potražite na našoj web lokaciji https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja ne utiče na lične podatke, ali ipak se preporučuje da napravite rezervnu kopiju podataka.
+2. Ako naiđete na bilo kakve problemi tokom ažuriranja, pozovite HONOR dežurnu liniju korisničke podrške ili posjetite HONOR servisni centar za korisnike da potražite pomoć.</feature>
+</features>
+</language>
+
+<language name="ca-es" code="1027">
+<features module="" type="header">
+<feature>Benvolgut usuari, aquesta actualització incorpora la funció Esborrador amb IA. L'Aplicació doble admet més aplicacions de tercers. Aquesta versió també optimitza l'efecte de captura d'alguns escenaris i millora l'estabilitat del sistema. A més, incorpora un pedaç de seguretat. Actualitzeu per gaudir de les noves funcions i millores.</feature>
+</features>
+<features module="Galeria">
+<feature>• La nova funció Esborrador amb IA us ajuda a eliminar de manera intel·ligent els transeünts i altres elements que no voleu que apareguin de les imatges amb un sol toc. Proveu-ho des de: Galeria > Seleccioneu una foto > Editar > Esborrador amb IA.</feature>
+</features>
+<features module="Càmera">
+<feature>• Optimitza l'efecte de captura en determinades situacions.</feature>
+</features>
+<features module="Aplicació doble">
+<feature>La funció Aplicació doble és compatible amb més aplicacions de tercers.</feature>
+</features>
+<features module="Sistema">
+<feature>• Millora l'estabilitat del sistema, la qual cosa permet que el funcionament del dispositiu sigui més estable.</feature>
+</features>
+<features module="Seguretat">
+<feature>• S'ha incorporat el pedaç de seguretat d'Android (febrer de 2025) per motius de seguretat del sistema. Per obtenir més informació sobre les actualitzacions de seguretat d'HONOR, consulteu el nostre lloc web https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. El fet d'instal·lar aquesta actualització no afectarà les vostres dades personals, però, així i tot, us recomanem que feu una còpia de seguretat de les dades abans de l'actualització.
+2. Si teniu problemes durant l'actualització, truqueu a la línia directa de servei d'HONOR o visiteu el centre de servei d'atenció al client d'HONOR.</feature>
+</features>
+</language>
+
+<language name="cs-cz" code="1029">
+<features module="" type="header">
+<feature>Vážení uživatelé, tato aktualizace přináší funkci AI Guma. Zdvojení aplikace podporuje více aplikací třetích stran. Tato verze také v některých scénářích optimalizuje fotografování a zlepšuje stabilitu systému. Navíc obsahuje bezpečnostní opravu. Aktualizujte systém, abyste si mohli užívat nové funkce a vylepšení.</feature>
+</features>
+<features module="Galerie">
+<feature>• Nová funkce AI Guma vám pomůže inteligentně odstranit kolemjdoucí a další nežádoucí prvky ze snímků jediným klepnutím. Vyzkoušejte si to v nabídce: Galerie > Vybrat fotografii > Upravit > AI Guma.</feature>
+</features>
+<features module="Fotoaparát">
+<feature>• Optimalizuje fotografování v některých situacích.</feature>
+</features>
+<features module="Zdvojení aplikace">
+<feature>• Zdvojení aplikace nyní podporuje více aplikací třetích stran.</feature>
+</features>
+<features module="Systém">
+<feature>• Vylepšuje stabilitu systému, aby zařízení pracovalo stabilněji.</feature>
+</features>
+<features module="Bezpečnost">
+<feature>• Do systému byla začleněna bezpečnostní oprava (únor 2025) pro systém Android, která zajišťuje bezpečnost systému. Více informací o bezpečnostních aktualizacích HONOR najdete na našem webu https://www.honor.com/cz/support/bulletin/2025/2</feature>
+</features>
+<features module="Poznámky:" type="end">
+<feature>1. Instalace této aktualizace neovlivní vaše osobní data, ale přesto doporučujeme před aktualizací zálohovat data.
+2. Pokud se během aktualizace setkáte s nějakými problémy, zavolejte na informační linku HONOR nebo si vyžádejte podporu v Centru služeb zákazníkům HONOR.</feature>
+</features>
+</language>
+
+<language name="da-dk" code="1030">
+<features module="" type="header">
+<feature>Kære Bruger, denne opdatering introducerer AI-viskelæder. App-tvilling understøtter flere tredjeparts-apps. Denne version optimerer også optagelseseffekten i visse scenarier og forbedrer systemets stabilitet. Desuden indeholder versionen en sikkerhedspatch. Opdater for at udnytte de nye funktioner og forbedringer.</feature>
+</features>
+<features module="Galleri">
+<feature>• På en intelligent måde hjælper AI-viskelæder dig med at fjerne forbipasserende og andre uønskede elementer fra billeder med et enkelt tryk. Prøv det ved at gå til: Galleri > Vælg et foto > Rediger > AI-viskelæder.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimerer optagelseseffekten i visse scenarier.</feature>
+</features>
+<features module="App-tvilling">
+<feature>• App-tvilling understøtter nu flere tredjeparts-apps.</feature>
+</features>
+<features module="System">
+<feature>• Forbedrer systemets stabilitet, så din enhed kører mere stabilt.</feature>
+</features>
+<features module="Sikkerhed">
+<feature>• Android-sikkerhedspatch (feb 2025) er blevet integreret med henblik på systemsikkerhed. Du kan få flere oplysninger om HONOR-sikkerhedsopdateringer på vores websted https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Noter:" type="end">
+<feature>1. Hvis denne opdatering installeres, vil dine personoplysninger ikke blive påvirket, men det anbefales alligevel at sikkerhedskopiere dine data, før der opdateres.
+2. Hvis du støder på problemer under opdateringen, bedes du ringe til HONOR Servicehotline eller besøge et HONOR Kundeservicecenter vedrørende support.</feature>
+</features>
+</language>
+
+<language name="de-de" code="1031">
+<features module="" type="header">
+<feature>Lieber Nutzer, dieses Update führt AI-Radierer ein. App-Twin unterstützt mehr Drittanbieter-Apps. Diese Version optimiert außerdem den Aufnahmeeffekt in einigen Szenarien und verbessert die Systemstabilität. Darüber hinaus enthält es einen Sicherheitspatch. Nehmen Sie eine Aktualisierung vor, um in den Genuss der neuen Funktionen und Verbesserungen zu kommen.</feature>
+</features>
+<features module="Galerie">
+<feature>• Mit dem neuen AI-Radierer können Sie Passanten und andere unerwünschte Elemente mit einem einzigen Tippen intelligent aus Ihren Bildern entfernen. Probieren Sie es aus. Gehen Sie zu: Galerie > Foto auswählen > Bearbeiten > AI-Radierer.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimiert den Aufnahmeeffekt in einigen Szenarien.</feature>
+</features>
+<features module="App-Twin">
+<feature>• App-Twin unterstützt jetzt mehr Drittanbieter-Apps.</feature>
+</features>
+<features module="System">
+<feature>• Verbessert die Systemstabilität, damit Ihr Gerät stabiler läuft.</feature>
+</features>
+<features module="Sicherheit">
+<feature>• Der Android Sicherheitspatch (Feb. 2025) für Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2025/2</feature>
+</features>
+<features module="Hinweise:" type="end">
+<feature>1. Die Installation dieser Aktualisierung hat keine Auswirkungen auf Ihre persönlichen Daten, aber es wird dennoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen.
+2. Wenn bei der Aktualisierung Probleme auftreten, rufen Sie die HONOR-Kundenhotline an oder suchen Sie das HONOR-Kunden-Service-Center auf, um Unterstützung zu erhalten.</feature>
+</features>
+</language>
+
+<language name="de-at" code="1031">
+<features module="" type="header">
+<feature>Lieber Nutzer, dieses Update führt AI-Radierer ein. App-Twin unterstützt mehr Drittanbieter-Apps. Diese Version optimiert außerdem den Aufnahmeeffekt in einigen Szenarien und verbessert die Systemstabilität. Darüber hinaus enthält es einen Sicherheitspatch. Nehmen Sie eine Aktualisierung vor, um in den Genuss der neuen Funktionen und Verbesserungen zu kommen.</feature>
+</features>
+<features module="Galerie">
+<feature>• Mit dem neuen AI-Radierer können Sie Passanten und andere unerwünschte Elemente mit einem einzigen Tippen intelligent aus Ihren Bildern entfernen. Probieren Sie es aus. Gehen Sie zu: Galerie > Foto auswählen > Bearbeiten > AI-Radierer.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimiert den Aufnahmeeffekt in einigen Szenarien.</feature>
+</features>
+<features module="App-Twin">
+<feature>• App-Twin unterstützt jetzt mehr Drittanbieter-Apps.</feature>
+</features>
+<features module="System">
+<feature>• Verbessert die Systemstabilität, damit Ihr Gerät stabiler läuft.</feature>
+</features>
+<features module="Sicherheit">
+<feature>• Der Android Sicherheitspatch (Feb. 2025) für Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2025/2</feature>
+</features>
+<features module="Hinweise:" type="end">
+<feature>1. Die Installation dieser Aktualisierung hat keine Auswirkungen auf Ihre persönlichen Daten, aber es wird dennoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen.
+2. Wenn bei der Aktualisierung Probleme auftreten, rufen Sie die HONOR-Kundenhotline an oder suchen Sie das HONOR-Kunden-Service-Center auf, um Unterstützung zu erhalten.</feature>
+</features>
+</language>
+
+<language name="de-ch" code="1031">
+<features module="" type="header">
+<feature>Lieber Nutzer, dieses Update führt AI-Radierer ein. App-Twin unterstützt mehr Drittanbieter-Apps. Diese Version optimiert außerdem den Aufnahmeeffekt in einigen Szenarien und verbessert die Systemstabilität. Darüber hinaus enthält es einen Sicherheitspatch. Nehmen Sie eine Aktualisierung vor, um in den Genuss der neuen Funktionen und Verbesserungen zu kommen.</feature>
+</features>
+<features module="Galerie">
+<feature>• Mit dem neuen AI-Radierer können Sie Passanten und andere unerwünschte Elemente mit einem einzigen Tippen intelligent aus Ihren Bildern entfernen. Probieren Sie es aus. Gehen Sie zu: Galerie > Foto auswählen > Bearbeiten > AI-Radierer.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimiert den Aufnahmeeffekt in einigen Szenarien.</feature>
+</features>
+<features module="App-Twin">
+<feature>• App-Twin unterstützt jetzt mehr Drittanbieter-Apps.</feature>
+</features>
+<features module="System">
+<feature>• Verbessert die Systemstabilität, damit Ihr Gerät stabiler läuft.</feature>
+</features>
+<features module="Sicherheit">
+<feature>• Der Android Sicherheitspatch (Feb. 2025) für Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2025/2</feature>
+</features>
+<features module="Hinweise:" type="end">
+<feature>1. Die Installation dieser Aktualisierung hat keine Auswirkungen auf Ihre persönlichen Daten, aber es wird dennoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen.
+2. Wenn bei der Aktualisierung Probleme auftreten, rufen Sie die HONOR-Kundenhotline an oder suchen Sie das HONOR-Kunden-Service-Center auf, um Unterstützung zu erhalten.</feature>
+</features>
+</language>
+
+<language name="el-gr" code="1032">
+<features module="" type="header">
+<feature>Αγαπητέ χρήστη, αυτή η ενημέρωση εισάγει τη Γόμα AI. Η Δίδυμη εφαρμογή υποστηρίζει περισσότερες εφαρμογές τρίτων. Αυτή η έκδοση βελτιστοποιεί επίσης το αποτέλεσμα λήψης σε ορισμένα σενάρια και βελτιώνει τη σταθερότητα του συστήματος. Επιπλέον, ενσωματώνει μια ενημέρωση κώδικα ασφαλείας. Πραγματοποιήστε ενημέρωση για να απολαύσετε τις νέες δυνατότητες και βελτιώσεις.</feature>
+</features>
+<features module="Συλλογή">
+<feature>• Η νέα Γόμα AI μπορεί να σας βοηθήσει να αφαιρέσετε έξυπνα τα πρόσθετα στοιχεία και άλλα ανεπιθύμητα στοιχεία από τις εικόνες με ένα μόνο πάτημα. Δοκιμάστε τη μεταβαίνοντας στις εξής επιλογές: Συλλογή > Επιλογή φωτογραφίας > Επεξεργασία > Γόμα AI.</feature>
+</features>
+<features module="Κάμερα">
+<feature>• Βελτιστοποιεί το αποτέλεσμα λήψης σε ορισμένα σενάρια.</feature>
+</features>
+<features module="Δίδυμη εφαρμογή">
+<feature>• Η Δίδυμη εφαρμογή υποστηρίζει πλέον περισσότερες εφαρμογές τρίτων.</feature>
+</features>
+<features module="Σύστημα">
+<feature>• Ενισχύει τη σταθερότητα του συστήματος για να λειτουργεί η συσκευή σας πιο σταθερά.</feature>
+</features>
+<features module="Ασφάλεια">
+<feature>• Η ενημέρωση κώδικα ασφαλείας Android (Φεβρουάριος 2025) ενσωματώθηκε για την ασφάλεια του συστήματος. Για περισσότερες πληροφορίες σχετικά με τις ενημερώσεις της Ασφάλειας HONOR, επισκεφθείτε τον ιστότοπό μας https://www.honor.com/gr/support/bulletin/2025/2</feature>
+</features>
+<features module="Σημειώσεις:" type="end">
+<feature>1. Η εγκατάσταση αυτής της ενημέρωσης δεν θα επηρεάσει τα προσωπικά δεδομένα σας, αλλά ακόμη και έτσι συνιστάται η δημιουργία αντιγράφων ασφαλείας των δεδομένων σας πριν από την ενημέρωση.
+2. Εάν αντιμετωπίσετε τυχόν προβλήματα κατά την ενημέρωση, καλέστε την ανοιχτή τηλεφωνική γραμμή της HONOR ή μεταβείτε στο κέντρο εξυπηρέτησης πελατών της HONOR για υποστήριξη.</feature>
+</features>
+</language>
+
+<language name="en-GB" code="1032">
+<features module="" type="header">
+<feature>Dear user, this update introduces AI Eraser. App Twin supports more third-party apps. This release also optimises the shooting effect in some scenarios and improves the system stability. Additionally, it incorporates a security patch. Update to enjoy the new features and improvements.</feature>
+</features>
+<features module="Gallery">
+<feature>• The new AI Eraser can help you intelligently remove the passers-by and other unwanted elements from images with a single tap. Try it out by going to: Gallery > Select a photo > Edit > AI Eraser.</feature>
+</features>
+<features module="Camera">
+<feature>• Optimises the shooting effect in some scenarios.</feature>
+</features>
+<features module="App Twin">
+<feature>• App Twin now supports more third-party apps.</feature>
+</features>
+<features module="System">
+<feature>• Enhances the system stability to make your device run more stably.</feature>
+</features>
+<features module="Security">
+<feature>• Android security patch (Feb 2025) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/uk/support/bulletin/2025/2</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. If you encounter any issues during the update, please call the HONOR service hotline or go to the HONOR customer service centre for support.</feature>
+</features>
+</language>
+
+<language name="es-es" code="1034">
+<features module="" type="header">
+<feature>Estimado usuario/a, esta actualización incluye Goma de borrar de IA. App gemela admite más aplicaciones de terceros. Esta versión también optimiza el efecto de disparo en algunas situaciones y mejora la estabilidad del sistema. Además, incorpora un parche de seguridad. Realice la actualización para disfrutar de las nuevas funcionalidades y mejoras.</feature>
+</features>
+<features module="Galería">
+<feature>• El nuevo Goma de borrar de IA puede ayudarte a eliminar de forma inteligente los transeúntes y otros elementos no deseados de las imágenes con un solo toque. Pruébelo en: Galería > Seleccionar una foto > Editar > Goma de borrar de IA.</feature>
+</features>
+<features module="Cámara">
+<feature>• Optimiza el efecto de disparo en determinadas situaciones.</feature>
+</features>
+<features module="App gemela">
+<feature>• App gemela ahora admite más aplicaciones de terceros.</feature>
+</features>
+<features module="Sistema">
+<feature>• Mejora la estabilidad del sistema para que el dispositivo funcione de manera más estable.</feature>
+</features>
+<features module="Seguridad">
+<feature>• Se ha incorporado el parche de seguridad de Android (febrero de 2025) para la seguridad del sistema. Para obtener más información sobre las actualizaciones de seguridad de HONOR, visite nuestro sitio web https://www.honor.com/es/support/bulletin/2025/2</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. La instalación de esta actualización no afectará a sus datos personales, pero se recomienda hacer una copia de seguridad de sus datos antes de actualizar.
+2. Si tiene algún problema durante la actualización, llame a la línea de atención al cliente de HONOR o diríjase al centro de servicios al cliente de HONOR para obtener ayuda.</feature>
+</features>
+</language>
+
+<language name="es-us" code="21514">
+<features module="" type="header">
+<feature>Estimado usuario, esta actualización implementa Borrador IA. App gemela admite más aplicaciones de terceros. Esta versión también optimiza el efecto de captura en algunas situaciones y mejora la estabilidad del sistema. Además, incorpora un parche de seguridad. Actualice para disfrutar de las nuevas funcionalidades y mejoras.</feature>
+</features>
+<features module="Galería">
+<feature>• La nueva Borrador IA puede ayudarlo a eliminar de forma inteligente a los transeúntes y otros elementos no deseados de las imágenes con solo presionar una vez. Pruébelo accediendo a: Galería > Seleccionar una foto > Editar > Borrador IA.</feature>
+</features>
+<features module="Cámara">
+<feature>• Optimiza el efecto de captura en algunas situaciones.</feature>
+</features>
+<features module="App gemela">
+<feature>• App gemela ahora admite más aplicaciones de terceros.</feature>
+</features>
+<features module="Sistema">
+<feature>• Mejora la estabilidad del sistema para que el dispositivo funcione de manera más estable.</feature>
+</features>
+<features module="Seguridad">
+<feature>• Se incorporó un parche de seguridad de Android (febrero de 2025) para mejorar la seguridad del sistema. Para obtener más información sobre las actualizaciones de seguridad de HONOR, visite nuestro sitio web https://www.honor.com/latam/support/bulletin/2025/2</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. La instalación de esta actualización no afectará sus datos personales, pero se recomienda hacer una copia de seguridad de sus datos antes de actualizar.
+2. Si tiene problemas durante la actualización, llame a la línea de atención al cliente de HONOR o visite el centro de atención al cliente de HONOR para recibir asistencia.</feature>
+</features>
+</language>
+
+<language name="et-ee" code="1061">
+<features module="" type="header">
+<feature>Hea kasutaja! See värskendus lisab AI-kustutaja. Kaksikrakendus toetab rohkemaid kolmanda osapoole rakendusi. See värskendus optimeerib mõnes olukorras jäädvustamisefekti ja parandab süsteemi stabiilsust. Lisaks sisaldab see ka turvapaika. Värskendage, et nautida uusi funktsioone ja täiustusi.</feature>
+</features>
+<features module="Galerii">
+<feature>• Uus AI-kustutaja aitab juhuslikult kaadrisse jalutajad ja muu soovimatu piltidelt ühe puudutusega eemaldada. Proovige: Galerii > valige foto > Redigeeri > AI-kustutaja.</feature>
+</features>
+<features module="Kaamera">
+<feature>• Optimeerib mõnes olukorras jäädvustamisefekti.</feature>
+</features>
+<features module="Kaksikrakendus">
+<feature>• Kaksikrakendus toetab nüüd rohkemaid kolmanda osapoole rakendusi.</feature>
+</features>
+<features module="Süsteem">
+<feature>• Parandab süsteemi stabiilsust, et seade töötaks tõrgeteta.</feature>
+</features>
+<features module="Turve">
+<feature>• Lisati süsteemi turvalisemaks muutev Androidi turvapaik (veebruar 2025). Lisateavet HONORi turvavärskenduste kohta leiate meie veebisaidilt https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Märkused:" type="end">
+<feature>1. Selle värskenduse installimine ei mõjuta teie isikuandmeid, aga soovitame ikkagi enne värskendamist andmed varundada.
+2. Kui teil tekib värskendamise ajal probleeme, helistage HONORi klienditoe infoliinile või minge toe saamiseks HONORi klienditeeninduskeskusesse.</feature>
+</features>
+</language>
+
+<language name="eu-es" code="1069">
+<features module="" type="header">
+<feature>Erabiltzaile hori: eguneratze honek AA borragoma du gehituta. Aplikazio bikiak hirugarrenen aplikazio gehiago onartzen ditu orain. Gainera, bertsio honek argazkiak ateratzeko efektua optimizatzen du zenbait egoeratan eta sistemaren eraginkortasuna hobetzen du. Eguneratu eginbide eta hobekuntza berriez gozatzeko.</feature>
+</features>
+<features module="Galeria">
+<feature>• AA borragoma berriari esker, modu adimendunean ezaba ditzakezu argazkietatik nahi ez dituzun pertsonak eta elementuak sakatze bakarrarekin. Hori probatzeko, joan Galeria > Hautatu argazki bat > Editatu > AA borragoma aukerara.</feature>
+</features>
+<features module="Kamera">
+<feature>• Argazkiak ateratzeko efektua optimizatzen du zenbait egoeratan.</feature>
+</features>
+<features module="Aplikazio bikia">
+<feature>• Aplikazio bikiak hirugarrenen aplikazio gehiago onartzen ditu orain.</feature>
+</features>
+<features module="Sistema">
+<feature>• Sistemaren egonkortasuna hobetzen du, gailuak hobeto funtziona dezan.</feature>
+</features>
+<features module="Segurtasuna">
+<feature>• Android-en segurtasun-adabakia (2025eko ots) gehitu da sistemaren segurtasuna bermatzeko. HONOR Segurtasun-eguneratzeei buruzko informazio gehiago lortzeko, ikusi gure webgunea: https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Oharrak:" type="end">
+<feature>1. Eguneratze hau instalatzeak ez die eragingo datu pertsonalei, baina gomendagarria da datuen babeskopia bat egitea eguneratzea egin baino lehen.
+2. Arazorik baduzu eguneratzean, deitu HONOR zerbitzuaren telefonozko arreta-lineara edo joan HONOR bezeroarentzako zerbitzu-zentrora laguntza lortzeko.</feature>
+</features>
+</language>
+
+<language name="fa-ir" code="1065">
+<features module="" type="header">
+<feature>کاربر گرامی، این به‌روزرسانی «پاک‌کن هوش مصنوعی» را ارائه می‌کند. «برنامۀ جفتی» از برنامه‌های شخص ثالث بیشتری پشتیبانی می‌کند. این نسخه همچنین جلوه تصویربرداری در برخی شرایط را بهینه می‌کند و پایداری سیستم را بهبود می‌بخشد. به‌علاوه، یک وصلۀ امنیتی در آن گنجانده شده است. برای بهره‌مندی از قابلیت‌ها و بهبودهای جدید، به‌روزرسانی کنید.</feature>
+</features>
+<features module="گالری">
+<feature>‏• قابلیت جدید «پاک‌کن هوش مصنوعی» می‌تواند به شما کمک کند تا رهگذران و سایر عناصر ناخواسته را فقط با یک بار ضربه زدن به‌صورت هوشمندانه از تصاویر حذف کنید. با رفتن به «گالری > انتخاب عکس > ویرایش > پاک‌کن هوش مصنوعی» می‌توانید آن را امتحان کنید.</feature>
+</features>
+<features module="دوربین">
+<feature>‏• جلوه تصویربرداری را در برخی شرایط بهینه می‌کند.</feature>
+</features>
+<features module="برنامۀ جفتی">
+<feature>‏• «برنامۀ جفتی» اکنون از برنامه‌های شخص ثالث بیشتری پشتیبانی می‌کند.</feature>
+</features>
+<features module="سیستم">
+<feature>‏• پایداری سیستم را بهبود می‌بخشد تا دستگاه شما عملکرد پایدارتری داشته باشد.</feature>
+</features>
+<features module="امنیت">
+<feature>‏• برای حفظ امنیت سیستم، «وصلۀ امنیتی Android (فوریه ۲۰۲۵)» گنجانده شده است. برای کسب اطلاعات بیشتر دربارۀ به‌روزرسانی‌های «امنیت HONOR»، لطفاً به وب‌سایت ما مراجعه کنید: https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="نکات:" type="end">
+<feature>‏۱. نصب این به‌روزرسانی، داده‌های شخصی شما را تحت تأثیر قرار نخواهد داد، اما همچنان توصیه می‌شود قبل از انجام به‌روزرسانی از داده‌های خود پشتیبان‌گیری کنید.
+‏۲. اگر در حین به‌روزرسانی با مشکلی مواجه شدید، لطفاً جهت دریافت پشتیبانی با تلفن مستقیم خدمات HONOR تماس بگیرید یا به مرکز خدمات مشتریان HONOR مراجعه کنید.</feature>
+</features>
+</language>
+
+<language name="fi-fi" code="1035">
+<features module="" type="header">
+<feature>Hyvä käyttäjä, tämä päivitys lisää AI-pyyhekumin. Kaksoissovellus tukee lisää kolmannen osapuolen sovelluksia. Tämä päivitys myös optimoi kuvaustehosteen joissakin tilanteissa ja parantaa järjestelmän vakautta. Lisäksi se sisältää turvallisuuskorjauksen. Päivitä, niin pääset nauttimaan uusista ominaisuuksista ja parannuksista.</feature>
+</features>
+<features module="Galleria">
+<feature>• Uusi AI-pyyhekumi poistaa ohikulkijat ja muut ei-toivotut kohteet älykkäästi kuvista yhdellä napautuksella. Voit kokeilla sitä kohdassa Galleria > Valitse valokuva > Muokkaa > AI-pyyhekumi.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimoi kuvaustehosteen joissakin tilanteissa.</feature>
+</features>
+<features module="Kaksoissovellus">
+<feature>• Kaksoissovellus tukee nyt lisää kolmannen osapuolen sovelluksia.</feature>
+</features>
+<features module="Järjestelmä">
+<feature>• Parantaa järjestelmän vakautta, jotta laite toimii vakaammin.</feature>
+</features>
+<features module="Turvallisuus">
+<feature>• Android-turvallisuuskorjaus (helmikuu 2025) on lisätty järjestelmän turvallisuutta varten. Lisätietoja HONORin turvallisuuspäivityksistä on saatavilla verkkosivustollamme osoitteessa https://www.hihonor.com/fi/support/bulletin/2025/2</feature>
+</features>
+<features module="Huomautukset:" type="end">
+<feature>1. Tämän päivityksen asentaminen ei vaikuta henkilökohtaisiin tietoihisi, mutta tietojen varmuuskopiointi ennen päivittämistä on kuitenkin suositeltavaa.
+2. Soita HONORin palvelunumeroon tai käy HONORin asiakaspalvelukeskuksessa, jos päivityksen aikana ilmenee ongelmia ja tarvitset apua.</feature>
+</features>
+</language>
+
+<language name="fr-fr" code="1036">
+<features module="" type="header">
+<feature>Cher utilisateur, cette mise à jour présente la Gomme IA. Application jumelle prend en charge davantage d'applications tierces. Cette version optimise également l'effet de prise de vue dans certains scénarios et améliore la stabilité du système. De plus, elle intègre un patch de sécurité. Effectuez la mise à jour pour profiter des nouvelles fonctionnalités et des améliorations.</feature>
+</features>
+<features module="Galerie">
+<feature>• La nouvelle Gomme IA peut vous aider à supprimer intelligemment les passants et les autres éléments indésirables des images d'un simple appui. Essayez-la en accédant à : Galerie > Sélectionner une photo > Retoucher > Gomme IA.</feature>
+</features>
+<features module="Appareil photo">
+<feature>• Optimise l'effet de prise de vue dans certains scénarios.</feature>
+</features>
+<features module="Application jumelle">
+<feature>• Application jumelle prend désormais en charge davantage d'applications tierces.</feature>
+</features>
+<features module="Système">
+<feature>• Améliore la stabilité du système de votre appareil.</feature>
+</features>
+<features module="Sécurité">
+<feature>• Un correctif de sécurité Android (février 2025) a été intégré pour la sécurité du système. Pour plus d'informations sur les mises à jour de sécurité HONOR, veuillez consulter notre site Web https://www.honor.com/fr/support/bulletin/2025/2</feature>
+</features>
+<features module="Remarques :" type="end">
+<feature>1. L'installation de cette mise à jour n'affectera pas vos données personnelles, mais il est tout de même recommandé de sauvegarder vos données avant la mise à jour.
+2. Si vous rencontrez des problèmes lors de la mise à jour, veuillez appeler la Hotline du service HONOR ou accéder au centre de service client HONOR pour obtenir de l'aide.</feature>
+</features>
+</language>
+
+<language name="fr-ch" code="1036">
+<features module="" type="header">
+<feature>Cher utilisateur, cette mise à jour présente la Gomme IA. Application jumelle prend en charge davantage d'applications tierces. Cette version optimise également l'effet de prise de vue dans certains scénarios et améliore la stabilité du système. De plus, elle intègre un patch de sécurité. Effectuez la mise à jour pour profiter des nouvelles fonctionnalités et des améliorations.</feature>
+</features>
+<features module="Galerie">
+<feature>• La nouvelle Gomme IA peut vous aider à supprimer intelligemment les passants et les autres éléments indésirables des images d'un simple appui. Essayez-la en accédant à : Galerie > Sélectionner une photo > Retoucher > Gomme IA.</feature>
+</features>
+<features module="Appareil photo">
+<feature>• Optimise l'effet de prise de vue dans certains scénarios.</feature>
+</features>
+<features module="Application jumelle">
+<feature>• Application jumelle prend désormais en charge davantage d'applications tierces.</feature>
+</features>
+<features module="Système">
+<feature>• Améliore la stabilité du système de votre appareil.</feature>
+</features>
+<features module="Sécurité">
+<feature>• Un correctif de sécurité Android (février 2025) a été intégré pour la sécurité du système. Pour plus d'informations sur les mises à jour de sécurité HONOR, veuillez consulter notre site Web https://www.honor.com/fr/support/bulletin/2025/2</feature>
+</features>
+<features module="Remarques :" type="end">
+<feature>1. L'installation de cette mise à jour n'affectera pas vos données personnelles, mais il est tout de même recommandé de sauvegarder vos données avant la mise à jour.
+2. Si vous rencontrez des problèmes lors de la mise à jour, veuillez appeler la Hotline du service HONOR ou accéder au centre de service client HONOR pour obtenir de l'aide.</feature>
+</features>
+</language>
+
+<language name="gl-es" code="1110">
+<features module="" type="header">
+<feature>Estimado usuario, esta actualización introduce Goma de borrar con IA. Aplicación xemelga é compatible con máis aplicacións de terceiros. Esta versión tamén optimiza a experiencia de captura nalgunhas situacións e mellora a estabilidade do sistema. Ademais, incorpora un parche de seguranza. Actualice para gozar das novas funcionalidades e melloras.</feature>
+</features>
+<features module="Galería">
+<feature>• A nova Goma de borrar con IA pode axudarlle a quitar de xeito intelixente os espontáneos e outros elementos non desexados das imaxes cun só toque. Para probala, vaia a: Galería > Seleccionar unha foto > Editar > Goma de borrar con IA.</feature>
+</features>
+<features module="Cámara">
+<feature>• Optimiza o efecto de captura en determinadas situacións.</feature>
+</features>
+<features module="Aplicación xemelga">
+<feature>• Agora Aplicación xemelga é compatible con máis aplicacións de terceiros.</feature>
+</features>
+<features module="Sistema">
+<feature>• Mellora a estabilidade do sistema para que o dispositivo funcione dun xeito máis estable.</feature>
+</features>
+<features module="Seguranza">
+<feature>• Incorporouse un parche de seguranza de Android (febreiro de 2025) para a seguranza do sistema. Para obter máis información acerca das actualizacións de seguranza de HONOR, visite o noso sitio web https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. Instalar esta actualización non afectará os seus datos persoais, aínda que se recomenda realizar antes unha copia de seguranza.
+2. Se ten algún problema durante a actualización, contacte coa liña directa de servizo de HONOR ou vaia ao centro de servizos ao cliente de HONOR para obter axuda.</feature>
+</features>
+</language>
+
+<language name="gu-IN" code="1110">
+<features module="" type="header">
+<feature>પ્રિય વપરાશકર્તા, આ અપડેટ AI ઇરેઝરને રજૂ કરે છે. એપ ટ્વીન વધુ તૃતીય-પક્ષની એપ્લિકેશન્સને સમર્થન કરે છે. આ રિલીઝ કેટલિક પરિસ્થિતિઓમાં શૂટિંગ પ્રભાવને ઓપ્ટિમાઇઝ કરે છે અને સિસ્ટમની સ્થિરતાને પણ સુધારે છે. વધુમાં, તે સુરક્ષા પેચનો સમાવેશ કરે છે. નવી સુવિધાઓ અને સુધારાઓનો આનંદ માણવા માટે અપડેટ કરો.</feature>
+</features>
+<features module="ગૅલેરી">
+<feature>• નવું AI ઇરેઝર તમને એક જ ટૅપ વડે છબીમાંથી પસાર થતા લોકો અને અન્ય અનિચ્છનીય તત્વોને બુદ્ધિપૂર્વક દૂર કરવામાં મદદ કરી શકે છે. અહીં જઈને અજમાવી જુઓ: ગૅલેરી > ફોટો પસંદ કરો > સંપાદિત કરો > AI ઇરેઝર.</feature>
+</features>
+<features module="કૅમેરા">
+<feature>• કેટલિક પરિસ્થિતિઓમાં શૂટિંગ પ્રભાવને ઓપ્ટિમાઇઝ કરે છે.</feature>
+</features>
+<features module="એપ ટ્વીન">
+<feature>• એપ ટ્વીન હવે વધુ તૃતીય-પક્ષની એપ્લિકેશન્સને સમર્થન કરે છે.</feature>
+</features>
+<features module="સિસ્ટમ">
+<feature>• તમારા ઉપકરણને વધુ સ્થિર રીતે ચલાવવા માટે સિસ્ટમની સ્થિરતાને વધારે છે.</feature>
+</features>
+<features module="સુરક્ષા">
+<feature>• Android સુરક્ષા પેચ (ફેબ્રુઆરી 2025) સિસ્ટમ સુરક્ષા માટે સામેલ કરવામાં આવ્યો છે. HONOR સુરક્ષા અપડેટ્સ વિશે વધુ માહિતી માટે, કૃપા કરીને અમારી અધિકૃત વેબસાઇટ https://www.honor.com/global/support/bulletin/2025/2 ની મુલાકાત લો.</feature>
+</features>
+<features module="નોંધો:" type="end">
+<feature>1. આ અપડેટ ઇન્સ્ટોલ કરવાથી તમારા વ્યક્તિગત ડેટાને અસર થશે નહીં, પરંતુ અપડેટ કરતા પહેલાં તમારા ડેટાનો બૅકઅપ લેવાની ભલામણ કરવામાં આવે છે.
+2. જો તમને અપડેટ દરમિયાન કોઈ સમસ્યા આવે, તો કૃપા કરીને HONOR સેવા હોટલાઇન પર કૉલ કરો અથવા સમર્થન માટે HONOR ગ્રાહક સેવા કેન્દ્ર પર જાઓ.</feature>
+</features>
+</language>
+
+<language name="hi-in" code="1081">
+<features module="" type="header">
+<feature>नमस्ते उपयोगकर्ता, इस अद्यतन से AI इरेज़र पेश किया जाता है। ऐप ट्विन में अधिक तृतीय-पक्ष ऐप्स का समर्थन किया जाता है। इस रिलीज़ से कुछ परिदृश्यों में शूटिंग प्रभाव को अनुकूलित किया जाता है और सिस्टम की स्थिरता में सुधार किया जाता है। इसके अलावा, इससे सुरक्षा पैच शामिल किया जाता है। नई सुविधाओं और सुधारों का फ़ायदा उठाने के लिए अद्यतन करें।</feature>
+</features>
+<features module="गैलरी">
+<feature>• नए AI इरेज़र से आपको एक टैप में स्मार्ट तरीके से छवियों से अनावश्यक और अन्य अनचाही चीज़ों को निकालने में सहायता मिल सकती है। इसे यहाँ जाकर आज़माएँ: गैलरी > फ़ोटो चुनें > संपादित करें > AI इरेज़र।</feature>
+</features>
+<features module="कैमरा">
+<feature>• कुछ परिदृश्यों में शूटिंग प्रभाव को अनुकूलित किया जाता है।</feature>
+</features>
+<features module="ऐप ट्विन">
+<feature>• ऐप ट्विन में अब अधिक तृतीय-पक्ष ऐप्स का समर्थन किया जाता है।</feature>
+</features>
+<features module="सिस्टम">
+<feature>• आपके डिवाइस को अधिक स्थिर रूप से चलाने के लिए सिस्टम स्थिरता को बेहतर बनाया जाता है।</feature>
+</features>
+<features module="सुरक्षा">
+<feature>• सिस्टम सुरक्षा के लिए Android सुरक्षा पैच (फरवरी 2025) को शामिल किया गया है। HONOR सुरक्षा अद्यतनों के बारे में अधिक जानकारी के लिए, हमारी वेबसाइट पर जाएँ: https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="टिप्पणियाँ:" type="end">
+<feature>1. इस अद्यतन को स्थापित करने से आपके व्यक्तिगत डेटा पर प्रभाव नहीं पड़ेगा, लेकिन फिर भी अद्यतन करने से अपने डेटा का बैकअप लेने की अनुशंसा की जाती है।
+2. अगर अद्यतन के दौरान आपको कोई भी समस्या होती है, तो सहायता पाने के लिए HONOR सेवा हॉटलाइन पर कॉल करें या HONOR ग्राहक सेवा केंद्र पर जाएँ।</feature>
+</features>
+</language>
+
+<language name="hr-hr" code="1050">
+<features module="" type="header">
+<feature>Poštovani korisniče, ovim se ažuriranjem uvodi značajka AI gumica. Aplikacija blizanac podržava više aplikacija treće strane. Ovim se izdanjem optimizira i efekt snimanja u nekim scenarijima, a poboljšava se i stabilnost sustava. Osim toga, implementirana je i sigurnosna zakrpa. Ažurirajte kako biste uživali u novim značajkama i poboljšanjima.</feature>
+</features>
+<features module="Galerija">
+<feature>• Nova značajka AI gumica može vam pomoći jednim dodirom inteligentno ukloniti prolaznike i druge neželjene elemente sa slika. Isprobajte odlaskom na: Galerija > Odaberi fotografiju > Uredi > AI gumica.</feature>
+</features>
+<features module="Fotoaparat">
+<feature>• Optimizira se efekt snimanja u nekim scenarijima.</feature>
+</features>
+<features module="Aplikacija blizanac">
+<feature>• Aplikacija blizanac sada podržava više aplikacija treće strane.</feature>
+</features>
+<features module="Sustav">
+<feature>• Poboljšava se stabilnost sustava pa uređaj radi stabilnije.</feature>
+</features>
+<features module="Sigurnost">
+<feature>• Implementirana je sigurnosna zakrpa za Android (veljača 2025.) za sigurnost sustava. Za više informacija o ažuriranjima značajke HONOR Sigurnost posjetite naše web-mjesto https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja neće utjecati na osobne podatke, ali se svejedno preporučuje izraditi sigurnosnu kopiju podataka prije ažuriranja.
+2. Ako tijekom ažuriranja naiđete na bilo kakve poteškoće, za pomoć nazovite telefonsku korisničku službu tvrtke HONOR ili posjetite centar za korisničku podršku tvrtke HONOR.</feature>
+</features>
+</language>
+
+<language name="hu-hu" code="1038">
+<features module="" type="header">
+<feature>Tisztelt Felhasználó! Ez a frissítés az AI-radír funkciót vezeti be. Az Ikeralkalmazás mostantól több harmadik féltől származó alkalmazást támogat. Ez a frissítés bizonyos helyzetekben optimalizálja a felvételkészítési hatást és javítja a rendszer stabilitását. Ezen kívül egy biztonsági frissítést is tartalmaz. Frissítsen, hogy élvezhesse a legújabb funkciókat és fejlesztéseket!</feature>
+</features>
+<features module="Galéria">
+<feature>• Az új AI-radír segítségével egyetlen koppintással intelligensen eltávolíthatja a képekről a járókelőket és más nem kívánt elemeket. Próbálja ki: Galéria > Válasszon ki egy fényképet > Szerkesztés > AI-radír.</feature>
+</features>
+<features module="Kamera">
+<feature>• Bizonyos helyzetekben optimalizálja a fényképezés működését.</feature>
+</features>
+<features module="Ikeralkalmazás">
+<feature>• Az Ikeralkalmazás mostantól több harmadik féltől származó alkalmazást támogat.</feature>
+</features>
+<features module="Rendszer">
+<feature>• Javítja a rendszer stabilitását, így a készülék zökkenőmentesebben működik.</feature>
+</features>
+<features module="Biztonság">
+<feature>• Tartalmazz az Android biztonsági javítását (2025. február), amely fokozza a rendszer biztonságát. A HONOR biztonsági javításaival kapcsolatos további információkért keresse fel weboldalunkat: https://www.honor.com/hu/support/bulletin/2025/2</feature>
+</features>
+<features module="Megjegyzések:" type="end">
+<feature>1. A frissítés telepítése nem érinti az Ön személyes adatait, de a frissítés megkezdése előtt ajánlott biztonsági másolatot készíteni az adatokról.
+2. Ha problémába ütközik a frissítés során, hívja a HONOR ügyfélszolgálati forródrótját, vagy keresse fel a HONOR szervizközpontját.</feature>
+</features>
+</language>
+
+<language name="in-id" code="1057">
+<features module="" type="header">
+<feature>Pengguna yang terhormat, pembaruan ini memperkenalkan Penghapus AI. Kembaran Aplikasi mendukung lebih banyak aplikasi pihak ketiga. Rilis ini juga mengoptimalkan efek pengambilan gambar di beberapa skenario dan meningkatkan stabilitas sistem. Selain itu, pembaruan ini menyertakan penambal keamanan. Instal pembaruan ini untuk menikmati berbagai fitur dan peningkatan baru.</feature>
+</features>
+<features module="Galeri">
+<feature>• Penghapus AI yang baru dapat membantu Anda menghapus orang yang lewat atau elemen lainnya yang tidak diinginkan dari gambar dengan sekali ketuk. Cobalah dengan membuka: Galeri > Pilih foto > Edit > Penghapus AI.</feature>
+</features>
+<features module="Kamera">
+<feature>• Mengoptimalkan efek pengambilan gambar di beberapa skenario.</feature>
+</features>
+<features module="Kembaran Aplikasi">
+<feature>• Kembaran Aplikasi kini mendukung lebih banyak aplikasi pihak ketiga.</feature>
+</features>
+<features module="Sistem">
+<feature>• Meningkatkan stabilitas sistem sehingga perangkat berjalan dengan lebih stabil.</feature>
+</features>
+<features module="Keamanan">
+<feature>• Penambal keamanan Android (Feb 2025) telah disertakan untuk keamanan sistem. Untuk informasi selengkapnya tentang pembaruan Keamanan HONOR, kunjungi situs web kami https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Catatan:" type="end">
+<feature>1. Menginstal pembaruan ini tidak akan memengaruhi data pribadi Anda, tetapi sebaiknya Anda tetap mencadangkan data Anda sebelum menginstal pembaruan.
+2. Jika Anda mengalami masalah apa pun selama pembaruan, hubungi saluran siaga layanan HONOR atau kunjungi pusat layanan pelanggan HONOR untuk mendapatkan bantuan.</feature>
+</features>
+</language>
+
+<language name="id-" code="1057">
+<features module="" type="header">
+<feature>Pengguna yang terhormat, pembaruan ini memperkenalkan Penghapus AI. Kembaran Aplikasi mendukung lebih banyak aplikasi pihak ketiga. Rilis ini juga mengoptimalkan efek pengambilan gambar di beberapa skenario dan meningkatkan stabilitas sistem. Selain itu, pembaruan ini menyertakan penambal keamanan. Instal pembaruan ini untuk menikmati berbagai fitur dan peningkatan baru.</feature>
+</features>
+<features module="Galeri">
+<feature>• Penghapus AI yang baru dapat membantu Anda menghapus orang yang lewat atau elemen lainnya yang tidak diinginkan dari gambar dengan sekali ketuk. Cobalah dengan membuka: Galeri > Pilih foto > Edit > Penghapus AI.</feature>
+</features>
+<features module="Kamera">
+<feature>• Mengoptimalkan efek pengambilan gambar di beberapa skenario.</feature>
+</features>
+<features module="Kembaran Aplikasi">
+<feature>• Kembaran Aplikasi kini mendukung lebih banyak aplikasi pihak ketiga.</feature>
+</features>
+<features module="Sistem">
+<feature>• Meningkatkan stabilitas sistem sehingga perangkat berjalan dengan lebih stabil.</feature>
+</features>
+<features module="Keamanan">
+<feature>• Penambal keamanan Android (Feb 2025) telah disertakan untuk keamanan sistem. Untuk informasi selengkapnya tentang pembaruan Keamanan HONOR, kunjungi situs web kami https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Catatan:" type="end">
+<feature>1. Menginstal pembaruan ini tidak akan memengaruhi data pribadi Anda, tetapi sebaiknya Anda tetap mencadangkan data Anda sebelum menginstal pembaruan.
+2. Jika Anda mengalami masalah apa pun selama pembaruan, hubungi saluran siaga layanan HONOR atau kunjungi pusat layanan pelanggan HONOR untuk mendapatkan bantuan.</feature>
+</features>
+</language>
+
+<language name="it-it" code="1040">
+<features module="" type="header">
+<feature>Gentile utente, questo aggiornamento introduce la funzione Gomma AI. È stato ampliato il numero delle app di terze parti supportate da App gemella. Questa versione ottimizza anche l'effetto di scatto in alcuni scenari e migliora la stabilità del sistema. Inoltre, incorpora una patch di sicurezza. Effettua l'aggiornamento per usufruire delle nuove funzionalità e dei miglioramenti.</feature>
+</features>
+<features module="Galleria">
+<feature>• La nuova Gomma AI può aiutarti a rimuovere in modo intelligente intrusi e altri elementi indesiderati dalle immagini con un solo tocco. Per provare la funzione, vai in: Galleria > Seleziona una foto > Modifica > Gomma AI.</feature>
+</features>
+<features module="Fotocamera">
+<feature>• Viene ottimizzato l'effetto di scatto in alcuni scenari.</feature>
+</features>
+<features module="App gemella">
+<feature>• È stato ampliato ora il numero delle app di terze parti supportate da App gemella.</feature>
+</features>
+<features module="Sistema">
+<feature>• Viene migliorata la stabilità del sistema per garantire un funzionamento più stabile del dispositivo.</feature>
+</features>
+<features module="Sicurezza">
+<feature>• È stata incorporata la patch di sicurezza di Android (febbraio 2025) per garantire la sicurezza del sistema. Per ulteriori informazioni sugli aggiornamenti di sicurezza HONOR, visita il sito Web all'indirizzo https://www.honor.com/it/support/bulletin/2025/2</feature>
+</features>
+<features module="Note:" type="end">
+<feature>1. L'installazione di questo aggiornamento non avrà effetto sulle informazioni personali, ma si consiglia comunque di effettuare un backup prima di procedere.
+2. Se si verificano problemi durante l'aggiornamento, contatta il servizio call center di HONOR oppure recati presso un centro servizio clienti HONOR per ricevere supporto.</feature>
+</features>
+</language>
+
+<language name="it-ch" code="1040">
+<features module="" type="header">
+<feature>Gentile utente, questo aggiornamento introduce la funzione Gomma AI. È stato ampliato il numero delle app di terze parti supportate da App gemella. Questa versione ottimizza anche l'effetto di scatto in alcuni scenari e migliora la stabilità del sistema. Inoltre, incorpora una patch di sicurezza. Effettua l'aggiornamento per usufruire delle nuove funzionalità e dei miglioramenti.</feature>
+</features>
+<features module="Galleria">
+<feature>• La nuova Gomma AI può aiutarti a rimuovere in modo intelligente intrusi e altri elementi indesiderati dalle immagini con un solo tocco. Per provare la funzione, vai in: Galleria > Seleziona una foto > Modifica > Gomma AI.</feature>
+</features>
+<features module="Fotocamera">
+<feature>• Viene ottimizzato l'effetto di scatto in alcuni scenari.</feature>
+</features>
+<features module="App gemella">
+<feature>• È stato ampliato ora il numero delle app di terze parti supportate da App gemella.</feature>
+</features>
+<features module="Sistema">
+<feature>• Viene migliorata la stabilità del sistema per garantire un funzionamento più stabile del dispositivo.</feature>
+</features>
+<features module="Sicurezza">
+<feature>• È stata incorporata la patch di sicurezza di Android (febbraio 2025) per garantire la sicurezza del sistema. Per ulteriori informazioni sugli aggiornamenti di sicurezza HONOR, visita il sito Web all'indirizzo https://www.honor.com/it/support/bulletin/2025/2</feature>
+</features>
+<features module="Note:" type="end">
+<feature>1. L'installazione di questo aggiornamento non avrà effetto sulle informazioni personali, ma si consiglia comunque di effettuare un backup prima di procedere.
+2. Se si verificano problemi durante l'aggiornamento, contatta il servizio call center di HONOR oppure recati presso un centro servizio clienti HONOR per ricevere supporto.</feature>
+</features>
+</language>
+
+<language name="iw-il" code="1037">
+<features module="" type="header">
+<feature>משתמש יקר, עדכון זה מוסיף לראשונה את 'מחק AI'. 'יישום תאום' תומך בעוד יישומי צד שלישי. כמו כן, שחרור זה ממטב את אפקט הצילום בתרחישים מסוימים ומשפר את יציבות המערכת. בנוסף, הוא משלב תיקון אבטחה. עדכן כדי ליהנות מהתכונות והשיפורים החדשים.</feature>
+</features>
+<features module="גלריה">
+<feature>‏• 'מחק AI' החדש יכול לעזור לך להסיר בצורה חכמה את העוברים ושבים ורכיבים לא רצויים אחרים מהתמונות בהקשה אחת. נסה זאת על-ידי מעבר אל 'גלריה' > 'בחר תמונה' > 'ערוך' > 'מחק AI'.</feature>
+</features>
+<features module="מצלמה">
+<feature>‏• ממטב את אפקט הצילום בתרחישים מסוימים.</feature>
+</features>
+<features module="יישום תאום">
+<feature>‏• 'יישום תאום' תומך כעת בעוד יישומי צד שלישי.</feature>
+</features>
+<features module="מערכת">
+<feature>‏• משפר את יציבות המערכת כדי לגרום להתקן שלך לפעול בצורה יציבה יותר.</feature>
+</features>
+<features module="אבטחה">
+<feature>‏• 'תיקון אבטחה של Android' (פברואר 2025) שולב למען אבטחת המערכת. למידע נוסף על עדכוני 'אבטחה של HONOR', אפשר לבקר באתר האינטרנט שלנו בכתובת: https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="הערות:" type="end">
+<feature>‏1. התקנת עדכון זה לא תשפיע על הנתונים האישיים שלך, אך עדיין מומלץ לגבות את הנתונים לפני העדכון.
+‏2. אם מופיעות בעיות כלשהן במהלך העדכון, יש להתקשר לקו החם של השירות של HONOR או ללכת למרכז שירות הלקוחות של HONOR לקבלת תמיכה.</feature>
+</features>
+</language>
+
+<language name="he-" code="1037">
+<features module="" type="header">
+<feature>משתמש יקר, עדכון זה מוסיף לראשונה את 'מחק AI'. 'יישום תאום' תומך בעוד יישומי צד שלישי. כמו כן, שחרור זה ממטב את אפקט הצילום בתרחישים מסוימים ומשפר את יציבות המערכת. בנוסף, הוא משלב תיקון אבטחה. עדכן כדי ליהנות מהתכונות והשיפורים החדשים.</feature>
+</features>
+<features module="גלריה">
+<feature>‏• 'מחק AI' החדש יכול לעזור לך להסיר בצורה חכמה את העוברים ושבים ורכיבים לא רצויים אחרים מהתמונות בהקשה אחת. נסה זאת על-ידי מעבר אל 'גלריה' > 'בחר תמונה' > 'ערוך' > 'מחק AI'.</feature>
+</features>
+<features module="מצלמה">
+<feature>‏• ממטב את אפקט הצילום בתרחישים מסוימים.</feature>
+</features>
+<features module="יישום תאום">
+<feature>‏• 'יישום תאום' תומך כעת בעוד יישומי צד שלישי.</feature>
+</features>
+<features module="מערכת">
+<feature>‏• משפר את יציבות המערכת כדי לגרום להתקן שלך לפעול בצורה יציבה יותר.</feature>
+</features>
+<features module="אבטחה">
+<feature>‏‏• 'תיקון אבטחה של Android' (פברואר 2025) שולב למען אבטחת המערכת. למידע נוסף על עדכוני 'אבטחה של HONOR', אפשר לבקר באתר האינטרנט שלנו בכתובת: https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="הערות:" type="end">
+<feature>‏1. התקנת עדכון זה לא תשפיע על הנתונים האישיים שלך, אך עדיין מומלץ לגבות את הנתונים לפני העדכון.
+‏2. אם מופיעות בעיות כלשהן במהלך העדכון, יש להתקשר לקו החם של השירות של HONOR או ללכת למרכז שירות הלקוחות של HONOR לקבלת תמיכה.</feature>
+</features>
+</language>
+
+<language name="ja-jp" code="1041">
+<features module="" type="header">
+<feature>ユーザーの皆様、今回の更新では、AI消しゴムが導入されます。ツインアプリでより多くのサードパーティ製アプリがサポートされます。また、今回のリリースでは、一部のシナリオにおいて撮影体験が最適化され、システム安定性が改善されます。さらに、セキュリティパッチが組み込まれます。更新して、新機能と改善点をお楽しみください。</feature>
+</features>
+<features module="ギャラリー">
+<feature>• 新しいAI消しゴムによって、通行人やその他不要な要素を1回のタップで画面からインテリジェントに削除できます。[ギャラリー] > [写真を選択] > [編集] > [AI消しゴム]に移動して試してください。</feature>
+</features>
+<features module="カメラ">
+<feature>• 一部のシナリオにおける撮影効果が最適化されます。</feature>
+</features>
+<features module="ツインアプリ">
+<feature>• ツインアプリでより多くのサードパーティ製アプリがサポートされます。</feature>
+</features>
+<features module="システム">
+<feature>• システム安定性が強化され、デバイスがより安定して動作するようになります。</feature>
+</features>
+<features module="セキュリティ">
+<feature>• Androidセキュリティパッチ（2025年2月）がシステムセキュリティのために組み込まれました。HONORのセキュリティ更新の詳細については、当社のWebサイトをご覧ください：https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="注意：" type="end">
+<feature>1. この更新をインストールしてもユーザーの個人情報に影響はありませんが、更新前にバックアップすることをおすすめします。
+2. 更新中に問題が発生した場合は、HONORサービスホットラインにお電話をいただくか、HONORカスタマーサービスセンターでサポートを受けてください。</feature>
+</features>
+</language>
+
+<language name="ka-ge" code="1079">
+<features module="" type="header">
+<feature>ძვირფასო მომხმარებელო, ამ განახლებით გაგაცნობთ AI საშლელს. ტყუპი აპით მხარდაჭერილია მესამე მხარის მეტი აპი. გარდა ამისა, ამ გამოშვებაში ოპტიმიზებულია გადაღების ეფექტი გარკვეულ სცენარებში და გაუმჯობესებულია სისტემის სტაბილურობა. ამასთან, ჩართულია უსაფრთხოების შესწორებაც. განაახლეთ, რათა ისარგებლოთ ახალი ფუნქციებითა და გაუმჯობესებებით.</feature>
+</features>
+<features module="გალერეა">
+<feature>• ახალი AI საშლელი დაგეხმარებათ, ერთი შეხებით, ჭკვიანურად ამოშალოთ სურათებიდან გამვლელები და სხვა არასასურველი ელემენტები. გამოსცადეთ ის მენიუდან: გალერეა > ფოტოს არჩევა > რედაქტირ. > AI საშლელი.</feature>
+</features>
+<features module="კამერა">
+<feature>• ოპტიმიზებულია გადაღების გამოცდილება გარკვეულ სცენარებში.</feature>
+</features>
+<features module="ტყუპი აპი">
+<feature>• ტყუპი აპით მხარდაჭერილია მესამე მხარის მეტი აპი.</feature>
+</features>
+<features module="სისტემა">
+<feature>• გაუმჯობესებულია სისტემის სტაბილურობა, რის შედეგადაც მოწყობილობა უფრო სტაბილურად მუშაობს.</feature>
+</features>
+<features module="უსაფრთხოება">
+<feature>• Android-ის უსაფრთხოების შესწორება (თებ., 2025) ჩაშენებულია სისტემის უსაფრთხოებისთვის. HONOR-ის უსაფრთხოების განახლებების შესახებ დამატებითი ინფორმაციისთვის ეწვიეთ ჩვენს ვებსაიტს: https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="შენიშვნები:" type="end">
+<feature>1. ამ განახლების ინსტალაცია გავლენას არ მოახდენს თქვენს პერსონალურ მონაცემებზე, მაგრამ მაინც რეკომენდებულია განახლებამდე თქვენი მონაცემების სარეზერვო ასლის შექმნა.
+2. თუ განახლების დროს რაიმე პრობლემა შეგექმნათ, მხარდაჭერისთვის დარეკეთ HONOR-ის მომსახურების ცხელ ხაზზე ან ეწვიეთ HONOR-ის კლიენტთა სერვისცენტრს.</feature>
+</features>
+</language>
+
+<language name="kk-kz" code="1087">
+<features module="" type="header">
+<feature>Құрметті пайдаланушы, бұл жаңарту «ЖИ өшіргіші» мүмкіндігін ұсынады. «Қолданба көшірмесі» көбірек үшінші тарап қолданбаларына қолдау көрсетеді. Сондай-ақ бұл шығарылым кейбір сценарийлерде түсіру әсерін оңтайландырады. Сондай-ақ ол жүйе тұрақтылығын жақсартады. Сондай-ақ ол қауіпсіздік патчын біріктіреді. Жаңа мүмкіндіктер мен жақсартуларды пайдалану үшін жаңартыңыз.</feature>
+</features>
+<features module="Галерея">
+<feature>• Жаңа «ЖИ өшіргіші» мүмкіндігі бір рет түрту арқылы кескіндерден жүргіншілер мен басқа қажетсіз элементтерді зерделі түрде жоюға көмектеседі. «Галерея» > «Фотосуретті таңдау» > «Өңдеу» > «ЖИ өшіргіші» тармағына өту арқылы қолданып көріңіз.</feature>
+</features>
+<features module="Камера">
+<feature>• Кейбір сценарийлерде түсіру әсерін оңтайландырады.</feature>
+</features>
+<features module="Қолданба көшірмесі">
+<feature>• «Қолданба көшірмесі» енді көбірек үшінші тарап қолданбаларына қолдау көрсетеді.</feature>
+</features>
+<features module="Жүйе">
+<feature>• Құрылғының тұрақты жұмыс істеуі үшін жүйенің тұрақтылығын жақсартады.</feature>
+</features>
+<features module="Қауіпсіздік">
+<feature>• Android қауіпсіздік патчы (ақпан, 2025) жүйе қауіпсіздігі үшін біріктірілген. HONOR қауіпсіздік жаңартулары туралы қосымша ақпарат алу үшін біздің веб-сайтқа кіріңіз: https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Ескертпелер:" type="end">
+<feature>1. Бұл жаңартуды орнату жеке деректеріңізге әсер етпейді, бірақ жаңартпас бұрын деректердің сақтық көшірмесін жасау ұсынылады.
+2. Жаңарту барысында мәселелер орын алса, қолдау алу үшін HONOR қызмет көрсету орталығының байланыс желісіне хабарласыңыз немесе HONOR тұтынушыларға қызмет көрсету орталығына барыңыз.</feature>
+</features>
+</language>
+
+<language name="km-kh" code="1107">
+<features module="" type="header">
+<feature>អ្នកប្រើប្រាស់ជាទីគោរព ការធ្វើបច្ចុប្បន្នភាពនេះណែនាំ ប្រដាប់លុប AI ។ កម្មវិធីភ្លោះគាំទ្រកម្មវិធីភាគីទីបីបន្ថែមទៀត។ ការចេញផ្សាយនេះក៏បង្កើនប្រសិទ្ធភាពការថតនៅក្នុងសេណារីយ៉ូមួយចំនួន និងធ្វើឱ្យប្រសើរឡើងនូវស្ថេរភាពប្រព័ន្ធ។ លើសពីនេះ វារួមបញ្ចូលនូវបំណះសុវត្ថិភាព។ ធ្វើបច្ចុប្បន្នភាពដើម្បីរីករាយជាមួយមុខងារ និងការកែលម្អថ្មី។</feature>
+</features>
+<features module="វិចិត្រសាល">
+<feature>• ប្រដាប់លុប AI ថ្មីអាចជួយអ្នកយកអ្នកឆ្លងកាត់ និងធាតុផ្សំដែលមិនចង់បានផ្សេងទៀតចេញពីរូបភាពបានយ៉ាងឆ្លាតវៃត្រឹមមួយប៉ះ។ សាកល្បងប្រើវាដោយចូលទៅកាន់៖ វិចិត្រសាល > ជ្រើសរើសរូបថត > កែ > ប្រដាប់លុប AI។</feature>
+</features>
+<features module="កាមេរ៉ា">
+<feature>• ធ្វើឱ្យបែបផែនថតប្រសើរឡើងក្នុងសេណារីយោមួយចំនួន។</feature>
+</features>
+<features module="កម្មវិធីភ្លោះ">
+<feature>• អាចប្រើកម្មវិធីភ្លោះជាមួយកម្មវិធីរបស់ភាគីទីបីច្រើនទៀត។</feature>
+</features>
+<features module="ប្រព័ន្ធ">
+<feature>• បង្កើនស្ថេរភាពប្រព័ន្ធ ដើម្បីធ្វើឱ្យឧបករណ៍របស់អ្នកដំណើរការបានកាន់តែមានស្ថិរភាព។</feature>
+</features>
+<features module="សន្តិសុខ">
+<feature>• បំណះសុវត្ថិភាព Android (ខែកុម្ភៈ ឆ្នាំ 2025) ត្រូវបានដាក់បញ្ចូលសម្រាប់សុវត្ថិភាពប្រព័ន្ធ។ សម្រាប់ព័ត៌មានបន្ថែមអំពីបច្ចុប្បន្នភាពសន្តិសុខ HONOR សូមចូលទៅគេហទំព័ររបស់យើង https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="កំណត់សម្គាល់៖" type="end">
+<feature>1. ការដំឡើងបច្ចុប្បន្នភាពនេះនឹងមិនប៉ះពាល់ទិន្នន័យផ្ទាល់ខ្លួនរបស់អ្នកទេ ប៉ុន្តែនៅតែណែនាំឱ្យធ្វើការបម្រុងទុកជាមុនដដែល។
+2. ប្រសិនបើអ្នកជួបបញ្ហាណាមួយក្នុងអំឡុងពេលធ្វើបច្ចុប្បន្នភាព សូមហៅទូរស័ព្ទទៅខ្សែទូរស័ព្ទរហ័សផ្នែកសេវាកម្ម HONOR ឬទៅកាន់មជ្ឈមណ្ឌលសេវាកម្មអតិថិជន HONOR ដើម្បីទទួលបានជំនួយ។</feature>
+</features>
+</language>
+
+<language name="kn-IN" code="1107">
+<features module="" type="header">
+<feature>ಆತ್ಮೀಯ ಬಳಕೆದಾರರೇ, ಈ ನವೀಕರಣವು AI ಎರೇಸರ್ ಅನ್ನು ಪರಿಚಯಿಸುತ್ತದೆ. ಆ್ಯಪ್ ಟ್ವಿನ್ ಹೆಚ್ಚಿನ ತರ್ಡ್-ಪಾರ್ಟಿ ಆ್ಯಪ್‍‍ಗಳನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ. ಈ ಬಿಡುಗಡೆಯು ಕೆಲವು ಸನ್ನಿವೇಶಗಳಲ್ಲಿ ಶೂಟಿಂಗ್ ಎಫೆಕ್ಟ್ ಅನ್ನು ಸಹ ಆಪ್ಟಿಮೈಸ್ ಮಾಡುತ್ತದೆ ಮತ್ತು ಸಿಸ್ಟಂ ಸ್ಥಿರತೆಯನ್ನು ಸುಧಾರಿಸುತ್ತದೆ. ಹೆಚ್ಚುವರಿಯಾಗಿ, ಇದು ಭದ್ರತಾ ಪ್ಯಾಚ್ ಅನ್ನು ಅಳವಡಿಸುತ್ತದೆ. ಹೊಸ ಸೌಲಭ್ಯಗಳು ಮತ್ತು ಸುಧಾರಣೆಗಳನ್ನು ಆನಂದಿಸಲು ನವೀಕರಿಸಿ.</feature>
+</features>
+<features module="ಗ್ಯಾಲರಿ">
+<feature>• ಹೊಸ AI ಎರೇಸರ್ ನಿಮಗೆ ಒಂದೇ ಟ್ಯಾಪ್‌ನ ಮೂಲಕ ಚಿತ್ರಗಳಲ್ಲಿರುವ ದಾರಿಹೋಕರು ಮತ್ತು ಇತರ ಅನಗತ್ಯ ಅಂಶಗಳನ್ನು ಬುದ್ಧಿವಂತಿಕೆಯಿಂದ ತೆಗೆದುಹಾಕಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಇಲ್ಲಿಗೆ ಹೋಗುವ ಮೂಲಕ ಇದನ್ನು ಪ್ರಯತ್ನಿಸಿ: ಗ್ಯಾಲರಿ > ಫೋಟೋ ಆಯ್ಕೆಮಾಡಿ > ಎಡಿಟ್ ಮಾಡಿ > AI ಎರೇಸರ್.</feature>
+</features>
+<features module="ಕ್ಯಾಮರಾ">
+<feature>• ಕೆಲವು ಸನ್ನಿವೇಶಗಳಲ್ಲಿ ಶೂಟಿಂಗ್ ಎಫೆಕ್ಟ್ ಅನ್ನು ಆಪ್ಟಿಮೈಸ್ ಮಾಡುತ್ತದೆ.</feature>
+</features>
+<features module="ಆ್ಯಪ್ ಟ್ವಿನ್">
+<feature>• ಆ್ಯಪ್ ಟ್ವಿನ್ ಈಗ ಹೆಚ್ಚಿನ ತರ್ಡ್-ಪಾರ್ಟಿ ಆ್ಯಪ್‌ಗಳನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ.</feature>
+</features>
+<features module="ಸಿಸ್ಟಂ">
+<feature>• ನಿಮ್ಮ ಸಾಧನವನ್ನು ಹೆಚ್ಚು ಸ್ಥಿರವಾಗಿ ರನ್ ಮಾಡಲು ಸಿಸ್ಟಂ ಸ್ಥಿರತೆಯನ್ನು ವರ್ಧಿಸುತ್ತದೆ.</feature>
+</features>
+<features module="ಭದ್ರತೆ">
+<feature>• ಸಿಸ್ಟಂ ಭದ್ರತೆಗಾಗಿ Android ಭದ್ರತಾ ಪ್ಯಾಚ್ (ಫೆಬ್ರವರಿ 2025) ಅನ್ನು ಅಳವಡಿಸಲಾಗಿದೆ. HONOR ಭದ್ರತಾ ನವೀಕರಣಗಳ ಕುರಿತು ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ, ದಯವಿಟ್ಟು ನಮ್ಮ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಿ https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="ಟಿಪ್ಪಣಿಗಳು:" type="end">
+<feature>1. ಈ ನವೀಕರಣವನ್ನು ಸ್ಥಾಪಿಸುವುದರಿಂದ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಡೇಟಾದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುವುದಿಲ್ಲ, ಆದರೆ ನವೀಕರಿಸುವ ಮೊದಲು ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡಲು ಈಗಲೂ ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ.
+2. ನವೀಕರಣದ ಸಮಯದಲ್ಲಿ ನೀವು ಯಾವುದೇ ಸಮಸ್ಯೆಗಳನ್ನು ಎದುರಿಸಿದರೆ, ದಯವಿಟ್ಟು HONOR ಸೇವಾ ಹಾಟ್‌ಲೈನ್‌ಗೆ ಕರೆ ಮಾಡಿ ಅಥವಾ ಬೆಂಬಲಕ್ಕಾಗಿ HONOR ಗ್ರಾಹಕ ಸೇವಾ ಕೇಂದ್ರಕ್ಕೆ ಹೋಗಿ.</feature>
+</features>
+</language>
+
+<language name="ko-kr" code="1042">
+<features module="" type="header">
+<feature>사용자 여러분, 이번 업데이트에서는 AI 지우개 기능이 도입됩니다. 트윈 앱은 더 많은 타사 앱을 지원합니다. 또한 이번 릴리스에서는 일부 시나리오에서 촬영 효과를 최적화하고 시스템 안전성을 개선했습니다. 뿐만 아니라, 보안 패치를 통합했습니다. 업데이트하여 새로운 기능과 개선 사항을 즐겨보세요.</feature>
+</features>
+<features module="갤러리">
+<feature>• 새로운 AI 지우개는 한 번의 탭으로 이미지에서 지나가는 사람이나 기타 원치 않는 요소를 지능적으로 제거할 수 있도록 도와줍니다. 갤러리 > 사진 선택 > 편집 > AI 지우개로 이동해서 사용해 보세요.</feature>
+</features>
+<features module="카메라">
+<feature>• 일부 시나리오에서 촬영 효과를 최적화합니다.</feature>
+</features>
+<features module="트윈 앱">
+<feature>• 이제 트윈 앱은 더 많은 타사 앱을 지원합니다.</feature>
+</features>
+<features module="시스템">
+<feature>• 시스템 안정성을 강화하여 장치를 더욱 안정적으로 실행할 수 있도록 합니다.</feature>
+</features>
+<features module="보안">
+<feature>• 시스템 보안을 위해 Android 보안 패치(2025년 2월)가 통합되었습니다. HONOR 보안 업데이트에 대해 자세히 알아보려면 당사 웹사이트 https://www.honor.com/global/support/bulletin/2025/2 (을)를 방문하세요</feature>
+</features>
+<features module="참고:" type="end">
+<feature>1. 이 업데이트를 설치해도 개인 데이터에는 영향을 미치지 않지만 업데이트하기 전에 데이터를 백업하는 것이 좋습니다.
+2. 업데이트 중에 문제가 발생하면 HONOR 서비스 핫라인에 전화하거나 HONOR 고객 서비스 센터로 가서 지원을 받으세요.</feature>
+</features>
+</language>
+
+<language name="lo-la" code="1108">
+<features module="" type="header">
+<feature>ສະ​ບາຍ​ດີ​ຜູ້​ໃຊ້, ການ​ອັບ​ເດດນີ້ແນະ​ນຳ​ຢາງລຶບ AI. ແອັບຄູ່ຮອງ​ຮັບ​ແອັບ​ພາກ​ສ່ວນ​ທີ​ສາມ​ເພີ່ມ​ເຕີມ​. ນອກນັ້ນ ການ​ເປີດ​ຕົວ​ນີ້ຍັງ​ປັບ​ເອັບ​ເຝັກ​ການ​ຖ່າຍ​​ຮູບ​ໃນ​ບາງ​ສະ​ພາບ​ການໃຫ້​ເໝາະ​ສົມ ແລະ ປັບ​ປຸງ​ຄວາມ​ສະ​ຖຽນ​ຂອງ​ລະ​ບົບ. ນອກຈາກ​ນີ້,​ ມັນຍັງ​ລວມ​ໂປ​ຣ​ແກ​ຣມ​ແກ້​ໄຂ​ຄວາມ​ປອດ​ໄພ​ເຂົ້າ​ກັນ. ອັບ​ເດດ​ເພື່ອ​ມ່ວນ​​ຊື່ນ​ກັບ​ຄຸນ​ສົມ​ບັດ ແລະ ການ​ປັບ​ປຸງ​ໃໝ່.</feature>
+</features>
+<features module="ແກ​ເລີ​ຣີ">
+<feature>• ​ຢາງລຶບ AI ໃໝ່​ສາ​ມາດ​ຊ່ວຍ​ທ່ານ​ເອົາຄົນ​ຍ່າງ​ຜ່ານ​ ແລະ ອົງ​ປະ​ກອບ​ທີ່​ບໍ່​ຕ້ອງ​ການ​ອື່ນໆອອກ​ຈາກ​ຮູບ​ພາບ​ໄດ້​ຢ່າງ​ອັດ​ສະ​ລິ​ຍະ​ດ້ວຍ​ການ​ແຕະ​ຄັ້ງ​ດຽວ. ​ລອງ​ໃຊ້​ມັນ​ໄດ້​ໂດຍ​ການ​ໄປ​ທີ່: ແກ​ເລີ​ຣີ > ​ເ​ລືອກ​ຮູບ​ຖ່າຍ > ​ແກ້​ໄຂ > ​ຢາງລຶບ AI.</feature>
+</features>
+<features module="ກ້ອງຖ່າຍຮູບ">
+<feature>• ປັບເອັບ​ເຝັກການ​ຖ່າຍ​ຮູບໃນບາງສະພາບການ​ໃຫ້ເໝາະສົມ.</feature>
+</features>
+<features module="ແອັບຄູ່​">
+<feature>• ຕອນ​ນີ້ແອັບຄູ່​ຮອງ​ຮັບ​ແອັບ​ພາກ​ສ່ວນ​ທີ​ສາມ​ເພີ່ມ​ເຕີມ​ແລ້ວ.</feature>
+</features>
+<features module="​ລະບົບ">
+<feature>• ຍົກ​ລະ​ດັບຄວາມສະຖຽນຂອງລະບົບ ເພື່ອເຮັດໃຫ້ອຸປະກອນຂອງທ່ານເຮັດວຽກໄດ້ສະຖຽນຍິ່ງຂຶ້ນ.</feature>
+</features>
+<features module="ຄວາມປອດ​ໄພ">
+<feature>• ໂປ​ຣ​ແກ​ຣມ​ແກ້​ໄຂ​ຄວາມ​ປອດ​ໄພ​ຂອງ Android (ກຸມ​ພາ 2025) ​ໄດ້ຖືກລວມ​​ເຂົ້າ​ເປັນ​ການ​ຮັກ​ສາ​ຄວາມ​ປອດ​ໄພ​ລະ​ບົບ. ສຳລັບຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບການອັບເດດດ້ານຄວາມປອດໄພຂອງ HONOR, ກະລຸນາເຂົ້າໄປ​ທີ່ເວັບໄຊຂອງພວກເຮົາ https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="ໝາຍ​ເຫດ:" type="end">
+<feature>1. ການ​ຕິດ​ຕັ້ງ​ການ​ອັບ​ເດດ​ນີ້​ຈະ​ບໍ່​ສົ່ງ​ຜົນ​ຕໍ່​ຂໍ້​ມູນ​ສ່ວນ​ຕົວ​ຂອງ​ທ່ານ, ແຕ່​ຍັງ​ຄົງ​ຂໍ​ແນະ​ນຳ​ໃຫ້​ສຳ​ຮອງ​ຂໍ້​ມູນ​ຂອງ​ທ່ານ​ໄວ້ກ່ອນ​ການ​ອັບ​ເດດ.
+2. ຖ້າທ່ານພົບບັນຫາໃດໆໃນລະຫວ່າງການອັບເດດ, ກະລຸນາໂທຫາສາຍດ່ວນບໍລິການ HONOR ຫຼື ເຂົ້າໄປທີ່ສູນບໍລິການລູກຄ້າ HONOR ເພື່ອຂໍຄວາມຊ່ວຍເຫຼືອ.</feature>
+</features>
+</language>
+
+<language name="lt-lt" code="1063">
+<features module="" type="header">
+<feature>Gerbiamasis naudotojau, šiuo naujiniu pristatomas DI trintukas. Programėlė dvynė dera su daugiau trečiųjų šalių programėlių. Be to, šioje laidoje kai kuriais atvejais optimizuojamas fotografavimo efektas ir pagerinamas sistemos stabilumas. Taip pat įtraukta saugumo pataisa. Atnaujinkite, kad galėtumėte mėgautis naujomis funkcijomis ir patobulinimais.</feature>
+</features>
+<features module="Galerija">
+<feature>• Naujasis DI trintukas gali padėti vienu lietimu išmaniai pašalinti praeivius ir kitus nepageidaujamus elementus iš vaizdų. Išbandykite jį nuėję į Galeriją: ten pasirinkite nuotrauką ir tada „Redaguoti > DI trintukas“.</feature>
+</features>
+<features module="Kamera">
+<feature>• Kai kuriais atvejais optimizuojamas fotografavimo efektas.</feature>
+</features>
+<features module="Programėlė dvynė">
+<feature>• Programėlių dvynė nuo šiol dera su daugiau trečiųjų šalių programėlių.</feature>
+</features>
+<features module="Sistema">
+<feature>• Pagerinamas sistemos stabilumas, todėl įrenginys veikia stabiliau.</feature>
+</features>
+<features module="Saugumas">
+<feature>• Sistemos saugumui užtikrinti įtraukta „Android“ saugumo pataisa (2025 m. vasario mėn.). Jei reikia daugiau informacijos apie HONOR saugumo naujinius, apsilankykite mūsų svetainėje https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Pastabos" type="end">
+<feature>1. Įdiegiant šį naujinį, jūsų asmeniniai duomenys paveikti nebus, tačiau vis tiek rekomenduojama prieš naujinant padaryti atsarginę duomenų kopiją.
+2. Jei naujinimo metu kyla problemų, skambinkite HONOR klientų aptarnavimo karštąja linija arba kreipkitės pagalbos į HONOR klientų aptarnavimo centrą.</feature>
+</features>
+</language>
+
+<language name="lv-lv" code="1062">
+<features module="" type="header">
+<feature>Cien. lietotāj! Ar šo atjauninājumu tiek ieviesta AI dzēšgumija. Lietotnes pāris atbalsta vairāk trešo pušu lietotņu. Ar šo laidienu tiek optimizēts arī uzņemšanas efekts dažos gadījumos un uzlabota sistēmas stabilitāte. Turklāt ir iekļauts drošības ielāps. Atjauniniet, lai izbaudītu jaunās funkcijas un uzlabojumus.</feature>
+</features>
+<features module="Galerija">
+<feature>• Jaunā AI dzēšgumija var palīdzēt jums ar vienu pieskārienu viedi noņemt garāmgājējus un citus nevēlamus elementus no attēliem. Izmēģiniet to, atverot: Galerija > Atlasīt fotoattēlu > Rediģēt > AI dzēšgumija.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimizē uzņemšanas efektu dažiem scenārijiem.</feature>
+</features>
+<features module="Lietotnes pāris">
+<feature>• Lietotnes pāris tagad atbalsta vairāk trešo pušu lietotņu.</feature>
+</features>
+<features module="Sistēma">
+<feature>• Uzlabo sistēmas stabilitāti, padarot jūsu ierīci stabilāku.</feature>
+</features>
+<features module="Drošība">
+<feature>• Sistēmas drošībai iekļauts Android drošības ielāps (2025. gada februāris). Lai iegūtu papildinformāciju par HONOR drošības atjauninājumiem, lūdzu, apmeklējiet mūsu vietni https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Piezīmes." type="end">
+<feature>1. Šī atjauninājuma instalēšana neietekmēs jūsu personas datus, taču joprojām ir ieteicams pirms atjaunināšanas dublēt datus.
+2. Ja atjaunināšanas laikā rodas problēmas, lūdzu, zvaniet HONOR uzziņu dienestam vai dodieties uz HONOR klientu servisa centru, lai saņemtu atbalstu.</feature>
+</features>
+</language>
+
+<language name="mai-IN" code="1062">
+<features module="" type="header">
+<feature>प्रिय उपयोगकर्ता, ई अपडेट AI इरेजर प्रस्तुत करैत अछि। एप ट्विन आओर तेसर-पक्षक एप सभक सपोर्ट करैत अछि। ई रिलीज किछु परिदृश्य सभ मे शूटिंग प्रभाव सेहो अनुकूलित करैत अछि आ सिस्टमक स्थिरता मे सुधार करैत अछि। एकर अतिरिक्त, ई सुरक्षा पैच समाविष्ट करैत अछि। नव विशेषता आ सुधार सभक आनंद लेबाक लेल अपडेट करू।</feature>
+</features>
+<features module="गैलरी">
+<feature>• नव AI इरेजर अहाँ केँ एकहि टैप सँ इमेज सभ सँ राहगीर आ अन्य अवांछित तत्व सभ केँ बुद्धिमानी सँ हटाबए मे मदति कए सकैत अछि। एहि मे जा कए एकरा आजमाउ: गैलरी > फोटो चयन करू > संपादित करू > AI इरेजर।</feature>
+</features>
+<features module="कैमरा">
+<feature>• किछु परिदृश्य सभ मे शूटिंग प्रभाव केँ अनुकूलित करैत अछि।</feature>
+</features>
+<features module="एप ट्विन">
+<feature>एप ट्विन आब आओर तेसर-पक्षक एप सभक सपोर्ट करैत अछि।</feature>
+</features>
+<features module="सिस्टम">
+<feature>• सिस्टमक स्थिरता वर्धित करैत अछि, जाहि सँ अहाँक डिवाइस बेसी स्थिर रूप सँ चलि सकए।</feature>
+</features>
+<features module="सुरक्षा">
+<feature>• सिस्टमक सुरक्षाक लेल Android सुरक्षा पैच (फरवरी 2025) समाविष्ट कयल गेल अछि। HONOR सुरक्षा अपडेट सभक विषय मे आओर जानकारीक लेल, कृपाकए हमरासभक वेबसाइट https://www.honor.com/global/support/bulletin/2025/2 केँ देखू।</feature>
+</features>
+<features module="टिप्पणी:" type="end">
+<feature>1. एहि अपडेट केँ इंस्टॉल कयला सँ अहाँक व्यक्तिगत डेटा प्रभावित नहि होयत, मुदा तैयो अपडेट करए सँ पहिने अपन डेटाक बैकअप लेबाक अनुशंसा कयल जाइत अछि।
+2. यदि अपडेटक दरमियान अहाँ केँ कोनो समस्या अबैत अछि, त' सहायताक लेल कृपाकए HONOR सेवा हॉटलाइन पर कॉल करू वा HONOR ग्राहक सेवा केंद्र पर जाउ।</feature>
+</features>
+</language>
+
+<language name="mi-NZ" code="1062">
+<features module="" type="header">
+<feature>E te kaiwhakamahi, ka whakamōhiotia e tēnei whakahōutanga te Ūkui AI. E tautoko ana te Māhanga taupānga i ētahi anō ngā taupānga rōpū kē. Ka arotautia hoki e tēnei putanga te pānga tākaro i ētahi ngā tauari, ā, ka whakapai ake i te taimautanga pūnaha. Tērā anō, kei te komokomo i tētahi āpure haumarutanga. Whakahōu kia ngahau ki ngā āhuahira me ngā whakapainga hōu.</feature>
+</features>
+<features module="Taiwhanga">
+<feature>• Ka taea e te Ūkui AI hōu te āwhina i a koe ki te tango mōhio i ngā kaihipa me tētahi atu huānga tē hiahiatia mai i ngā atahanga mā tētahi pato kotahi. Whakamātauria mā te haere ki: Taiwhanga > Tīpakohia tētahi whakaahua > Whakatika > Ūkui AI.</feature>
+</features>
+<features module="Kāmera">
+<feature>• Ka arotautia te pānga tākaro i ētahi ngā tauari.</feature>
+</features>
+<features module="Māhanga taupānga">
+<feature>• E ināianei tautoko ana te Māhanga taupānga i ētahi anō ngā taupānga rōpū kē.</feature>
+</features>
+<features module="Pūnaha">
+<feature>• Ka whakarei ake i te taimautanga pūnaha kia ētahi anō ai te haere o tō pūrere.</feature>
+</features>
+<features module="Haumarutanga">
+<feature>• Kua whakaurua te āpure haumarutanga Android (Hui tanguru 2025) mō te haumarutanga pūnaha. Mō ētahi anō mōhiohio mō ngā whakahōutanga Haumarutanga HONOR, haere koa ki tā mātou paetukutuku https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Ngā Tuhipoka:" type="end">
+<feature>1. Kāore e pā te tāuta i tēnei whakahōu ki ō raraunga whaiaro, engari me tārua tonu ō raraunga i mua i te whakahōu.
+2. Ki te tūtaki koe i ētahi take i te wā o te whakahōutanga, waeawera atu koa ki te raina ratonga HONOR, haere rānei ki te pokapū ratonga kiritaki HONOR hei tautoko.</feature>
+</features>
+</language>
+
+<language name="mk-mk" code="1071">
+<features module="" type="header">
+<feature>Почитуван кориснику, ова ажурирање ја воведува Гума за бришење со вештачка интелигенција. Апликација-близнак поддржува повеќе апликации од други производители. Оваа верзија го оптимизира и ефектот при фотографирање во некои сценарија и ја подобрува стабилноста на системот. Дополнително, вградува безбедносна крпеница. Ажурирајте за да уживате во новите карактеристики и подобрувања.</feature>
+</features>
+<features module="Галерија">
+<feature>• Новата Гума за бришење со вештачка интелигенција може да ви помогне интелигентно да ги отстраните случајните минувачи и другите непосакувани елементи од сликите со еден допир. Пробајте ја преку одење во: Галерија > Изберете фотографија > Уреди > Гума за бришење со вештачка интелигенција.</feature>
+</features>
+<features module="Камера">
+<feature>• Го оптимизира ефектот при фотографирање во некои сценарија.</feature>
+</features>
+<features module="Апликација-близнак">
+<feature>• Апликација-близнак сега поддржува повеќе апликации од други производители.</feature>
+</features>
+<features module="Систем">
+<feature>• Ја унапредува стабилноста на системот, со што уредот работи постабилно.</feature>
+</features>
+<features module="Безбедност">
+<feature>• Безбедносната крпеница за Android (февруари 2025 г.) е вградена за безбедност на системот. За повеќе информации за безбедносните ажурирања од HONOR, посетете ја нашата веб-локација https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Белешки:" type="end">
+<feature>1. Инсталирањето на ова ажурирање нема да влијае врз вашите лични податоци, но, се препорачува да направите резервна копија од податоците пред да ажурирате.
+2. Ако се појават проблеми во текот на ажурирањето, јавете се на телефонскиот број на службата за корисници на HONOR или посетете сервисен центар за корисници на HONOR за да добиете поддршка.</feature>
+</features>
+</language>
+
+<language name="ml-IN" code="1071">
+<features module="" type="header">
+<feature>പ്രിയ ഉപയോക്താവേ, ഈ അപ്‌ഡേറ്റ് AI ഇറേസർ അവതരിപ്പിക്കുന്നു. ആപ്പ് ദ്വയം കൂടുതൽ മൂന്നാം-കക്ഷി ആപ്പുകളെ പിന്തുണയ്‌ക്കുന്നു. കൂടാതെ, ഈ റിലീസ് ചില സാഹചര്യങ്ങളിലെ ഷൂട്ടിംഗ് ഇഫക്റ്റ് ഒപ്‌റ്റിമൈസ് ചെയ്യുകയും സിസ്റ്റം സ്ഥിരത മെച്ചപ്പെടുത്തുകയും ചെയ്യുന്നു. അതിനുപുറമേ, ഇത് ഒരു സുരക്ഷാ പാച്ചും ഉൾപ്പെടുത്തുന്നു. പുതിയ സവിശേഷതകളും മെച്ചപ്പെടുത്തലുകളും ആസ്വദിക്കാൻ അപ്‌ഡേറ്റ് ചെയ്യുക.</feature>
+</features>
+<features module="ഗാലറി">
+<feature>• ഇമേജുകളിൽ നിന്ന് വഴിപ്പോക്കരെയും മറ്റ് അനാവശ്യ ഘടകങ്ങളെയും ഒരൊറ്റ ടാപ്പിൽ സമർത്ഥമായി നീക്കംചെയ്യാൻ പുതിയ AI ഇറേസറിന് നിങ്ങളെ സഹായിക്കാൻ കഴിയും. ഇതിലേക്ക് പോയി അത് പരീക്ഷിച്ച് നോക്കുക: ഗാലറി > ഒരു ഫോട്ടോ തിരഞ്ഞെടുക്കുക > എഡിറ്റ് ചെയ്യുക > AI ഇറേസർ.</feature>
+</features>
+<features module="ക്യാമറ">
+<feature>• ചില സാഹചര്യങ്ങളിലെ ഷൂട്ടിംഗ് ഇഫക്റ്റ് ഒപ്‌റ്റിമൈസ് ചെയ്യുന്നു.</feature>
+</features>
+<features module="ആപ്പ് ദ്വയം">
+<feature>• ആപ്പ് ദ്വയം ഇപ്പോൾ കൂടുതൽ മൂന്നാം-കക്ഷി ആപ്പുകളെ പിന്തുണയ്‌ക്കുന്നു.</feature>
+</features>
+<features module="സിസ്റ്റം">
+<feature>• നിങ്ങളുടെ ഉപകരണം കൂടുതൽ സ്ഥിരതയോടെ പ്രവർത്തിക്കാൻ സിസ്റ്റം സ്ഥിരത മെച്ചപ്പെടുത്തുന്നു.</feature>
+</features>
+<features module="സുരക്ഷ">
+<feature>• സിസ്റ്റം സുരക്ഷയ്‌ക്കായി Android സുരക്ഷാ പാച്ച് (ഫെബ്രുവരി 2025) ഉൾപ്പെടുത്തിയിരിക്കുന്നു. HONOR സുരക്ഷാ അപ്‌ഡേറ്റുകൾ സംബന്ധിച്ച കൂടുതൽ വിവരങ്ങൾക്ക്, ഞങ്ങളുടെ വെബ്‌സൈറ്റ് സന്ദർശിക്കുക: https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="കുറിപ്പുകൾ:" type="end">
+<feature>1. ഈ അപ്‌ഡേറ്റ് ഇൻസ്റ്റാൾ ചെയ്യുന്നത് നിങ്ങളുടെ വ്യക്തിഗത ഡാറ്റയെ ബാധിക്കില്ല, എങ്കിൽപ്പോലും അപ്‌ഡേറ്റ് ചെയ്യുന്നതിന് മുമ്പായി നിങ്ങളുടെ ഡാറ്റ ബാക്കപ്പ് ചെയ്യാൻ ശുപാർശ ചെയ്യുന്നു.
+2. അപ്‌ഡേറ്റിനിടെ എന്തെങ്കിലും പ്രശ്‌നങ്ങൾ നേരിടുകയാണെങ്കിൽ, പിന്തുണയ്‌ക്കായി HONOR സർവീസ് ഹോട്ട്‌ലൈനിൽ വിളിക്കുകയോ HONOR ഉപഭോക്തൃ സർവീസ് സെന്റർ സന്ദർശിക്കുകയോ ചെയ്യുക.</feature>
+</features>
+</language>
+
+<language name="mn-MN" code="1071">
+<features module="" type="header">
+<feature>Хүндэт хэрэглэгч танаа, энэхүү шинэчлэлтээр AI Баллуурыг танилцуулж байна. Ихэр Апп илүү олон гуравдагч этгээдийн апликэйшныг дэмждэг болов. Энэ шинэчлэлтээр зарим тохиолдолд зураг авах нөлөөг оновчиллоо. Мөн системийн тогтвортой байдлыг сайжруулж, хамгаалалтын нөхөөс багтаав. Шинэчлээд, шинэ онцлог, сайжруулалтыг хэрэглээрэй.</feature>
+</features>
+<features module="Галерей">
+<feature>• Шинэ AI Баллуур нь зургаас нэг товшилтоор өнгөрч буй хүмүүс болон бусад хүсээгүй элементийг ухаалгаар арилгахад тусална. Үүнийг Галерей > Зураг сонгох > Засах > AI Баллуур луу очиж туршиж үзнэ үү.</feature>
+</features>
+<features module="Камер">
+<feature>• Зарим тохиолдолд зураг авах эффектийг оновчилсон.</feature>
+</features>
+<features module="Ихэр Апп">
+<feature>• Ихэр Апп илүү олон гуравдагч этгээдийн апликэйшнийг дэмждэг болсон.</feature>
+</features>
+<features module="Систем">
+<feature>• Таны төхөөрөмжийг илүү тогтвортой ажиллуулахын тулд системийн тогтвортой байдлыг нэмэгдүүлсэн.</feature>
+</features>
+<features module="Хамгаалалт">
+<feature>• Системийн аюулгүй байдлын үүднээс Андройдын аюулгүй байдлын нөхөөсийг (2025 оны хоёрдугаар сар) нэмсэн. HONOR Хамгаалалтын шинэчлэлтийн талаар нэмэлт мэдээлэл авах бол манай дараах вебсайтаар зочилно уу: https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Тэмдэглэл:" type="end">
+<feature>1. Энэ шинэчлэлтийг суулгах нь таны хувийн мэдээллийг арилгахгүй ч, шинэчлэхийн өмнө өгөгдлөө нөөцөлсөн нь дээр.
+2. Шинэчлэх явцад ямар нэг асуудал тулгарсан тохиолдолд HONOR үйлчилгээний дуудлага хүлээн авах утас руу залгаж эсвэл HONOR хэрэглэгчийн үйлчилгээний төв рүү очиж дэмжлэг авна уу.</feature>
+</features>
+</language>
+
+<language name="mr-IN" code="1071">
+<features module="" type="header">
+<feature>प्रिय वापरकर्ता, या अद्यतनामध्ये AI इरेजर समाविष्ट आहे. अ‍ॅप ट्विन अधिक तृतीय-पक्षीय ॲप्सना सपोर्ट करते. हे प्रकाशन काही परिस्थितींमध्ये शूटिंग प्रभाव देखील अनुकूल करते, सिस्टम स्थिरता सुधारते. याव्यतिरिक्त, यात सुरक्षितता पॅच समाविष्ट आहे. नवीन वैशिष्ट्ये आणि सुधारणांचा आनंद घेण्यासाठी अद्यतनित करा.</feature>
+</features>
+<features module="गॅलरी">
+<feature>• नवीन AI इरेजर आपल्याला एका टॅपने इमेजमधून जाणारे आणि अन्य अवांछित घटक हुशारीने काढून टाकण्यास मदत करू शकते. येथे जाऊन वापरून पहा: गॅलरी > एक फोटो निवडा > संपादित करा > AI इरेजर.</feature>
+</features>
+<features module="कॅमेरा">
+<feature>• काही परिस्थितींमध्ये शूटिंग प्रभाव ऑप्टिमाइझ करते.</feature>
+</features>
+<features module="अ‍ॅप ट्विन">
+<feature>• अ‍ॅप ट्विन आता अधिक तृतीय-पक्षीय ॲप्सना सपोर्ट करते.</feature>
+</features>
+<features module="सिस्टम">
+<feature>• आपले उपकरण अधिक स्थिरपणे चालवण्यासाठी सिस्टम स्थिरता वाढवते.</feature>
+</features>
+<features module="सुरक्षितता">
+<feature>• सिस्टम सुरक्षिततेसाठी Android सुरक्षितता पॅच (फेब्रु 2025) समाविष्ट करण्यात आला आहे. HONOR सुरक्षितता अद्यतनांबद्दल अधिक माहितीसाठी, कृपया आमच्या वेबसाइट https://www.honor.com/global/support/bulletin/2025/2 वर जा</feature>
+</features>
+<features module="नोट्स:" type="end">
+<feature>1. हे अद्यतन स्थापित केल्याने आपल्या वैयक्तिक डेटावर परिणाम होणार नाही, परंतु तरीही अद्यतनित करण्यापूर्वी आपल्या डेटाचा बॅकअप घेण्याची शिफारस केली जाते.
+2. अद्यतनादरम्यान आपल्याला काही समस्या आल्यास, कृपया सपोर्टसाठी HONOR सेवा हॉटलाइनवर कॉल करा किंवा HONOR ग्राहक सेवा केंद्रावर जा.</feature>
+</features>
+</language>
+
+<language name="ms-my" code="1086">
+<features module="" type="header">
+<feature>Pengguna yang dihormati, kemas kini ini memperkenalkan Pemadam AI. Kembar Aplikasi menyokong lebih banyak aplikasi pihak ketiga. Keluaran ini juga mengoptimumkan kesan penangkapan dalam beberapa senario dan meningkatkan kestabilan sistem. Selain itu, ia memasukkan tampalan keselamatan. Kemas kini untuk menikmati ciri dan penambahbaikan baharu.</feature>
+</features>
+<features module="Galeri">
+<feature>• Pemadam AI baharu boleh membantu anda mengeluarkan orang yang lalu-lalang dan elemen lain yang tidak diingini daripada imej dengan satu ketikan. Cuba ciri ini dengan pergi ke: Galeri > Pilih foto > Edit > Pemadam AI.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimumkan kesan penangkapan dalam beberapa senario.</feature>
+</features>
+<features module="Kembar Aplikasi">
+<feature>• Kembar Aplikasi kini menyokong lebih banyak aplikasi pihak ketiga.</feature>
+</features>
+<features module="Sistem">
+<feature>• Meningkatkan kestabilan sistem untuk membolehkan peranti anda berjalan dengan lebih stabil.</feature>
+</features>
+<features module="Keselamatan">
+<feature>• Tampalan keselamatan Android (Feb 2025) telah dimasukkan untuk tujuan keselamatan sistem. Untuk mendapatkan maklumat lanjut tentang kemas kini Keselamatan HONOR, sila lawati laman web kami https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Nota:" type="end">
+<feature>1. Tindakan memasang kemas kini ini tidak akan menjejaskan data peribadi anda, tetapi anda masih disyorkan untuk membuat sandaran data sebelum mengemas kini.
+2. Jika anda menghadapi sebarang isu semasa kemas kini, sila hubungi talian penting khidmat HONOR atau pergi ke pusat khidmat pelanggan HONOR untuk mendapatkan sokongan.</feature>
+</features>
+</language>
+
+<language name="my-mm" code="1109">
+<features module="" type="header">
+<feature>လေးစားရပါသော သုံးစွဲသူ၊ ဤအပ်ဒိတ်တွင် AI Eraser နှင့် မိတ်ဆက်ပေးထားသည်။ အက်ပ် အမြွှာသည် နောက်ထပ် ပြင်ပအဖွဲ့အစည်း အက်ပ်များကို ပံ့ပိုးပေးသည်။ ဤအသစ်ထွက်အပ်ဒိတ်သည် အချို့အခြေအနေများတွင် ရိုက်ကူးမှု အထူးပြုလုပ်ချက်ကိုလည်း အကောင်းဆုံး ချိန်ညှိပေးပြီး စနစ် တည်ငြိမ်မှုကို တိုးမြှင့်ပေးထားသည်။ ထို့အပြင် လုံခြုံရေး အဆင့်မြှင့်ဆော့ဖ်ဝဲကို ပေါင်းစပ်ထည့်သွင်းပေးထားသည်။ အပ်ဒိတ်လုပ်ပြီး လုပ်ဆောင်ချက်အသစ်များနှင့် မြှင့်တင်မှုများကို သုံးစွဲခံစားပါ။</feature>
+</features>
+<features module="ပုံပြခန်း">
+<feature>• AI Eraser အသစ်သည် တစ်ချက်နှိပ်ရုံဖြင့် ရုပ်ပုံများမှ ဖြတ်သန်းသွားလာသူများနှင့် အခြား မလိုလားသော အရာများကို ပါးပါးနပ်နပ် ဖယ်ရှားနိုင်စေသည်။ ဖော်ပြပါအတိုင်းသွား၍ ၎င်းကို စမ်းကြည့်ပါ- ပုံပြခန်း > ဓာတ်ပုံရွေးချယ်မည် > တည်းဖြတ်မည် > AI Eraser။</feature>
+</features>
+<features module="ကင်မရာ">
+<feature>• အချို့အခြေအနေများ၌ ရိုက်ကူးမှု အထူးပြုလုပ်ချက်ကို အကောင်းဆုံးဖြစ်စေရန် ချိန်ညှိပေးသည်။</feature>
+</features>
+<features module="အက်ပ် အမြွှာ">
+<feature>• အက်ပ် အမြွှာသည် ယခုအခါ နောက်ထပ် ပြင်ပအဖွဲ့အစည်း အက်ပ်များကို ပံ့ပိုးပေးသည်။</feature>
+</features>
+<features module="စနစ်">
+<feature>• သင့်စက်ကို ပိုမိုတည်ငြိမ်စွာ လုပ်ဆောင်နိုင်စေရန် စနစ် တည်ငြိမ်မှုကို မြှင့်တင်ပေးသည်။</feature>
+</features>
+<features module="လုံခြုံရေး">
+<feature>• စနစ် လုံခြုံရေးအတွက် Android လုံခြုံရေး အဆင့်မြှင့်ဆော့ဖ်ဝဲ (ဖေဖော်ဝါရီ 2025) ကို ထည့်သွင်းထားသည်။ HONOR လုံခြုံရေး အပ်ဒိတ်များအကြောင်း နောက်ထပ်အချက်အလက်များကို သိရှိရန် ကျွန်ုပ်တို့၏ ဖော်ပြပါဝက်ဘ်ဆိုဒ်သို့ သွားရောက်ကြည့်ရှုပါ- https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="မှတ်ချက်-" type="end">
+<feature>1. ဤအပ်ဒိတ်ကို ထည့်သွင်းခြင်းသည် သင့်ကိုယ်ရေး ဒေတာအပေါ် ထိခိုက်မည် မဟုတ်သော်လည်း အပ်ဒိတ်မလုပ်မီ သင့်ဒေတာကို ဘက်ခ်အပ်လုပ်ရန် အကြံပြုပါသည်။
+2. အပ်ဒိတ်အတောအတွင်း ပြဿနာတစ်ခုခု ကြုံတွေ့ပါက အကူအညီအတွက် HONOR ဝန်ဆောင်မှုဌာန ဟော့လိုင်းသို့ ခေါ်ဆိုပါ သို့မဟုတ် HONOR သုံးစွဲသူ ဝန်ဆောင်မှုစင်တာသို့ သွားပါ။</feature>
+</features>
+</language>
+
+<language name="my-zg" code="1109">
+<features module="" type="header">
+<feature>ေလးစားရပါေသာ သုံးစြဲသူ၊ ဤအပ္ဒိတ္တြင္ AI Eraser ႏွင့္ မိတ္ဆက္ေပးထားသည္။ အက္ပ္ အျမႊာသည္ ေနာက္ထပ္ ျပင္ပအဖြဲ႕အစည္း အက္ပ္မ်ားကို ပံ့ပိုးေပးသည္။ ဤအသစ္ထြက္အပ္ဒိတ္သည္ အခ်ိဳ႕အေျခအေနမ်ားတြင္ ႐ိုက္ကူးမႈ အထူးျပဳလုပ္ခ်က္ကိုလည္း အေကာင္းဆုံး ခ်ိန္ညႇိေပးၿပီး စနစ္ တည္ၿငိမ္မႈကို တိုးျမႇင့္ေပးထားသည္။ ထို႔အျပင္ လုံၿခဳံေရး အဆင့္ျမႇင့္ေဆာ့ဖ္ဝဲကို ေပါင္းစပ္ထည့္သြင္းေပးထားသည္။ အပ္ဒိတ္လုပ္ၿပီး လုပ္ေဆာင္ခ်က္အသစ္မ်ားႏွင့္ ျမႇင့္တင္မႈမ်ားကို သုံးစြဲခံစားပါ။</feature>
+</features>
+<features module="ပုံျပခန္း">
+<feature>• AI Eraser အသစ္သည္ တစ္ခ်က္ႏွိပ္႐ုံျဖင့္ ႐ုပ္ပုံမ်ားမွ ျဖတ္သန္းသြားလာသူမ်ားႏွင့္ အျခား မလိုလားေသာ အရာမ်ားကို ပါးပါးနပ္နပ္ ဖယ္ရွားႏိုင္ေစသည္။ ေဖာ္ျပပါအတိုင္းသြား၍ ၎ကို စမ္းၾကည့္ပါ- ပုံျပခန္း > ဓာတ္ပုံေ႐ြးခ်ယ္မည္ > ျပင္ဆင္မည္ > AI Eraser။</feature>
+</features>
+<features module="ကင္မရာ">
+<feature>• အခ်ိဳ႕အေျခအေနမ်ား၌ ႐ိုက္ကူးမႈ အထူးျပဳလုပ္ခ်က္ကို အေကာင္းဆုံးျဖစ္ေစရန္ ခ်ိန္ညႇိေပးသည္။</feature>
+</features>
+<features module="အက္ပ္ အျမႊာ">
+<feature>• အက္ပ္ အျမႊာသည္ ယခုအခါ ေနာက္ထပ္ ျပင္ပအဖြဲ႕အစည္း အက္ပ္မ်ားကို ပံ့ပိုးေပးသည္။</feature>
+</features>
+<features module="စနစ္">
+<feature>• သင့္စက္ကို ပိုမိုတည္ၿငိမ္စြာ လုပ္ေဆာင္ႏိုင္ေစရန္ စနစ္ တည္ၿငိမ္မႈကို ျမႇင့္တင္ေပးသည္။</feature>
+</features>
+<features module="လုံျခံဳေရး">
+<feature>• စနစ္လုံျခံဳေရးအတြက္ Android လုံျခံဳေရး အဆင့္ျမႇင့္ေဆာ့ဖ္ဝဲ (ေဖေဖာ္ဝါရီ 2025) ကို ထည့္သြင္းထားသည္။ HONOR လုံျခံဳေရး အပ္ဒိတ္မ်ားအေၾကာင္း ေနာက္ထပ္အခ်က္အလက္မ်ားကို သိရွိရန္ ကြၽႏ္ုပ္တို႔၏ ေဖာ္ျပပါဝက္ဘ္ဆိုဒ္သို႔ သြားေရာက္ၾကည့္ရႈပါ- https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="မွတ္ခ်က္-" type="end">
+<feature>1. ဤအပ္ဒိတ္ကို ထည့္သြင္းျခင္းသည္ သင့္ကိုယ္ေရး ေဒတာအေပၚ ထိခိုက္မည္ မဟုတ္ေသာ္လည္း အပ္ဒိတ္မလုပ္မီ သင့္ေဒတာကို ဘက္ခ္အပ္လုပ္ရန္ အႀကံျပဳပါသည္။
+2. အပ္ဒိတ္အေတာအတြင္း ျပႆနာတစ္ခုခု ႀကဳံေတြ႕ပါက အကူအညီအတြက္ HONOR ဝန္ေဆာင္မႈဌာန ေဟာ့လိုင္းသို႔ ေခၚဆိုပါ သို႔မဟုတ္ HONOR သုံးစြဲသူ ဝန္ေဆာင္မႈစင္တာသို႔ သြားပါ။</feature>
+</features>
+</language>
+
+<language name="nb-no" code="1044">
+<features module="" type="header">
+<feature>Kjære bruker, denne oppdateringen introduserer KI-viskelær. Tvillingapp støtter flere tredjeparts-apper. Denne utgivelsen optimerer også fotograferingseffekten i enkelte scenarier og forbedrer systemstabiliteten. I tillegg innlemmer den en sikkerhetsoppdatering. Oppdater for å dra nytte av de nye funksjonene og forbedringene.</feature>
+</features>
+<features module="Galleri">
+<feature>• Den nye KI-viskelær kan hjelpe deg med å fjerne forbipasserende og andre elementer fra bilder på intelligent vis med ett trykk. Prøv den ut ved å gå til: Galleri > Velg et bilde > Rediger > KI-viskelær.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimerer fotograferingseffekten i enkelte scenarier.</feature>
+</features>
+<features module="Tvillingapp">
+<feature>• Tvillingapp støtter nå flere tredjepartsapper.</feature>
+</features>
+<features module="System">
+<feature>• Forbedrer systemstabiliteten, slik at enheten kjører mer stabilt.</feature>
+</features>
+<features module="Sikkerhet">
+<feature>• Android-sikkerhetsoppdatering (feb 2025) er innlemmet for systemsikkerhet. For mer informasjon om sikkerhetsoppdateringer fra HONOR, se nettstedet vårt https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Merknader:" type="end">
+<feature>1. Installering av denne oppdateringen vil ikke påvirke personopplysningene dine, men vi anbefaler likevel at du sikkerhetskopierer dataene dine før du oppdaterer.
+2. Hvis du møter på problemer under oppdateringen, ring HONOR-kundeservice eller gå til HONOR-kundeservicesenteret for assistanse.</feature>
+</features>
+</language>
+
+<language name="ne-np" code="1121">
+<features module="" type="header">
+<feature>आदरणीय प्रयोगकर्ता, यो अपडेटले AI इरेजर ल्याएको छ । एप ट्विनमा थप तेस्रो-पक्ष एपहरू प्रयोग गर्न मिल्छ । यो रिलिजले केही परिदृश्यमा सुटिङको प्रभाव पनि अप्टिमाइज गर्छ र प्रणालीको स्थिरता सुधार गर्छ । साथै, यसमा सुरक्षा प्याच पनि समावेश गरिएको छ । नयाँ सुविधा र सुधारहरूको आनन्द लिन अपडेट गर्नुहोस् ।</feature>
+</features>
+<features module="ग्यालरी">
+<feature>• तपाईं नयाँ AI इरेजरका सहायताले फोटोमा भएका अनावश्यक व्यक्ति र अन्य अनावश्यक वस्तुहरू स्मार्ट तरिकाले हटाउन सक्नुहुन्छ । यहाँ गएर यसलाई प्रयोग गरी हेर्नुहोस्: ग्यालरी > फोटो चयन गर्नुहोस् > सम्पादन गर्नुहोस् > AI इरेजर ।</feature>
+</features>
+<features module="क्यामेरा">
+<feature>• यसले केही परिदृश्यहरूमा सुटिङको प्रभाव अप्टिमाइज गर्छ ।</feature>
+</features>
+<features module="एप ट्विन">
+<feature>• एप ट्विनमा अब थप तेस्रो-पक्ष एपहरू प्रयोग गर्न मिल्छ ।</feature>
+</features>
+<features module="प्रणाली">
+<feature>• तपाईंको यन्त्रलाई थप स्थिर रूपमा चल्ने बनाउन प्रणालीको स्थिरतामा सुधार ल्याउँछ ।</feature>
+</features>
+<features module="सुरक्षा">
+<feature>• एन्ड्रोइड सुरक्षा प्याच (फेब्रुअरी 2025) प्रणाली सुरक्षाका लागि समावेश गरिएको छ । HONOR सुरक्षा अपडेटबारे थप जानकारी प्राप्त गर्न कृपया हाम्रो वेबसाइटमा जानुहोस्: https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="नोटहरू:" type="end">
+<feature>1. तपाईंले यो एप स्थापना गर्नुभयो भने तपाईंको व्यक्तिगत डाटामा कुनै प्रभाव नपर्ने भए पनि तपाईंलाई अपडेट गर्नुअघि आफ्नो डाटा ब्याकअप गर्न सिफारिस गरिन्छ ।
+2. अपडेट गर्ने क्रममा तपाईंले कुनै पनि समस्या सामना गर्नुभयो भने कृपया HONOR सेवाको हटलाइनमा कल गर्नुहोस् वा सहायताका लागि HONOR ग्राहक सेवा केन्द्रमा जानुहोस् ।</feature>
+</features>
+</language>
+
+<language name="nl-nl" code="1043">
+<features module="" type="header">
+<feature>Beste gebruiker, deze update introduceert AI-gum. App-tweeling ondersteunt meer apps van derden. Deze release optimaliseert ook het opname-effect in bepaalde scenario's en verbetert de stabiliteit van het systeem. Bovendien bevat deze release een beveiligingspatch. Werk bij om te genieten van de nieuwe functies en verbeteringen.</feature>
+</features>
+<features module="Foto's">
+<feature>• De nieuwe AI-gum kan u helpen om met één tik op een intelligente manier de voorbijgangers en andere ongewenste elementen uit afbeeldingen te verwijderen. Probeer het uit via: Foto's > Selecteer een foto > Bewerken > AI Gum.</feature>
+</features>
+<features module="Camera">
+<feature>• Optimaliseert de opname-ervaring in bepaalde scenario's.</feature>
+</features>
+<features module="App-tweeling">
+<feature>• App-tweeling ondersteunt nu meer apps van derden.</feature>
+</features>
+<features module="Systeem">
+<feature>• Verbetert de systeemstabiliteit om uw apparaat stabieler te laten werken.</feature>
+</features>
+<features module="Beveiliging">
+<feature>• Android-beveiligingspatch (februari 2025) is opgenomen voor systeembeveiliging. Voor meer informatie over HONOR-beveiligingsupdates kunt u terecht op onze website https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Opmerkingen:" type="end">
+<feature>1. Als u deze update installeert, worden uw persoonlijke gegevens niet beïnvloed, maar een back-up van uw gegevens maken voordat u bijwerkt wordt nog steeds aanbevolen.
+2. Als u problemen ondervindt tijdens de update, bel dan de HONOR-servicehotline of ga naar een HONOR-klantenservicecentrum voor ondersteuning.</feature>
+</features>
+</language>
+
+<language name="or-IN" code="1043">
+<features module="" type="header">
+<feature>ପ୍ରିୟ ଉପଯୋଗକର୍ତ୍ତା, ଏହି ଅପଡେଟ୍‌ରେ AI ଇରେଜର୍ ରହିଛି। ଆପ୍‌ ଟ୍ୱିନ୍‌ ଆହୁରି ଅଧିକ ତୃତୀୟ-ପକ୍ଷ ଆପସ୍‌କୁ ସମର୍ଥନ କରେ। ଏହି ରିଲିଜ୍‌ କିଛି କ୍ଷେତ୍ରରେ ଶୁଟିଂ ପ୍ରଭାବକୁ ମଧ୍ୟ ଅପ୍ଟିମାଇଜ୍‌ କରେ ଏବଂ ସିଷ୍ଟମ୍ ସ୍ଥିରତାକୁ ବଢାଏ। ଏଥିସହ, ଏହା ଏକ ସୁରକ୍ଷା ପ୍ୟାଚ୍‌ ଅନ୍ତର୍ଭୁକ୍ତ କରେ। ନୂତନ ବିଶେଷତାଗୁଡ଼ିକ ତଥା ବିକାଶଗୁଡ଼ିକର ଉପଭୋଗ କରିବାକୁ ଅପଡେଟ୍ କରନ୍ତୁ।</feature>
+</features>
+<features module="ଗ୍ୟାଲେରୀ">
+<feature>• ନୂତନ AI ଇରେଜର୍ ଗୋଟିଏ ଟ୍ୟାପ୍‌ରେ ପଥଚାରୀ ଏବଂ ଅନ୍ୟାନ୍ୟ ଅବାଞ୍ଛିତ ଉପାଦାନଗୁଡ଼ିକୁ ପ୍ରତିଛବିରୁ ଚତୁରତାର ସହ ଅପସାରଣ କରିପାରେ। ଏଥିକୁ ଯାଇ ଆପଣ ଏହାକୁ ପରଖି ନିଅନ୍ତୁ: ଗ୍ୟାଲେରୀ > ଏକ ଫଟୋ ଚୟନ କରନ୍ତୁ > ସମ୍ପାଦନ କରନ୍ତୁ > AI ଇରେଜର୍।</feature>
+</features>
+<features module="କ୍ୟାମେରା">
+<feature>• କେତେକ ପରିଦୃଶ୍ୟରେ ଶୁଟିଂ ପ୍ରଭାବକୁ ଅପ୍ଟିମାଇଜ୍‌ କରେ।</feature>
+</features>
+<features module="ଆପ୍ ଟ୍ୱିନ୍">
+<feature>• ଆପ୍‌ ଟ୍ୱିନ୍‌ ବର୍ତ୍ତମାନ ଆହୁରି ଅଧିକ ତୃତୀୟ-ପକ୍ଷ ଆପସ୍‌କୁ ସମର୍ଥନ କରେ।</feature>
+</features>
+<features module="ସିଷ୍ଟମ୍‌">
+<feature>• ଆପଣଙ୍କ ଡିଭାଇସ୍‌ ଅଧିକ ସ୍ଥିର ଭାବେ ଚଲାଇବାକୁ, ସିଷ୍ଟମ୍‌ ସ୍ଥିରତାକୁ ବଢ଼ାଏ।</feature>
+</features>
+<features module="ସୁରକ୍ଷା">
+<feature>• Android ସୁରକ୍ଷା ପ୍ୟାଚ୍‌ (ଫେବୃଆରୀ 2025) ସିଷ୍ଟମ୍ ସୁରକ୍ଷା ପାଇଁ ଅନ୍ତର୍ଭୁକ୍ତ କରାଯାଇଛି। HONOR ସୁରକ୍ଷା ଅପଡେଟ୍‌ଗୁଡ଼ିକ ବିଷୟରେ ଅଧିକ ସୂଚନା ପାଇଁ, ଦୟାକରି ଆମ ୱେବସାଇଟ୍‌ https://www.honor.com/global/support/bulletin/2025/2 ଦେଖନ୍ତୁ।</feature>
+</features>
+<features module="ନୋଟ୍‌ଗୁଡ଼ିକ:" type="end">
+<feature>1. ଏହି ଅପଡେଟ୍ ସଂସ୍ଥାପନ କରିବା ଦ୍ୱାରା ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ଡାଟା ପ୍ରଭାବିତ ହେବ ନାହିଁ, ତଥାପି ଅପଡେଟ୍ କରିବା ପୂର୍ବରୁ ଆପଣଙ୍କ ଡାଟାର ବ୍ୟାକଅପ୍‌ ନେବାକୁ ସୁପାରିଶ କରାଯାଇଛି।
+2. ଅପଡେଟ୍‌ ସମୟରେ ଯଦି ଆପଣ କୌଣସି ସମସ୍ୟାର ସମ୍ମୁଖୀନ ହୁଅନ୍ତି, ଦୟାକରି HONOR ସେବା ହଟଲାଇନ୍‌ରେ କଲ୍‌ କରନ୍ତୁ କିମ୍ବା ସହାୟତା ପାଇଁ ଏକ HONOR ଗ୍ରାହକ ସେବା କେନ୍ଦ୍ରକୁ ଯାଆନ୍ତୁ।</feature>
+</features>
+</language>
+
+<language name="pa-IN" code="1043">
+<features module="" type="header">
+<feature>ਪਿਆਰੇ ਵਰਤੋਂਕਾਰ, ਇਸ ਅੱਪਡੇਟ ਵਿੱਚ AI ਇਰੇਜ਼ਰ ਨੂੰ ਪੇਸ਼ ਕੀਤਾ ਗਿਆ ਹੈ। ਜੋੜੇਦਾਰ ਐਪ ਹੋਰ ਤੀਜੀ-ਧਿਰ ਦੀਆਂ ਐਪਾਂ ਦਾ ਸਮਰਥਨ ਕਰਦੀ ਹੈ। ਇਸ ਰਿਲੀਜ਼ ਵਿੱਚ ਕੁਝ ਸਥਿਤੀਆਂ ਵਿੱਚ ਸ਼ੂਟਿੰਗ ਪ੍ਰਭਾਵ ਨੂੰ ਵੀ ਅਨੁਕੂਲ ਬਣਾਇਆ ਗਿਆ ਹੈ ਅਤੇ ਸਿਸਟਮ ਦੀ ਸਥਿਰਤਾ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ। ਇਸ ਤੋਂ ਇਲਾਵਾ, ਇਸ ਵਿੱਚ ਇੱਕ ਸੁਰੱਖਿਆ ਪੈਚ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ। ਨਵੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਅਤੇ ਸੁਧਾਰਾਂ ਦਾ ਅਨੰਦ ਲੈਣ ਲਈ ਅੱਪਡੇਟ ਕਰੋ।</feature>
+</features>
+<features module="ਗੈਲਰੀ">
+<feature>• ਨਵਾਂ AI ਇਰੇਜ਼ਰ ਤੁਹਾਨੂੰ ਇੱਕ ਟੈਪ ਨਾਲ ਤਸਵੀਰਾਂ ਤੋਂ ਰਾਹਗੀਰਾਂ ਅਤੇ ਹੋਰ ਅਣਚਾਹੇ ਐਲੀਮੈਂਟਾਂ ਨੂੰ ਸਮਝਦਾਰੀ ਨਾਲ ਹਟਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ। ਇੱਥੇ ਜਾ ਕੇ ਇਸ ਨੂੰ ਅਜ਼ਮਾਓ: ਗੈਲਰੀ > ਇੱਕ ਫ਼ੋਟੋ ਚੁਣੋ > AI ਇਰੇਜ਼ਰ > ਸੋਧੋ।</feature>
+</features>
+<features module="ਕੈਮਰਾ">
+<feature>• ਕੁਝ ਸਥਿਤੀਆਂ ਵਿੱਚ ਸ਼ੂਟਿੰਗ ਪ੍ਰਭਾਵ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਇਆ ਗਿਆ ਹੈ।</feature>
+</features>
+<features module="ਜੋੜੇਦਾਰ ਐਪ">
+<feature>• ਜੋੜੇਦਾਰ ਐਪ ਹੁਣ ਹੋਰ ਤੀਜੀ-ਧਿਰ ਦੀਆਂ ਐਪਾਂ ਦਾ ਸਮਰਥਨ ਕਰਦੀ ਹੈ।</feature>
+</features>
+<features module="ਸਿਸਟਮ">
+<feature>• ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਨੂੰ ਵਧੇਰੇ ਸਥਿਰਤਾ ਨਾਲ ਚਲਾਉਣ ਲਈ ਸਿਸਟਮ ਦੀ ਸਥਿਰਤਾ ਨੂੰ ਵਧਾਇਆ ਗਿਆ ਹੈ।</feature>
+</features>
+<features module="ਸੁਰੱਖਿਆ">
+<feature>• ਸਿਸਟਮ ਸੁਰੱਖਿਆ ਲਈ Android ਸੁਰੱਖਿਆ ਪੈਚ (ਫਰਵਰੀ 2025) ਨੂੰ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ। HONOR ਸੁਰੱਖਿਆ ਅਪਡੇਟਾਂ ਬਾਰੇ ਵਧੇਰੇ ਜਾਣਕਾਰੀ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਡੀ ਵੈੱਬਸਾਈਟ https://www.honor.com/global/support/bulletin/2025/2 'ਤੇ ਜਾਓ।</feature>
+</features>
+<features module="ਨੋਟਸ:" type="end">
+<feature>1. ਇਸ ਅੱਪਡੇਟ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਨਾਲ ਤੁਹਾਡਾ ਨਿੱਜੀ ਡੇਟਾ ਪ੍ਰਭਾਵਿਤ ਨਹੀਂ ਹੋਵੇਗਾ, ਪਰ ਤਾਂ ਵੀ ਅੱਪਡੇਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਡੇ ਡੇਟਾ ਦਾ ਬੈਕਅੱਪ ਲੈਣ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।
+2. ਜੇ ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਦੌਰਾਨ ਕੋਈ ਸਮੱਸਿਆ ਆਉਂਦੀ ਹੈ, ਤਾਂ ਸਹਾਇਤਾ ਲਈ ਕਿਰਪਾ ਕਰਕੇ HONOR ਸੇਵਾ ਦੀ ਹੌਟਲਾਈਨ 'ਤੇ ਕਾਲ ਕਰੋ ਜਾਂ HONOR ਗਾਹਕ ਸੇਵਾ ਕੇਂਦਰ 'ਤੇ ਜਾਓ।</feature>
+</features>
+</language>
+
+<language name="pl-pl" code="1045">
+<features module="" type="header">
+<feature>Ta aktualizacja wprowadza funkcję Gumka AI. Funkcja Aplikacja bliźniacza obsługuje więcej aplikacji innych firm. Ponadto ta wersja optymalizuje efekty fotografowania w niektórych sytuacjach, poprawia stabilność systemu i zawiera poprawkę bezpieczeństwa. Zainstaluj tę aktualizację, aby korzystać z nowych funkcji i ulepszeń.</feature>
+</features>
+<features module="Galeria">
+<feature>• Nowa funkcja Gumka AI może pomóc w inteligentnym usuwaniu przechodniów i niechcianych elementów ze zdjęć jednym dotknięciem. Wypróbuj ją, przechodząc do: Galeria > Wybierz zdjęcie > Edytuj > Gumka AI.</feature>
+</features>
+<features module="Aparat">
+<feature>• Zoptymalizowano robienie zdjęć w niektórych sytuacjach.</feature>
+</features>
+<features module="Aplikacja bliźniacza">
+<feature>• Aplikacja bliźniacza obsługuje więcej aplikacji innych firm.</feature>
+</features>
+<features module="System">
+<feature>• Poprawiono stabilność systemu, dzięki czemu urządzenie działa bardziej niezawodnie.</feature>
+</features>
+<features module="Bezpieczeństwo">
+<feature>• Aktualizacja zawiera Poprawkę zabezpieczeń systemu Android (luty 2025 r.). Więcej informacji o aktualizacjach zabezpieczeń urządzeń HONOR można znaleźć w naszej witrynie internetowej: https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Uwagi:" type="end">
+<feature>1. Zainstalowanie tej aktualizacji nie wpływa na dane użytkownika, jednak zaleca się wykonanie kopii zapasowej przed aktualizacją.
+2. Jeśli podczas aktualizacji wystąpią jakiekolwiek problemy, zadzwoń na infolinię firmy HONOR lub odwiedź punkt serwisowy firmy HONOR, gdzie uzyskasz pomoc.</feature>
+</features>
+</language>
+
+<language name="pt-br" code="1046">
+<features module="" type="header">
+<feature>Caro usuário, esta atualização apresenta o Apagador de IA. Agora o Aplicativo gêmeo é compatível com mais aplicativos de terceiros. Além disso, esta versão otimiza o efeito de captura em alguns cenários e melhora a estabilidade do sistema. Além disso, incorpora um patch de segurança. Atualize para aproveitar os novos recursos e melhorias.</feature>
+</features>
+<features module="Galeria">
+<feature>• O novo Apagador de IA pode ajudar você a remover os transeuntes e outros elementos indesejados das imagens de forma inteligente com um único toque. Experimente acessando: Galeria > Selecionar uma foto > Editar > Apagador de IA.</feature>
+</features>
+<features module="Câmera">
+<feature>• Otimiza o efeito de captura em alguns cenários.</feature>
+</features>
+<features module="Aplicativo gêmeo">
+<feature>• Agora o Aplicativo gêmeo é compatível com mais aplicativos de terceiros.</feature>
+</features>
+<features module="Sistema">
+<feature>• Melhora a estabilidade do sistema para que seu dispositivo funcione de forma mais estável.</feature>
+</features>
+<features module="Segurança">
+<feature>• O patch de segurança do Android (fevereiro de 2025) foi incorporado para a segurança do sistema. Para obter mais informações sobre as atualizações de segurança da HONOR, visite nosso site https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. Instalar esta atualização não afetará seus dados pessoais, mas um backup prévio ainda é recomendado.
+2. Se você encontrar algum problema durante a atualização, ligue para a linha de atendimento de serviço da HONOR ou vá à Central de serviços de atendimento ao cliente HONOR para obter suporte.</feature>
+</features>
+</language>
+
+<language name="pt-pt" code="2070">
+<features module="" type="header">
+<feature>Caro utilizador, esta atualização apresenta o Apagador por IA. As Aplicações clonadas suportam mais aplicações de terceiros. Esta versão também otimiza o efeito de captura em alguns cenários e melhora a estabilidade do sistema. Além disso, incorpora uma correção de segurança. Atualize para aproveitar as novas funcionalidades e melhorias.</feature>
+</features>
+<features module="Galeria">
+<feature>• O novo Apagador por IA pode ajudar a remover, de forma inteligente, os transeuntes e outros elementos indesejados das imagens com um único toque. Experimente acedendo a: Galeria > Selecionar uma fotografia > Editar > Apagador por IA.</feature>
+</features>
+<features module="Câmara">
+<feature>• Otimiza o efeito de captura em alguns cenários.</feature>
+</features>
+<features module="Aplicações clonadas">
+<feature>• As Aplicações clonadas suportam agora mais aplicações de terceiros.</feature>
+</features>
+<features module="Sistema">
+<feature>• Melhora a estabilidade do sistema para que o seu dispositivo funcione de forma mais estável.</feature>
+</features>
+<features module="Segurança">
+<feature>• Foi incorporada uma correção de segurança Android (fevereiro de 2025) para segurança do sistema. Para mais informações sobre as atualizações de segurança da HONOR, visite o nosso website https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. Instalar esta atualização não irá afetar os seus dados pessoais, mas continua a recomendar-se a realização de uma cópia de segurança antes da atualização.
+2. Se encontrar quaisquer problemas durante a atualização, ligue para a linha direta de assistência da HONOR ou dirija-se ao centro de apoio ao cliente HONOR para suporte.</feature>
+</features>
+</language>
+
+<language name="ro-ro" code="1048">
+<features module="" type="header">
+<feature>Stimate utilizator, această actualizare introduce funcția Radieră AI. Funcția Aplicație geamănă suportă acum mai multe aplicații terțe. De asemenea, această versiune îmbunătățește efectul de fotografiere în anumite scenarii și îmbunătățește stabilitatea sistemului. În plus, include o corecție de securitate. Actualizați pentru a vă bucura de noile funcții și îmbunătățiri.</feature>
+</features>
+<features module="Galerie">
+<feature>• Noua Radieră AI vă poate ajuta să eliminați în mod inteligent trecătorii și alte elemente nedorite din imagini cu o singură atingere. Încercați-o accesând la: Galerie > Selectați o fotografie > Editare > Radieră AI.</feature>
+</features>
+<features module="Cameră foto">
+<feature>• Optimizează efectul de fotografiere în anumite scenarii.</feature>
+</features>
+<features module="Aplicație geamănă">
+<feature>• Funcția Aplicație geamănă acceptă acum mai multe aplicații terțe.</feature>
+</features>
+<features module="Sistem">
+<feature>• Îmbunătățește stabilitatea sistemului pentru ca dispozitivul să funcționeze mai stabil.</feature>
+</features>
+<features module="Securitate">
+<feature>• Corecția de securitate Android (februarie 2025) a fost inclusă pentru securitatea sistemului. Pentru mai multe informații despre actualizările de Securitate HONOR, vizitați site-ul nostru web: https://www.honor.com/ro/support/bulletin/2025/2</feature>
+</features>
+<features module="Note:" type="end">
+<feature>1. Instalarea acestei actualizări nu va cauza ștergerea datelor dvs. personale, dar vă recomandăm totuși să realizați în prealabil o copie de rezervă.
+2. Dacă întâmpinați probleme în timpul actualizării, apelați linia de asistență HONOR sau vizitați un centru de servicii pentru clienți HONOR.</feature>
+</features>
+</language>
+
+<language name="ru-ru" code="1049">
+<features module="" type="header">
+<feature>Уважаемый пользователь! В этом обновлении появился AI-ластик. Приложение-клон поддерживает больше сторонних приложений. Это обновление также оптимизирует эффекты при съемке в некоторых сценариях и повышает стабильность системы. Кроме того, оно включает исправление безопасности. Установите это обновление и наслаждайтесь новыми функциями и улучшениями.</feature>
+</features>
+<features module="Галерея">
+<feature>• Новая функция «AI-ластик» поможет вам одним нажатием автоматически удалить прохожих и нежелательные элементы с изображений. Чтобы попробовать, перейдите в раздел «Галерея > Выбор фото > Изменить > AI-ластик».</feature>
+</features>
+<features module="Камера">
+<feature>• Оптимизирован эффект съемки в некоторых сценариях.</feature>
+</features>
+<features module="Приложение-клон">
+<feature>• Приложение-клон сейчас поддерживает больше сторонних приложений.</feature>
+</features>
+<features module="Система">
+<feature>• Повышена стабильность системы и, соответственно, работа вашего устройства.</feature>
+</features>
+<features module="Безопасность">
+<feature>• В обновление включено исправление безопасности для Android (февраль 2025 г). Чтобы получить подробную информацию об обновлениях безопасности HONOR, посетите наш сайт: https://www.honor.com/ru/support/bulletin/2025/2</feature>
+</features>
+<features module="Примечания:" type="end">
+<feature>1. Установка этого обновления не затронет ваши персональные данные, но мы рекомендует сделать резервную копию данных перед обновлением.
+2. При возникновении каких-либо проблем при обновлении обратитесь на горячую линию обслуживания HONOR или в службу поддержки клиента HONOR за помощью.</feature>
+</features>
+</language>
+
+<language name="si-lk" code="1115">
+<features module="" type="header">
+<feature>හිතවත් පරිශීලක භවතුනි, මෙම යාවත්කාලය AI මකනය හඳුන්වා දෙයි. යෙදුම් නිවුන් තවත් තෙවන පාර්ශ්ව යෙදුම් සඳහා සහය දක්වයි. මෙම නිකුතුව සමහර අවස්ථාවල දී රූගත කිරීමේ ප්‍රයෝගය ප්‍රශස්ත කරන අතර පද්ධති ස්ථායිතාවය වැඩිදියුණු කරයි. අතිරේකව, එය ආරක්ෂක පිළියමක් ඇතුළත් කරයි. නව විශේෂාංග සහ වැඩිදියුණු කිරීම් භුක්ති විඳීමට යාවත්කාලීන කරන්න.</feature>
+</features>
+<features module="ගැලරිය">
+<feature>• නව AI මකනයට එහා මෙහා යන අය සහ අනෙකුත් අනවශ්‍ය දේවල් එක තට්ටු කිරීමකින් රූපවලින් බුද්ධිමත්ව ඉවත් කිරීමට ඔබට උපකාර කළ හැකි ය. මෙය වෙත යාමෙන් එය උත්සාහ කරන්න: ගැලරිය > ඡායාරූපයක් තෝරා ගන්න > සංස්කරණය කරන්න > AI මකනය.</feature>
+</features>
+<features module="කැමරාව">
+<feature>• සමහර අවස්ථාවල රූගත කිරීමේ ප්‍රයෝගය ප්‍රශස්ත කරයි.</feature>
+</features>
+<features module="යෙදුම් නිවුන්">
+<feature>• යෙදුම් නිවුන් දැන් තවත් තෙවන පාර්ශ්ව යෙදුම් සඳහා සහය දක්වයි.</feature>
+</features>
+<features module="පද්ධතිය">
+<feature>• ඔබගේ උපාංගය වඩා ස්ථායීව ධාවනය කරවීමට පද්ධතියේ ස්ථායිතාවය උසස් කරයි.</feature>
+</features>
+<features module="ආරක්ෂාව">
+<feature>• පද්ධති ආරක්ෂාව සඳහා Android ආරක්ෂක පැච් එක (2025 පෙබ) යොදාගෙන ඇත. HONOR ආරක්ෂක යාවත්කාල පිළිබඳ තවත් තොරතුරු සඳහා, කරුණාකර අපගේ වෙබ් අඩවිය වෙත යන්න https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="සටහන්:" type="end">
+<feature>1. මෙම යාවත්කාලය ස්ථාපනය කිරීම ඔබගේ පෞද්ගලික දත්තවලට බල නොපානු ඇති නමුත් තවමත් යාවත්කාල කිරීමට පෙර ඔබගේ දත්ත උපස්ථ කිරීමට නිර්දේශ කෙරේ.
+2. ඔබට යාවත්කාල කිරීමේ දී ගැටළු කිසිවක් ඇති වුවහොත්, කරුණාකර HONOR සේවා හොට්ලයින් අමතන්න නැතහොත් සහය සඳහා HONOR පාරිභෝගික සේවා මධ්‍යස්ථානයට යන්න.</feature>
+</features>
+</language>
+
+<language name="sk-sk" code="1051">
+<features module="" type="header">
+<feature>Vážený používateľ, táto aktualizácia predstavuje funkciu AI guma. Paralelná aplikácia podporuje viac aplikácií tretích strán. Toto vydanie tiež optimalizuje efekt snímania v niektorých situáciách a zlepšuje stabilitu systému. Okrem toho obsahuje aj bezpečnostnú opravu. Aktualizujte, aby ste si mohli vychutnať nové funkcie a zlepšenia.</feature>
+</features>
+<features module="Galéria">
+<feature>• Nová funkcia AI guma vám pomôže jedným ťuknutím inteligentne odstrániť okoloidúcich a iné nežiaduce prvky z obrázkov. Vyskúšajte to v ponuke Galéria > Vybrať fotografiu > Upraviť > AI guma.</feature>
+</features>
+<features module="Fotoaparát">
+<feature>• Optimalizuje efekt snímania v niektorých situáciách.</feature>
+</features>
+<features module="Paralelná aplikácia">
+<feature>• Paralelná aplikácia teraz podporuje viac aplikácií tretích strán.</feature>
+</features>
+<features module="Systém">
+<feature>• Zlepšuje stabilitu systému, vďaka čomu zariadenie funguje stabilnejšie.</feature>
+</features>
+<features module="Zabezpečenie">
+<feature>• Súčasťou zabezpečenia systému je bezpečnostná oprava systému Android (z februára 2025). Ak potrebujete viac informácií o aktualizáciách zabezpečenia spoločnosti HONOR, navštívte webovú stránku https://www.honor.com/sk/support/bulletin/2025/2</feature>
+</features>
+<features module="Poznámky:" type="end">
+<feature>1. Inštalácia tejto aktualizácie neovplyvní vaše osobné údaje, ale aj tak sa odporúča pred aktualizáciou si ich zálohovať.
+2. Ak sa počas aktualizácie vyskytnú problémy, podporu môžete získať zavolaním na zákaznícku linku HONOR alebo návštevou Centra služieb zákazníkom HONOR.</feature>
+</features>
+</language>
+
+<language name="sl-si" code="1060">
+<features module="" type="header">
+<feature>Spoštovani uporabnik, ta posodobitev uvaja funkcijo Brisanje z UI. Dvojnik aplikacije podpira več aplikacij drugih ponudnikov. Ta izdaja tudi optimizira učinek snemanja v nekaterih situacijah in izboljšuje stabilnost sistema. Vključen je tudi varnostni popravek. Namestite jo in uživajte v novih funkcijah in izboljšavah.</feature>
+</features>
+<features module="Galerija">
+<feature>• S funkcijo Brisanje z UI lahko z enim samim dotikom pametno odstranite mimoidoče in druge neželene elemente s slik. Preizkusite jo tako, da odprete razdelek Galerija > Izberi fotografijo > Uredi > Brisanje z UI.</feature>
+</features>
+<features module="Kamera">
+<feature>• Učinek snemanja je optimiziran v nekaterih situacijah.</feature>
+</features>
+<features module="Dvojnik aplikacije">
+<feature>• Dvojnik aplikacije zdaj podpira več aplikacij drugih ponudnikov.</feature>
+</features>
+<features module="Sistem">
+<feature>• Izboljšana je stabilnost sistema za stabilnejše delovanje naprave.</feature>
+</features>
+<features module="Varnost">
+<feature>• Varnostni popravki za Android (februar 2025) so vključeni za varnost sistema. Za več informacij o varnostnih posodobitvah HONOR obiščite naše spletno mesto: https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Opombe:" type="end">
+<feature>1. Namestitev te posodobitve ne bo vplivala na vaše osebne podatke, vendar vseeno priporočamo, da podatke pred posodobitvijo varnostno kopirate.
+2. Če med posodabljanjem pride do težav, lahko pokličete odprto linijo za pomoč uporabnikom družbe HONOR ali obiščete središče za storitve družbe HONOR.</feature>
+</features>
+</language>
+
+<language name="sv-se" code="1053">
+<features module="" type="header">
+<feature>Kära användare! Den här uppdateringen introducerar AI-radergummi. Tvillingapp har stöd för fler tredje parts appar. Den här utgåvan optimerar också fotograferingseffekten i vissa scenarier och förbättrar systemets stabilitet. Dessutom implementeras en säkerhetskorrigering. Uppdatera för att ta del av de nya funktionerna och förbättringarna.</feature>
+</features>
+<features module="Galleri">
+<feature>• Nya AI-radergummi kan hjälpa dig att på ett smart sätt ta bort förbipasserande och andra oönskade element från bilder med ett enda tryck. Prova genom att gå till: Galleri > Välj ett foto > Redigera > AI-radergummi.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimerar fotograferingseffekten i vissa scenarier.</feature>
+</features>
+<features module="Tvillingapp">
+<feature>• Tvillingapp har nu stöd för fler tredje parts appar.</feature>
+</features>
+<features module="System">
+<feature>• Förbättrar systemets stabilitet så att enheten körs stabilare.</feature>
+</features>
+<features module="Säkerhet">
+<feature>• Android-säkerhetskorrigeringen (februari 2025) har implementerats för systemsäkerhet. Vill du ha mer information om säkerhetsuppdateringar för HONOR går du till vår webbplats https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Noteringar:" type="end">
+<feature>1. Installation av den här uppdateringen påverkar inte dina personuppgifter, men det rekommenderas ändå att du säkerhetskopierar alla data innan du uppdaterar.
+2. Om du stöter på några problem under uppdateringen, kan du ringa HONORs hotline för service eller besöka HONORs kundtjänstcenter och få support.</feature>
+</features>
+</language>
+
+<language name="sw-KE" code="1053">
+<features module="" type="header">
+<feature>Mtumiaji mpendwa, sasisho hili linaleta Kifutio cha AI. Programu Pacha inaruhusu programu zaidi za mhusika mwingine. Toleo hili pia linaboresha athari ya upigaji picha katika baadhi ya miktadha na linaboresha uthabiti wa mfumo. Pia, linajumuisha rekebisho la usalama. Sasisha ili ufurahie vipengele na masasisho mapya.</feature>
+</features>
+<features module="Matunzio">
+<feature>• Kifutio kipya cha AI kinaweza kukusaidia kuondoa kwa umaizi wapita njia na vipengele vingine visivyotakikana kutoka kwenye picha kwa kugusa tu. Kijaribu kwa kwenda kwenye: Matunzio > Chagua picha > Hariri > Kifutio cha AI.</feature>
+</features>
+<features module="Kamera">
+<feature>• Linaboresha athari ya upigaji picha katika baadhi ya miktadha.</feature>
+</features>
+<features module="Programu Pacha">
+<feature>• Programu pacha sasa inaruhusu programu zaidi za mhusika mwingine.</feature>
+</features>
+<features module="Mfumo">
+<feature>• Linaboresha uthabiti wa mfumo ili kufanya kifaa chako kiendeshwe kwa uthabiti zaidi.</feature>
+</features>
+<features module="Usalama">
+<feature>• Rekebisho la usalama wa Android (Feb 2025) limejumuishwa kwa ajili ya usalama wa mfumo. Ili kupata maelezo zaidi kuhusu masasisho ya Usalama wa HONOR, tafadhali tembelea tovuti yetu https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Madokezo:" type="end">
+<feature>1. Kusakinisha sasisho hili hakutaathiri data yako ya kibinafsi, lakini bado unapendekezwa kuweka hifadhi rudufu ya data yako kabla ya kusasisha.
+2. Ukikumbana na matatizo yoyote wakati wa sasisho, tafadhali piga simu kwa nambari ya dharura ya huduma ya HONOR au nenda kwenye kituo cha huduma kwa wateja cha HONOR ili upate usaidizi.</feature>
+</features>
+</language>
+
+<language name="ta-IN" code="1053">
+<features module="" type="header">
+<feature>அன்புள்ள பயனரே, இந்தப் புதுப்பிப்பு AI அழிப்பான் அம்சத்தை அறிமுகப்படுத்துகிறது. இரட்டைச் செயலி, மேலும் பல மூன்றாம் தரப்புச் செயலிகளை ஆதரிக்கிறது. இந்த வெளியீடு சில காட்சிகளில் ஷுட்டிங் விளைவை உகந்ததாக்குகிறது மற்றும் சிஸ்டம் நிலைத்தன்மையை மேம்படுத்துகிறது. கூடுதலாக, இது ஒரு பாதுகாப்புத் தொகுப்பைக் கொண்டுள்ளது. புதிய அம்சங்களையும் மேம்பாடுகளையும் பெற, புதுப்பிக்கவும்.</feature>
+</features>
+<features module="கேலரி">
+<feature>• புதிய AI அழிப்பான் ஒரே தட்டலில் வழிப்போக்கர்கள் மற்றும் பிற தேவையற்ற கூறுகளைப் படங்களிலிருந்து அறிவார்ந்த முறையில் அகற்ற உதவும். இதற்குச் செல்வதன் மூலம் அதை முயன்று பார்க்கவும்: கேலரி > புகைப்படத்தைத் தேர்ந்தெடு > திருத்து > AI அழிப்பான்.</feature>
+</features>
+<features module="கேமரா">
+<feature>• சில சூழ்நிலைகளில் ஷூட்டிங் விளைவை உகந்ததாக்குகிறது.</feature>
+</features>
+<features module="இரட்டைச் செயலி">
+<feature>• இரட்டைச் செயலி, இப்போது மேலும் பல மூன்றாம் தரப்புச் செயலிகளை ஆதரிக்கிறது.</feature>
+</features>
+<features module="சிஸ்டம்">
+<feature>• உங்கள் சாதனத்தை மேலும் நிலையாக இயங்கச் செய்ய, சிஸ்டம் நிலைத்தன்மையை மேம்படுத்துகிறது.</feature>
+</features>
+<features module="பாதுகாப்பு">
+<feature>• சிஸ்டம் பாதுகாப்பிற்காக Android பாதுகாப்புத் தொகுப்பு (பிப் 2025) சேர்க்கப்பட்டுள்ளது. HONOR பாதுகாப்புப் புதுப்பிப்புகளைப் பற்றிய மேலும் தகவல்களுக்கு, எங்கள் வலைத்தளத்தைப் பார்க்கவும்: https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="குறிப்புகள்:" type="end">
+<feature>1. இந்தப் புதுப்பிப்பை நிறுவுவது உங்கள் தனிப்பட்ட தரவைப் பாதிக்காது, எனினும் புதுப்பிப்பதற்கு முன்பு உங்கள் தரவைக் காப்புப்பிரதி எடுப்பது இன்னும் பரிந்துரைக்கப்படுகிறது.
+2. புதுப்பிப்புச் செயல்பாட்டின்போது ஏதேனும் சிக்கல்களைச் சந்தித்தால், உதவிக்காக HONOR சேவை ஹாட்லைனை அழைக்கவும் அல்லது HONOR வாடிக்கையாளர் சேவை மையத்திற்குச் செல்லவும்.</feature>
+</features>
+</language>
+
+<language name="te-IN" code="1053">
+<features module="" type="header">
+<feature>ప్రియమైన వినియోగదారుకు, ఈ అప్‌డేట్ AI ఎరేజర్‌ను పరిచయం చేస్తుంది. అప్లికేషన్ ట్విన్ మరిన్ని మూడవ పక్ష అప్లికేషన్‌లకు మద్దతు ఇస్తుంది. ఈ విడుదల కొన్ని సందర్భాల్లో షూటింగ్ ప్రభావాన్ని కూడా ఆప్టిమైజ్ చేస్తుంది మరియు సిస్టమ్ స్థిరత్వాన్ని మెరుగుపరుస్తుంది. అదనంగా, ఇది భద్రతా ప్యాచ్‌ను చేర్చుతుంది. కొత్త ఫీచర్‌లు మరియు మెరుగుదలలను ఆనందించడానికి అప్‌డేట్ చేయండి.</feature>
+</features>
+<features module="గ్యాలరీ">
+<feature>• కొత్త AI ఎరేజర్ ఒక ట్యాప్‌తో చిత్రాల నుండి పరిసరాల్లో వ్యక్తులు మరియు ఇతర అవాంఛిత అంశాలను తెలివిగా తీసివేయడానికి మీకు సహాయపడుతుంది. ఇక్కడికి వెళ్లి దీనిని ప్రయత్నించండి: గ్యాలరీ > ఫోటోను ఎంచుకోండి > సవరించు > AI ఎరేజర్.</feature>
+</features>
+<features module="కెమెరా">
+<feature>• కొన్ని సందర్భాల్లో షూటింగ్ ప్రభావాన్ని ఆప్టిమైజ్ చేస్తుంది.</feature>
+</features>
+<features module="అప్లికేషన్ ట్విన్">
+<feature>• అప్లికేషన్ ట్విన్ ఇప్పుడు మరిన్ని మూడవ పక్ష అప్లికేషన్‌లకు మద్దతు ఇస్తుంది.</feature>
+</features>
+<features module="సిస్టమ్">
+<feature>• మీ పరికరం మరింత స్థిరంగా అమలు అయ్యేలా చేయడానికి సిస్టమ్ స్థిరత్వాన్ని మెరుగుపరుస్తుంది.</feature>
+</features>
+<features module="భద్రత">
+<feature>• సిస్టమ్ భద్రత కోసం Android భద్రతా ప్యాచ్ (ఫిబ్రవరి 2025) చేర్చబడింది. HONOR భద్రత అప్‌డేట్‌ల గురించి మరింత సమాచారం కోసం, దయచేసి మా వెబ్‌సైట్‌ను సందర్శించండి: https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="గమనికలు:" type="end">
+<feature>1. ఈ అప్‌డేట్‌ను ఇన్‌స్టాల్ చేయడం వల్ల మీ వ్యక్తిగత డేటాపై ప్రభావం ఉండదు, అయితే అప్‌డేట్ చేయడానికి ముందు మీ డేటాను బ్యాకప్ చేయాలని ఇప్పటికీ సిఫార్సు చేయబడింది.
+2. అప్‌డేట్ సమయంలో మీకు ఏవైనా సమస్యలు ఎదురైతే, దయచేసి HONOR సర్వీస్ హాట్‌లైన్‌కు కాల్ చేయండి లేదా మద్దతు కోసం HONOR కస్టమర్ సర్వీస్ కేంద్రానికి వెళ్ళండి.</feature>
+</features>
+</language>
+
+<language name="th-th" code="1054">
+<features module="" type="header">
+<feature>เรียนผู้ใช้ การอัปเดตครั้งนี้เปิดตัวยางลบ AI, คู่แฝดแอปจะรองรับแอปบุคคลที่สามมากขึ้น และการอัปเดตครั้งนี้ยังปรับปรุงเอฟเฟ็กต์การถ่ายภาพในบางสถานการณ์ พัฒนาความเสถียรของระบบ และรวมแพตช์การรักษาความปลอดภัยด้วย โปรดอัปเดตเพื่อใช้ฟีเจอร์และการปรับปรุงใหม่ๆ</feature>
+</features>
+<features module="แกลเลอรี">
+<feature>• ยางลบ AI ใหม่ช่วยให้คุณลบผู้ที่ผ่านไปมาและส่วนประกอบที่ไม่ต้องการอื่น ๆ ออกจากรูปภาพได้อย่างง่ายดายด้วยการแตะครั้งเดียว ลองใช้โดยไปที่: แกลเลอรี > เลือกภาพถ่าย > แก้ไข > ยางลบ AI</feature>
+</features>
+<features module="กล้องถ่ายรูป">
+<feature>• ปรับปรุงเอฟเฟ็กต์การถ่ายภาพในบางสถานการณ์</feature>
+</features>
+<features module="คู่แฝดแอป">
+<feature>• ขณะนี้คู่แฝดแอปรองรับแอปของบุคคลที่สามได้มากขึ้น</feature>
+</features>
+<features module="ระบบ">
+<feature>• ปรับปรุงความเสถียรของระบบเพื่อให้อุปกรณ์ของคุณใช้งานได้อย่างเสถียรมากขึ้น</feature>
+</features>
+<features module="ความปลอดภัย">
+<feature>• มีการรวมแพตช์การรักษาความปลอดภัยของ Android (ก.พ. 2025) ไว้เพื่อความปลอดภัยของระบบ ดูข้อมูลเพิ่มเติมเกี่ยวกับการอัปเดตการรักษาความปลอดภัยของ HONOR ได้ในเว็บไซต์ของเรา https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="โปรดทราบ:" type="end">
+<feature>1. การติดตั้งอัปเดตนี้จะไม่กระทบต่อข้อมูลส่วนตัวของคุณ แต่เรายังคงแนะนำให้สำรองข้อมูลของคุณก่อนที่จะอัปเดต
+2. หากคุณพบปัญหาใด ๆ ในระหว่างการอัปเดต โปรดโทรติดต่อสายด่วนการบริการของ HONOR หรือไปที่ศูนย์บริการลูกค้าของ HONOR เพื่อขอการสนับสนุน</feature>
+</features>
+</language>
+
+<language name="tl-ph" code="1124">
+<features module="" type="header">
+<feature>Minamahal na user, ipinapakilala ng update na ito ang AI na Pambura. Sinusuportahan ng App Twin ang higit pang third-party na app. Ino-optimize din ng release na ito ang effect sa pag-shoot sa ilang sitwasyon at pinapahusay ang stability ng system. Bukod pa rito, isinasama nito ang isang panseguridad na patch. I-update para i-enjoy ang mga bagong feature at pagpapahusay.</feature>
+</features>
+<features module="Gallery">
+<feature>• Makakatulong sa iyo ang bagong AI na Pambura na matalinong alisin ang mga dumadaan at iba pang hindi gustong elemento mula sa mga larawan sa isang tap. Subukan ito sa pamamagitan ng pagpunta sa: Gallery > Pumili ng larawan > I-edit > AI na Pambura.</feature>
+</features>
+<features module="Camera">
+<feature>• Ino-optimize ang effect sa pag-shoot sa ilang sitwasyon.</feature>
+</features>
+<features module="App Twin">
+<feature>• Sinusuportahan na ngayon ng App Twin ang higit pang third-party na app.</feature>
+</features>
+<features module="System">
+<feature>• Pinapahusay ang stability ng system para magawang tumakbo nang mas stable ang iyong device.</feature>
+</features>
+<features module="Seguridad">
+<feature>• Isinama ang panseguridad na patch ng Android (Peb 2025) para sa seguridad ng system. Para sa higit pang impormasyon tungkol sa Mga panseguridad na update ng HONOR, pakibisita ang aming website https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Mga Tala:" type="end">
+<feature>1. Hindi makakaapekto sa iyong personal na data kapag na-install ang update na ito, pero inirerekomenda pa ring i-back up ang iyong data bago mag-update.
+2. Kung makaranas ka ng anumang isyu habang nag-a-update, pakitawagan ang hotline ng serbisyo ng HONOR o pumunta sa customer service center ng HONOR para sa suporta.</feature>
+</features>
+</language>
+
+<language name="fil-ph" code="1124">
+<features module="" type="header">
+<feature>Minamahal na user, ipinapakilala ng update na ito ang AI na Pambura. Sinusuportahan ng App Twin ang higit pang third-party na app. Ino-optimize din ng release na ito ang effect sa pag-shoot sa ilang sitwasyon at pinapahusay ang stability ng system. Bukod pa rito, isinasama nito ang isang panseguridad na patch. I-update para i-enjoy ang mga bagong feature at pagpapahusay.</feature>
+</features>
+<features module="Gallery">
+<feature>• Makakatulong sa iyo ang bagong AI na Pambura na matalinong alisin ang mga dumadaan at iba pang hindi gustong elemento mula sa mga larawan sa isang tap. Subukan ito sa pamamagitan ng pagpunta sa: Gallery > Pumili ng larawan > I-edit > AI na Pambura.</feature>
+</features>
+<features module="Camera">
+<feature>• Ino-optimize ang effect sa pag-shoot sa ilang sitwasyon.</feature>
+</features>
+<features module="App Twin">
+<feature>• Sinusuportahan na ngayon ng App Twin ang higit pang third-party na app.</feature>
+</features>
+<features module="System">
+<feature>• Pinapahusay ang stability ng system para magawang tumakbo nang mas stable ang iyong device.</feature>
+</features>
+<features module="Seguridad">
+<feature>• Isinama ang panseguridad na patch ng Android (Peb 2025) para sa seguridad ng system. Para sa higit pang impormasyon tungkol sa Mga panseguridad na update ng HONOR, pakibisita ang aming website https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Mga Tala:" type="end">
+<feature>1. Hindi makakaapekto sa iyong personal na data kapag na-install ang update na ito, pero inirerekomenda pa ring i-back up ang iyong data bago mag-update.
+2. Kung makaranas ka ng anumang isyu habang nag-a-update, pakitawagan ang hotline ng serbisyo ng HONOR o pumunta sa customer service center ng HONOR para sa suporta.</feature>
+</features>
+</language>
+
+<language name="tr-tr" code="1055">
+<features module="" type="header">
+<feature>Değerli kullanıcımız, bu güncelleme ile AI Silgi özelliği eklenmiştir. İkiz Uygulama işlevine daha fazla üçüncü taraf uygulaması eklenmiştir. Bu sürüm ile ayrıca bazı senaryolarda çekim efekti optimize edilmiş ve sistem kararlılığı iyileştirilmiştir. Ek olarak, bir güvenlik yaması da eklenmiştir. Yeni özelliklerin ve iyileştirmelerin keyfini çıkarmak için güncelleyin.</feature>
+</features>
+<features module="Galeri">
+<feature>• Yeni AI Silgi tek dokunuşla görsellerde arka planda yer alan kişileri ve diğer istenmeyen unsurları akıllı şekilde kaldırmanıza yardımcı olabilir. Galeri > Bir fotoğraf seç > Düzenle > AI Silgi bölümüne giderek deneyebilirsiniz.</feature>
+</features>
+<features module="Kamera">
+<feature>• Bazı senaryolarda fotoğraf çekme efekti optimize edildi.</feature>
+</features>
+<features module="İkiz Uygulama">
+<feature>• İkiz Uygulama işlevine daha fazla üçüncü taraf uygulaması eklendi.</feature>
+</features>
+<features module="Sistem">
+<feature>• Sistem kararlılığı iyileştirilerek cihazınız daha kararlı hale getirildi.</feature>
+</features>
+<features module="Güvenlik">
+<feature>• Sistem güvenliği için Android güvenlik yamasını (Şub 2025) eklendi. HONOR Güvenlik güncellemeleri ile ilgili daha fazla bilgi için lütfen web sitemizi ziyaret edin: https://www.honor.com/tr/support/bulletin/2025/2</feature>
+</features>
+<features module="Notlar:" type="end">
+<feature>1. Bu güncellemenin yüklenmesi kişisel verilerinizi etkilemeyecektir, fakat yine de güncelleme yapmadan önce yedekleme yapmanız önerilir.
+2. Güncelleme esnasında herhangi bir sorunla karşılaşmanız durumunda destek için lütfen HONOR servisi yardım hattını arayın veya HONOR müşteri hizmet merkezlerinden birine gidin.</feature>
+</features>
+</language>
+
+<language name="ug-cn" code="1152">
+<features module="" type="header">
+<feature>‏ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا AI يوقىتىش ئىقتىدارى يېڭىدىن قوشۇلدى، قوشماق ئەپ تېخىمۇ كۆپ ئۈچىنچى تەرەپ ئەپنى قوللايدىغان بولدى، قىسمەن كۆرۈنۈشلەردىكى كامېرانىڭ سۈرەتكە ئېلىش ئۈنۈمى ئەلالاشتۇرۇلۇپ، سىستېمىنىڭ مۇقىملىقى ئۆستۈرۈلدى، بىخەتەرلىك يامىقى قوشۇلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+</features>
+<features module="‏«ئامبار»">
+<feature>‏• AI يوقىتىش ئىقتىدارى يېڭىدىن قوشۇلدى، رەسىمدىكى يولدا مېڭىۋاتقان ئادەم، باشقا نەرسە قاتارلىقلارنى ئاڭلىق يوقىتىپ، بىر كۇنۇپكا بىلەن رەسىمنى قۇتقۇزۇپ قالالايسىز، سىناش يولى: ئامبار > رەسىم > تەھرىرلەش > AI يوقىتىش.</feature>
+</features>
+<features module="‏كامېرا">
+<feature>‏•  كامېرانىڭ قىسمەن كۆرۈنۈشلەردىكى سۈرەتكە ئېلىش ئۈنۈمى ئەلالاشتۇرۇلدى.</feature>
+</features>
+<features module="‏قوشماق ئەپ">
+<feature>‏•  تېخىمۇ كۆپ ئۈچىنچى تەرەپ ئەپلىرىنى قوللايدىغان بولدى.</feature>
+</features>
+<features module="‏سىستېما">
+<feature>‏•  سىستېمىنىڭ مۇقىملىقى ئۆستۈرۈلدى، يانفونىڭىزنىڭ يۈرۈشۈشىنى تېخىمۇ مۇقىم قىلىدۇ.</feature>
+</features>
+<features module="‏بىخەتەرلىك">
+<feature>‏•  2025-يىلى 2-ئايلىق بىخەتەرلىك يامىقى قوشۇلدى، سىستېما بىخەتەرلىكى كۈچەيتىلدى. روڭياۋ يۇمشاق دېتالىنىڭ بىخەتەرلىك يېڭىلانما مەزمۇنىغا ئالاقىدار ئۇچۇرلار ئۈچۈن روڭياۋ ئورگان تەرەپ تور بېكىتىنى زىيارەت قىلىڭ https://www.honor.com/cn/support/bulletin/2025/2</feature>
+</features>
+<features module="‏يېڭىلاشتا دىققەت قىلىدىغان ئىشلار:" type="end">
+<feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتلىرىڭىزنى ئۆچۈرمەيدۇ، ئەمما يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتىڭىزنى زاپاسلىۋېلىشىڭىزنى تەۋسىيە قىلىمىز.
+2. يېڭىلاش جەريانىدا ھەرقانداق مەسىلە كۆرۈلسە، روڭياۋ ماركا مۇلازىمەت قىزىق لىنىيەسىگە تېلېفون قىلىڭ ياكى روڭياۋ ماركىسى خېرىدارلار مۇلازىمەت مەركىزىدىن ياردەم سوراڭ.</feature>
+</features>
+</language>
+
+<language name="uk-ua" code="1058">
+<features module="" type="header">
+<feature>Шановний користувачу! Це оновлення впроваджує функцію "ШІ-гумка". Функція "Копія додатка" підтримує більше сторонніх додатків. Цей випуск також оптимізує ефект зйомки в деяких сценаріях і покращує стабільність системи. Крім того, він містить виправлення системи безпеки. Установіть це оновлення, щоб користуватися новими функціями й покращеннями.</feature>
+</features>
+<features module="Галерея">
+<feature>• За допомогою нової функції "ШІ-гумка" можна інтелектуально видаляти перехожих та інші небажані елементи із зображень одним дотиком. Щоб спробувати, перейдіть до меню "Галерея" > "Вибрати фото" > "Змінити" > "ШІ-гумка".</feature>
+</features>
+<features module="Камера">
+<feature>• У деяких сценаріях оптимізовано процес знімання на камеру.</feature>
+</features>
+<features module="Копія додатка">
+<feature>• Функція "Копія додатка" тепер підтримує більше сторонніх додатків.</feature>
+</features>
+<features module="Система">
+<feature>• Покращено стабільність системи для надійнішої роботи пристрою.</feature>
+</features>
+<features module="Безпека">
+<feature>• Для посилення безпеки системи впроваджено виправлення для системи безпеки Android від лютого 2025 року. Додаткову інформацію про оновлення для системи безпеки HONOR див. на нашому вебсайті https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Примітки" type="end">
+<feature>1. Установлення цього оновлення не вплине на ваші особисті дані, однак ми радимо створити резервну копію даних перед оновленням.
+2. Якщо під час оновлення виникнуть якісь проблеми, зателефонуйте на гарячу лінію служби підтримки HONOR або зверніться по допомогу в сервісний центр для клієнтів HONOR.</feature>
+</features>
+</language>
+
+<language name="ur-pk" code="1056">
+<features module="" type="header">
+<feature>محترم صارف، یہ اپ ڈیٹ AI مٹانے والی شے متعارف کرواتی ہے۔ جڑواں ایپس مزید فریق ثالث ایپس میں تعاون کرتی ہے۔ یہ ریلیز کچھ منظرناموں میں شوٹنگ کے اثر کو بھی بہتر بناتی ہے، سسٹم کے استحکام کو بہتر بناتی ہے۔ مزید براں، یہ سکیورٹی پیچ شامل کرتی ہے۔ نئی خصوصیات اور بہتریوں سے لطف اندوز ہونے کے لیے اپ ڈیٹ کریں۔</feature>
+</features>
+<features module="گیلری">
+<feature>‏• نئی AI مٹانے والی شے آپ کو ایک ہی ٹیپ سے تصاویر سے غیر ضروری اور دیگر ناپسندیدہ عناصر کو ذہانت سے ہٹانے میں مدد کر سکتی ہے۔ یہاں جا کر آزمائیں: گیلری > تصویر منتخب کریں > ترمیم کریں > AI مٹانے والی شے۔</feature>
+</features>
+<features module="کیمرہ">
+<feature>‏• کچھ مناظر میں شوٹنگ کا اثر بہتر بناتی ہے۔</feature>
+</features>
+<features module="جڑواں ایپس">
+<feature>‏• جڑواں ایپس اب مزید فریق ثالث ایپس میں تعاون کرتی ہے۔</feature>
+</features>
+<features module="سسٹم">
+<feature>‏• آپ کی ڈیوائس کو زیادہ مستحکم طریقے سے چلانے کے لیے سسٹم کے استحکام کو بہتر بناتی ہے۔</feature>
+</features>
+<features module="سکیورٹی">
+<feature>‏• Android سکیورٹی پیچ (فروری 2025) سسٹم سکیورٹی کے لیے شامل کر دیا گیا ہے۔ ‏HONOR سکیورٹی اپ ڈیٹس کے بارے میں مزید معلومات کے لیے، براہ کرم ہماری ویب سائٹ ملاحظہ کریں https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="نوٹس:" type="end">
+<feature>‏1. اس اپ ڈیٹ کو انسٹال کرنے سے آپ کا ذاتی ڈیٹا نہیں متاثر ہو گا، لیکن پھر بھی اپ ڈیٹ کرنے سے پہلے سے اپنے ڈیٹا کا بیک اپ لینے کی تجویز دی جاتی ہے۔
+‏2۔ اگر اپ ڈیٹ کے دوران آپ کو کسی مسئلے کا سامنا کرنا پڑتا ہے، تو تعاون کے لیے براہ کرم HONOR سروس ہاٹ لائن پر کال کریں یا HONOR کسٹمر سروس سینٹر پر جائیں۔</feature>
+</features>
+</language>
+
+<language name="uz-uz" code="2115">
+<features module="" type="header">
+<feature>Hurmatli foydalanuvchi, ushbu yangilanishda AI tozalagich taqdim etildi. Egizak ilova funksiyasi endi yanada koʻproq tashqi ilovalarni dastaklaydi. Shuningdek, ushbu nashrda ayrim holatlardagi tasvirga olish effekti optimallandi va tizim barqarorligi oshirildi. Bundan tashqari, unga xavfsizlik tuzatmasi kiritildi. Yangi funksiyalar va takomillashtirishlardan foydalanish uchun yangilang.</feature>
+</features>
+<features module="Galereya">
+<feature>• Yangi AI tozalagich funksiyasi sizga rasmlardan begonalar va boshqa keraksiz narsalarni osonlik bilan intellektual olib tashlash imkonini beradi. Uni bu yerda sinang: Galereya > Surat tanlash > Tahrirlash > AI tozalagich.</feature>
+</features>
+<features module="Kamera">
+<feature>• Ayrim holatlardagi tasvirga olish effekti optimallandi.</feature>
+</features>
+<features module="Egizak ilova">
+<feature>• Endi Egizak ilova funksiyasi yanada koʻproq tashqi ilovalarni dastaklaydi.</feature>
+</features>
+<features module="Tizim">
+<feature>• Qurilmangiz yanada barqaror ishlashi uchun tizim barqarorligi yaxshilandi.</feature>
+</features>
+<features module="Xavfsizlik">
+<feature>• Tizim xavfsizligini kuchaytirish uchun Android xavfsizlik tuzatmasi (2025-yil, fevral) kiritildi. HONOR Xavfsizlik yangilanishlari haqida batafsil axborot olish uchun veb-saytimizga tashrif buyuring: https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Eslatmalar:" type="end">
+<feature>1. Bu yangilanishni oʻrnatish shaxsiy maʼlumotlaringizga taʼsir qilmaydi, lekin yangilashdan oldin maʼlumotlaringizni zaxiralash tavsiya etiladi.
+2. Agar yangilash jarayonida muammolarga duch kelsangiz, yordam uchun HONOR xizmat markazi tezkor raqamiga murojaat qiling yoki HONOR mijozlarga xizmat markaziga tashrif buyuring.</feature>
+</features>
+</language>
+
+<language name="vi-vn" code="1066">
+<features module="" type="header">
+<feature>Người dùng thân mến, bản cập nhật này giới thiệu AI Eraser. Tính năng Nhân bản ứng dụng hỗ trợ nhiều ứng dụng bên thứ ba hơn. Bản phát hành này cũng tối ưu hóa hiệu ứng quay/chụp trong một số trường hợp và cải thiện độ ổn định của hệ thống. Ngoài ra, bản cập nhật này còn tích hợp một bản vá bảo mật. Hãy cập nhật để tận hưởng các tính năng và cải tiến mới.</feature>
+</features>
+<features module="Bộ sưu tập">
+<feature>• Tính năng AI Eraser mới có thể giúp bạn xóa người qua đường và các thành phần không mong muốn khác một cách thông minh khỏi hình ảnh chỉ với một thao tác chạm. Hãy dùng thử tính năng này bằng cách vào: Bộ sưu tập > Chọn ảnh > Sửa > AI Eraser.</feature>
+</features>
+<features module="Máy ảnh">
+<feature>• Tối ưu hóa hiệu ứng quay/chụp trong một số trường hợp.</feature>
+</features>
+<features module="Nhân bản ứng dụng">
+<feature>• Tính năng Nhân bản ứng dụng hiện hỗ trợ nhiều ứng dụng bên thứ ba hơn.</feature>
+</features>
+<features module="Hệ thống">
+<feature>• Tăng cường độ ổn định của hệ thống để giúp thiết bị của bạn chạy ổn định hơn.</feature>
+</features>
+<features module="Bảo mật">
+<feature>• Bản vá bảo mật Android (Tháng 2 năm 2025) đã được tích hợp để bảo mật hệ thống. Để biết thêm thông tin về các bản cập nhật Bảo mật của HONOR, vui lòng truy cập trang web của chúng tôi https://www.honor.com/global/support/bulletin/2025/2</feature>
+</features>
+<features module="Ghi chú:" type="end">
+<feature>1. Nếu bạn cài đặt bản cập nhật này, dữ liệu cá nhân của bạn sẽ không bị ảnh hưởng. Tuy nhiên, bạn vẫn nên sao lưu dữ liệu trước khi cập nhật.
+2. Nếu bạn gặp bất kỳ vấn đề nào trong quá trình cập nhật, vui lòng gọi điện đến đường dây nóng dịch vụ khách hàng của HONOR hoặc đến trung tâm dịch vụ khách hàng của HONOR để được hỗ trợ.</feature>
+</features>
+</language>
+
+<language name="zh-hk" code="3076">
+<features module="" type="header">
+<feature>親愛的用戶，本次更新新增 AI 消除功能，應用程式分身支援更多第三方應用程式，優化部分場景的相機拍攝效果，提升了系統穩定性，並整合了安全性修補程式，建議您更新。</feature>
+</features>
+<features module="圖片庫">
+<feature>• 新增 AI 消除功能，智能消除相片中的路人、雜物等，一鍵拯救廢片，體驗路徑：圖片庫 > 圖片 > 編輯 > AI 消除。</feature>
+</features>
+<features module="相機">
+<feature>• 優化部分場景的相機拍攝效果。</feature>
+</features>
+<features module="應用程式分身">
+<feature>• 新增支援更多第三方應用程式。</feature>
+</features>
+<features module="系統">
+<feature>•  提升系統穩定性，讓您的手機運行更穩定。</feature>
+</features>
+<features module="安全">
+<feature>• 整合 Android 2025年2月安全性修補程式，增強系統安全性。如需有關榮耀軟件安全更新內容的資訊，請瀏覽榮耀官方網站 https://www.honor.com/cn/support/bulletin/2025/2</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份。
+2. 更新過程中，如果遇到任何問題，請致電榮耀品牌服務熱線，或前往榮耀品牌客戶服務中心尋求支援。</feature>
+</features>
+</language>
+
+<language name="zh-tw" code="1028">
+<features module="" type="header">
+<feature>親愛的使用者，本次更新新增 AI 消除功能，應用程式雙開支援更多第三方應用程式，最佳化在部分場景下的相機拍攝效果，提升系統穩定性，並整合安全修補程式，建議您進行更新。</feature>
+</features>
+<features module="圖片庫">
+<feature>• 新增 AI 消除功能，智慧消除相片中的路人、雜物等，一鍵拯救廢片，體驗路徑：圖片庫 > 圖片 > 編輯 > AI 消除。</feature>
+</features>
+<features module="相機">
+<feature>• 最佳化在部分場景下的相機拍攝效果。</feature>
+</features>
+<features module="應用程式雙開">
+<feature>• 新增支援更多第三方應用程式。</feature>
+</features>
+<features module="系統">
+<feature>• 提升系統穩定性，讓您的手機執行更穩定。</feature>
+</features>
+<features module="安全">
+<feature>• 整合 Android 2025 年 2 月的安全性修補程式，增強系統安全性。如需有關榮耀軟體安全更新內容的資訊，請造訪榮耀官方網站 https://www.honor.com/cn/support/bulletin/2025/2</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份。
+2. 更新過程中，若遇到任何問題，請撥打榮耀品牌服務專線或前往榮耀品牌客戶服務中心尋求支援。</feature>
+</features>
+</language>
+
+</root>

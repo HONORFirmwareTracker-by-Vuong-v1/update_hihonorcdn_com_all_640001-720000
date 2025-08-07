@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>12967197</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>758</payloadOffset>
+<fileHash>q7xkHe+RcpU8af6714LD05DVmFilpW8SPoelf7kZO/o=</fileHash>
+<fileSize>7579</fileSize>
+<metadataHash>k6GVvNXjSw/8KwW0WgZo0MQgBo4Xd1YHPxVzbBX+e90=</metadataHash>
+<metadataSize>1077</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_ROD2-W09S_def_tr.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_ROD2-W09S_def_tr.zip</spath>
+<dpath>update_full_cust_ROD2-W09S_def_tr.zip</dpath>
+<operation>c</operation>
+<sha256>DA9F2EA9C715D19C820C704EC17D720707AB0B36DB6A4FFD8ED2B7B5ACA0BA81</sha256>
+<size>14729</size>
+</file>
+</files>
+</root>

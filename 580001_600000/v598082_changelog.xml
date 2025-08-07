@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <component name="TCPU" version="请自行修改"/>
+    <default-language name="en-us">1033</default-language>
+    <language name="zh-cn" code="2052">
+                <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>本次更新主要针对导航条参数优化，推荐您进行更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="导航条配色参数">
+            <!-- 正文 -->
+            <feature>优化社交类应用的导航条</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="en-us" code="1033">
+                <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>This update is mainly optimized for navigation bar parameters, and it is recommended that you update.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Navigation bar color parameters">
+            <!-- 正文 -->
+            <feature>Optimize navigation bars for social applications</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+</root>

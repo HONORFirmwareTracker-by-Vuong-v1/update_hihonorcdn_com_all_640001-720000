@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>549265408</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>ee0u4sIkK2nh4vRe+im8WdhKA0EG65dhVZ/Wj8bK/j4=</fileHash>
+<fileSize>9273</fileSize>
+<metadataHash>dBE2F3b35UaajusJPFgGhCkt+Rt5gi4el2j2b56A6EU=</metadataHash>
+<metadataSize>5856</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ELI-N39I_def_in.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ELI-N39I_def_in.zip</spath>
+<dpath>update_cust_ELI-N39I_def_in.zip</dpath>
+<operation>c</operation>
+<sha256>CF797EA8010EDD6925CC4D1801B7684B676B6792FEF83ED4F76B85D56BD17019</sha256>
+<size>16562</size>
+</file>
+</files>
+</root>

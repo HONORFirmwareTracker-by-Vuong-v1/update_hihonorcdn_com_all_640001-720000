@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1669505024</cowsize>
+<payloadOffset>932</payloadOffset>
+<fileHash>mLAggEKFix32bjwAzD/SjLSqhYu1kzHNUbkQ/8qAWwc=</fileHash>
+<fileSize>66883114</fileSize>
+<metadataHash>RNXbViFodgZ0Ub8lzgaGjSeH6Sz/zI6Yu7UUzkMHYVw=</metadataHash>
+<metadataSize>29861</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_HEY3-W10_demo_cn_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_HEY3-W10_demo_cn_R102.zip</spath>
+<dpath>update_preload_HEY3-W10_demo_cn_R102.zip</dpath>
+<operation>c</operation>
+<sha256>D052D3D24B738CDCA40751C07A6E1FE5C167153300136C17EF12A8E71651466D</sha256>
+<size>66890460</size>
+</file>
+</files>
+</root>

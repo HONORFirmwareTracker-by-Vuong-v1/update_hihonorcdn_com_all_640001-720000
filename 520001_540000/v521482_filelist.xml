@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44044288</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>9WKNJXPjALQWxs+0kkSTbo2yOdS6M9nqUlEoQUVFLlQ=</fileHash>
+<fileSize>38139</fileSize>
+<metadataHash>DGclTLwSCVjczBxCJsB3oJYtnmzMM6dKXHxw2bNuF1g=</metadataHash>
+<metadataSize>1086</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_LGE-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_LGE-AN00_all_cn.zip</spath>
+<dpath>update_cust_LGE-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>CE398D050377D12A6CBF32454CC405DD1F4D9731EB22890A048F07C9FBD0833A</sha256>
+<size>45449</size>
+</file>
+</files>
+</root>

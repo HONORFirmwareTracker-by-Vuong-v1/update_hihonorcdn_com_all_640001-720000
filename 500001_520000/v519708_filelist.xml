@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>2</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44044288</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>aRSYY8aOGdFMB7jCgGDw6Jf/FUe6ytmF7WWeI0AqhR8=</fileHash>
+<fileSize>49050</fileSize>
+<metadataHash>ze+yJ9kXA/Zzz54OdrSavQ/xv5H+YgZ0Q8DXJVFgfBM=</metadataHash>
+<metadataSize>826</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_GDI-W09_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_GDI-W09_all_cn.zip</spath>
+<dpath>update_cust_GDI-W09_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>9EA0941DD6E65AC7CB88654ED3050922131D97B8014A2FDF03BA2BEB90C9C113</sha256>
+<size>56346</size>
+</file>
+</files>
+</root>

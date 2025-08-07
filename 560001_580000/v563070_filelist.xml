@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>36778312</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>775</payloadOffset>
+<fileHash>Ktd9HhcQOh+MWvPS5bi3r4fnTWPvV1CD2Pgmnhg6EJ4=</fileHash>
+<fileSize>109586</fileSize>
+<metadataHash>jzRfFZ6zxHwWbQooBESfk5bTEbbJvZ/TINyZAvWQgRw=</metadataHash>
+<metadataSize>54280</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_DNP-N39_demo_normal_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_DNP-N39_demo_normal_R2.zip</spath>
+<dpath>update_full_preload_DNP-N39_demo_normal_R2.zip</dpath>
+<operation>c</operation>
+<sha256>335EB619C5B16F24D179FBB1AA7186C8A42B3C4DD966A94DEFD9368B06DD2E91</sha256>
+<size>116770</size>
+</file>
+</files>
+</root>

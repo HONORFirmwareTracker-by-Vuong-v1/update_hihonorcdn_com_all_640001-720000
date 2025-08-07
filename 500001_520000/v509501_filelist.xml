@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1189486592</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>ZBxO7qpMUf2jYQq3eF8X1J1vPnyCc7la2DKHG3QxGbE=</fileHash>
+<fileSize>582298316</fileSize>
+<metadataHash>lka/W6jd3mZCgVT7fXiNnp+wLogNdng0XVMFz8TZyFo=</metadataHash>
+<metadataSize>31547</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_GFY-L33_iusacell_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_GFY-L33_iusacell_mx.zip</spath>
+<dpath>update_full_cust_GFY-L33_iusacell_mx.zip</dpath>
+<operation>c</operation>
+<sha256>A9FA4BBAC2AB339A325AF69951C97F2C66BEC032EC6B2255251965FA7D7B8E0C</sha256>
+<size>582305508</size>
+</file>
+</files>
+</root>

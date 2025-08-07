@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1593700352</cowsize>
+<payloadOffset>934</payloadOffset>
+<fileHash>DAohf6egknFxrM+DRB5Ui2YKuXdUuyqTc9rCBCakoBc=</fileHash>
+<fileSize>22108144</fileSize>
+<metadataHash>r+ocrCWHtNnROS2ibfDF12KQuvpxTuZI/1KYqBdT8FQ=</metadataHash>
+<metadataSize>40891</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_ELZ-AN00_all_cn_R5.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_ELZ-AN00_all_cn_R5.zip</spath>
+<dpath>update_preload_ELZ-AN00_all_cn_R5.zip</dpath>
+<operation>c</operation>
+<sha256>06845D986EF069E9AC9E873828D8D0A6F87F630F63ABF49D5D9F50660DC04BFA</sha256>
+<size>22115485</size>
+</file>
+</files>
+</root>

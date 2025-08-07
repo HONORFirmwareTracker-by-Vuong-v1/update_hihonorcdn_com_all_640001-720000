@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>iO4COWvsqa4j0Q8R2Bd4jk7lq6twTczMy04Mw1GNWZU=</fileHash>
+<fileSize>292322528</fileSize>
+<metadataHash>A152j8xQxxngmstKQSQDuOIi9pQ1yi48MA1MMui5ODc=</metadataHash>
+<metadataSize>16240</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_NIC-TN00_cmcc_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_NIC-TN00_cmcc_cn.zip</spath>
+<dpath>update_full_cust_NIC-TN00_cmcc_cn.zip</dpath>
+<operation>c</operation>
+<sha256>CE2E12387D24C10B3A74396F0ACE770F44E8F5F185159282F70D693E4C81F3B9</sha256>
+<size>292329715</size>
+</file>
+</files>
+</root>

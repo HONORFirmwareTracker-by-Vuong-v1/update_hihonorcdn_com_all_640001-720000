@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>759533568</cowsize>
+<payloadOffset>908</payloadOffset>
+<fileHash>wxKDd3+7whT9KZ6yn7eni2n1l5T8Y26f3tLy2uhcDh0=</fileHash>
+<fileSize>20885</fileSize>
+<metadataHash>Q1GKkBlgbx7TXB7TTPXojRkyFmLhysiYwwZ+VTjAe7o=</metadataHash>
+<metadataSize>17451</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_LLY-L31_def_eea_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_LLY-L31_def_eea_R2.zip</spath>
+<dpath>update_preload_LLY-L31_def_eea_R2.zip</dpath>
+<operation>c</operation>
+<sha256>5C07C89BF44467F1E42850F4D7EFDCAA82660C2A33E987D660B14BC3353370B9</sha256>
+<size>28200</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>12829076</compressCowSize>
+<cowsize>44036096</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>SBZSEtaBmmakMRe/XK/UMA3BO58Fngt1uPONfkhp5kw=</fileHash>
+<fileSize>37970</fileSize>
+<metadataHash>X1JH3ZM046rHtSKFDyRjAFvKFfJBFRcBsro2SNdQgi4=</metadataHash>
+<metadataSize>1125</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_AMP-AN10_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_AMP-AN10_all_cn.zip</spath>
+<dpath>update_cust_AMP-AN10_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>A95D1E833C2FEB8E534367739CDADC5BE8D6BC11A5B41C9E065CC3C347D45DB9</sha256>
+<size>45269</size>
+</file>
+</files>
+</root>

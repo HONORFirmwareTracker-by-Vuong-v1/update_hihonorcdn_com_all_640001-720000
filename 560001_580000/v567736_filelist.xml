@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>923</payloadOffset>
+<fileHash>hQ3zCKWAhJO7PK80pL8SMX+GzUOmy+XUJngk+DtDyT8=</fileHash>
+<fileSize>1774932</fileSize>
+<metadataHash>3AzY8o6nmWRBqpKjybbjrX4taGGbB4+8c9b4irl9Lcc=</metadataHash>
+<metadataSize>845</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ALI-N23P_def_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ALI-N23P_def_la.zip</spath>
+<dpath>update_cust_ALI-N23P_def_la.zip</dpath>
+<operation>c</operation>
+<sha256>A6ACD85FCD42858D690601FDC00A2EA96E379971F4C52F1C3ABEDE0A07C2B4BB</sha256>
+<size>1782244</size>
+</file>
+</files>
+</root>

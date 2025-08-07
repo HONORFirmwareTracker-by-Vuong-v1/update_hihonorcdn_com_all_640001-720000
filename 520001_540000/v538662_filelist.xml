@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2705334272</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>+57xbO54+l8e1UldpWYAl6vCSE2f2gdkILQH088cN7A=</fileHash>
+<fileSize>1238056229</fileSize>
+<metadataHash>RUtdiT7oLLf/FzIJu3Xhpt+J4v5dHZE3AdwNZ0qC/1o=</metadataHash>
+<metadataSize>71861</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_BRP-AN80_all_cn_R301.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_BRP-AN80_all_cn_R301.zip</spath>
+<dpath>update_full_preload_BRP-AN80_all_cn_R301.zip</dpath>
+<operation>c</operation>
+<sha256>6A04DBDC7949EAF8D78F466BA4C438CF616F125E7B82164F38D6B426C4193CB2</sha256>
+<size>1238063447</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>403810711</compressCowSize>
+<cowsize>1989517312</cowsize>
+<payloadOffset>941</payloadOffset>
+<fileHash>3n5ay2zgwbRrVD2zA+5UU4dq1D7/zQDDh3+4VmRfgCQ=</fileHash>
+<fileSize>277719960</fileSize>
+<metadataHash>aTNlPNoU4Uqe3CXE+skivnFfCAnMAKaH89DTmQ5bw0Q=</metadataHash>
+<metadataSize>159806</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_ROD2-W09_all_cn_R103.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_ROD2-W09_all_cn_R103.zip</spath>
+<dpath>update_preload_ROD2-W09_all_cn_R103.zip</dpath>
+<operation>c</operation>
+<sha256>31AAF642FAC11D7027304DF124FB5B609E7372AF5E041CC7F2BD3A49CC25E24D</sha256>
+<size>277727313</size>
+</file>
+</files>
+</root>
