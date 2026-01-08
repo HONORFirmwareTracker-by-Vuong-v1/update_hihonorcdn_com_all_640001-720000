@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>767</payloadOffset>
+<fileHash>cR8kZm20UWMBzFPRKBrloncSaG7c3+KMdBsYtHYYYvA=</fileHash>
+<fileSize>36080</fileSize>
+<metadataHash>lX3nEBldm+ODm1faFijhnylQup2obsHvZgPSDK8w8k8=</metadataHash>
+<metadataSize>15882</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_CLK-L03_telcel_mx_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_CLK-L03_telcel_mx_R1.zip</spath>
+<dpath>update_full_preload_CLK-L03_telcel_mx_R1.zip</dpath>
+<operation>c</operation>
+<sha256>1C1E78CB432BAE24A8829A6B6B60CA2A39C414C8EACFEB7759A731224FE1C317</sha256>
+<size>43249</size>
+</file>
+</files>
+</root>

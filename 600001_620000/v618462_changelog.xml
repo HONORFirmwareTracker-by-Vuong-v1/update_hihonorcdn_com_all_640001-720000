@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="NTH-LGRP1-CHN 5.0.0.13(SP10)"/>
+<default-language name="en-us">1033</default-language>
+<cleardata-flag>False</cleardata-flag>
+<romsurvey-flag>False</romsurvey-flag>
+<notify-level>40</notify-level>
+<point-version>False</point-version>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>本次暗光长焦部分场景虚化不生效问题，修复跨品牌互传部分场景WLAN传输通道被占用问题，推荐您进行更新。
+</feature>
+</features>
+<features module="【相机】">
+<feature>修复暗光长焦部分场景虚化不生效问题。
+</feature>
+</features>
+<features module="【荣耀分享】">
+<feature>修复跨品牌互传部分场景WLAN传输通道被占用问题。</feature>
+</features>
+<features module="【系统】">
+<feature>优化系统稳定性。</feature>
+</features>
+
+<features id="1" module="媒体">
+             <feature title="尊享低音">•  新增尊享低音支持的应用名单功能，增加应用尊享低音开关，提升抖音等短视频场景音频体验。体验路径：设置&gt;声音和振动&gt;音质和音效&gt;尊享低音&gt;支持的应用。</feature>
+             <feature title="无极音量">•  新增媒体的无极音量调节功能。</feature>
+         <feature title="反光消除">•  新增图片反光消除功能。体验路径：图库 &gt; 查看图片 &gt; AI 编辑 &gt; 魔法修图 &gt; AI 消除 &gt; 反光消除。</feature><feature title="褶皱去除">•  新增图片褶皱去除功能。体验路径：图库 &gt; 查看图片 &gt; AI 编辑 &gt; 魔法修图 &gt; AI 消除 &gt; 褶皱去除。</feature><feature title="动态照片">•  新增动态照片拼图功能。体验路径：图库 &gt; 选中多张动态照片 &gt; 创作 &gt; 拼图。
+•  新增动态照片编辑功能。体验路径：图库 &gt; 查看动态照片 &gt; AI 编辑。</feature><feature title="表情修复">•  新增照片表情修复功能。体验路径：图库 &gt; 查看人像照片 &gt; AI 编辑 &gt; 魔法修图 &gt; 人脸修复 &gt; 表情修复。</feature><feature title="水印编辑">•  优化图片水印编辑功能，可对部分水印元素进行添加或编辑。体验路径：图库 &gt; 查看图片 &gt; AI 编辑 &gt; 水印。</feature></features><features id="2" module="智慧">
+             <feature title="智慧多窗">•  修复部分场景下，悬浮窗风格无法切换的问题。</feature>
+         </features><features id="3" module="连接">
+             <feature title="荣耀车联">•  新增支持融合桌面功能。手机部分应用可显示在车机桌面上，点击图标可拉起应用的小窗/全屏投屏，同时可自由在小窗/全屏形态间自由切换。
+•  新增支持应用流转功能。在手机上使用地图/音视频等应用时，可一键投屏到车机屏幕上（可在荣耀车联里面打开/关闭应用的流转提醒）。
+•  新增支持荣耀任意门-地址流转功能。手机上的地址信息可通过荣耀任意门一拖发送到车机端，车机端收到地址后使用车机预装地图开启导航。
+•  新增支持音频元数据传输功能。手机正在播放的音频信息，可显示到车机桌面的音频卡片中。</feature>
+         <feature title="荣耀车联">•  优化车机无线连接场景稳定性。</feature></features><features id="4" module="系统">
+             <feature title="闹钟">•  修复部分场景闹钟功能异常问题。   </feature>
+             <feature title="蓝牙">•  优化手机蓝牙连接部分汽车，播放音视频无声问题。</feature>
+             <feature title="稳定性">•  提升系统稳定性，让您的手机运行更稳定。</feature>
+         <feature title="时钟">•  新增指定日期设置闹钟功能，可在时钟应用设定未来两年内指定日期的闹钟。体验路径：时钟 &gt; 新建闹钟 &gt; 点击日历图标设置。</feature><feature title="录屏">•  新增录屏暂停功能。体验路径：启动录屏 &gt; 录屏悬浮窗 &gt; 点击录屏暂停按钮。
+•  新增录屏隐藏通知消息弹框功能。体验路径：设置 &gt; 辅助功能 &gt; 屏幕录制 &gt; 录屏隐藏通知。</feature><feature title="截屏">•  新增截屏分享后删除原图功能。体验路径：截屏 &gt; 分享 &gt; 勾选分享后删除截图。</feature><feature title="任意门">•  优化任意门图片拖拽功能。支持部分应用界面内可拖拽单张完整的长图，长图不再截断。</feature><feature title="铃声">•  铃声选择界面 UX 焕新，提升用户使用体验。</feature><feature title="锁屏">•  新增“我的锁屏”栏，展示锁屏历史记录，支持设置或者删除。体验路径：设置 &gt; 桌面和个性化 &gt; 锁屏样式 &gt; 自定义 &gt; 锁屏样式 &gt; 我的锁屏。
+•  优化锁屏底部按钮交互，支持自定义设置。体验路径：设置 &gt; 桌面和个性化 &gt; 锁屏样式 &gt; 自定义 &gt; 点击左/右下角图标。
+•  优化人脸解锁提示语交互，三次解锁成功后不再显示解锁提示语，避免遮挡日期显示。</feature><feature title="控制中心">•  新增控制中心滑动音量条/亮度条到最大或最小时的振动效果。</feature><feature title="智慧多窗">•  新增悬浮窗风格选项，选择简洁风格可将悬浮窗顶部按钮隐藏至顶部小横条中。体验路径：设置 &gt; 辅助功能 &gt; 智慧多窗 &gt; 悬浮窗风格。</feature><feature title="设置">•  优化蓝牙耳机电量显示，在蓝牙设置页面及控制中心展开蓝牙详情页面支持显示蓝牙耳机电量。体验路径：设置 &gt; 蓝牙 &gt; 已配对的设备。</feature><feature title="荣耀分享">•  新增支持与 iPhone 互传文件。在苹果 App Store 中下载“荣耀互联”应用即可体验高速免流量互传。</feature></features><features module="主题" id="2">
+             <feature title="在线主题">•  拓展在线主题栏的内容展示，支持无限下滑，海量主题资源任你选择 (主题应用需更新至最新版本支持)。体验路径：设置 &gt; 桌面和个性化 &gt; 主题 &gt; 在线主题。</feature>
+         </features><features module="应用" id="5">
+             <feature title="系统应用">•  新增响铃时振动强度调节和系统触感反馈强度调节，可调节振动强度。体验路径：设置 &gt; 声音和振动 &gt; 响铃时振动/系统触感反馈。
+•  新增返回手势振动效果，增强返回手势振动体验。体验路径：设置 &gt; 声音和振动 &gt; 返回手势反馈。
+•  优化系统触感反馈设置层级，将系统触感反馈开关由“设置 &gt; 声音和振动 &gt; 更多声音和振动设置”三级页面提拉到“声音和振动”二级页面下，方便用户快捷开关。</feature>
+         </features><features module="安全" id="7">
+             <feature title="剪贴板">•  新增应用剪贴板权限控制开关，可通过此开关管理应用读取剪贴板内容的权限。体验路径：设置 &gt; 应用 &gt; 应用管理 &gt; 选择应用 &gt; 权限 &gt; 剪贴板。</feature>
+             <feature title="骚扰拦截">•  新增按地区号码拦截来电功能。体验路径：系统管家 &gt; 骚扰拦截 &gt; 拦截规则 &gt; 拦截国际地区陌生号码和拦截归属地陌生号码。</feature>
+             <feature title="AI 换脸检测">•  新增开启直播/视频场景 AI 换脸检测入口，开启后观看直播或视频时，唤醒“YOYO 助理”，可对屏幕中的人脸进行 AI 换脸检测。体验路径：设置 &gt; 安全 &gt; 反诈防护 &gt; AI 换脸检测提醒 &gt; 直播/视频检测。</feature>
+             <feature title="安全补丁">•  合入安卓 2025 年 5 月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2025/5</feature>
+         </features><features module="更新注意事项：" type="end">
+<feature>本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+</feature>
+</features></language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>This update improves the screen display in certain situations.</feature>
+</features>
+<features module="[Screen]">
+<feature>Improves the screen display in certain situations.</feature>
+</features>
+
+<features module="Media" id="1">
+             <feature title="Remove reflection">• AI Edit includes Remove reflection feature. Try it out by going to: Gallery &gt; View an image &gt; AI Edit &gt; Magic Retouch &gt; AI Eraser &gt; Remove reflection.</feature>
+             <feature title="Remove wrinkles">• AI Edit also includes Remove wrinkles feature. Try it out by going to: Gallery &gt; View an image &gt; AI Edit &gt; Magic Retouch &gt; AI Eraser &gt; Remove wrinkles.</feature>
+             <feature title="Moving Photo">• You can create moving photo collages. Try it out by going to: Gallery &gt; Select multiple moving photos &gt; Create &gt; Collage. 
+• You can also edit moving photos. Try it out by going to: Gallery &gt; View a moving photo &gt; AI Edit.</feature>
+             <feature title="Expression Fix">• Expression Fix is now available in Gallery. Try it out by going to: Gallery &gt; View a portrait photo &gt; AI Edit &gt; Magic Retouch &gt; Face Tune &gt; Expression Fix.</feature>
+             <feature title="Edit watermarks">• AI Edit allows you to add or edit specific watermark elements. Try it out by going to: Gallery &gt; View an image &gt; AI Edit &gt; Watermark.</feature>
+         </features><features module="Themes" id="2">
+             <feature title="Online themes">• Expands the content display of the Online themes, allowing you to explore a wide variety of themes through infinite scrolling. (Please ensure that the Themes app is updated to the latest version.) Try it out by going to: Settings &gt; Home screen &amp; style &gt; Themes &gt; Online themes.</feature>
+         </features><features module="System" id="4">
+             <feature title="Clock">• The Clock app allows you to set alarms for specific dates, enabling you to set alarms for selected dates within the next two years. To do this, go to Clock and create a new alarm, then tap the Calendar icon to choose your desired date.</feature>
+             <feature title="Screen recording">• You can now pause screen recording. Start screen recording, then go to the floating window and tap the pause button.
+• You can also hide notification pop-ups during screen recording. Try it out by going to: Settings &gt; Accessibility features &gt; Screen recording &gt; Hide notifications while screen recording.</feature>
+             <feature title="Screenshot">• The screenshot can be automatically deleted after it has been shared. Take a screenshot first, then tap Share, and check the Delete screenshot after sharing option.</feature>
+             <feature title="Magic Portal">• Optimizes the image drag-and-drop feature in Magic Portal. Certain apps allow you to drag and drop a complete long image without any truncation.</feature>
+             <feature title="Ringtone">• The design of Phone ringtone interface has been refreshed to enhance the user experience.</feature>
+             <feature title="Lock screen">• My lockscreens column shows your lock screen history. You can set any of them as your current lock screen or delete them. Try it out by going to: Settings &gt; Home screen &amp; style &gt; Lock screen style &gt; Custom &gt; Lock screen style &gt; My lockscreens.
+• The widgets at the bottom of the lock screen allow for custom settings. Try it out by going to: Settings &gt; Home screen &amp; style &gt; Lock screen style &gt; Custom &gt; Tap the icon in the lower left/right corner.
+• After three successful face unlocks, the unlock prompt will no longer appear to keep the date display clear.</feature>
+             <feature title="Control Center">• You can feel haptic feedback when you adjust the volume or brightness slider in the Control Center to its maximum or minimum level.</feature>
+             <feature title="Multi-Window">• The Concise style of floating window can hide the control buttons in the small control bar at the top. Try it out by going to: Settings &gt; Accessibility features &gt; Multi-window &gt; Floating window style.</feature>
+             <feature title="Settings">• Optimizes the battery level display of Bluetooth earphones. To check the battery level, you can go to the Bluetooth settings page or go to the Control Center and expand the Bluetooth details. Try it out by going to: Settings &gt; Bluetooth &gt; PAIRED DEVICES.</feature>
+             <feature title="Honor Share">• It supports file transfer with iPhone. Download Honor Connect from the Apple App Store to experience high-speed and data-free transfers.</feature>
+         </features><features module="Apps" id="5">
+             <feature title="System apps">• Adjust the intensity of ringtone vibration and system haptics to suit your preferences. Try it out by going to: Settings &gt; Sounds &amp; vibration &gt; Vibrate when ringing/System haptics. 
+• Back gesture haptics feature enables a better tactile experience when performing back gestures. Try it out by going to: Settings &gt; Sounds &amp; vibration &gt; Back gesture haptics. 
+• The System haptics toggle is moved from the third-level menu (Settings &gt; Sounds &amp; vibration &gt; More sound settings) to the second-level Sounds &amp; vibration page. This change makes it easier for you to enable or disable the feature.</feature>
+         </features><features module="Connect" id="6">
+             <feature title="Honor CarConnect">• Enhances the stability of in-vehicle wireless connection.</feature>
+         </features><features module="Security" id="7">
+             <feature title="Clipboard">• You can determine which apps have access to the Clipboard content via Clipboard permission switch. Try it out by going to: Settings &gt; Apps &gt; Manage apps &gt; Select an app &gt; Permissions &gt; Clipboard.</feature>
+             <feature title="Blocked">• Block rules now include the ability to block calls based on area codes. Try it out by going to: System Manager &gt; Blocked &gt; Block rules &gt; Block unknown numbers from foreign countries/Block unknown numbers from home location.</feature>
+             <feature title="AI Deepfake Detection">• AI Deepfake Detection can be used for live streams or videos. After enabling Live stream/video detection, you can wake up YOYO Assistant to perform AI Deepfake Detection on the faces displayed on the screen. Try it out by going to: Settings &gt; Security &gt; Scam Protection &gt; AI Deepfake Detection alert &gt; Live stream/video detection.</feature>
+             <feature title="Security patch">• Android security patch (May 2025) has been incorporated for system security. For more information about Honor Security updates, please visit our website https://www.honor.com/global/support/bulletin/2025/5</feature>
+         </features><features module="Update notes:" type="end">
+<feature>1. This update will not erase your personal data, but we recommend that you back up any important data before updating.
+2. For more features, visit Tips.
+</feature>
+</features></language>
+
+</root>

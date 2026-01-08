@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1383178240</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>AmIZidEtV8kUTRAcz8vcl+1lcRngsiJ7Cu/N27u2uq4=</fileHash>
+<fileSize>429580818</fileSize>
+<metadataHash>NYm4Y465CTC10azX5z4QyItk2u8qwBzm7upEhifyvks=</metadataHash>
+<metadataSize>36422</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_ALT-N21_def_spcseas_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_ALT-N21_def_spcseas_R2.zip</spath>
+<dpath>update_full_preload_ALT-N21_def_spcseas_R2.zip</dpath>
+<operation>c</operation>
+<sha256>E451F8247DCD12188FEDAC407D59DA12583947DF72CFA801C5B415CA5D18E556</sha256>
+<size>429588023</size>
+</file>
+</files>
+</root>

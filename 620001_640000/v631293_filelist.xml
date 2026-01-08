@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>jW4ErSHb34jrMNLimz9jvIT/02qJN3AN81SjrHJnSWQ=</fileHash>
+<fileSize>526056812</fileSize>
+<metadataHash>ndG/UosDzgB2MlN857KmXh8JB0oX9rU/+Ht+r48MXG8=</metadataHash>
+<metadataSize>32128</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_CRT-L33_def_la_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_CRT-L33_def_la_R2.zip</spath>
+<dpath>update_full_preload_CRT-L33_def_la_R2.zip</dpath>
+<operation>c</operation>
+<sha256>73570699E0C5CEECCB05C0E9E56C4FE9E3882B93FB910F0C5DC0FC370F75D4AC</sha256>
+<size>526064021</size>
+</file>
+</files>
+</root>

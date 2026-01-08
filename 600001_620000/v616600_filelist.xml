@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>162048896</compressCowSize>
+<cowsize>2549260288</cowsize>
+<payloadOffset>941</payloadOffset>
+<fileHash>kf9yuTQ9PTsviGeSbILQ7OaUiU1kvXDO6ZbDClhiW2I=</fileHash>
+<fileSize>103443160</fileSize>
+<metadataHash>i6UBwm/a1daTxqgHyewomBIGeQs4USZABVGpbfkbGzg=</metadataHash>
+<metadataSize>126887</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_BVL-AN00_all_cn_R110.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_BVL-AN00_all_cn_R110.zip</spath>
+<dpath>update_preload_BVL-AN00_all_cn_R110.zip</dpath>
+<operation>c</operation>
+<sha256>9038B43AD8AD4F213AE70704F3C0240376C65F2BA186DB2D0BA42F51DF897CA2</sha256>
+<size>103450511</size>
+</file>
+</files>
+</root>

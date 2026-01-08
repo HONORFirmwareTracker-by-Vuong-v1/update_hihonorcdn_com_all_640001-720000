@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>VkcAHEQDSVJqvAKULKZagdeNQSwvWkQZ7w+gYxd/aC0=</fileHash>
+<fileSize>799624562</fileSize>
+<metadataHash>pgNKl5hBSs5VAwzp6WsxI1+h6tb5r9IZTi24NqjQ4cA=</metadataHash>
+<metadataSize>32442</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_LLY-N31_def_la_R4.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_LLY-N31_def_la_R4.zip</spath>
+<dpath>update_full_preload_LLY-N31_def_la_R4.zip</dpath>
+<operation>c</operation>
+<sha256>6EC6A70A0B7F951C285A0D92527773864BFC706E004472674C9B2357E30184C1</sha256>
+<size>799631772</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1593712640</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>JKUxrONTfPHcVNVxC0JXrh3HR3wen+GlUWfYKYw3yP4=</fileHash>
+<fileSize>804318201</fileSize>
+<metadataHash>tv4j07ee9/ElThf5jwyElmhvXys9CDsmYuE4eI07FJ8=</metadataHash>
+<metadataSize>42350</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_HEY2-W19_all_cn_R6.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_HEY2-W19_all_cn_R6.zip</spath>
+<dpath>update_full_preload_HEY2-W19_all_cn_R6.zip</dpath>
+<operation>c</operation>
+<sha256>0E1BE591B0150591D060CC89C801DDD2C9A0B7A73F2A66A7CC4B4807265DD484</sha256>
+<size>804325409</size>
+</file>
+</files>
+</root>

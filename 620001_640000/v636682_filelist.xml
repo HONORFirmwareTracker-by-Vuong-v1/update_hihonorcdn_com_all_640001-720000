@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2010570752</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>eXEntj0lmkzzhx6qzlTvRJXD7vT0ZpjNU7IHe1jg+f4=</fileHash>
+<fileSize>922145383</fileSize>
+<metadataHash>Kl+zdlOx0sq9ekIX+N41xWQXnPXa5V8q64Nudparuow=</metadataHash>
+<metadataSize>53408</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_NIC-L13_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_NIC-L13_claro_la.zip</spath>
+<dpath>update_full_cust_NIC-L13_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>1F1B5C8E24CBA7663108944C9967535282FD92519EDAE647E73F59F88956EB62</sha256>
+<size>922152584</size>
+</file>
+</files>
+</root>

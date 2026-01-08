@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>759537664</cowsize>
+<payloadOffset>908</payloadOffset>
+<fileHash>nKJwpidmtedDIJr/Q6Yq1Ve7nDjCu8BWYyr08SRsd9I=</fileHash>
+<fileSize>20934</fileSize>
+<metadataHash>Q5aO4+eHxzAL3S39vhJVeFKnk9HGFCos5ZJuePMJ2to=</metadataHash>
+<metadataSize>17451</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_CLK-L32_opr_meafnaf_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_CLK-L32_opr_meafnaf_R2.zip</spath>
+<dpath>update_preload_CLK-L32_opr_meafnaf_R2.zip</dpath>
+<operation>c</operation>
+<sha256>3FB12DB1AAD822EA308CBBA9BCE455D49ECAA96472205B855616236F37318CB7</sha256>
+<size>28244</size>
+</file>
+</files>
+</root>

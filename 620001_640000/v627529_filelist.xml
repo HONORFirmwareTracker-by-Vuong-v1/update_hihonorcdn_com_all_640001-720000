@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>12715018</compressCowSize>
+<cowsize>43941888</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>GHKnTg+zJgSit8i0Jx61Jix5eAnCxVM9/X+2MxSoGm8=</fileHash>
+<fileSize>4177</fileSize>
+<metadataHash>NuyJo17ZGJgOoFZ9I/uMqBEaLoey5ZxVBB/gp160MTg=</metadataHash>
+<metadataSize>859</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_MBH-AN10_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_MBH-AN10_all_cn.zip</spath>
+<dpath>update_cust_MBH-AN10_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>5959516D435A6CE9B5C18FB3BE03C046A8A653128C9906FA8F19919D6EE62F9B</sha256>
+<size>11474</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1454837760</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>lT/NDjhzt85O28zxxVhbsIv4uBALvDedleYEKRd+tZo=</fileHash>
+<fileSize>287879821</fileSize>
+<metadataHash>AI7oCYaT4YNy+WnjdoIEfd+i0q2WBOTj46HzbZ5QTx4=</metadataHash>
+<metadataSize>22717</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_RBN-N03_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_RBN-N03_claro_la.zip</spath>
+<dpath>update_cust_RBN-N03_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>6C9CC215DB927B1A8FC8BD53B9C7A08F81D23C2400D0591657DC661285FA12B2</sha256>
+<size>287887160</size>
+</file>
+</files>
+</root>

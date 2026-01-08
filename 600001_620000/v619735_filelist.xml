@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2010570752</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>QrxKjyt32txLCJwpT7sm9lpIWzLp53/9s7TtjHpmbFk=</fileHash>
+<fileSize>786791228</fileSize>
+<metadataHash>NRU+rFaZTCRHanyC31QixknI687HWpwqyVEuLzpFVQ0=</metadataHash>
+<metadataSize>53242</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_CLK-N03_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_CLK-N03_claro_la.zip</spath>
+<dpath>update_full_cust_CLK-N03_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>2762614BA3C555401742E7AEACAEAACCE6B55317DD7344657DB6A4AFEF01A1F4</sha256>
+<size>786798424</size>
+</file>
+</files>
+</root>

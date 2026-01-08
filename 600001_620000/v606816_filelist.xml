@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>19z0mtAjIjXqsKthR3gIBCtbuyTWOvv5HT4iphfIo5k=</fileHash>
+<fileSize>394241472</fileSize>
+<metadataHash>S+HDRm+82N3C2aQVUUmCgSXtnPzf7M1sHnu9AU/UfD4=</metadataHash>
+<metadataSize>31977</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_CLK-L32_def_spcseas_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_CLK-L32_def_spcseas_R2.zip</spath>
+<dpath>update_full_preload_CLK-L32_def_spcseas_R2.zip</dpath>
+<operation>c</operation>
+<sha256>6204ADC8E55233D1448CA1FE398A7735F33649416768BB768EBEC8A9C961B12F</sha256>
+<size>394248676</size>
+</file>
+</files>
+</root>

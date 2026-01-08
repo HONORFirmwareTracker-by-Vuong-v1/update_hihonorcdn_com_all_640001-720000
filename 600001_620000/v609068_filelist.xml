@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>p8+Idoss9f5KKTLjHUe5LYeripbg1ldm/XBUa39iVd0=</fileHash>
+<fileSize>245038663</fileSize>
+<metadataHash>iC87DXzOP7T80U2jq6vqx0lR0v+9F3wOO1XZiCNdM3U=</metadataHash>
+<metadataSize>16693</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_WDY-L43_iusacell_mx_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_WDY-L43_iusacell_mx_R2.zip</spath>
+<dpath>update_full_preload_WDY-L43_iusacell_mx_R2.zip</dpath>
+<operation>c</operation>
+<sha256>EA075AFE7773844BE4C8A4F72C557C416CA35A5B002D80B8B52DAF955ECAB450</sha256>
+<size>245045871</size>
+</file>
+</files>
+</root>

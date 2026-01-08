@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44167168</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>O8lhnqhDagKeppQj90YXNr1cVE0WzFOdtCFMR2GlA5U=</fileHash>
+<fileSize>52037</fileSize>
+<metadataHash>bgWvmf6jOQ/V5DRbPAqz7xrU8/iX6v7/4ELRgQcdJC0=</metadataHash>
+<metadataSize>1266</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ABR-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ABR-AN00_all_cn.zip</spath>
+<dpath>update_cust_ABR-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>E431821612D4E087FFD9B976620BD28255E69B9E1958D944C1EC079DB8FE43B0</sha256>
+<size>59337</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>EtI8qcKLJrmSGGXAjxpcUR/r3XzyVoQoZCHY4lRCtUw=</fileHash>
+<fileSize>153298315</fileSize>
+<metadataHash>dbSLpzEGVlTHJVKaosnD2mzYwbf033LMWakXq/fyVoQ=</metadataHash>
+<metadataSize>15958</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_CRT-N31_opr_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_CRT-N31_opr_eea.zip</spath>
+<dpath>update_full_cust_CRT-N31_opr_eea.zip</dpath>
+<operation>c</operation>
+<sha256>D5404761992B13AF25493181DD2AD415DC75F2C0B9D1FA70D06CC9C20B8038E7</sha256>
+<size>153305509</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>29860172</compressCowSize>
+<cowsize>1025150976</cowsize>
+<payloadOffset>925</payloadOffset>
+<fileHash>eQDGos9AVF1X1yWSBShKdsDE0+M/ELioRh9cyHG0uOY=</fileHash>
+<fileSize>9424437</fileSize>
+<metadataHash>YzCMeIs7VpRFBzr2fWOu5tnqvQ2bDdwyyEVuUoWXfcg=</metadataHash>
+<metadataSize>635162</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_CGA-W09_def_spcseas_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_CGA-W09_def_spcseas_R2.zip</spath>
+<dpath>update_preload_CGA-W09_def_spcseas_R2.zip</dpath>
+<operation>c</operation>
+<sha256>8405D4997E158FCDBE315DA2DCEC1689F41774FF95361BD947F141BFC47F0B98</sha256>
+<size>9431770</size>
+</file>
+</files>
+</root>

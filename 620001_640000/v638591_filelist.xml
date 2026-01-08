@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>JDft/FY9zJlj00F9+yOR9ZDq58/qs9WF6mFVHx8nJSU=</fileHash>
+<fileSize>312127991</fileSize>
+<metadataHash>cPYiVb7DGVJJYzavtgxygSRNpGkvpJz0c8MjXDy+dy4=</metadataHash>
+<metadataSize>28842</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_LGN-N31_def_la_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_LGN-N31_def_la_R3.zip</spath>
+<dpath>update_preload_LGN-N31_def_la_R3.zip</dpath>
+<operation>c</operation>
+<sha256>80465745A18DABE1FB8337EADA821AB81387EB1A3259ED733FE9032E086E7EB2</sha256>
+<size>312135341</size>
+</file>
+</files>
+</root>

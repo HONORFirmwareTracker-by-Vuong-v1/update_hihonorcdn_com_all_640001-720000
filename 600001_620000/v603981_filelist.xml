@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2010570752</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>7mHD3yYlSnD0jVc1GhLbHdh6cfGu/Lhqh3BVzhFovH8=</fileHash>
+<fileSize>310670257</fileSize>
+<metadataHash>uvquDPrc+t5VBXw5nFJZNMpqPvhTqyjjaQ8fM2rydm4=</metadataHash>
+<metadataSize>52686</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_WDY-L43_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_WDY-L43_claro_la.zip</spath>
+<dpath>update_full_cust_WDY-L43_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>CEB3F8B8B5E91EFA8ED6C74822D21214F7FFECCA5FDCD9E78A17C0A7B5A1BFD6</sha256>
+<size>310677455</size>
+</file>
+</files>
+</root>

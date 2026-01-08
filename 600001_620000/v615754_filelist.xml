@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>931</payloadOffset>
+<fileHash>upYqPkzIazef49OO6EHKi1LMixYnvevSwvyAkwVzZR8=</fileHash>
+<fileSize>32077163</fileSize>
+<metadataHash>kqkKtAD0ckMeGJfTefo0f2cgLQc3M1yVc3FG8pDrNr0=</metadataHash>
+<metadataSize>7827</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_LGE-N49_opr_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_LGE-N49_opr_eea.zip</spath>
+<dpath>update_cust_LGE-N49_opr_eea.zip</dpath>
+<operation>c</operation>
+<sha256>65AB52EE5986F3F82C1BF72A9A7400A2BD5F86A078E35790785E341069686ADC</sha256>
+<size>32084487</size>
+</file>
+</files>
+</root>

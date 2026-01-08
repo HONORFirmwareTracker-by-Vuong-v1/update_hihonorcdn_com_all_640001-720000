@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>589854958</compressCowSize>
+<cowsize>8625627136</cowsize>
+<payloadOffset>941</payloadOffset>
+<fileHash>B7c8h2AS7tSPFyiwWEJGBK52vkrWOLOdXN/3gQowlIU=</fileHash>
+<fileSize>466381891</fileSize>
+<metadataHash>s5HWkkNvJ118j8qXlP+h52e0b+pGQ9quXJwSEvOhWuQ=</metadataHash>
+<metadataSize>298493</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_CGA-W00_demo_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_CGA-W00_demo_cn.zip</spath>
+<dpath>update_cust_CGA-W00_demo_cn.zip</dpath>
+<operation>c</operation>
+<sha256>3643AA98792E3E72012C011D74071D92756EF4A032B762EC3D2B834E11E158AA</sha256>
+<size>466389228</size>
+</file>
+</files>
+</root>

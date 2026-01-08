@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642080768</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>5v68PpFFnUL2o8RuT7pSAHnFwAd7WNCZfBPfb4eThcY=</fileHash>
+<fileSize>7630</fileSize>
+<metadataHash>nX/FHAFQNodzVK2vnPW8E0oZkN7zxruEmcVi/oE1ofo=</metadataHash>
+<metadataSize>4427</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_WDY-L03_claro_la_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_WDY-L03_claro_la_R1.zip</spath>
+<dpath>update_preload_WDY-L03_claro_la_R1.zip</dpath>
+<operation>c</operation>
+<sha256>854F5C13ABDEE72D05907DE76F17315A81A99E5E14F26FB7D747DE6042A4521D</sha256>
+<size>14938</size>
+</file>
+</files>
+</root>

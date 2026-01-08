@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>UVxOyH8Qmt23DfwHh5C04JRrtMXLQziJbPqGwnEiId8=</fileHash>
+<fileSize>426116715</fileSize>
+<metadataHash>DmuCrZ0CFL8qPoe3906unCZppXWdKtD8F2fdql5DKEk=</metadataHash>
+<metadataSize>32010</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_WDY-L32_def_spcseas_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_WDY-L32_def_spcseas_R2.zip</spath>
+<dpath>update_full_preload_WDY-L32_def_spcseas_R2.zip</dpath>
+<operation>c</operation>
+<sha256>48E9F14E21EEC673AFADDBC5FF0B38607E46262898056E3166AE7708B2717B65</sha256>
+<size>426123923</size>
+</file>
+</files>
+</root>

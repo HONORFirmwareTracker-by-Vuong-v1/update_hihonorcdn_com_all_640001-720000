@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>491839493</compressCowSize>
+<cowsize>1593704448</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>b4qmc/MJl8U6P+APN0yxmwl/5/taJQ7xAHlkvjwICRM=</fileHash>
+<fileSize>331285738</fileSize>
+<metadataHash>GxPnoctUqnkpiFakbsYGQPl6CxuM/cKeuqZRPOLN4Kk=</metadataHash>
+<metadataSize>50494</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_JDY-AN50_all_cn_R4.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_JDY-AN50_all_cn_R4.zip</spath>
+<dpath>update_preload_JDY-AN50_all_cn_R4.zip</dpath>
+<operation>c</operation>
+<sha256>ABDA98659792899B7380FECF879FB285EF0103B9C4B5C8836E476A5DAB7ADC22</sha256>
+<size>331293083</size>
+</file>
+</files>
+</root>

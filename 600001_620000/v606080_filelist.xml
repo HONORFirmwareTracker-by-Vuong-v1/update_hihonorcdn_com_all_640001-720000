@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>r047XOgziO90eHnzEaiOpTfnodhFJy+BL7HRNWcjtNo=</fileHash>
+<fileSize>543790719</fileSize>
+<metadataHash>43aAnPKfGcg9V64PlxhROqzJAXAvh5NnpfGEJpXmiMs=</metadataHash>
+<metadataSize>32148</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_RKY-L32_def_meafnaf_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_RKY-L32_def_meafnaf_R2.zip</spath>
+<dpath>update_full_preload_RKY-L32_def_meafnaf_R2.zip</dpath>
+<operation>c</operation>
+<sha256>CE524437789DCACA53741A86CDD76E9146502CCBD5A1187C31D10704B473E6E7</sha256>
+<size>543797930</size>
+</file>
+</files>
+</root>

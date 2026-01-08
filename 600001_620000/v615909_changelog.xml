@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<isApp>false</isApp>
+	<hasModem>false</hasModem>
+	<forceUpdate>1</forceUpdate>
+	<component name="TCPU" version="20.0.0.27(C233log)" level="1"/>
+	<default-language name="en-us">1033</default-language>
+
+	<language name="zh-cn" code="2052">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">更新内容</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">修复部分已知问题。</feature>
+		</features>
+	</language>
+	<language name="en-us" code="1033">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Update</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Fixed some known issues.</feature>
+		</features>
+	</language>
+	<language name="da-dk" code="1030">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Opdatér</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Rettede nogle kendte problemer.</feature>
+		</features>
+	</language>
+	<language name="nl-nl" code="1043">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Bijwerken</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Enkele bekende problemen zijn opgelost.</feature>
+		</features>
+	</language>
+	<language name="tr-tr" code="1055">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Güncelle</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Bilinen bazı sorunlar giderildi.</feature>
+		</features>
+	</language>
+	<language name="pl-pl" code="1045">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Aktualizacja</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Rozwiązano pewne znane problemy.</feature>
+		</features>
+	</language>
+	<language name="ja-jp" code="1033">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">更新</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">既知の問題をいくつか修正しました。</feature>
+		</features>
+	</language>
+	<language name="pt-pt" code="2070">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Atualizar</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Corrigidos alguns erros conhecidos.</feature>
+		</features>
+	</language>
+	<language name="nb-no" code="1044">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Oppdater</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Reparerte noen kjente problemer.</feature>
+		</features>
+	</language>
+	<language name="th-th" code="1054">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">อัปเดต</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">แก้ไขปัญหาบางประการที่ทราบ</feature>
+		</features>
+	</language>
+	<language name="ar-sa" code="3073">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">تحديث</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">2تم إصلاح بعض المشكلات المعروفة.</feature>
+		</features>
+	</language>
+	<language name="en-gb" code="2057">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Update</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Fixed some known issues.</feature>
+		</features>
+	</language>
+	<language name="es-us" code="21514">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Actualizar</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Se corrigieron algunos problemas conocidos.</feature>
+		</features>
+	</language>
+	<language name="cs-cz" code="1029">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Aktualizace</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Byly opraveny známé chyby.</feature>
+		</features>
+	</language>
+	<language name="es-es" code="1034">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Actualizar</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Se han corregido algunos errores conocidos.</feature>
+		</features>
+	</language>
+	<language name="it-it" code="1040">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Aggiornamento</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Risolti alcuni problemi noti.</feature>
+		</features>
+	</language>
+	<language name="fr-fr" code="1036">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Mise à jour</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Correction de certains problèmes connus.</feature>
+		</features>
+	</language>
+	<language name="el-gr" code="1032">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Ενημέρωση</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Επιδιορθώθηκαν ορισμένα γνωστά προβλήματα.</feature>
+		</features>
+	</language>
+	<language name="fi-fi" code="1035">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Päivitys</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Korjattu joitain tiedossa olevia ongelmia.</feature>
+		</features>
+	</language>
+	<language name="ru-ru" code="1049">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Обновить</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Исправлены некоторые известные ошибки.</feature>
+		</features>
+	</language>
+	<language name="sv-se" code="1053">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Uppdatera</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Åtgärdar vissa kända problem.</feature>
+		</features>
+	</language>
+	<language name="ko-kr" code="1033">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">업데이트</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">알려진 일부 문제가 해결되었습니다.</feature>
+		</features>
+	</language>
+	<language name="de-de" code="1031">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Aktualisieren</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Einige bekannte Probleme wurden behoben.</feature>
+		</features>
+	</language>
+	<language name="fr-ca" code="1033">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Mettre à jour</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Des problèmes identifiés ont été réglés.</feature>
+		</features>
+	</language>
+	<language name="zz-zx" code="1033">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">[MK_486516]_Update</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_62">Fixed some known issues.</feature>
+		</features>
+	</language>
+</root>

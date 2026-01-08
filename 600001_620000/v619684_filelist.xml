@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>8633982976</cowsize>
+<payloadOffset>808</payloadOffset>
+<fileHash>hW8rh3pmp8Ad/83lM6fqBgaMNUcDhi4PNJ26+DqdIe8=</fileHash>
+<fileSize>1572130461</fileSize>
+<metadataHash>PlTbHzR7+UwR0tkrY8jRYzbvFl4lwfmNHhpgq61hGSI=</metadataHash>
+<metadataSize>227212</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_MTN-AN00_demo_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_MTN-AN00_demo_cn.zip</spath>
+<dpath>update_full_cust_MTN-AN00_demo_cn.zip</dpath>
+<operation>c</operation>
+<sha256>826F93B044DD3752B035254D59F097CEAA7C429A56EEBA101085712763412F17</sha256>
+<size>1572137674</size>
+</file>
+</files>
+</root>

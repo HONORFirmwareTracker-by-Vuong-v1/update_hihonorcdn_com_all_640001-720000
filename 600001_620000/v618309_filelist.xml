@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1189486592</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>eKcmf6uj7EkrbNvvShF0eDnMjxPkBv1h6EFJGjpOEes=</fileHash>
+<fileSize>722539725</fileSize>
+<metadataHash>mM4pB4n51Dy5YloO8oGa8zgkQnO6rRm5/na/NKSqNs4=</metadataHash>
+<metadataSize>31704</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_CRT-N03_telcel_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_CRT-N03_telcel_mx.zip</spath>
+<dpath>update_full_cust_CRT-N03_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>E1520FEBF2AEC9B7E03CCF80B3F3954C40C9D71CD56467447DFDAFF1E562B155</sha256>
+<size>722546917</size>
+</file>
+</files>
+</root>

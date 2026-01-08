@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>418226176</cowsize>
+<payloadOffset>908</payloadOffset>
+<fileHash>t+3W3Ay4/ih1BfYB9IPTSYiwP30KUA4GLwmSEEr1BMU=</fileHash>
+<fileSize>19944</fileSize>
+<metadataHash>1KtwyU9YkBqDATB/8yKnNayEDUqA/gqmQ6bh+gLXxH4=</metadataHash>
+<metadataSize>9996</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_CLK-N41_opr_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_CLK-N41_opr_eea.zip</spath>
+<dpath>update_cust_CLK-N41_opr_eea.zip</dpath>
+<operation>c</operation>
+<sha256>74034B316C136A1E0A3726FC9F51E52135DC3E45A1BF68B8B9F12CDE513242E0</sha256>
+<size>27235</size>
+</file>
+</files>
+</root>

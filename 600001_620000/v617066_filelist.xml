@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>131981706</compressCowSize>
+<cowsize>1189486592</cowsize>
+<payloadOffset>933</payloadOffset>
+<fileHash>fJ86/H5U9vCo+4AL5bIxYnptGRHXkts23oSfEQmg2Ok=</fileHash>
+<fileSize>80340246</fileSize>
+<metadataHash>EhD/dhshuLgE/iwFTXInkve/j9Vjc5nEwI04c2dXp0U=</metadataHash>
+<metadataSize>288776</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_PTP-N49_iusacell_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_PTP-N49_iusacell_mx.zip</spath>
+<dpath>update_cust_PTP-N49_iusacell_mx.zip</dpath>
+<operation>c</operation>
+<sha256>3C4CE2F69355A1B17DF67AFC32A5C63FE65C986389C8E086E1884BF468276ABD</sha256>
+<size>80347570</size>
+</file>
+</files>
+</root>

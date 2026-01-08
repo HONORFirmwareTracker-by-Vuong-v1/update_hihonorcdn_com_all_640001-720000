@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="NTH-LGRP1-CHN 5.0.0.13(SP10)"/>
+<default-language name="en-us">1033</default-language>
+<cleardata-flag>False</cleardata-flag>
+<romsurvey-flag>False</romsurvey-flag>
+<notify-level>40</notify-level>
+<point-version>False</point-version>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>本次暗光长焦部分场景虚化不生效问题，修复跨品牌互传部分场景WLAN传输通道被占用问题，推荐您进行更新。
+</feature>
+</features>
+<features module="【相机】">
+<feature>修复暗光长焦部分场景虚化不生效问题。
+</feature>
+</features>
+<features module="【荣耀分享】">
+<feature>修复跨品牌互传部分场景WLAN传输通道被占用问题。</feature>
+</features>
+<features module="【系统】">
+<feature>优化系统稳定性。</feature>
+</features>
+
+<features id="1" module="媒体">
+             <feature title="尊享低音">•  新增尊享低音支持的应用名单功能，增加应用尊享低音开关，提升抖音等短视频场景音频体验。体验路径：设置&gt;声音和振动&gt;音质和音效&gt;尊享低音&gt;支持的应用。</feature>
+             <feature title="无极音量">•  新增媒体的无极音量调节功能。</feature>
+         </features><features id="2" module="智慧">
+             <feature title="智慧多窗">•  修复部分场景下，悬浮窗风格无法切换的问题。</feature>
+         </features><features id="3" module="连接">
+             <feature title="荣耀车联">•  新增支持融合桌面功能。手机部分应用可显示在车机桌面上，点击图标可拉起应用的小窗/全屏投屏，同时可自由在小窗/全屏形态间自由切换。
+•  新增支持应用流转功能。在手机上使用地图/音视频等应用时，可一键投屏到车机屏幕上（可在荣耀车联里面打开/关闭应用的流转提醒）。
+•  新增支持荣耀任意门-地址流转功能。手机上的地址信息可通过荣耀任意门一拖发送到车机端，车机端收到地址后使用车机预装地图开启导航。
+•  新增支持音频元数据传输功能。手机正在播放的音频信息，可显示到车机桌面的音频卡片中。</feature>
+         </features><features id="4" module="系统">
+             <feature title="闹钟">•  修复部分场景闹钟功能异常问题。   </feature>
+             <feature title="蓝牙">•  优化手机蓝牙连接部分汽车，播放音视频无声问题。</feature>
+             <feature title="稳定性">•  提升系统稳定性，让您的手机运行更稳定。</feature>
+         </features><features module="【应用】">
+<feature>新增知乎app。</feature>
+</features><features module="更新注意事项：" type="end">
+<feature>本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+</feature>
+</features></language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>This update improves the screen display in certain situations.</feature>
+</features>
+<features module="[Screen]">
+<feature>Improves the screen display in certain situations.</feature>
+</features>
+
+<features module="Update notes:" type="end">
+<feature>1. This update will not erase your personal data, but we recommend that you back up any important data before updating.
+2. For more features, visit Tips.
+</feature>
+</features></language>
+
+</root>

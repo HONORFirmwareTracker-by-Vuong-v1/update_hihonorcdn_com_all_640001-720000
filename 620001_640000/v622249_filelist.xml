@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>DIhdRJzwst6yjFvi2KXjENlLuUS2ROYaUtqqKtl8j1k=</fileHash>
+<fileSize>154782098</fileSize>
+<metadataHash>+ftcyZjUNC1IX4/INRLzzyQmtlJVW/AxXUxOHvw4FpY=</metadataHash>
+<metadataSize>15961</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_ELI-N39_opr_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_ELI-N39_opr_eea.zip</spath>
+<dpath>update_full_cust_ELI-N39_opr_eea.zip</dpath>
+<operation>c</operation>
+<sha256>B5854D5C3BDE6880670094DD627C629F40B2F3A07F869404AF4B19DB535D51A7</sha256>
+<size>154789290</size>
+</file>
+</files>
+</root>

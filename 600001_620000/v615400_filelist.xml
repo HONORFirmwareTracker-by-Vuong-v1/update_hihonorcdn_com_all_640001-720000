@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>27700684</compressCowSize>
+<cowsize>563470336</cowsize>
+<payloadOffset>925</payloadOffset>
+<fileHash>1boBO1+LpNwpukRPaFasSYsgjQAffT+qAbv6z/U/oBo=</fileHash>
+<fileSize>8695673</fileSize>
+<metadataHash>plBKZe7P005jnVAvHM+bFEF50ougL5iwSVXI2pPIkXc=</metadataHash>
+<metadataSize>212468</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_FCP-N49_channel_id.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_FCP-N49_channel_id.zip</spath>
+<dpath>update_cust_FCP-N49_channel_id.zip</dpath>
+<operation>c</operation>
+<sha256>89C5EC0FFF4CE3D74588956F55E94A56E006AD276C70306C9AE9E5D14E280E61</sha256>
+<size>8702987</size>
+</file>
+</files>
+</root>

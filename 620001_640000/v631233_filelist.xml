@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1383178240</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>/etlpMQJpyaqabt15ujl/wJGegqcEw9dmrCgvnxbFV4=</fileHash>
+<fileSize>543008165</fileSize>
+<metadataHash>6ViQu9MqBEB69Hxauor+hZ36km8jhsGvQomdm4D/Zco=</metadataHash>
+<metadataSize>21650</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_ALT-N31_def_eea_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_ALT-N31_def_eea_R2.zip</spath>
+<dpath>update_preload_ALT-N31_def_eea_R2.zip</dpath>
+<operation>c</operation>
+<sha256>B046C2121971B2525E5933F6A4F183CBD5EC2183A0E7C7F3033FFE01D5667E23</sha256>
+<size>543015517</size>
+</file>
+</files>
+</root>

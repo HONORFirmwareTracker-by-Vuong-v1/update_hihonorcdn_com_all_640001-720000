@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>931</payloadOffset>
+<fileHash>BOagYs4+zdE5JV35KDkan/EKvW3oMgjLy/BNv+aSF2I=</fileHash>
+<fileSize>32375197</fileSize>
+<metadataHash>1K4fnJ2p+qUN+aFUOfr63rWQaSPxkGXnJDZnyrGYdjk=</metadataHash>
+<metadataSize>8535</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ABR-N31_opr_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ABR-N31_opr_meafnaf.zip</spath>
+<dpath>update_cust_ABR-N31_opr_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>F5D9C463E645E2373C8AF13F8891D80C042FF71BA26C1B2F0FA99863F5CE7C57</sha256>
+<size>32382518</size>
+</file>
+</files>
+</root>

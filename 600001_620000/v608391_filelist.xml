@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44150784</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>b+kV3ZaQipFor9Rj/G3yxYsyS2lB2/b35mErQLNCyFY=</fileHash>
+<fileSize>49648</fileSize>
+<metadataHash>lzJ7qMHuD8q+2gEnyGYPfT46VqcZnHzKlAo/xwtmLsY=</metadataHash>
+<metadataSize>1036</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_LYN-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_LYN-AN00_all_cn.zip</spath>
+<dpath>update_cust_LYN-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>D292CAA8569CDC4B1E07CA62A1B03C89E189F43F97D144C0F201DC9C5A199891</sha256>
+<size>56953</size>
+</file>
+</files>
+</root>

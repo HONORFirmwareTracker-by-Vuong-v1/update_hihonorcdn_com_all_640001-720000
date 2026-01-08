@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1189486592</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>eJaFO97PJ0x3XZN14oKsy+HaTef/d1kAPGwK2CugqI0=</fileHash>
+<fileSize>485449079</fileSize>
+<metadataHash>mUwU1BGeoBVWMFmQnOPsBJGrkL6pB/coXi0jsIz5os0=</metadataHash>
+<metadataSize>31435</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_WDY-L03_telcel_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_WDY-L03_telcel_mx.zip</spath>
+<dpath>update_full_cust_WDY-L03_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>EE8C2D1AA561A74114B164D43DFF53075CEBC5B0E18183BFB2FAC4F2F16B0870</sha256>
+<size>485456275</size>
+</file>
+</files>
+</root>

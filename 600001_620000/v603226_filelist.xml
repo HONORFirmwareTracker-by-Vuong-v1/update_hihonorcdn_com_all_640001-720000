@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>924</payloadOffset>
+<fileHash>Zvy63aTOi82UL+kwlN8PiQ4N0NVDpQ1LwrNbQ068FXo=</fileHash>
+<fileSize>4715364</fileSize>
+<metadataHash>z/olSgx5Lf3xcJz2gx86a4CYS2aoE7rOqdgGsxZgnMo=</metadataHash>
+<metadataSize>19856</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_NDL-L09_channel_ma_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_NDL-L09_channel_ma_R3.zip</spath>
+<dpath>update_preload_NDL-L09_channel_ma_R3.zip</dpath>
+<operation>c</operation>
+<sha256>1BAA07E6AFC6E67F09A519545164C6A1B6E44A05D299698BAB5CFF15F0BDE555</sha256>
+<size>4722694</size>
+</file>
+</files>
+</root>

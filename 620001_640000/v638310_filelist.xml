@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1761677312</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>QzHqqGcwOQwJ2IObBnPo6nq84gIVIIgetMX4Xd1lCk8=</fileHash>
+<fileSize>188814500</fileSize>
+<metadataHash>JkJYTiYmkNQ2xTt6fEIK41bRs26LqQecA7OWr40QiF4=</metadataHash>
+<metadataSize>33088</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ALI-N03_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ALI-N03_claro_la.zip</spath>
+<dpath>update_cust_ALI-N03_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>EF02538486D17273FDC8D32CDE2AB961315F709BD14E720F362E5981E19417BA</sha256>
+<size>188821840</size>
+</file>
+</files>
+</root>

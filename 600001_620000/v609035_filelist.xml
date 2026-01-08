@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>782</payloadOffset>
+<fileHash>myT+1KwBnp9UrQmnpOslaevrpD7LzLOH/YHWEhtsa6Q=</fileHash>
+<fileSize>2224250</fileSize>
+<metadataHash>Wk6RVh5wj8ZKTVxbuA4+1DzUrYl6n2tdbUyKWl9OmKw=</metadataHash>
+<metadataSize>1094</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_RKY-L03_def_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_RKY-L03_def_la.zip</spath>
+<dpath>update_full_cust_RKY-L03_def_la.zip</dpath>
+<operation>c</operation>
+<sha256>3E1D5C22B5D30E2370B1BA277BBE0A8E8EC32AA3BD82C2BE2E6037DBCB58BB14</sha256>
+<size>2231420</size>
+</file>
+</files>
+</root>

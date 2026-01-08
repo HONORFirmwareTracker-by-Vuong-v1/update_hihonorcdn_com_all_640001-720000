@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>767</payloadOffset>
+<fileHash>NWA7h4EgjzmZzs2aUVWYy99pK4pzPTdlRcz9+nNlj6Q=</fileHash>
+<fileSize>63582</fileSize>
+<metadataHash>KPw2QevkFFYV9Pdy97eC+7hYWR1wZ13bDkwBzh3rvik=</metadataHash>
+<metadataSize>30300</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_WDY-L13_def_la_R100.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_WDY-L13_def_la_R100.zip</spath>
+<dpath>update_full_preload_WDY-L13_def_la_R100.zip</dpath>
+<operation>c</operation>
+<sha256>75C4B5926777DE6B58EBC6ACDE14D1985369E1C3F3217689879B9D610DE9B685</sha256>
+<size>70756</size>
+</file>
+</files>
+</root>

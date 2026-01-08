@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>923</payloadOffset>
+<fileHash>cSTXhBiqOpwHTA+XWdotQUE/6Ry/aayY6WcvQnkw4Jg=</fileHash>
+<fileSize>4577593</fileSize>
+<metadataHash>LHzw8v5r7/xKjb2lCk8jJe21VgffAygIbxTDVkCoqRM=</metadataHash>
+<metadataSize>5129</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_CRT-N31_opr_eea_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_CRT-N31_opr_eea_R2.zip</spath>
+<dpath>update_preload_CRT-N31_opr_eea_R2.zip</dpath>
+<operation>c</operation>
+<sha256>C0223898746530D34D98D800DA229A4AC7DB2910A547841DA78381D7B99A88E6</sha256>
+<size>4584920</size>
+</file>
+</files>
+</root>

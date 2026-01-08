@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214734336</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>q1TYBal42Vc53IvXc9yCZeIKhbnmDGCxjneBWAYxY14=</fileHash>
+<fileSize>11222</fileSize>
+<metadataHash>kLcFs0FGFcirIibNF1ky3dcmi+4xVD+0YNzV4jwRZ9o=</metadataHash>
+<metadataSize>7963</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_CLK-L03_def_la_R100.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_CLK-L03_def_la_R100.zip</spath>
+<dpath>update_preload_CLK-L03_def_la_R100.zip</dpath>
+<operation>c</operation>
+<sha256>0CBD0E706744B9FE6438B98A850F92FCF895384A0705614209AD080EB1F98B27</sha256>
+<size>18533</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>615878656</cowsize>
+<payloadOffset>931</payloadOffset>
+<fileHash>CSK+brypjqoHOGdP62mpPgNJtyj/vylKuQL/NR/MvSk=</fileHash>
+<fileSize>69976389</fileSize>
+<metadataHash>ume0Qolm4vgJlsA48zz084G0Plw7DbBy7P9IMsHFBVI=</metadataHash>
+<metadataSize>5910</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_JDY-L41_opr_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_JDY-L41_opr_eea.zip</spath>
+<dpath>update_cust_JDY-L41_opr_eea.zip</dpath>
+<operation>c</operation>
+<sha256>96C427C2E4541ABD4FFAE0BB7503DCA632534BDA6BBD84D513B29DD6CE0D8F48</sha256>
+<size>69983715</size>
+</file>
+</files>
+</root>
